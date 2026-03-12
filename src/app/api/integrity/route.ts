@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import OpenAI from 'openai'
 
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
+
 
 const SYSTEM_PROMPT = `You are a Faith Integrity Check tool for Faith Compass. You analyze religious content (sermons, articles, devotionals) against Scripture.
 
@@ -26,6 +26,7 @@ Rules:
 - Format your response clearly with headers and bullet points`
 
 export async function POST(req: NextRequest) {
+  const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
   try {
     const { content } = await req.json()
     if (!content?.trim()) {

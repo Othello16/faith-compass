@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import OpenAI from 'openai'
 
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
+
 
 const SYSTEM_PROMPT = `You are a Scripture reference tool for Faith Compass. You do not have opinions, feelings, or personal beliefs. You only surface what the Bible says.
 
@@ -20,6 +20,7 @@ Rules:
 - Format: Scripture quote → Context → Application → Prayer prompt`
 
 export async function POST(req: NextRequest) {
+  const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
   try {
     const { question } = await req.json()
     if (!question?.trim()) {
