@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --faith-blue: #1E40AF;
+  --faith-gold: #D4AF37;
+  --faith-dark: #0F172A;
+}
+
+body {
+  background-color: var(--faith-dark);
+  color: #f8fafc;
+}
