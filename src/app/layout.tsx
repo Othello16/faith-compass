@@ -4,6 +4,7 @@ import SessionProvider from '@/components/SessionProvider'
 import CookieConsent from '@/components/CookieConsent'
 import FloatingCompass from '@/components/FloatingCompass'
 import InstallPrompt from '@/components/InstallPrompt'
+import Footer from '@/components/Footer'
 
 export const viewport: Viewport = {
   width: 'device-width',
@@ -64,7 +65,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <meta name="msapplication-TileImage" content="/icon-144x144.png" />
       </head>
       <body>
-        <SessionProvider>{children}</SessionProvider>
+        <SessionProvider>
+          {children}
+          <Footer />
+        </SessionProvider>
         <FloatingCompass />
         <InstallPrompt />
         <CookieConsent />

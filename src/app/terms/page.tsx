@@ -1,4 +1,3 @@
-import Link from 'next/link'
 import Header from '@/components/Header'
 
 export default function TermsPage() {
@@ -167,16 +166,6 @@ export default function TermsPage() {
           </section>
         </div>
       </div>
-
-      <footer className="border-t border-white/10 px-6 py-8 text-center text-white/40 text-sm">
-        <div className="flex justify-center items-center gap-6 mb-4">
-          <span className="text-white/20 text-xs">v{process.env.NEXT_PUBLIC_APP_VERSION || '1.0.0'}</span>
-          <Link href="/about" className="hover:text-white transition">About</Link>
-          <Link href="/privacy" className="hover:text-white transition">Privacy</Link>
-          <Link href="/terms" className="hover:text-white transition">Terms</Link>
-        </div>
-        <p>&copy; 2026 Faith Compass. Built with faith and purpose.</p>
-      </footer>
     </main>
   )
 }
