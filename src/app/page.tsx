@@ -142,14 +142,6 @@ export default function Home() {
               disabled={listening}
               className="flex-1 bg-transparent text-white placeholder-white/30 outline-none text-sm sm:text-base"
             />
-
-            <button
-              onClick={() => handleAsk()}
-              disabled={!question.trim() && !listening}
-              className="shrink-0 bg-[#1E40AF] text-white px-4 py-2.5 rounded-xl text-sm font-semibold hover:bg-blue-700 transition disabled:opacity-30 whitespace-nowrap"
-            >
-              Ask 🧭
-            </button>
           </div>
 
           {listening && (
@@ -158,6 +150,14 @@ export default function Home() {
               Listening... speak your faith question
             </div>
           )}
+
+          <button
+            onClick={() => handleAsk()}
+            disabled={!question.trim() && !listening}
+            className="mt-3 w-full bg-[#1E40AF] text-white py-3 rounded-xl text-sm font-semibold hover:bg-blue-700 transition disabled:opacity-30"
+          >
+            Ask the Compass 🧭
+          </button>
         </div>
 
         {/* Daily Question prompt */}
