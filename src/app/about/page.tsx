@@ -59,10 +59,32 @@ export default function AboutPage() {
 
           <section>
             <h2 className="text-2xl font-semibold text-white mb-4">Who We Are</h2>
-            <p>
+            <p className="mb-6">
               Faith Compass is a Rising Jupiter initiative in partnership with MostHighKing Ministries.
               Built with faith and purpose by believers who understand both technology and theology.
             </p>
+
+            {/* Theological Advisory */}
+            <div className="bg-white/5 border border-[#D4AF37]/20 rounded-2xl p-6">
+              <div className="text-[#D4AF37] text-xs uppercase tracking-widest mb-4">Theological Advisory Lead</div>
+              <div className="flex items-start gap-4 mb-4">
+                <div className="w-14 h-14 rounded-full bg-[#D4AF37]/20 flex items-center justify-center text-2xl shrink-0">✝️</div>
+                <div>
+                  <h3 className="text-white font-bold text-lg">Rev. Dr. Renn S. Law II, D.Min.</h3>
+                  <p className="text-white/50 text-sm">Theological Advisory Lead • MostHighKing Ministries</p>
+                </div>
+              </div>
+              <p className="text-white/60 text-sm leading-relaxed mb-4">
+                Rev. Dr. Renn S. Law II brings decades of pastoral leadership and theological scholarship to the Faith Compass Advisory Board.
+                As Theological Advisory Lead, Dr. Law II ensures that every feature, every AI response framework, and every Scripture
+                verification standard honors the integrity of God&apos;s Word. His oversight provides the clergy accountability layer
+                that distinguishes Faith Compass from every other AI platform in the faith space.
+              </p>
+              <blockquote className="border-l-2 border-[#D4AF37]/40 pl-4 text-white/50 text-sm italic">
+                &ldquo;Faith Compass exists to point people back to the Word — not to replace the wisdom of the Church,
+                but to put the power of Scripture in the hands of every believer, in any moment they need it.&rdquo;
+              </blockquote>
+            </div>
           </section>
 
           <section>

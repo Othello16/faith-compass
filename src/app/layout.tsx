@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 import SessionProvider from '@/components/SessionProvider'
 import CookieConsent from '@/components/CookieConsent'
+import FloatingCompass from '@/components/FloatingCompass'
 
 export const metadata: Metadata = {
   title: 'Faith Compass — Your Faith. Guided. Not Replaced.',
@@ -24,6 +25,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </head>
       <body>
         <SessionProvider>{children}</SessionProvider>
+        <FloatingCompass />
         <CookieConsent />
       </body>
     </html>

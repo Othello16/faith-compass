@@ -1,131 +1,295 @@
+'use client'
+import { useState, useEffect, useRef } from 'react'
 import Link from 'next/link'
+import { useRouter } from 'next/navigation'
 import Header from '@/components/Header'
 
+// Web Speech API types
+interface ISpeechRecognition extends EventTarget {
+  lang: string; continuous: boolean; interimResults: boolean; maxAlternatives: number
+  start(): void; stop(): void
+  onresult: ((e: SpeechRecognitionEvent) => void) | null
+  onerror: ((e: Event) => void) | null
+  onend: ((e: Event) => void) | null
+}
+interface SpeechRecognitionEvent extends Event {
+  results: SpeechRecognitionResultList
+}
+declare global {
+  interface Window {
+    SpeechRecognition: new () => ISpeechRecognition
+    webkitSpeechRecognition: new () => ISpeechRecognition
+  }
+}
+
 export default function Home() {
+  const router = useRouter()
+  const [question, setQuestion] = useState('')
+  const [listening, setListening] = useState(false)
+  const [transcript, setTranscript] = useState('')
+  const [voiceSupported, setVoiceSupported] = useState(false)
+  const [dailyQuestion, setDailyQuestion] = useState('')
+  const recognitionRef = useRef<ISpeechRecognition | null>(null)
+
+  // Load daily question
+  useEffect(() => {
+    fetch('/api/daily-question')
+      .then(r => r.json())
+      .then(d => setDailyQuestion(d.question))
+      .catch(() => {})
+  }, [])
+
+  // Voice setup
+  useEffect(() => {
+    const SR = window.SpeechRecognition || window.webkitSpeechRecognition
+    setVoiceSupported(!!SR)
+    if (!SR) return
+    const rec = new SR()
+    rec.lang = 'en-US'
+    rec.continuous = false
+    rec.interimResults = true
+    rec.maxAlternatives = 1
+    rec.onresult = (e: SpeechRecognitionEvent) => {
+      const interim = Array.from(e.results).map(r => r[0].transcript).join('')
+      setTranscript(interim)
+      if (e.results[e.results.length - 1].isFinal) {
+        const final = e.results[e.results.length - 1][0].transcript.trim()
+        setQuestion(final)
+        setTranscript('')
+        setListening(false)
+        handleAsk(final)
+      }
+    }
+    rec.onerror = () => { setListening(false); setTranscript('') }
+    rec.onend = () => { setListening(false); setTranscript('') }
+    recognitionRef.current = rec
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
+
+  const handleAsk = (q?: string) => {
+    const query = (q || question).trim()
+    if (!query) return
+    sessionStorage.setItem('fc_pending_question', query)
+    router.push('/compass')
+  }
+
+  const toggleVoice = () => {
+    if (!recognitionRef.current) return
+    if (listening) {
+      recognitionRef.current.stop()
+      setListening(false)
+    } else {
+      setQuestion('')
+      setTranscript('')
+      try { recognitionRef.current.start(); setListening(true) }
+      catch { setListening(false) }
+    }
+  }
+
   return (
     <main className="min-h-screen bg-[#0F172A] text-white">
       <Header />
 
-      {/* Hero */}
-      <section className="max-w-4xl mx-auto text-center px-5 pt-10 pb-14">
-        <div className="inline-flex items-center justify-center bg-[#D4AF37]/10 text-[#D4AF37] text-xs px-3 py-1 rounded-full mb-5 border border-[#D4AF37]/30 mx-auto">
-          3 Free Questions Daily &bull; No Credit Card Required
+      {/* ── HERO ─────────────────────────────────────────────── */}
+      <section className="max-w-3xl mx-auto px-5 pt-12 pb-10 text-center">
+
+        {/* Eyebrow */}
+        <div className="inline-flex items-center gap-2 bg-[#D4AF37]/10 text-[#D4AF37] text-xs px-3 py-1 rounded-full border border-[#D4AF37]/30 mb-5">
+          <span>✦</span>
+          <span>Scripture-verified • Clergy-overseen • Built on the Word</span>
+          <span>✦</span>
         </div>
-        <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-5 leading-tight">
-          Your Faith.<br />
-          <span className="text-[#1E40AF]">Guided.</span> Not Replaced.
+
+        <h1 className="text-4xl sm:text-5xl font-bold mb-3 leading-tight">
+          Ask the Compass.
+          <br />
+          <span className="text-[#D4AF37]">Not the crowd.</span>
         </h1>
-        <p className="text-base sm:text-lg text-white/70 mb-8 max-w-xl mx-auto leading-relaxed">
-          Scripture-anchored AI guidance. Verify truth, find churches nearby, 
-          and walk closer with God — not away from Him.
+        <p className="text-white/50 text-sm sm:text-base mb-8 max-w-lg mx-auto leading-relaxed">
+          The first voice assistant built on the Word of God. Speak or type any faith question
+          and receive a Scripture-anchored answer — not an opinion.
         </p>
-        <div className="flex flex-col sm:flex-row gap-3 justify-center">
-          <Link href="/compass" className="bg-[#1E40AF] text-white px-6 py-3 rounded-xl text-base font-semibold hover:bg-blue-700 transition">
-            Ask Your First Question →
-          </Link>
-          <Link href="/about" className="border border-white/20 text-white px-6 py-3 rounded-xl text-base font-medium hover:border-white/40 transition">
-            Learn More
-          </Link>
+
+        {/* ── ASK THE COMPASS INPUT ── */}
+        <div className={`bg-white/5 border rounded-2xl p-4 transition-all ${listening ? 'border-red-400/60 shadow-[0_0_20px_rgba(248,113,113,0.15)]' : 'border-white/15 hover:border-white/25'}`}>
+          <div className="flex items-center gap-3">
+            {/* Mic button */}
+            {voiceSupported && (
+              <button
+                onClick={toggleVoice}
+                title={listening ? 'Stop' : 'Speak your question'}
+                className={`shrink-0 w-12 h-12 rounded-xl flex items-center justify-center transition-all ${
+                  listening
+                    ? 'bg-red-500/20 border border-red-400/50 text-red-400 animate-pulse'
+                    : 'bg-[#D4AF37]/10 border border-[#D4AF37]/30 text-[#D4AF37] hover:bg-[#D4AF37]/20'
+                }`}
+              >
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/>
+                  <path d="M19 10v2a7 7 0 0 1-14 0v-2"/>
+                  <line x1="12" y1="19" x2="12" y2="23"/>
+                  <line x1="8" y1="23" x2="16" y2="23"/>
+                </svg>
+              </button>
+            )}
+
+            <input
+              type="text"
+              value={listening ? transcript || '' : question}
+              onChange={e => { if (!listening) setQuestion(e.target.value) }}
+              onKeyDown={e => e.key === 'Enter' && handleAsk()}
+              placeholder={listening ? 'Listening... speak your question' : 'Ask anything. "What does the Bible say about..."'}
+              disabled={listening}
+              className="flex-1 bg-transparent text-white placeholder-white/30 outline-none text-sm sm:text-base"
+            />
+
+            <button
+              onClick={() => handleAsk()}
+              disabled={!question.trim() && !listening}
+              className="shrink-0 bg-[#1E40AF] text-white px-4 py-2.5 rounded-xl text-sm font-semibold hover:bg-blue-700 transition disabled:opacity-30 whitespace-nowrap"
+            >
+              Ask 🧭
+            </button>
+          </div>
+
+          {listening && (
+            <div className="mt-2 flex items-center gap-2 text-red-400 text-xs justify-center">
+              <span className="w-2 h-2 bg-red-400 rounded-full animate-pulse" />
+              Listening... speak your faith question
+            </div>
+          )}
+        </div>
+
+        {/* Daily Question prompt */}
+        {dailyQuestion && (
+          <div className="mt-4">
+            <p className="text-white/30 text-xs mb-2">✦ Today&apos;s Compass Question</p>
+            <button
+              onClick={() => handleAsk(dailyQuestion)}
+              className="text-xs text-[#D4AF37]/70 hover:text-[#D4AF37] transition italic leading-relaxed text-center max-w-md mx-auto block"
+            >
+              &ldquo;{dailyQuestion}&rdquo; →
+            </button>
+          </div>
+        )}
+
+        {/* Trust row */}
+        <div className="flex flex-wrap justify-center gap-4 mt-8 text-xs text-white/30">
+          <span>🔒 SHA-256 Verified Scripture</span>
+          <span>📖 31,100 KJV Verses Indexed</span>
+          <span>⛪ Clergy Advisory Oversight</span>
+          <span>🌍 Free to Ask</span>
         </div>
       </section>
 
-      {/* Features */}
-      <section className="max-w-5xl mx-auto px-6 py-16 grid md:grid-cols-3 gap-8">
+      {/* ── FEATURES ─────────────────────────────────────────── */}
+      <section className="max-w-5xl mx-auto px-5 py-12 grid sm:grid-cols-2 md:grid-cols-4 gap-4">
         {[
-          {
-            icon: '📖',
-            title: 'Scripture-Anchored AI',
-            desc: 'Every answer grounded in the Word. AI surfaces what the Bible says — not what it thinks. Always ends with: "Take this to prayer. Take this to your pastor."',
-          },
-          {
-            icon: '⛪',
-            title: 'Trusted Church Finder',
-            desc: 'Locate verified congregations near you with service times that fit your schedule. Real churches. Real community. Real accountability.',
-          },
-          {
-            icon: '🎙️',
-            title: 'Voice Topical Bible',
-            desc: 'Speak or type any topic — prayer, forgiveness, grief, hope — and instantly see every Scripture that speaks to it. Powered by OpenBible.info. Try "What does the Bible say about anxiety?"',
-          },
-          {
-            icon: '🔍',
-            title: 'Faith Integrity Check',
-            desc: 'Paste any sermon, article, or devotional. AI cross-references it with Scripture and flags contradictions, missing citations, or AI-generated content.',
-          },
-        ].map((f) => (
-          <div key={f.title} className="bg-white/5 border border-white/10 rounded-2xl p-6 hover:border-[#1E40AF]/50 transition">
-            <div className="text-4xl mb-4">{f.icon}</div>
-            <h3 className="text-lg font-semibold text-[#D4AF37] mb-2">{f.title}</h3>
-            <p className="text-white/60 text-sm leading-relaxed">{f.desc}</p>
-          </div>
+          { icon: '🧭', title: 'Ask the Compass', desc: 'Voice or text. Any faith question. Scripture answers — never opinions.', href: '/compass', cta: 'Ask now' },
+          { icon: '🎙️', title: 'Voice Topical Bible', desc: 'Speak any topic — grief, hope, marriage — and hear every verse that speaks to it.', href: '/topics', cta: 'Try it' },
+          { icon: '⛪', title: 'Church Finder', desc: 'Locate verified congregations near you. Real churches, real community.', href: '/churches', cta: 'Find churches' },
+          { icon: '🔍', title: 'Integrity Check', desc: 'Paste any sermon or article. AI cross-references it with Scripture.', href: '/integrity', cta: 'Check content' },
+        ].map(f => (
+          <Link
+            key={f.title}
+            href={f.href}
+            className="group bg-white/5 border border-white/10 rounded-2xl p-5 hover:border-[#D4AF37]/40 hover:bg-white/8 transition flex flex-col"
+          >
+            <div className="text-3xl mb-3">{f.icon}</div>
+            <h3 className="text-sm font-semibold text-[#D4AF37] mb-1">{f.title}</h3>
+            <p className="text-white/50 text-xs leading-relaxed flex-1">{f.desc}</p>
+            <span className="text-xs text-[#1E40AF] mt-3 opacity-0 group-hover:opacity-100 transition">{f.cta} →</span>
+          </Link>
         ))}
       </section>
 
-      {/* The difference */}
-      <section className="max-w-3xl mx-auto px-6 py-16 text-center">
-        <h2 className="text-3xl font-bold mb-6">Built Different. On Purpose.</h2>
-        <p className="text-white/70 leading-relaxed mb-8">
-          Other AI apps try to replace your pastor. Some even pretend to be Jesus. 
-          Faith Compass was built by people who heard the warning — and decided to build the answer. 
-          We use AI the way a surgeon uses a scalpel: precision tool, not a replacement for wisdom.
+      {/* ── TRUST / ADVISORY ─────────────────────────────────── */}
+      <section className="max-w-3xl mx-auto px-5 py-12 text-center">
+        <div className="bg-white/5 border border-white/10 rounded-2xl p-8">
+          <div className="text-[#D4AF37] text-xs uppercase tracking-widest mb-4">Theological Advisory</div>
+          <blockquote className="text-white/70 text-sm sm:text-base italic leading-relaxed mb-6">
+            &ldquo;Faith Compass was built to honor the integrity of the Word. Every answer points back to Scripture,
+            every feature is designed to strengthen — never replace — the relationship between a believer and their God.&rdquo;
+          </blockquote>
+          <div className="flex items-center justify-center gap-3">
+            <div className="w-10 h-10 rounded-full bg-[#D4AF37]/20 flex items-center justify-center text-lg">✝️</div>
+            <div className="text-left">
+              <p className="text-white font-semibold text-sm">Rev. Dr. Renn S. Law II, D.Min.</p>
+              <p className="text-white/40 text-xs">Theological Advisory Lead, Faith Compass</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ── THE DIFFERENCE ───────────────────────────────────── */}
+      <section className="max-w-3xl mx-auto px-5 pb-12 text-center">
+        <h2 className="text-2xl font-bold mb-2">Built Different. On Purpose.</h2>
+        <p className="text-white/50 text-sm mb-6 max-w-lg mx-auto">
+          Other AI apps try to replace your pastor. Some even pretend to be Jesus.
+          Faith Compass was built by people who heard the warning — and decided to build the answer.
         </p>
-        <div className="grid grid-cols-2 gap-4 text-left">
+        <div className="grid grid-cols-2 gap-3 text-left max-w-xl mx-auto">
           {[
             ['❌ AI posing as God', '✅ AI pointing to God'],
             ['❌ Fake faith content', '✅ Scripture-verified answers'],
             ['❌ Emotional AI dependency', '✅ Connection to real churches'],
-            ['❌ Hidden agendas', '✅ Transparent, blockchain-verified Word'],
+            ['❌ Hidden agendas', '✅ Clergy-overseen integrity'],
           ].map(([bad, good]) => (
-            <div key={good} className="bg-white/5 rounded-xl p-4 border border-white/10">
-              <p className="text-red-400 text-sm mb-1">{bad}</p>
-              <p className="text-green-400 text-sm font-medium">{good}</p>
+            <div key={good} className="bg-white/5 rounded-xl p-3 border border-white/10">
+              <p className="text-red-400 text-xs mb-1">{bad}</p>
+              <p className="text-green-400 text-xs font-medium">{good}</p>
             </div>
           ))}
         </div>
       </section>
 
-      {/* Pricing */}
-      <section className="max-w-4xl mx-auto px-6 py-16">
-        <h2 className="text-3xl font-bold text-center mb-12">Simple, Honest Pricing</h2>
-        <div className="grid md:grid-cols-3 gap-6">
+      {/* ── PRICING ──────────────────────────────────────────── */}
+      <section className="max-w-4xl mx-auto px-5 pb-16">
+        <h2 className="text-2xl font-bold text-center mb-8">Simple, Honest Pricing</h2>
+        <div className="grid sm:grid-cols-3 gap-5">
           {[
-            { name: 'Free', price: '$0', period: 'forever', features: ['3 questions/day', 'Scripture lookup', 'Church finder', 'No credit card'], cta: 'Get Started', highlight: false },
-            { name: 'Basic', price: '$3', period: '/month', features: ['500 questions/month', 'No daily cap', 'Bookmarks', 'Question history'], cta: 'Start Basic', highlight: false },
-            { name: 'Pro', price: '$7.77', period: '/month', features: ['1,500 questions/month', 'Faith Integrity Check', 'Priority AI', 'PDF exports'], cta: 'Go Pro', highlight: true },
-          ].map((tier) => (
-            <div key={tier.name} className={`rounded-2xl p-6 border ${tier.highlight ? 'border-[#D4AF37] bg-[#D4AF37]/5' : 'border-white/10 bg-white/5'}`}>
-              <h3 className="text-lg font-semibold mb-1">{tier.name}</h3>
+            { name: 'Compass Free', price: '$0', period: 'forever', features: ['3 questions/day', 'Voice Topical Bible', 'Church finder', 'Scripture lookup'], cta: 'Get Started', highlight: false },
+            { name: 'Compass Guided', price: '$3', period: '/month', features: ['500 questions/month', 'No daily cap', 'Question history', 'Bookmarks'], cta: 'Start Guided', highlight: false },
+            { name: 'Compass Pro', price: '$7.77', period: '/month', features: ['1,500 questions/month', 'Integrity Check', 'Priority answers', 'PDF exports'], cta: 'Go Pro', highlight: true },
+          ].map(tier => (
+            <div key={tier.name} className={`rounded-2xl p-5 border ${tier.highlight ? 'border-[#D4AF37] bg-[#D4AF37]/5' : 'border-white/10 bg-white/5'}`}>
+              <h3 className="text-sm font-semibold mb-1">{tier.name}</h3>
               <div className="mb-4">
                 <span className="text-3xl font-bold">{tier.price}</span>
-                <span className="text-white/50 text-sm">{tier.period}</span>
+                <span className="text-white/40 text-xs">{tier.period}</span>
               </div>
-              <ul className="space-y-2 mb-6">
-                {tier.features.map((f) => (
-                  <li key={f} className="text-sm text-white/70 flex items-center gap-2">
+              <ul className="space-y-1.5 mb-5">
+                {tier.features.map(f => (
+                  <li key={f} className="text-xs text-white/60 flex items-center gap-2">
                     <span className="text-green-400">✓</span> {f}
                   </li>
                 ))}
               </ul>
-              <Link href="/compass" className={`block text-center py-2 rounded-lg text-sm font-medium transition ${tier.highlight ? 'bg-[#D4AF37] text-black hover:bg-yellow-400' : 'bg-white/10 text-white hover:bg-white/20'}`}>
+              <Link
+                href="/compass"
+                className={`block text-center py-2 rounded-lg text-xs font-semibold transition ${tier.highlight ? 'bg-[#D4AF37] text-black hover:bg-yellow-400' : 'bg-white/10 text-white hover:bg-white/20'}`}
+              >
                 {tier.cta}
               </Link>
             </div>
           ))}
         </div>
-        <p className="text-center text-white/40 text-sm mt-6">
+        <p className="text-center text-white/30 text-xs mt-4">
           The $7.77 price is intentional. 777 = divine completion. ♃
         </p>
       </section>
 
-      {/* Footer */}
-      <footer className="border-t border-white/10 px-6 py-8 text-center text-white/40 text-sm">
-        <div className="flex justify-center gap-6 mb-4">
+      {/* ── FOOTER ───────────────────────────────────────────── */}
+      <footer className="border-t border-white/10 px-5 py-8 text-center text-white/30 text-xs">
+        <div className="flex justify-center gap-5 mb-3">
           <Link href="/about" className="hover:text-white transition">About</Link>
           <Link href="/privacy" className="hover:text-white transition">Privacy</Link>
           <Link href="/terms" className="hover:text-white transition">Terms</Link>
+          <Link href="/topics" className="hover:text-white transition">Topical Bible</Link>
         </div>
         <p>© 2026 Faith Compass. Built with faith and purpose.</p>
-        <p className="mt-1 text-xs">A Rising Jupiter Initiative • MostHighKing Ministries</p>
+        <p className="mt-1 text-xs opacity-60">A Rising Jupiter Initiative • MostHighKing Ministries</p>
+        <p className="mt-1 text-xs opacity-50">Theological Advisory: Rev. Dr. Renn S. Law II, D.Min.</p>
       </footer>
     </main>
   )

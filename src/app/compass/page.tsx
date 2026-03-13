@@ -408,9 +408,30 @@ export default function CompassPage() {
 
         {answer && (
           <div className="bg-[#1E40AF]/10 border border-[#1E40AF]/30 rounded-2xl p-5 mb-5">
-            <div className="flex items-center gap-2 mb-3">
-              <span className="text-[#D4AF37]">📖</span>
-              <span className="text-sm font-medium text-[#D4AF37]">Scripture Response</span>
+            <div className="flex items-center justify-between mb-3">
+              <div className="flex items-center gap-2">
+                <span className="text-[#D4AF37]">📖</span>
+                <span className="text-sm font-medium text-[#D4AF37]">Scripture Response</span>
+              </div>
+              {/* Share button */}
+              <button
+                onClick={async () => {
+                  const firstVerse = verses[0]
+                  const shareText = firstVerse
+                    ? `${firstVerse.reference}\n\n"${firstVerse.text}"\n\n${answer.slice(0, 200)}...\n\n— Faith Compass\nfaithcompass.app`
+                    : `${answer.slice(0, 280)}...\n\n— Faith Compass\nfaithcompass.app`
+                  if (navigator.share) {
+                    await navigator.share({ title: 'Ask the Compass', text: shareText, url: 'https://faithcompass.app/compass' }).catch(() => {})
+                  } else {
+                    await navigator.clipboard.writeText(shareText).catch(() => {})
+                    alert('Answer copied to clipboard!')
+                  }
+                }}
+                className="flex items-center gap-1.5 text-xs text-white/40 hover:text-[#D4AF37] transition px-2 py-1 rounded-lg hover:bg-white/5"
+              >
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+                Share
+              </button>
             </div>
             <p className="text-white/80 text-sm leading-relaxed whitespace-pre-wrap">{answer}</p>
           </div>
