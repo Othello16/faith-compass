@@ -10,7 +10,13 @@ let docClient: DynamoDBDocumentClient | null = null
 
 function getClient() {
   if (!docClient) {
-    const client = new DynamoDBClient({ region: process.env.AWS_REGION || 'us-east-1' })
+    const client = new DynamoDBClient({
+      region: process.env.AWS_REGION || 'us-east-1',
+      credentials: {
+        accessKeyId: process.env.FAITH_AWS_ACCESS_KEY_ID || process.env.AWS_ACCESS_KEY_ID || '',
+        secretAccessKey: process.env.FAITH_AWS_SECRET_ACCESS_KEY || process.env.AWS_SECRET_ACCESS_KEY || '',
+      },
+    })
     docClient = DynamoDBDocumentClient.from(client)
   }
   return docClient
@@ -44,7 +50,6 @@ export async function checkUsageLimit(userId: string): Promise<UsageCheckResult>
 
   let nextAvailable: string | null = null
   if (!allowed && result.Items && result.Items.length > 0) {
-    // Sort by timestamp, find the oldest one — it expires first
     const timestamps = result.Items.map(i => i.questionTimestamp as string).sort()
     const oldest = new Date(timestamps[0])
     nextAvailable = new Date(oldest.getTime() + WINDOW_MS).toISOString()
