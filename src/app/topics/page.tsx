@@ -2,7 +2,10 @@
 import { useState, useRef, useEffect, useCallback } from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
+import { useSession } from 'next-auth/react'
 import Header from '@/components/Header'
+import AuthModal from '@/components/AuthModal'
+import LimitGate from '@/components/LimitGate'
 
 interface TopicVerse {
   reference: string
@@ -18,7 +21,7 @@ interface TopicResult {
   count: number
   source: string
   message?: string
-  fallback?: boolean   // true = came from Compass AI, not OpenBible
+  fallback?: boolean
   fallbackAnswer?: string
 }
 
@@ -48,6 +51,7 @@ declare global {
 
 export default function TopicsPage() {
   const router = useRouter()
+  const { data: session, status } = useSession()
   const [topic, setTopic] = useState('')
   const [result, setResult] = useState<TopicResult | null>(null)
   const [loading, setLoading] = useState(false)
@@ -55,6 +59,17 @@ export default function TopicsPage() {
   const [listening, setListening] = useState(false)
   const [voiceSupported, setVoiceSupported] = useState(false)
   const [transcript, setTranscript] = useState('')
+
+  // Auth gate state
+  const [showAuth, setShowAuth] = useState(false)
+  const pendingTopic = useRef('')
+  const pendingIsVoice = useRef(false)
+  const hasAutoSubmitted = useRef(false)
+
+  // Limit state (for Compass AI fallback)
+  const [limitReached, setLimitReached] = useState(false)
+  const [nextAvailable, setNextAvailable] = useState<string | null>(null)
+
   const recognitionRef = useRef<ISpeechRecognition | null>(null)
   const inputRef = useRef<HTMLInputElement>(null)
 
@@ -75,7 +90,8 @@ export default function TopicsPage() {
         setTopic(final)
         setTranscript('')
         setListening(false)
-        handleSearch(final)
+        // Voice requires auth — gate it like Compass
+        handleVoiceResult(final)
       }
     }
     recognition.onerror = () => { setListening(false); setTranscript('') }
@@ -84,41 +100,51 @@ export default function TopicsPage() {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
-  // Compass AI fallback — fires when OpenBible returns 0 results
-  const compassFallback = useCallback(async (q: string): Promise<TopicResult | null> => {
-    try {
-      const res = await fetch('/api/compass', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ question: `What does the Bible say about ${q}?` }),
-      })
-      if (!res.ok) return null
-      const data = await res.json()
-      if (!data.answer) return null
-      return {
-        topic: q,
-        slug: q.toLowerCase().replace(/\s+/g, '_'),
-        url: '',
-        verses: [],
-        count: 0,
-        source: 'compass',
-        fallback: true,
-        fallbackAnswer: data.answer,
-      }
-    } catch {
-      return null
+  // After social OAuth returns: restore pending voice topic from localStorage
+  useEffect(() => {
+    if (status === 'loading') return
+    const saved = localStorage.getItem('fc_pending_topic')
+    if (saved && session && !hasAutoSubmitted.current) {
+      hasAutoSubmitted.current = true
+      localStorage.removeItem('fc_pending_topic')
+      setTopic(saved)
+      executeSearch(saved)
     }
-  }, [])
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [status, session])
 
-  const handleSearch = useCallback(async (searchTopic?: string) => {
+  // ── Voice result handler — gate behind auth ──────────────────────────────
+  const handleVoiceResult = (spokenTopic: string) => {
+    if (!spokenTopic) return
+    if (session) {
+      // Already signed in — submit directly
+      executeSearch(spokenTopic)
+    } else {
+      // Save topic, show auth gate
+      pendingTopic.current = spokenTopic
+      pendingIsVoice.current = true
+      localStorage.setItem('fc_pending_topic', spokenTopic)
+      setShowAuth(true)
+    }
+  }
+
+  // ── Text/chip search — free for OpenBible; gate Compass AI fallback ──────
+  const handleSearch = (searchTopic?: string) => {
     const q = (searchTopic || topic).trim()
+    if (!q || loading) return
+    executeSearch(q)
+  }
+
+  // ── Core search execution ────────────────────────────────────────────────
+  const executeSearch = useCallback(async (q: string) => {
     if (!q || loading) return
     setLoading(true)
     setError('')
     setResult(null)
+    setShowAuth(false)
 
     try {
-      // Primary: OpenBible.info topical index
+      // Primary: OpenBible.info — free, no auth needed
       const res = await fetch('/api/topics', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -126,30 +152,84 @@ export default function TopicsPage() {
       })
       const data = await res.json()
 
-      if (!res.ok || !data.verses || data.verses.length === 0) {
-        // Fallback: use Compass AI to answer the topic question
-        const fallback = await compassFallback(q)
-        if (fallback) {
-          setResult(fallback)
-        } else {
-          setError(`No results found for "${q}". Try a simpler topic like "prayer" or "faith".`)
-        }
+      if (res.ok && data.verses && data.verses.length > 0) {
+        setResult(data)
         return
       }
 
-      setResult(data)
+      // No results from OpenBible — fall back to Compass AI (uses credit)
+      // Check if user is signed in for the AI fallback
+      if (!session) {
+        // Show auth gate, save the topic, then after sign-in the fallback will run
+        pendingTopic.current = q
+        localStorage.setItem('fc_pending_topic', q)
+        setShowAuth(true)
+        return
+      }
+
+      // Signed in — run Compass AI fallback (charges a credit)
+      await runCompassFallback(q)
+
     } catch {
-      // Network error — still try the Compass fallback
-      const fallback = await compassFallback(q)
-      if (fallback) {
-        setResult(fallback)
+      if (!session) {
+        pendingTopic.current = q
+        localStorage.setItem('fc_pending_topic', q)
+        setShowAuth(true)
       } else {
-        setError('Connection failed. Please try again.')
+        await runCompassFallback(q)
       }
     } finally {
       setLoading(false)
     }
-  }, [topic, loading, compassFallback])
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [session, loading])
+
+  const runCompassFallback = async (q: string) => {
+    try {
+      const res = await fetch('/api/compass', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ question: `What does the Bible say about ${q}?` }),
+      })
+      const data = await res.json()
+
+      if (res.status === 429) {
+        setLimitReached(true)
+        setNextAvailable(data.nextAvailable)
+        return
+      }
+
+      if (data.answer) {
+        setResult({
+          topic: q,
+          slug: q.toLowerCase().replace(/\s+/g, '_'),
+          url: '',
+          verses: [],
+          count: 0,
+          source: 'compass',
+          fallback: true,
+          fallbackAnswer: data.answer,
+        })
+      } else {
+        setError(`No results found for "${q}". Try a simpler topic like "prayer" or "faith".`)
+      }
+    } catch {
+      setError('Connection failed. Please try again.')
+    }
+  }
+
+  // ── Auth success callback ────────────────────────────────────────────────
+  const handleAuthSuccess = () => {
+    setShowAuth(false)
+    const q = pendingTopic.current || topic
+    localStorage.removeItem('fc_pending_topic')
+    if (q) executeSearch(q)
+  }
+
+  const handleAuthDismiss = () => {
+    setShowAuth(false)
+    localStorage.removeItem('fc_pending_topic')
+  }
 
   const toggleVoice = () => {
     if (!recognitionRef.current) return
@@ -167,13 +247,24 @@ export default function TopicsPage() {
   const handleAskCompass = () => {
     const q = topic.trim() || result?.topic || ''
     if (!q) return
-    sessionStorage.setItem('fc_pending_question', `What does the Bible say about ${q}?`)
+    localStorage.setItem('fc_pending_question', `What does the Bible say about ${q}?`)
     router.push('/compass')
   }
 
   return (
     <main className="min-h-screen bg-[#0F172A] text-white">
       <Header />
+
+      {/* Auth gate modal — same flow as Compass */}
+      {showAuth && (
+        <AuthModal
+          previewLabel="Your topic is ready:"
+          pendingText={pendingTopic.current || topic || '(voice topic)'}
+          callbackUrl="/topics"
+          onClose={handleAuthDismiss}
+          onSuccess={handleAuthSuccess}
+        />
+      )}
 
       <div className="max-w-2xl mx-auto px-5 py-10">
         <div className="mb-6">
@@ -219,6 +310,7 @@ export default function TopicsPage() {
             <div className="mt-3 flex items-center gap-2 text-red-400 text-xs">
               <span className="w-2 h-2 bg-red-400 rounded-full animate-pulse" />
               Listening... say a Bible topic
+              {!session && <span className="text-white/30 ml-1">(sign-in required)</span>}
             </div>
           )}
           <button
@@ -230,7 +322,7 @@ export default function TopicsPage() {
           </button>
         </div>
 
-        {/* Ask the Compass button — always visible below input */}
+        {/* Ask the Compass CTA */}
         <button
           onClick={handleAskCompass}
           disabled={!topic.trim() && !result}
@@ -264,6 +356,9 @@ export default function TopicsPage() {
             {error}
           </div>
         )}
+
+        {/* Limit reached — upgrade prompt */}
+        {limitReached && <LimitGate nextAvailable={nextAvailable} />}
 
         {loading && (
           <div className="space-y-3">
@@ -329,6 +424,16 @@ export default function TopicsPage() {
                 ))}
               </div>
             )}
+          </div>
+        )}
+
+        {/* Sign-in nudge for unauthenticated users */}
+        {!session && !loading && !result && !limitReached && (
+          <div className="mt-4 text-center">
+            <p className="text-white/25 text-xs">
+              🔒 Voice search and AI-powered results require a free account.{' '}
+              <Link href="/compass" className="text-[#D4AF37]/60 hover:text-[#D4AF37] underline">Sign in →</Link>
+            </p>
           </div>
         )}
       </div>
