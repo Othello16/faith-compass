@@ -407,9 +407,9 @@ export default function TopicsPage() {
                 <div className="flex items-center gap-2 mb-3">
                   <span className="text-[#C9A84C]">🧭</span>
                   <span className="text-sm font-medium text-[#C9A84C]">Compass Scripture Answer</span>
-                  <span className="text-xs text-white/30 ml-auto">KJV · AI-assisted</span>
+                  <span className="text-xs text-[#6B7280] ml-auto">KJV · AI-assisted</span>
                 </div>
-                <p className="text-white/80 text-sm leading-relaxed whitespace-pre-wrap">{result.fallbackAnswer}</p>
+                <p className="text-[#1A1A1A] text-sm leading-relaxed whitespace-pre-wrap">{result.fallbackAnswer}</p>
               </div>
             )}
 

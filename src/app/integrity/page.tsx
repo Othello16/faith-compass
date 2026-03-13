@@ -99,7 +99,7 @@ export default function IntegrityPage() {
               <span className="text-[#C9A84C]">🔍</span>
               <span className="text-sm font-medium text-[#C9A84C]">Integrity Analysis</span>
             </div>
-            <div className="text-white/80 text-sm leading-relaxed whitespace-pre-wrap">{analysis}</div>
+            <div className="text-[#1A1A1A] text-sm leading-relaxed whitespace-pre-wrap">{analysis}</div>
           </div>
         )}
 
