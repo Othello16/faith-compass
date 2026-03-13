@@ -1,37 +1,28 @@
 'use client'
 import Link from 'next/link'
-import { useSession, signOut } from 'next-auth/react'
 
 export default function Header() {
-  const { data: session, status } = useSession()
-
   return (
-    <nav className="flex items-center justify-between px-6 py-4 border-b border-white/10">
-      <Link href="/" className="flex items-center gap-2">
-        <span className="text-2xl">🧭</span>
-        <span className="text-xl font-bold text-[#D4AF37]">Faith Compass</span>
-      </Link>
-      <div className="flex gap-4 items-center">
-        <Link href="/compass" className="text-sm text-white/70 hover:text-white transition">Compass</Link>
-        <Link href="/churches" className="text-sm text-white/70 hover:text-white transition">Churches</Link>
-        <Link href="/pricing" className="text-sm text-white/70 hover:text-white transition">Pricing</Link>
-        {status === 'loading' ? (
-          <span className="text-sm text-white/30">...</span>
-        ) : session ? (
-          <button
-            onClick={() => signOut({ callbackUrl: '/' })}
-            className="text-sm text-white/70 hover:text-white transition"
-          >
-            Logout
-          </button>
-        ) : (
+    <nav className="w-full px-4 py-3 border-b border-white/10">
+      <div className="max-w-5xl mx-auto flex items-center justify-between">
+        {/* Logo */}
+        <Link href="/" className="flex items-center gap-2 shrink-0">
+          <span className="text-xl">🧭</span>
+          <span className="text-base font-bold text-[#D4AF37] leading-tight">Faith<br className="hidden sm:block" /> Compass</span>
+        </Link>
+
+        {/* Nav — hidden on very small screens, shown as icons/short labels */}
+        <div className="flex items-center gap-3">
+          <Link href="/compass" className="text-xs text-white/60 hover:text-white transition px-2 py-1">Compass</Link>
+          <Link href="/churches" className="text-xs text-white/60 hover:text-white transition px-2 py-1 hidden sm:block">Churches</Link>
+          <Link href="/pricing" className="text-xs text-white/60 hover:text-white transition px-2 py-1 hidden sm:block">Pricing</Link>
           <Link
             href="/auth/signin"
-            className="bg-[#1E40AF] text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-blue-700 transition"
+            className="bg-[#1E40AF] text-white px-3 py-1.5 rounded-lg text-xs font-medium hover:bg-blue-700 transition whitespace-nowrap"
           >
-            Login
+            Sign In
           </Link>
-        )}
+        </div>
       </div>
     </nav>
   )

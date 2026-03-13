@@ -7,24 +7,23 @@ export default function Home() {
       <Header />
 
       {/* Hero */}
-      <section className="max-w-4xl mx-auto text-center px-6 py-24">
-        <div className="inline-block bg-[#D4AF37]/10 text-[#D4AF37] text-sm px-4 py-1 rounded-full mb-6 border border-[#D4AF37]/30">
-          3 Free Questions Daily • No Credit Card Required
+      <section className="max-w-4xl mx-auto text-center px-5 pt-10 pb-14">
+        <div className="inline-flex items-center justify-center bg-[#D4AF37]/10 text-[#D4AF37] text-xs px-3 py-1 rounded-full mb-5 border border-[#D4AF37]/30 mx-auto">
+          3 Free Questions Daily &bull; No Credit Card Required
         </div>
-        <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
+        <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-5 leading-tight">
           Your Faith.<br />
           <span className="text-[#1E40AF]">Guided.</span> Not Replaced.
         </h1>
-        <p className="text-xl text-white/70 mb-10 max-w-2xl mx-auto leading-relaxed">
-          AI-powered moral guidance anchored exclusively in Scripture. 
-          Find answers, verify truth, connect with real churches nearby. 
-          Leverage technology to walk closer with God — not away from Him.
+        <p className="text-base sm:text-lg text-white/70 mb-8 max-w-xl mx-auto leading-relaxed">
+          Scripture-anchored AI guidance. Verify truth, find churches nearby, 
+          and walk closer with God — not away from Him.
         </p>
-        <div className="flex flex-col sm:flex-row gap-4 justify-center">
-          <Link href="/compass" className="bg-[#1E40AF] text-white px-8 py-4 rounded-xl text-lg font-semibold hover:bg-blue-700 transition">
+        <div className="flex flex-col sm:flex-row gap-3 justify-center">
+          <Link href="/compass" className="bg-[#1E40AF] text-white px-6 py-3 rounded-xl text-base font-semibold hover:bg-blue-700 transition">
             Ask Your First Question →
           </Link>
-          <Link href="/about" className="border border-white/20 text-white px-8 py-4 rounded-xl text-lg font-medium hover:border-white/40 transition">
+          <Link href="/about" className="border border-white/20 text-white px-6 py-3 rounded-xl text-base font-medium hover:border-white/40 transition">
             Learn More
           </Link>
         </div>
