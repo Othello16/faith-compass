@@ -103,7 +103,7 @@ export default function IntegrityPage() {
           </div>
         )}
 
-        {limitReached && <LimitGate nextAvailable={nextAvailable} />}
+        {limitReached && <LimitGate nextAvailable={nextAvailable} plan="free" used={used} limit={LIMIT} />}
 
         <div className="mt-8 bg-[#FAFAF8] border border-[#E5E7EB] rounded-xl p-4 text-center">
           <p className="text-[#9CA3AF] text-xs">

@@ -321,12 +321,35 @@ function CompassContent() {
   const [used, setUsed] = useState(0)
   const [limitReached, setLimitReached] = useState(false)
   const [nextAvailable, setNextAvailable] = useState<string | null>(null)
+  const [userPlan, setUserPlan] = useState<'free' | 'guided' | 'pro'>('free')
   const [verses, setVerses] = useState<BibleVerse[]>([])
   const [showAuth, setShowAuth] = useState(false)
   const [showConsent, setShowConsent] = useState(false)
   const pendingQuestion = useRef('')
   const hasAutoSubmitted = useRef(false)
   const LIMIT = 3
+
+  // Fetch usage + plan on mount and after sign-in
+  const fetchUsageStatus = useCallback(async () => {
+    try {
+      const res = await fetch('/api/usage-limit')
+      if (!res.ok) return
+      const data = await res.json()
+      setLimitReached(!data.allowed)
+      setNextAvailable(data.nextAvailable)
+      setUsed(data.used)
+      setUserPlan(data.plan)
+    } catch { /* silent */ }
+  }, [])
+
+  useEffect(() => {
+    fetchUsageStatus()
+  }, [fetchUsageStatus])
+
+  // Re-fetch after session changes (covers post-login state)
+  useEffect(() => {
+    if (session) fetchUsageStatus()
+  }, [session, fetchUsageStatus])
 
   // Voice state (speech recognition)
   const [listening, setListening] = useState(false)
@@ -367,6 +390,21 @@ function CompassContent() {
     setAnswer('')
     setVerses([])
     try {
+      // ── PRE-CHECK: verify limit before burning an API call ──────────────
+      const limitRes = await fetch('/api/usage-limit')
+      if (limitRes.ok) {
+        const limitData = await limitRes.json()
+        setUserPlan(limitData.plan)
+        if (!limitData.allowed) {
+          setLimitReached(true)
+          setNextAvailable(limitData.nextAvailable)
+          setUsed(limitData.used)
+          setLoading(false)
+          return   // Stop here — show LimitGate, don't POST
+        }
+      }
+
+      // ── PROCEED: within limit, POST to compass ───────────────────────────
       const [compassRes, bibleRes] = await Promise.all([
         fetch('/api/compass', {
           method: 'POST',
@@ -509,7 +547,7 @@ function CompassContent() {
     setShowAuth(true)
   }
 
-  const handleAuthSuccess = () => {
+  const handleAuthSuccess = useCallback(async () => {
     setShowAuth(false)
     // Check for pending plan first — redirect to pricing
     const pendingPlan = localStorage.getItem('fc_pending_plan')
@@ -518,12 +556,16 @@ function CompassContent() {
       router.push(`/pricing?plan=${pendingPlan}`)
       return
     }
+
+    // Re-check limit under the now-authenticated session
+    await fetchUsageStatus()
+
     // Then check for pending question
     const q = pendingQuestion.current || question
     localStorage.removeItem('fc_pending_question')
     sessionStorage.removeItem('fc_pending_question')
     checkConsentAndSubmit(q)
-  }
+  }, [fetchUsageStatus, router, question, checkConsentAndSubmit])
 
   const handleConsentAccepted = () => {
     setShowConsent(false)
@@ -704,7 +746,14 @@ function CompassContent() {
           </div>
         )}
 
-        {limitReached && <LimitGate nextAvailable={nextAvailable} />}
+        {limitReached && (
+          <LimitGate
+            nextAvailable={nextAvailable}
+            plan={userPlan}
+            used={used}
+            limit={LIMIT}
+          />
+        )}
       </div>
     </main>
   )

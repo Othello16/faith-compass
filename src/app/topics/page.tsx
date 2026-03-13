@@ -367,7 +367,7 @@ export default function TopicsPage() {
         )}
 
         {/* Limit reached — upgrade prompt */}
-        {limitReached && <LimitGate nextAvailable={nextAvailable} />}
+        {limitReached && <LimitGate nextAvailable={nextAvailable} plan="free" used={0} limit={3} />}
 
         {loading && (
           <div className="space-y-3">
