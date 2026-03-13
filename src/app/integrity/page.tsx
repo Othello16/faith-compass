@@ -54,7 +54,7 @@ export default function IntegrityPage() {
       <div className="max-w-2xl mx-auto px-6 py-16">
         <div className="flex items-center justify-between mb-2">
           <h1 className="text-3xl font-bold">Faith Integrity Check</h1>
-          <span className="text-sm text-[#9CA3AF]">
+          <span className="text-sm text-[#6B7280]">
             {used}/{LIMIT} questions used today
           </span>
         </div>
@@ -106,7 +106,7 @@ export default function IntegrityPage() {
         {limitReached && <LimitGate nextAvailable={nextAvailable} plan="free" used={used} limit={LIMIT} />}
 
         <div className="mt-8 bg-[#FAFAF8] border border-[#E5E7EB] rounded-xl p-4 text-center">
-          <p className="text-[#9CA3AF] text-xs">
+          <p className="text-[#6B7280] text-xs">
             Free tier: up to {MAX_CHARS} characters per check.
             <Link href="/pricing" className="text-[#C9A84C] hover:text-[#E8C96E] ml-1">Upgrade to Pro</Link>
             {' '}for extended analysis and PDF exports.

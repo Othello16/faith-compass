@@ -116,7 +116,7 @@ function AuthModal({
         {/* Question preview */}
         <div className="text-center mb-4">
           <span className="text-2xl">🧭</span>
-          <p className="text-[#9CA3AF] text-xs mt-2 leading-relaxed">Your question is ready:</p>
+          <p className="text-[#6B7280] text-xs mt-2 leading-relaxed">Your question is ready:</p>
           <p className="text-[#374151] text-xs italic mt-1 line-clamp-2 px-2">&ldquo;{pendingQuestion}&rdquo;</p>
         </div>
 
@@ -151,7 +151,7 @@ function AuthModal({
 
             <div className="flex items-center gap-3 my-1">
               <div className="flex-1 h-px bg-gray-200" />
-              <span className="text-[#9CA3AF] text-xs">or</span>
+              <span className="text-[#6B7280] text-xs">or</span>
               <div className="flex-1 h-px bg-gray-200" />
             </div>
 
@@ -171,7 +171,7 @@ function AuthModal({
             {error && <p className="text-yellow-400 text-xs text-center">{error}</p>}
 
             <div className="text-center pt-1">
-              <button onClick={onClose} className="text-[#9CA3AF] text-xs hover:text-[#374151] transition">
+              <button onClick={onClose} className="text-[#6B7280] text-xs hover:text-[#374151] transition">
                 ← Back to home
               </button>
             </div>
@@ -196,10 +196,10 @@ function AuthModal({
               </button>
             </form>
             <div className="mt-3 text-center space-y-2">
-              <button onClick={() => reset('signup')} className="text-[#9CA3AF] text-xs hover:text-[#374151] transition">
+              <button onClick={() => reset('signup')} className="text-[#6B7280] text-xs hover:text-[#374151] transition">
                 Don&apos;t have an account? Sign up free
               </button>
-              <div><button onClick={() => reset('choice')} className="text-[#9CA3AF] text-xs hover:text-[#374151] transition">← Other sign-in options</button></div>
+              <div><button onClick={() => reset('choice')} className="text-[#6B7280] text-xs hover:text-[#374151] transition">← Other sign-in options</button></div>
             </div>
           </>
         )}
@@ -223,12 +223,12 @@ function AuthModal({
                   onChange={e => setMarketingOptIn(e.target.checked)}
                   className="mt-0.5 w-4 h-4 rounded border-gray-300 bg-white accent-[#C9A84C] shrink-0"
                 />
-                <span className="text-xs text-[#9CA3AF] leading-relaxed group-hover:text-[#374151] transition">
+                <span className="text-xs text-[#6B7280] leading-relaxed group-hover:text-[#374151] transition">
                   I&apos;d like to receive updates, devotional content, and offers from Faith Compass. You can unsubscribe at any time.
                 </span>
               </label>
 
-              <p className="text-[#9CA3AF] text-xs leading-relaxed">
+              <p className="text-[#6B7280] text-xs leading-relaxed">
                 By creating an account you agree to our{' '}
                 <Link href="/terms" className="text-[#374151] hover:text-[#0A0A0A] underline">Terms</Link>
                 {' & '}
@@ -242,10 +242,10 @@ function AuthModal({
               </button>
             </form>
             <div className="mt-3 text-center space-y-2">
-              <button onClick={() => reset('signin')} className="text-[#9CA3AF] text-xs hover:text-[#374151] transition">
+              <button onClick={() => reset('signin')} className="text-[#6B7280] text-xs hover:text-[#374151] transition">
                 Already have an account? Sign in
               </button>
-              <div><button onClick={() => reset('choice')} className="text-[#9CA3AF] text-xs hover:text-[#374151] transition">← Other sign-in options</button></div>
+              <div><button onClick={() => reset('choice')} className="text-[#6B7280] text-xs hover:text-[#374151] transition">← Other sign-in options</button></div>
             </div>
           </>
         )}
@@ -256,7 +256,7 @@ function AuthModal({
             <div className="text-center mb-4">
               <span className="text-3xl">📧</span>
               <h2 className="text-base font-bold mt-2 text-[#0A0A0A]">Check your email</h2>
-              <p className="text-[#9CA3AF] text-xs mt-1">
+              <p className="text-[#6B7280] text-xs mt-1">
                 We sent a 6-digit code to<br />
                 <span className="text-[#0A0A0A]">{email}</span>
               </p>
@@ -279,7 +279,7 @@ function AuthModal({
                 {loading ? 'Verifying...' : 'Verify & Get My Answer'}
               </button>
             </form>
-            <p className="text-center text-[#9CA3AF] text-xs mt-3">
+            <p className="text-center text-[#6B7280] text-xs mt-3">
               Didn&apos;t get it? Check your spam folder.
             </p>
           </>
@@ -607,7 +607,7 @@ function CompassContent() {
       <div className="max-w-2xl mx-auto px-5 py-10">
         <div className="flex items-start justify-between mb-2 gap-4">
           <h1 className="text-3xl font-bold leading-tight">Ask the<br /><span className="gold-text">Compass</span></h1>
-          <span className="text-xs text-[#9CA3AF] text-right mt-1 shrink-0">
+          <span className="text-xs text-[#6B7280] text-right mt-1 shrink-0">
             {used}/{LIMIT} questions<br />used today
           </span>
         </div>

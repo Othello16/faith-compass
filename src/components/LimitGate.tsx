@@ -73,7 +73,7 @@ export default function LimitGate({ nextAvailable, plan, used, limit }: LimitGat
               <div className="flex items-center justify-between gap-3 bg-white border border-[#E5E7EB] rounded-lg px-4 py-3">
                 <div className="text-left">
                   <p className="text-[#0A0A0A] text-sm font-medium">Compass Guided</p>
-                  <p className="text-[#9CA3AF] text-xs">100 questions/mo</p>
+                  <p className="text-[#6B7280] text-xs">100 questions/mo</p>
                 </div>
                 <button
                   onClick={() => handleUpgrade('guided')}
@@ -88,7 +88,7 @@ export default function LimitGate({ nextAvailable, plan, used, limit }: LimitGat
               <div className="flex items-center justify-between gap-3 bg-white border border-[#E5E7EB] rounded-lg px-4 py-3">
                 <div className="text-left">
                   <p className="text-[#0A0A0A] text-sm font-medium">Compass Pro</p>
-                  <p className="text-[#9CA3AF] text-xs">500 questions/mo</p>
+                  <p className="text-[#6B7280] text-xs">500 questions/mo</p>
                 </div>
                 <button
                   onClick={() => handleUpgrade('pro')}

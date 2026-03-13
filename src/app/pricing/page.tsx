@@ -172,7 +172,7 @@ function PricingContent() {
                 <span className={`text-2xl font-bold ${tier.stripePlan ? 'gold-text' : 'text-[#0A0A0A]'}`}>
                   {tier.price}
                 </span>
-                {tier.period && <span className="text-[#9CA3AF] text-sm ml-1">{tier.period}</span>}
+                {tier.period && <span className="text-[#6B7280] text-sm ml-1">{tier.period}</span>}
               </div>
 
               {/* The only feature shown — questions */}
@@ -180,7 +180,7 @@ function PricingContent() {
                 {tier.questions}
               </div>
 
-              <p className="text-[#9CA3AF] text-xs mb-6 flex-1 leading-relaxed">{tier.description}</p>
+              <p className="text-[#6B7280] text-xs mb-6 flex-1 leading-relaxed">{tier.description}</p>
 
               {tier.stripePlan ? (
                 <button
@@ -206,7 +206,7 @@ function PricingContent() {
           ))}
         </div>
 
-        <p className="text-center text-[#9CA3AF] text-xs mb-12">
+        <p className="text-center text-[#6B7280] text-xs mb-12">
           The $7.77 price is intentional. 777 = divine completion. All glory to God.
         </p>
 

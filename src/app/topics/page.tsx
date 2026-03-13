@@ -341,7 +341,7 @@ export default function TopicsPage() {
         {/* Popular topic chips */}
         {!result && !loading && (
           <div className="mb-8">
-            <p className="text-xs text-[#9CA3AF] mb-3 uppercase tracking-wider">Popular topics</p>
+            <p className="text-xs text-[#6B7280] mb-3 uppercase tracking-wider">Popular topics</p>
             <div className="flex flex-wrap gap-2">
               {POPULAR_TOPICS.map(t => (
                 <button
@@ -387,7 +387,7 @@ export default function TopicsPage() {
             <div className="flex items-center justify-between mb-4">
               <div>
                 <h2 className="text-lg font-semibold capitalize text-[#0A0A0A]">{result.topic}</h2>
-                <p className="text-xs text-[#9CA3AF] mt-0.5">
+                <p className="text-xs text-[#6B7280] mt-0.5">
                   {result.fallback
                     ? 'Scripture AI answer (Compass) — OpenBible index unavailable for this topic'
                     : `${result.count} scriptures — sorted by community relevance`}
@@ -395,7 +395,7 @@ export default function TopicsPage() {
               </div>
               {!result.fallback && result.url && (
                 <a href={result.url} target="_blank" rel="noopener noreferrer"
-                  className="text-xs text-[#9CA3AF] hover:text-[#374151] transition shrink-0">
+                  className="text-xs text-[#6B7280] hover:text-[#374151] transition shrink-0">
                   openbible.info ↗
                 </a>
               )}
@@ -439,7 +439,7 @@ export default function TopicsPage() {
         {/* Sign-in nudge for unauthenticated users */}
         {!session && !loading && !result && !limitReached && (
           <div className="mt-4 text-center">
-            <p className="text-[#9CA3AF] text-xs">
+            <p className="text-[#6B7280] text-xs">
               🔒 Voice search and AI-powered results require a free account.{' '}
               <Link href="/compass" className="text-[#C9A84C]/60 hover:text-[#C9A84C] underline">Sign in →</Link>
             </p>
