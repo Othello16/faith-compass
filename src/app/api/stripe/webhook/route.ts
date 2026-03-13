@@ -38,6 +38,7 @@ export async function POST(req: NextRequest) {
           status: sub.status as 'active' | 'canceled' | 'past_due' | 'trialing',
           stripeCustomerId: session.customer as string,
           stripeSubscriptionId: subscriptionId,
+          currentPeriodStart: new Date((sub as unknown as { current_period_start: number }).current_period_start * 1000).toISOString(),
           currentPeriodEnd: new Date((sub as unknown as { current_period_end: number }).current_period_end * 1000).toISOString(),
           updatedAt: new Date().toISOString(),
         })
@@ -59,6 +60,7 @@ export async function POST(req: NextRequest) {
           status: sub.status as 'active' | 'canceled' | 'past_due' | 'trialing',
           stripeCustomerId: sub.customer as string,
           stripeSubscriptionId: sub.id,
+          currentPeriodStart: new Date((sub as unknown as { current_period_start: number }).current_period_start * 1000).toISOString(),
           currentPeriodEnd: new Date((sub as unknown as { current_period_end: number }).current_period_end * 1000).toISOString(),
           updatedAt: new Date().toISOString(),
         })
@@ -77,6 +79,7 @@ export async function POST(req: NextRequest) {
           status: 'canceled',
           stripeCustomerId: sub.customer as string,
           stripeSubscriptionId: sub.id,
+          currentPeriodStart: new Date((sub as unknown as { current_period_start: number }).current_period_start * 1000).toISOString(),
           currentPeriodEnd: new Date((sub as unknown as { current_period_end: number }).current_period_end * 1000).toISOString(),
           updatedAt: new Date().toISOString(),
         })
@@ -97,7 +100,8 @@ export async function POST(req: NextRequest) {
             status: 'past_due',
             stripeCustomerId: sub.customer as string,
             stripeSubscriptionId: sub.id,
-            currentPeriodEnd: new Date((sub as unknown as { current_period_end: number }).current_period_end * 1000).toISOString(),
+            currentPeriodStart: new Date((sub as unknown as { current_period_start: number }).current_period_start * 1000).toISOString(),
+          currentPeriodEnd: new Date((sub as unknown as { current_period_end: number }).current_period_end * 1000).toISOString(),
             updatedAt: new Date().toISOString(),
           })
           console.log(`⚠️ Payment failed: ${userId}`)

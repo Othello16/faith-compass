@@ -33,7 +33,6 @@ async function ensureTable() {
         AttributeDefinitions: [{ AttributeName: 'userId', AttributeType: 'S' }],
         KeySchema: [{ AttributeName: 'userId', KeyType: 'HASH' }],
       }))
-      // Wait for table to become active
       await new Promise(r => setTimeout(r, 3000))
     }
   }
@@ -47,7 +46,8 @@ export interface Subscription {
   status: 'active' | 'canceled' | 'past_due' | 'trialing'
   stripeCustomerId: string
   stripeSubscriptionId: string
-  currentPeriodEnd: string  // ISO
+  currentPeriodStart: string  // ISO — when billing cycle started
+  currentPeriodEnd: string    // ISO — when billing cycle ends / renews
   updatedAt: string
 }
 
@@ -69,23 +69,40 @@ export async function upsertSubscription(sub: Subscription): Promise<void> {
   await doc.send(new PutCommand({ TableName: TABLE, Item: { ...sub, updatedAt: new Date().toISOString() } }))
 }
 
-export async function isSubscribed(userId: string): Promise<{ subscribed: boolean; plan: Plan }> {
+export async function isSubscribed(userId: string): Promise<{
+  subscribed: boolean
+  plan: Plan
+  subscription: Subscription | null
+}> {
   const sub = await getSubscription(userId)
-  if (!sub) return { subscribed: false, plan: 'free' }
-  const active = sub.status === 'active' || sub.status === 'trialing'
-  const notExpired = new Date(sub.currentPeriodEnd) > new Date()
-  if (active && notExpired) return { subscribed: true, plan: sub.plan }
-  return { subscribed: false, plan: 'free' }
+  if (!sub) return { subscribed: false, plan: 'free', subscription: null }
+
+  const now = new Date()
+  const periodEnd = new Date(sub.currentPeriodEnd)
+
+  // Active or trialing — not yet expired
+  const isActive = sub.status === 'active' || sub.status === 'trialing'
+  // Canceled but still within paid period (Stripe keeps access until period end)
+  const isCanceledButValid = sub.status === 'canceled' && periodEnd > now
+  // Past due — still show paid limits as grace period until period ends
+  const isPastDueInPeriod = sub.status === 'past_due' && periodEnd > now
+
+  const hasAccess = (isActive || isCanceledButValid || isPastDueInPeriod) && periodEnd > now
+
+  if (hasAccess && sub.plan !== 'free') {
+    return { subscribed: true, plan: sub.plan, subscription: sub }
+  }
+  return { subscribed: false, plan: 'free', subscription: sub }
 }
 
 // Monthly question limits per plan
 export const PLAN_LIMITS: Record<Plan, number | null> = {
-  free: null,       // uses daily limit (3/day) — see usage-limit.ts
-  guided: 100,      // 100 questions per month
-  pro: 500,         // 500 questions per month
+  free:    null,  // falls back to 3/day in usage-limit.ts
+  guided:  500,   // 500 questions per billing cycle
+  pro:     1500,  // 1500 questions per billing cycle
 }
 
 export const PLAN_PRICE_IDS: Record<string, Plan> = {
   [process.env.STRIPE_PRICE_ID_GUIDED || 'price_1TAZX83qAFa8YFW6IAZlhatH']: 'guided',
-  [process.env.STRIPE_PRICE_ID_PRO || 'price_1TAZXo3qAFa8YFW6qtwOajN2']: 'pro',
+  [process.env.STRIPE_PRICE_ID_PRO    || 'price_1TAZXo3qAFa8YFW6qtwOajN2']: 'pro',
 }
