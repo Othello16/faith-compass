@@ -281,7 +281,8 @@ export default function Home() {
 
       {/* ── FOOTER ───────────────────────────────────────────── */}
       <footer className="border-t border-white/10 px-5 py-8 text-center text-white/30 text-xs">
-        <div className="flex justify-center gap-5 mb-3">
+        <div className="flex justify-center items-center gap-5 mb-3">
+          <span className="text-white/20">v{process.env.NEXT_PUBLIC_APP_VERSION || '1.0.0'}</span>
           <Link href="/about" className="hover:text-white transition">About</Link>
           <Link href="/privacy" className="hover:text-white transition">Privacy</Link>
           <Link href="/terms" className="hover:text-white transition">Terms</Link>

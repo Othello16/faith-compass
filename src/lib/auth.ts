@@ -4,6 +4,7 @@ import CognitoProvider from 'next-auth/providers/cognito'
 import GoogleProvider from 'next-auth/providers/google'
 import TwitterProvider from 'next-auth/providers/twitter'
 import AppleProvider from 'next-auth/providers/apple'
+import { recordLogin } from '@/lib/consent'
 
 export const authOptions: AuthOptions = {
   providers: [
@@ -48,6 +49,18 @@ export const authOptions: AuthOptions = {
 
   session: { strategy: 'jwt' },
   pages: { signIn: '/auth/signin' },
+
+  events: {
+    async signIn({ user, account }) {
+      const userId = user.id || user.email || 'unknown'
+      const provider = account?.provider || 'email'
+      try {
+        await recordLogin(`user:${userId}`, provider, 'server', 'server')
+      } catch (err) {
+        console.error('Failed to record login event:', err)
+      }
+    },
+  },
 
   callbacks: {
     async jwt({ token, account, profile }) {

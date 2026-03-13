@@ -1,18 +1,16 @@
 'use client'
-import { useState, useCallback } from 'react'
-import Link from 'next/link'
+import { useState, useCallback, useEffect } from 'react'
 import Header from '@/components/Header'
 
 interface Church {
   id: string
   name: string
   address: string
-  rating?: number
-  totalRatings?: number
-  openNow?: boolean
-  location?: { lat: number; lng: number }
+  denomination?: string | null
+  website?: string | null
+  phone?: string | null
+  location?: { lat: number; lng: number } | null
   distance?: number | null
-  photoReference?: string
 }
 
 const DENOMINATIONS = [
@@ -78,6 +76,23 @@ export default function ChurchesPage() {
     )
   }, [denomination, searchWithCoords])
 
+  // Auto-request geolocation on mount
+  useEffect(() => {
+    if (navigator.geolocation) {
+      setLocationStatus('requesting')
+      navigator.geolocation.getCurrentPosition(
+        (position) => {
+          setLocationStatus('granted')
+          searchWithCoords(position.coords.latitude, position.coords.longitude, '')
+        },
+        () => {
+          setLocationStatus('denied')
+        }
+      )
+    }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
+
   const searchChurches = async () => {
     if (!zip.trim() || loading) return
     setLoading(true)
@@ -100,6 +115,11 @@ export default function ChurchesPage() {
     }
   }
 
+  const buildGoogleMapsUrl = (church: Church) => {
+    const query = [church.name, church.address].filter(Boolean).join(' ')
+    return `https://www.google.com/maps/search/${encodeURIComponent(query)}`
+  }
+
   return (
     <main className="min-h-screen bg-[#0F172A] text-white">
       <Header />
@@ -110,8 +130,8 @@ export default function ChurchesPage() {
           Find real congregations near you. Real churches. Real community. Real accountability.
         </p>
 
-        {/* Location prompt */}
-        {locationStatus === 'idle' && (
+        {/* Location prompt — show when denied or idle with no results */}
+        {(locationStatus === 'idle' || locationStatus === 'denied') && !searched && (
           <div className="bg-[#1E40AF]/10 border border-[#1E40AF]/30 rounded-2xl p-6 mb-6 text-center">
             <p className="text-white/70 text-sm mb-3">
               We use your location to find churches near you. We do not store this.
@@ -126,9 +146,21 @@ export default function ChurchesPage() {
           </div>
         )}
 
-        {locationStatus === 'requesting' && (
+        {locationStatus === 'requesting' && !searched && (
           <div className="bg-[#1E40AF]/10 border border-[#1E40AF]/30 rounded-2xl p-6 mb-6 text-center">
             <p className="text-white/70 text-sm">Requesting location access...</p>
+          </div>
+        )}
+
+        {/* "Use my location" retry button when denied */}
+        {locationStatus === 'denied' && searched && (
+          <div className="mb-4 text-center">
+            <button
+              onClick={useMyLocation}
+              className="text-xs text-[#1E40AF] hover:text-blue-400 transition underline"
+            >
+              Try using my location again
+            </button>
           </div>
         )}
 
@@ -182,41 +214,53 @@ export default function ChurchesPage() {
             <div className="grid md:grid-cols-2 gap-4">
               {churches.map((church) => (
                 <div key={church.id} className="bg-white/5 border border-white/10 rounded-2xl p-6 hover:border-[#1E40AF]/50 transition">
-                  <h3 className="text-lg font-semibold text-[#D4AF37] mb-2">{church.name}</h3>
-                  <p className="text-white/60 text-sm mb-3">{church.address}</p>
-                  <div className="flex flex-wrap gap-3 text-xs">
+                  <h3 className="text-lg font-semibold text-[#D4AF37] mb-1">{church.name}</h3>
+
+                  {/* Denomination badge */}
+                  {church.denomination && (
+                    <span className="inline-block bg-white/10 text-white/60 text-xs px-2 py-0.5 rounded-full mb-2">
+                      {church.denomination}
+                    </span>
+                  )}
+
+                  {/* Address */}
+                  {church.address && (
+                    <p className="text-white/60 text-sm mb-3">{church.address}</p>
+                  )}
+
+                  {/* Distance */}
+                  <div className="flex flex-wrap gap-3 text-xs mb-4">
                     {church.distance != null && (
                       <span className="bg-white/10 px-2 py-1 rounded-full text-white/70">
                         {church.distance} mi
                       </span>
                     )}
-                    {church.rating && (
-                      <span className="bg-white/10 px-2 py-1 rounded-full text-white/70">
-                        ★ {church.rating} ({church.totalRatings} reviews)
-                      </span>
-                    )}
-                    {church.openNow !== undefined && (
-                      <span className={`px-2 py-1 rounded-full ${church.openNow ? 'bg-green-500/10 text-green-400' : 'bg-white/10 text-white/50'}`}>
-                        {church.openNow ? 'Open Now' : 'Closed'}
-                      </span>
+                    {church.phone && (
+                      <a href={`tel:${church.phone}`} className="bg-white/10 px-2 py-1 rounded-full text-white/70 hover:text-white transition">
+                        {church.phone}
+                      </a>
                     )}
                   </div>
-                  <div className="mt-4 pt-4 border-t border-white/10 flex gap-3">
+
+                  {/* Action links */}
+                  <div className="pt-4 border-t border-white/10 flex flex-wrap gap-3">
+                    {church.website && (
+                      <a
+                        href={church.website.startsWith('http') ? church.website : `https://${church.website}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-xs text-[#D4AF37] hover:text-yellow-400 transition font-medium"
+                      >
+                        Visit Website →
+                      </a>
+                    )}
                     <a
-                      href={`https://www.google.com/maps/place/?q=place_id:${church.id}`}
+                      href={buildGoogleMapsUrl(church)}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-xs text-[#1E40AF] hover:text-blue-400 transition"
                     >
-                      View on Map →
-                    </a>
-                    <a
-                      href={`https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(church.address)}`}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-xs text-white/50 hover:text-white transition"
-                    >
-                      Get Directions
+                      Get Directions →
                     </a>
                   </div>
                 </div>
@@ -228,12 +272,6 @@ export default function ChurchesPage() {
         {searched && !loading && churches.length === 0 && !error && (
           <div className="text-center py-12">
             <p className="text-white/40 text-sm">No churches found in this area. Try a different zip code or denomination.</p>
-          </div>
-        )}
-
-        {!searched && locationStatus !== 'idle' && !loading && (
-          <div className="text-center py-12 text-white/30 text-sm">
-            <p>Enter your zip code to find churches near you.</p>
           </div>
         )}
       </div>

@@ -8,7 +8,7 @@ export default function TermsPage() {
 
       <div className="max-w-3xl mx-auto px-6 py-16">
         <h1 className="text-4xl font-bold mb-2">Terms of Service</h1>
-        <p className="text-white/40 text-sm mb-12">Last updated: March 12, 2026</p>
+        <p className="text-white/40 text-sm mb-12">Last updated: March 13, 2026</p>
 
         <div className="space-y-8 text-white/70 leading-relaxed text-sm">
           <section>
@@ -93,7 +93,31 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">9. Acceptable Use</h2>
+            <h2 className="text-xl font-semibold text-white mb-3">9. Voice Feature</h2>
+            <p>
+              Voice search is provided as a convenience feature. Faith Compass does not guarantee accuracy
+              of voice transcription. Voice queries count against your daily question limit.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="text-xl font-semibold text-white mb-3">10. Account Required</h2>
+            <p>
+              Access to the Compass AI feature and voice search requires a free account. You must be 13
+              or older to create an account (COPPA).
+            </p>
+          </section>
+
+          <section>
+            <h2 className="text-xl font-semibold text-white mb-3">11. Terms Acceptance</h2>
+            <p>
+              By using Faith Compass, you agree to these Terms. We will notify you of material changes.
+              Continued use after changes constitutes acceptance.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="text-xl font-semibold text-white mb-3">12. Acceptable Use</h2>
             <p className="mb-3">You agree not to:</p>
             <ul className="list-disc pl-6 space-y-1">
               <li>Use the Service to spread misinformation or false doctrine intentionally</li>
@@ -105,7 +129,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">10. Intellectual Property</h2>
+            <h2 className="text-xl font-semibold text-white mb-3">13. Intellectual Property</h2>
             <p>
               Scripture quotations are from the King James Version (public domain).
               The Faith Compass platform, branding, and original content are the property
@@ -114,7 +138,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">11. Limitation of Liability</h2>
+            <h2 className="text-xl font-semibold text-white mb-3">14. Limitation of Liability</h2>
             <p>
               Faith Compass is provided &quot;as is&quot; without warranties of any kind. We are not
               liable for any spiritual, emotional, or other decisions made based on information
@@ -124,7 +148,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">12. Modifications</h2>
+            <h2 className="text-xl font-semibold text-white mb-3">15. Modifications</h2>
             <p>
               We reserve the right to modify these terms at any time. Continued use of the
               Service after changes constitutes acceptance of the modified terms. Material
@@ -133,7 +157,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">13. Contact</h2>
+            <h2 className="text-xl font-semibold text-white mb-3">16. Contact</h2>
             <p>
               For questions about these terms, contact us at{' '}
               <a href="mailto:legal@faithcompass.app" className="text-[#1E40AF] hover:text-blue-400 transition">
@@ -145,7 +169,8 @@ export default function TermsPage() {
       </div>
 
       <footer className="border-t border-white/10 px-6 py-8 text-center text-white/40 text-sm">
-        <div className="flex justify-center gap-6 mb-4">
+        <div className="flex justify-center items-center gap-6 mb-4">
+          <span className="text-white/20 text-xs">v{process.env.NEXT_PUBLIC_APP_VERSION || '1.0.0'}</span>
           <Link href="/about" className="hover:text-white transition">About</Link>
           <Link href="/privacy" className="hover:text-white transition">Privacy</Link>
           <Link href="/terms" className="hover:text-white transition">Terms</Link>

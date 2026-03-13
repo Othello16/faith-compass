@@ -1,10 +1,11 @@
 'use client'
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect, useRef, useCallback } from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { signIn, useSession } from 'next-auth/react'
 import Header from '@/components/Header'
 import LimitGate from '@/components/LimitGate'
+import ConsentModal from '@/components/ConsentModal'
 import { bookNameToSlug } from '@/lib/bible'
 
 interface BibleVerse {
@@ -19,6 +20,24 @@ interface BibleVerse {
 }
 
 type ModalStep = 'choice' | 'signin' | 'signup' | 'verify'
+
+// Web Speech API types
+interface ISpeechRecognition extends EventTarget {
+  lang: string; continuous: boolean; interimResults: boolean; maxAlternatives: number
+  start(): void; stop(): void
+  onresult: ((e: SpeechRecognitionEvent) => void) | null
+  onerror: ((e: Event) => void) | null
+  onend: ((e: Event) => void) | null
+}
+interface SpeechRecognitionEvent extends Event {
+  results: SpeechRecognitionResultList
+}
+declare global {
+  interface Window {
+    SpeechRecognition: new () => ISpeechRecognition
+    webkitSpeechRecognition: new () => ISpeechRecognition
+  }
+}
 
 // ── Auth Gate Modal ─────────────────────────────────────────────────────────
 function AuthModal({
@@ -40,7 +59,6 @@ function AuthModal({
 
   const reset = (s: ModalStep) => { setStep(s); setError('') }
 
-  // Sign In
   const handleSignIn = async (e: React.FormEvent) => {
     e.preventDefault()
     setLoading(true); setError('')
@@ -57,7 +75,6 @@ function AuthModal({
     finally { setLoading(false) }
   }
 
-  // Sign Up
   const handleSignUp = async (e: React.FormEvent) => {
     e.preventDefault()
     setLoading(true); setError('')
@@ -75,7 +92,6 @@ function AuthModal({
     finally { setLoading(false) }
   }
 
-  // Verify email
   const handleVerify = async (e: React.FormEvent) => {
     e.preventDefault()
     setLoading(true); setError('')
@@ -108,7 +124,6 @@ function AuthModal({
           <div className="space-y-3">
             <h2 className="text-base font-bold text-center mb-4">Sign in to get your answer</h2>
 
-            {/* Social logins */}
             <button
               onClick={() => signIn('google', { callbackUrl: '/compass' })}
               className="w-full flex items-center justify-center gap-3 bg-white text-gray-800 py-2.5 rounded-xl text-sm font-medium hover:bg-gray-100 transition"
@@ -200,7 +215,6 @@ function AuthModal({
                 placeholder="Password (8+ chars, uppercase, number)"
                 className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-2.5 text-sm text-white placeholder-white/30 focus:outline-none focus:border-[#D4AF37]" />
 
-              {/* Marketing opt-in */}
               <label className="flex items-start gap-3 cursor-pointer group">
                 <input
                   type="checkbox"
@@ -278,6 +292,10 @@ function AuthModal({
 export default function CompassPage() {
   const router = useRouter()
   const { data: session, status } = useSession()
+  // Stable refs to avoid stale closures in speech recognition callbacks
+  const sessionRef = useRef(session)
+  useEffect(() => { sessionRef.current = session }, [session])
+
   const [question, setQuestion] = useState('')
   const [answer, setAnswer] = useState('')
   const [loading, setLoading] = useState(false)
@@ -286,29 +304,40 @@ export default function CompassPage() {
   const [nextAvailable, setNextAvailable] = useState<string | null>(null)
   const [verses, setVerses] = useState<BibleVerse[]>([])
   const [showAuth, setShowAuth] = useState(false)
+  const [showConsent, setShowConsent] = useState(false)
   const pendingQuestion = useRef('')
-  const hasAutoSubmitted = useRef(false)  // guard against double-submit
+  const hasAutoSubmitted = useRef(false)
   const LIMIT = 3
 
-  // After OAuth social sign-in returns: restore question from localStorage and submit
-  useEffect(() => {
-    if (status === 'loading') return  // wait for session to resolve
-    // Use localStorage so it survives OAuth redirects reliably
-    const saved = localStorage.getItem('fc_pending_question')
-    if (saved && !hasAutoSubmitted.current) {
-      hasAutoSubmitted.current = true
-      localStorage.removeItem('fc_pending_question')
-      sessionStorage.removeItem('fc_pending_question')
-      setQuestion(saved)
-      submitQuestion(saved)
-    }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [status])
+  // Voice state
+  const [listening, setListening] = useState(false)
+  const [voiceSupported, setVoiceSupported] = useState(false)
+  const [transcript, setTranscript] = useState('')
+  const recognitionRef = useRef<ISpeechRecognition | null>(null)
 
-  const submitQuestion = async (q: string) => {
+  // ── Consent check helper ──────────────────────────────────────────────────
+  const checkConsentAndSubmit = useCallback(async (q: string) => {
+    try {
+      const res = await fetch('/api/auth/consent')
+      const data = await res.json()
+      if (data.hasConsented) {
+        submitQuestionRef.current(q)
+      } else {
+        pendingQuestion.current = q
+        setShowConsent(true)
+      }
+    } catch {
+      // If consent check fails, try submitting anyway (server will enforce)
+      submitQuestionRef.current(q)
+    }
+  }, [])
+
+  // ── Submit question ───────────────────────────────────────────────────────
+  const submitQuestion = useCallback(async (q: string) => {
     if (!q.trim() || loading || limitReached) return
     setLoading(true)
-    setShowAuth(false)  // close modal if still open
+    setShowAuth(false)
+    setShowConsent(false)
     setAnswer('')
     setVerses([])
     try {
@@ -326,6 +355,12 @@ export default function CompassPage() {
       ])
 
       const compassData = await compassRes.json()
+
+      if (compassRes.status === 403 && compassData.error === 'consent_required') {
+        pendingQuestion.current = q
+        setShowConsent(true)
+        return
+      }
 
       if (compassRes.status === 429) {
         setLimitReached(true)
@@ -348,19 +383,93 @@ export default function CompassPage() {
     } finally {
       setLoading(false)
     }
+  }, [loading, limitReached])
+
+  // Stable ref for submitQuestion (used in speech callbacks)
+  const submitQuestionRef = useRef(submitQuestion)
+  useEffect(() => { submitQuestionRef.current = submitQuestion }, [submitQuestion])
+
+  // Stable ref for checkConsentAndSubmit
+  const checkConsentRef = useRef(checkConsentAndSubmit)
+  useEffect(() => { checkConsentRef.current = checkConsentAndSubmit }, [checkConsentAndSubmit])
+
+  // ── Voice setup ───────────────────────────────────────────────────────────
+  useEffect(() => {
+    const SR = window.SpeechRecognition || window.webkitSpeechRecognition
+    setVoiceSupported(!!SR)
+    if (!SR) return
+    const rec = new SR()
+    rec.lang = 'en-US'
+    rec.continuous = false
+    rec.interimResults = true
+    rec.maxAlternatives = 1
+    rec.onresult = (e: SpeechRecognitionEvent) => {
+      const interim = Array.from(e.results).map(r => r[0].transcript).join('')
+      setTranscript(interim)
+      if (e.results[e.results.length - 1].isFinal) {
+        const final = e.results[e.results.length - 1][0].transcript.trim()
+        setQuestion(final)
+        setTranscript('')
+        setListening(false)
+        // Use refs to avoid stale closures
+        if (sessionRef.current) {
+          checkConsentRef.current(final)
+        } else {
+          // Not signed in — save transcript, show auth gate
+          pendingQuestion.current = final
+          localStorage.setItem('fc_pending_question', final)
+          setShowAuth(true)
+        }
+      }
+    }
+    rec.onerror = () => { setListening(false); setTranscript('') }
+    rec.onend = () => { setListening(false); setTranscript('') }
+    recognitionRef.current = rec
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
+
+  const toggleVoice = () => {
+    if (!recognitionRef.current) return
+    if (listening) {
+      recognitionRef.current.stop()
+      setListening(false)
+    } else {
+      setQuestion('')
+      setTranscript('')
+      try { recognitionRef.current.start(); setListening(true) }
+      catch { setListening(false) }
+    }
   }
+
+  // ── After OAuth social sign-in returns ────────────────────────────────────
+  useEffect(() => {
+    if (status === 'loading') return
+    const saved = localStorage.getItem('fc_pending_question')
+    if (saved && !hasAutoSubmitted.current) {
+      hasAutoSubmitted.current = true
+      localStorage.removeItem('fc_pending_question')
+      sessionStorage.removeItem('fc_pending_question')
+      setQuestion(saved)
+      if (session) {
+        checkConsentAndSubmit(saved)
+      } else {
+        submitQuestion(saved)
+      }
+    }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [status])
 
   const handleAsk = () => {
     if (!question.trim() || loading || limitReached) return
-    // Already signed in — submit directly, no auth modal
+    // Loading guard: if session is still resolving, show spinner
+    if (status === 'loading') return
     if (session) {
-      submitQuestion(question)
+      checkConsentAndSubmit(question)
       return
     }
-    // Not signed in — save question, show auth gate
     pendingQuestion.current = question
     localStorage.setItem('fc_pending_question', question)
-    sessionStorage.setItem('fc_pending_question', question)  // belt + suspenders
+    sessionStorage.setItem('fc_pending_question', question)
     setShowAuth(true)
   }
 
@@ -369,6 +478,12 @@ export default function CompassPage() {
     const q = pendingQuestion.current || question
     localStorage.removeItem('fc_pending_question')
     sessionStorage.removeItem('fc_pending_question')
+    checkConsentAndSubmit(q)
+  }
+
+  const handleConsentAccepted = () => {
+    setShowConsent(false)
+    const q = pendingQuestion.current || question
     submitQuestion(q)
   }
 
@@ -390,6 +505,13 @@ export default function CompassPage() {
         />
       )}
 
+      {showConsent && (
+        <ConsentModal
+          onAccept={handleConsentAccepted}
+          onClose={() => setShowConsent(false)}
+        />
+      )}
+
       <div className="max-w-2xl mx-auto px-5 py-10">
         <div className="flex items-start justify-between mb-2 gap-4">
           <h1 className="text-3xl font-bold leading-tight">Ask the<br />Compass</h1>
@@ -401,24 +523,58 @@ export default function CompassPage() {
           Every answer is grounded in Scripture. No opinions — only the Word.
         </p>
 
-        <div className="bg-white/5 border border-white/10 rounded-2xl p-5 mb-6">
-          <textarea
-            className="w-full bg-transparent text-white placeholder-white/30 resize-none outline-none text-sm leading-relaxed"
-            rows={4}
-            placeholder="Ask a faith or moral question... (e.g. 'What does the Bible say about forgiveness?')"
-            value={question}
-            onChange={(e) => setQuestion(e.target.value.slice(0, 500))}
-            disabled={limitReached}
-            onKeyDown={(e) => { if (e.key === 'Enter' && (e.metaKey || e.ctrlKey)) handleAsk() }}
-          />
+        <div className={`bg-white/5 border rounded-2xl p-5 mb-6 transition-all ${listening ? 'border-red-400/60 shadow-[0_0_20px_rgba(248,113,113,0.15)]' : 'border-white/10'}`}>
+          <div className="flex items-start gap-3">
+            {/* Mic button */}
+            {voiceSupported && (
+              <button
+                onClick={toggleVoice}
+                title={listening ? 'Stop' : 'Speak your question'}
+                className={`shrink-0 w-11 h-11 rounded-xl flex items-center justify-center transition-all mt-1 ${
+                  listening
+                    ? 'bg-red-500/20 border border-red-400/50 text-red-400 animate-pulse'
+                    : 'bg-[#D4AF37]/10 border border-[#D4AF37]/30 text-[#D4AF37] hover:bg-[#D4AF37]/20'
+                }`}
+              >
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/>
+                  <path d="M19 10v2a7 7 0 0 1-14 0v-2"/>
+                  <line x1="12" y1="19" x2="12" y2="23"/>
+                  <line x1="8" y1="23" x2="16" y2="23"/>
+                </svg>
+              </button>
+            )}
+            <textarea
+              className="flex-1 bg-transparent text-white placeholder-white/30 resize-none outline-none text-sm leading-relaxed"
+              rows={4}
+              placeholder={listening ? 'Listening... speak your question' : "Ask a faith or moral question... (e.g. 'What does the Bible say about forgiveness?')"}
+              value={listening ? transcript || '' : question}
+              onChange={(e) => { if (!listening) setQuestion(e.target.value.slice(0, 500)) }}
+              disabled={limitReached || listening}
+              onKeyDown={(e) => { if (e.key === 'Enter' && (e.metaKey || e.ctrlKey)) handleAsk() }}
+            />
+          </div>
+
+          {listening && (
+            <div className="mt-2 flex items-center gap-2 text-red-400 text-xs justify-center">
+              <span className="w-2 h-2 bg-red-400 rounded-full animate-pulse" />
+              Listening... speak your faith question
+            </div>
+          )}
+
           <div className="flex justify-between items-center mt-4 pt-4 border-t border-white/10">
             <span className="text-xs text-white/30">{question.length}/500</span>
             <button
               onClick={handleAsk}
-              disabled={!question.trim() || loading || limitReached}
+              disabled={!question.trim() || loading || limitReached || status === 'loading'}
               className="bg-[#1E40AF] text-white px-5 py-2 rounded-lg text-sm font-medium hover:bg-blue-700 transition disabled:opacity-40 disabled:cursor-not-allowed"
             >
-              {loading ? 'Searching Scripture...' : 'Ask →'}
+              {status === 'loading' ? (
+                <span className="flex items-center gap-2">
+                  <svg className="animate-spin h-4 w-4" viewBox="0 0 24 24"><circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none"/><path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"/></svg>
+                  Loading...
+                </span>
+              ) : loading ? 'Searching Scripture...' : 'Ask →'}
             </button>
           </div>
         </div>
@@ -430,7 +586,6 @@ export default function CompassPage() {
                 <span className="text-[#D4AF37]">📖</span>
                 <span className="text-sm font-medium text-[#D4AF37]">Scripture Response</span>
               </div>
-              {/* Share button */}
               <button
                 onClick={async () => {
                   const firstVerse = verses[0]

@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server'
 import OpenAI from 'openai'
 import { checkUsageLimit, recordUsage, getUserIdFromRequest } from '@/lib/usage-limit'
+import { getSession } from '@/lib/auth'
+import { checkConsent } from '@/lib/consent'
 
 const SYSTEM_PROMPT = `You are a Scripture reference tool for Faith Compass. You do not have opinions, feelings, or personal beliefs. You only surface what the Bible says.
 
@@ -21,8 +23,17 @@ Rules:
 export async function POST(req: NextRequest) {
   const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
   try {
+    const session = await getSession()
     const ip = req.headers.get('x-forwarded-for')?.split(',')[0]?.trim() || req.headers.get('x-real-ip') || 'unknown'
-    const userId = getUserIdFromRequest(null, ip)
+    const userId = getUserIdFromRequest(session as { user?: { id?: string; email?: string } } | null, ip)
+
+    // If user is authenticated but hasn't consented, block access
+    if (session?.user) {
+      const hasConsented = await checkConsent(userId)
+      if (!hasConsented) {
+        return NextResponse.json({ error: 'consent_required' }, { status: 403 })
+      }
+    }
 
     const usage = await checkUsageLimit(userId)
     if (!usage.allowed) {
