@@ -322,12 +322,12 @@ function CompassContent() {
   const [limitReached, setLimitReached] = useState(false)
   const [nextAvailable, setNextAvailable] = useState<string | null>(null)
   const [userPlan, setUserPlan] = useState<'free' | 'guided' | 'pro'>('free')
+  const [usageLimit, setUsageLimit] = useState(3)
   const [verses, setVerses] = useState<BibleVerse[]>([])
   const [showAuth, setShowAuth] = useState(false)
   const [showConsent, setShowConsent] = useState(false)
   const pendingQuestion = useRef('')
   const hasAutoSubmitted = useRef(false)
-  const LIMIT = 3
 
   // Fetch usage + plan on mount and after sign-in
   const fetchUsageStatus = useCallback(async () => {
@@ -339,6 +339,7 @@ function CompassContent() {
       setNextAvailable(data.nextAvailable)
       setUsed(data.used)
       setUserPlan(data.plan)
+      setUsageLimit(data.limit ?? 3)
     } catch { /* silent */ }
   }, [])
 
@@ -429,7 +430,7 @@ function CompassContent() {
       if (compassRes.status === 429) {
         setLimitReached(true)
         setNextAvailable(compassData.nextAvailable)
-        setUsed(compassData.used || LIMIT)
+        setUsed(compassData.used || usageLimit)
         return
       }
 
@@ -608,7 +609,8 @@ function CompassContent() {
         <div className="flex items-start justify-between mb-2 gap-4">
           <h1 className="text-3xl font-bold leading-tight">Ask the<br /><span className="gold-text">Compass</span></h1>
           <span className="text-xs text-[#6B7280] text-right mt-1 shrink-0">
-            {used}/{LIMIT} questions<br />used today
+            {used.toLocaleString()}/{usageLimit.toLocaleString()} questions<br />
+            {userPlan === 'free' ? 'used today' : 'answered'}
           </span>
         </div>
         <p className="text-[#374151] text-sm mb-6">
@@ -751,7 +753,7 @@ function CompassContent() {
             nextAvailable={nextAvailable}
             plan={userPlan}
             used={used}
-            limit={LIMIT}
+            limit={usageLimit}
           />
         )}
       </div>

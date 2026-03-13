@@ -53,12 +53,16 @@ export async function checkUsageLimit(userId: string): Promise<UsageCheckResult>
   const monthlyLimit = PLAN_LIMITS[plan]
 
   if (subscribed && monthlyLimit !== null && subscription) {
-    // ── Paid user: count questions within the current billing cycle ────────
+    // ── Paid user: rolling 30-day window, anchored to the later of
+    //   (a) subscription/upgrade date — so upgrading resets count to 0
+    //   (b) 30 days ago — so questions naturally age out after 30 days
     const cycleStart = getPeriodStart(subscription)
+    const thirtyDaysAgo = new Date(now.getTime() - 30 * 24 * 60 * 60 * 1000).toISOString()
+    const windowStart = cycleStart > thirtyDaysAgo ? cycleStart : thirtyDaysAgo
     const result = await db.send(new QueryCommand({
       TableName: TABLE_NAME,
       KeyConditionExpression: 'userId = :uid AND questionTimestamp >= :start',
-      ExpressionAttributeValues: { ':uid': userId, ':start': cycleStart },
+      ExpressionAttributeValues: { ':uid': userId, ':start': windowStart },
     }))
 
     const used = result.Count || 0
