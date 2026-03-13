@@ -1,9 +1,11 @@
 import { DynamoDBClient } from '@aws-sdk/client-dynamodb'
 import { DynamoDBDocumentClient, QueryCommand, PutCommand } from '@aws-sdk/lib-dynamodb'
+import { isSubscribed, PLAN_LIMITS } from './subscription'
 
 const TABLE_NAME = process.env.DYNAMODB_USAGE_TABLE || 'faith-compass-usage'
 const FREE_LIMIT = 3
-const WINDOW_MS = 24 * 60 * 60 * 1000 // 24 hours
+const WINDOW_MS = 24 * 60 * 60 * 1000 // 24 hours rolling window (free tier)
+const MONTH_MS = 30 * 24 * 60 * 60 * 1000 // 30-day window (paid tiers)
 const TTL_SECONDS = 25 * 60 * 60 // 25 hours
 
 let docClient: DynamoDBDocumentClient | null = null
@@ -33,28 +35,45 @@ export interface UsageCheckResult {
 export async function checkUsageLimit(userId: string): Promise<UsageCheckResult> {
   const db = getClient()
   const now = new Date()
-  const windowStart = new Date(now.getTime() - WINDOW_MS).toISOString()
 
+  // Check subscription — paid users get monthly limits instead of 3/day
+  const { subscribed, plan } = await isSubscribed(userId)
+  const monthlyLimit = PLAN_LIMITS[plan]  // null = free (use daily limit)
+
+  if (subscribed && monthlyLimit !== null) {
+    // Paid user: 30-day rolling window
+    const windowStart = new Date(now.getTime() - MONTH_MS).toISOString()
+    const result = await db.send(new QueryCommand({
+      TableName: TABLE_NAME,
+      KeyConditionExpression: 'userId = :uid AND questionTimestamp > :start',
+      ExpressionAttributeValues: { ':uid': userId, ':start': windowStart },
+    }))
+    const used = result.Count || 0
+    const remaining = Math.max(0, monthlyLimit - used)
+    const allowed = used < monthlyLimit
+    let nextAvailable: string | null = null
+    if (!allowed && result.Items?.length) {
+      const oldest = result.Items.map(i => i.questionTimestamp as string).sort()[0]
+      nextAvailable = new Date(new Date(oldest).getTime() + MONTH_MS).toISOString()
+    }
+    return { allowed, used, limit: monthlyLimit, remaining, nextAvailable }
+  }
+
+  // Free user: 24-hour rolling window, 3/day
+  const windowStart = new Date(now.getTime() - WINDOW_MS).toISOString()
   const result = await db.send(new QueryCommand({
     TableName: TABLE_NAME,
     KeyConditionExpression: 'userId = :uid AND questionTimestamp > :start',
-    ExpressionAttributeValues: {
-      ':uid': userId,
-      ':start': windowStart,
-    },
+    ExpressionAttributeValues: { ':uid': userId, ':start': windowStart },
   }))
-
   const used = result.Count || 0
   const remaining = Math.max(0, FREE_LIMIT - used)
   const allowed = used < FREE_LIMIT
-
   let nextAvailable: string | null = null
-  if (!allowed && result.Items && result.Items.length > 0) {
-    const timestamps = result.Items.map(i => i.questionTimestamp as string).sort()
-    const oldest = new Date(timestamps[0])
-    nextAvailable = new Date(oldest.getTime() + WINDOW_MS).toISOString()
+  if (!allowed && result.Items?.length) {
+    const oldest = result.Items.map(i => i.questionTimestamp as string).sort()[0]
+    nextAvailable = new Date(new Date(oldest).getTime() + WINDOW_MS).toISOString()
   }
-
   return { allowed, used, limit: FREE_LIMIT, remaining, nextAvailable }
 }
 
