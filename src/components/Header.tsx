@@ -11,12 +11,12 @@ export default function Header() {
   const callbackUrl = encodeURIComponent(pathname || '/compass')
 
   return (
-    <nav className="w-full px-4 py-3 border-b border-white/10">
+    <nav className="w-full px-4 py-3 bg-[#080808] border-b border-[#1A1A1A]">
       <div className="max-w-5xl mx-auto flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 shrink-0">
           <span className="text-xl">🧭</span>
-          <span className="text-base font-bold text-[#D4AF37] leading-tight">Faith<br className="hidden sm:block" /> Compass</span>
+          <span className="text-base font-bold leading-tight"><span className="text-white">Faith</span><br className="hidden sm:block" /> <span className="text-[#C9A84C]">Compass</span></span>
         </Link>
 
         {/* Nav */}
@@ -27,18 +27,18 @@ export default function Header() {
           <Link href="/pricing" className="text-xs text-white/60 hover:text-white transition px-2 py-1 hidden sm:block">Pricing</Link>
 
           {status === 'loading' ? (
-            <div className="w-16 h-7 rounded-lg bg-white/10 animate-pulse" />
+            <div className="w-16 h-7 rounded-lg bg-[#1A1A1A] animate-pulse" />
           ) : session ? (
             <button
               onClick={() => signOut({ callbackUrl: '/' })}
-              className="bg-white/10 text-white/80 px-3 py-1.5 rounded-lg text-xs font-medium hover:bg-white/20 transition whitespace-nowrap"
+              className="bg-[#1A1A1A] text-white/80 px-3 py-1.5 rounded-lg text-xs font-medium hover:bg-white/20 transition whitespace-nowrap"
             >
               Sign Out
             </button>
           ) : (
             <Link
               href={`/auth/signin?callbackUrl=${callbackUrl}`}
-              className="bg-[#1E40AF] text-white px-3 py-1.5 rounded-lg text-xs font-medium hover:bg-blue-700 transition whitespace-nowrap"
+              className="border border-[#C9A84C]/40 text-[#C9A84C] px-3 py-1.5 rounded-lg text-xs font-medium hover:bg-[#C9A84C] hover:text-black transition whitespace-nowrap"
             >
               Sign In
             </Link>

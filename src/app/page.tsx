@@ -87,31 +87,28 @@ export default function Home() {
   }
 
   return (
-    <main className="min-h-screen bg-[#0F172A] text-white">
+    <main className="min-h-screen bg-[#080808] text-white">
       <Header />
 
       {/* ── HERO ─────────────────────────────────────────────── */}
-      <section className="max-w-3xl mx-auto px-5 pt-12 pb-10 text-center">
+      <section className="max-w-3xl mx-auto px-5 pt-16 pb-14 text-center" style={{ background: 'radial-gradient(ellipse at center, #111111 0%, #080808 70%)' }}>
 
         {/* Eyebrow */}
-        <div className="inline-flex items-center gap-2 bg-[#D4AF37]/10 text-[#D4AF37] text-xs px-3 py-1 rounded-full border border-[#D4AF37]/30 mb-5">
+        <div className="inline-flex items-center gap-2 bg-[#C9A84C]/10 text-[#C9A84C] text-xs px-3 py-1 rounded-full border border-[#C9A84C]/30 mb-5">
           <span>✦</span>
           <span>Scripture-verified • Clergy-overseen • Built on the Word</span>
           <span>✦</span>
         </div>
 
-        <h1 className="text-4xl sm:text-5xl font-bold mb-3 leading-tight">
-          Ask the Compass.
-          <br />
-          <span className="text-[#D4AF37]">Not the crowd.</span>
+        <h1 className="text-4xl sm:text-5xl font-bold mb-3 leading-tight tracking-tight">
+          Ask the <span className="text-[#C9A84C]">Compass.</span>
         </h1>
-        <p className="text-white/50 text-sm sm:text-base mb-8 max-w-lg mx-auto leading-relaxed">
-          The first voice assistant built on the Word of God. Speak or type any faith question
-          and receive a Scripture-anchored answer — not an opinion.
+        <p className="text-[#9CA3AF] text-sm sm:text-base mb-8 max-w-lg mx-auto leading-relaxed">
+          Scripture-grounded answers. No opinion. No noise. Just the Word.
         </p>
 
         {/* ── ASK THE COMPASS INPUT ── */}
-        <div className={`bg-white/5 border rounded-2xl p-4 transition-all ${listening ? 'border-red-400/60 shadow-[0_0_20px_rgba(248,113,113,0.15)]' : 'border-white/15 hover:border-white/25'}`}>
+        <div className={`bg-[#111111] border rounded-2xl p-4 transition-all ${listening ? 'border-red-400/60 shadow-[0_0_20px_rgba(248,113,113,0.15)]' : 'border-[#1A1A1A] hover:border-[#C9A84C]/30'}`}>
           <div className="flex items-center gap-3">
             {/* Mic button */}
             {voiceSupported && (
@@ -121,7 +118,7 @@ export default function Home() {
                 className={`shrink-0 w-12 h-12 rounded-xl flex items-center justify-center transition-all ${
                   listening
                     ? 'bg-red-500/20 border border-red-400/50 text-red-400 animate-pulse'
-                    : 'bg-[#D4AF37]/10 border border-[#D4AF37]/30 text-[#D4AF37] hover:bg-[#D4AF37]/20'
+                    : 'bg-[#C9A84C]/10 border border-[#C9A84C]/30 text-[#C9A84C] hover:bg-[#C9A84C]/20'
                 }`}
               >
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -154,7 +151,7 @@ export default function Home() {
           <button
             onClick={() => handleAsk()}
             disabled={!question.trim() && !listening}
-            className="mt-3 w-full bg-[#1E40AF] text-white py-3 rounded-xl text-sm font-semibold hover:bg-blue-700 transition disabled:opacity-30"
+            className="mt-3 w-full bg-[#C9A84C] text-black py-3 rounded-xl text-sm font-bold tracking-wide hover:bg-[#E8C96E] transition disabled:opacity-30"
           >
             Ask the Compass 🧭
           </button>
@@ -166,7 +163,7 @@ export default function Home() {
             <p className="text-white/30 text-xs mb-2">✦ Today&apos;s Compass Question</p>
             <button
               onClick={() => handleAsk(dailyQuestion)}
-              className="text-xs text-[#D4AF37]/70 hover:text-[#D4AF37] transition italic leading-relaxed text-center max-w-md mx-auto block"
+              className="text-xs text-[#C9A84C]/70 hover:text-[#C9A84C] transition italic leading-relaxed text-center max-w-md mx-auto block"
             >
               &ldquo;{dailyQuestion}&rdquo; →
             </button>
@@ -193,26 +190,26 @@ export default function Home() {
           <Link
             key={f.title}
             href={f.href}
-            className="group bg-white/5 border border-white/10 rounded-2xl p-5 hover:border-[#D4AF37]/40 hover:bg-white/8 transition flex flex-col"
+            className="group bg-[#111111] border border-[#1A1A1A] rounded-2xl p-5 hover:border-[#C9A84C]/40 hover:bg-white/8 transition flex flex-col"
           >
             <div className="text-3xl mb-3">{f.icon}</div>
-            <h3 className="text-sm font-semibold text-[#D4AF37] mb-1">{f.title}</h3>
+            <h3 className="text-sm font-semibold text-[#C9A84C] mb-1">{f.title}</h3>
             <p className="text-white/50 text-xs leading-relaxed flex-1">{f.desc}</p>
-            <span className="text-xs text-[#1E40AF] mt-3 opacity-0 group-hover:opacity-100 transition">{f.cta} →</span>
+            <span className="text-xs text-[#C9A84C] mt-3 opacity-0 group-hover:opacity-100 transition">{f.cta} →</span>
           </Link>
         ))}
       </section>
 
       {/* ── TRUST / ADVISORY ─────────────────────────────────── */}
       <section className="max-w-3xl mx-auto px-5 py-12 text-center">
-        <div className="bg-white/5 border border-white/10 rounded-2xl p-8">
-          <div className="text-[#D4AF37] text-xs uppercase tracking-widest mb-4">Theological Advisory</div>
+        <div className="bg-[#111111] border border-[#1A1A1A] rounded-2xl p-8">
+          <div className="text-[#C9A84C] text-xs uppercase tracking-widest mb-4">Theological Advisory</div>
           <blockquote className="text-white/70 text-sm sm:text-base italic leading-relaxed mb-6">
             &ldquo;Faith Compass was built to honor the integrity of the Word. Every answer points back to Scripture,
             every feature is designed to strengthen — never replace — the relationship between a believer and their God.&rdquo;
           </blockquote>
           <div className="flex items-center justify-center gap-3">
-            <div className="w-10 h-10 rounded-full bg-[#D4AF37]/20 flex items-center justify-center text-lg">✝️</div>
+            <div className="w-10 h-10 rounded-full bg-[#C9A84C]/20 flex items-center justify-center text-lg">✝️</div>
             <div className="text-left">
               <p className="text-white font-semibold text-sm">Rev. Dr. Renn S. Law II, D.Min.</p>
               <p className="text-white/40 text-xs">Theological Advisory Lead, Faith Compass</p>
@@ -235,7 +232,7 @@ export default function Home() {
             ['❌ Emotional AI dependency', '✅ Connection to real churches'],
             ['❌ Hidden agendas', '✅ Clergy-overseen integrity'],
           ].map(([bad, good]) => (
-            <div key={good} className="bg-white/5 rounded-xl p-3 border border-white/10">
+            <div key={good} className="bg-[#111111] rounded-xl p-3 border border-[#1A1A1A]">
               <p className="text-red-400 text-xs mb-1">{bad}</p>
               <p className="text-green-400 text-xs font-medium">{good}</p>
             </div>
@@ -252,22 +249,22 @@ export default function Home() {
             { name: 'Compass Guided', price: '$3', period: '/month', features: ['500 questions/month', 'No daily cap', 'Question history', 'Bookmarks'], cta: 'Start Guided', highlight: false },
             { name: 'Compass Pro', price: '$7.77', period: '/month', features: ['1,500 questions/month', 'Integrity Check', 'Priority answers', 'PDF exports'], cta: 'Go Pro', highlight: true },
           ].map(tier => (
-            <div key={tier.name} className={`rounded-2xl p-5 border ${tier.highlight ? 'border-[#D4AF37] bg-[#D4AF37]/5' : 'border-white/10 bg-white/5'}`}>
+            <div key={tier.name} className={`rounded-2xl p-5 border ${tier.highlight ? 'border-[#C9A84C] bg-[#C9A84C]/5' : 'border-[#1A1A1A] bg-[#111111]'}`}>
               <h3 className="text-sm font-semibold mb-1">{tier.name}</h3>
               <div className="mb-4">
-                <span className="text-3xl font-bold">{tier.price}</span>
+                <span className="text-3xl font-bold text-[#C9A84C]">{tier.price}</span>
                 <span className="text-white/40 text-xs">{tier.period}</span>
               </div>
               <ul className="space-y-1.5 mb-5">
                 {tier.features.map(f => (
                   <li key={f} className="text-xs text-white/60 flex items-center gap-2">
-                    <span className="text-green-400">✓</span> {f}
+                    <span className="text-[#C9A84C]">✓</span> {f}
                   </li>
                 ))}
               </ul>
               <Link
                 href="/compass"
-                className={`block text-center py-2 rounded-lg text-xs font-semibold transition ${tier.highlight ? 'bg-[#D4AF37] text-black hover:bg-yellow-400' : 'bg-white/10 text-white hover:bg-white/20'}`}
+                className={`block text-center py-2 rounded-lg text-xs font-semibold transition ${tier.highlight ? 'bg-[#C9A84C] text-black hover:bg-[#E8C96E]' : 'bg-[#1A1A1A] text-white hover:bg-white/20'}`}
               >
                 {tier.cta}
               </Link>
@@ -280,17 +277,17 @@ export default function Home() {
       </section>
 
       {/* ── FOOTER ───────────────────────────────────────────── */}
-      <footer className="border-t border-white/10 px-5 py-8 text-center text-white/30 text-xs">
-        <div className="flex justify-center items-center gap-5 mb-3">
-          <span className="text-white/20">v{process.env.NEXT_PUBLIC_APP_VERSION || '1.0.0'}</span>
-          <Link href="/about" className="hover:text-white transition">About</Link>
-          <Link href="/privacy" className="hover:text-white transition">Privacy</Link>
-          <Link href="/terms" className="hover:text-white transition">Terms</Link>
-          <Link href="/topics" className="hover:text-white transition">Topical Bible</Link>
+      <footer className="border-t border-[#C9A84C]/20 px-5 py-8 text-center text-xs">
+        <div className="flex justify-center items-center gap-5 mb-3 text-[#C9A84C]/40">
+          <span>v{process.env.NEXT_PUBLIC_APP_VERSION || '1.0.0'}</span>
+          <Link href="/about" className="hover:text-[#C9A84C] transition">About</Link>
+          <Link href="/privacy" className="hover:text-[#C9A84C] transition">Privacy</Link>
+          <Link href="/terms" className="hover:text-[#C9A84C] transition">Terms</Link>
+          <Link href="/topics" className="hover:text-[#C9A84C] transition">Topical Bible</Link>
         </div>
-        <p>© 2026 Faith Compass. Built with faith and purpose.</p>
-        <p className="mt-1 text-xs opacity-60">A Rising Jupiter Initiative • MostHighKing Ministries</p>
-        <p className="mt-1 text-xs opacity-50">Theological Advisory: Rev. Dr. Renn S. Law II, D.Min.</p>
+        <p className="text-white/20">© 2026 Faith Compass. Built with faith and purpose.</p>
+        <p className="mt-1 text-xs text-white/15">A Rising Jupiter Initiative • MostHighKing Ministries</p>
+        <p className="mt-1 text-xs text-white/15">Theological Advisory: Rev. Dr. Renn S. Law II, D.Min.</p>
       </footer>
     </main>
   )

@@ -60,7 +60,7 @@ export default function InstallPrompt() {
 
   return (
     <div className="fixed bottom-24 left-4 right-4 sm:left-auto sm:right-20 sm:w-80 z-40
-                    bg-[#0F172A] border border-[#D4AF37]/40 rounded-2xl p-4 shadow-2xl
+                    bg-[#080808] border border-[#C9A84C]/40 rounded-2xl p-4 shadow-2xl
                     shadow-black/50 animate-in slide-in-from-bottom-4">
       <div className="flex items-start gap-3">
         {/* Icon */}
@@ -79,13 +79,13 @@ export default function InstallPrompt() {
             <div className="flex gap-2 mt-3">
               <button
                 onClick={handleInstall}
-                className="flex-1 bg-[#1E40AF] text-white py-1.5 rounded-lg text-xs font-semibold hover:bg-blue-700 transition"
+                className="flex-1 bg-[#C9A84C] text-black py-1.5 rounded-lg text-xs font-semibold hover:bg-[#E8C96E] transition"
               >
                 Install
               </button>
               <button
                 onClick={handleDismiss}
-                className="px-3 py-1.5 rounded-lg text-xs text-white/40 hover:text-white/70 hover:bg-white/5 transition"
+                className="px-3 py-1.5 rounded-lg text-xs text-white/40 hover:text-white/70 hover:bg-[#111111] transition"
               >
                 Not now
               </button>
@@ -95,7 +95,7 @@ export default function InstallPrompt() {
           {isIOS && (
             <div className="flex items-center gap-2 mt-3">
               <span className="text-lg">⬆️</span>
-              <span className="text-xs text-[#D4AF37]">Tap Share → Add to Home Screen</span>
+              <span className="text-xs text-[#C9A84C]">Tap Share → Add to Home Screen</span>
               <button onClick={handleDismiss} className="ml-auto text-white/30 hover:text-white/60 transition text-lg leading-none">×</button>
             </div>
           )}

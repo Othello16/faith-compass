@@ -30,14 +30,14 @@ export default function LimitGate({ nextAvailable }: LimitGateProps) {
   }, [nextAvailable])
 
   return (
-    <div className="mt-6 bg-[#D4AF37]/10 border border-[#D4AF37]/30 rounded-2xl p-6 text-center">
-      <p className="text-[#D4AF37] font-semibold mb-2">Daily limit reached (3/3)</p>
+    <div className="mt-6 bg-[#C9A84C]/10 border border-[#C9A84C]/30 rounded-2xl p-6 text-center">
+      <p className="text-[#C9A84C] font-semibold mb-2">Daily limit reached (3/3)</p>
       <p className="text-white/60 text-sm mb-2">
         You&apos;ve used your 3 free questions today.
       </p>
       {nextAvailable && countdown !== 'now' && (
         <p className="text-white/50 text-sm mb-4">
-          Your next question unlocks in: <span className="text-[#D4AF37] font-mono">{countdown}</span>
+          Your next question unlocks in: <span className="text-[#C9A84C] font-mono">{countdown}</span>
         </p>
       )}
       {countdown === 'now' && (
@@ -45,7 +45,7 @@ export default function LimitGate({ nextAvailable }: LimitGateProps) {
           Your next question is available now! Refresh the page.
         </p>
       )}
-      <Link href="/pricing" className="inline-block bg-[#D4AF37] text-black px-6 py-2 rounded-lg text-sm font-semibold hover:bg-yellow-400 transition">
+      <Link href="/pricing" className="inline-block bg-[#C9A84C] text-black px-6 py-2 rounded-lg text-sm font-semibold hover:bg-[#E8C96E] transition">
         Upgrade for Unlimited →
       </Link>
     </div>

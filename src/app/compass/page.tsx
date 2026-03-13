@@ -110,7 +110,7 @@ function AuthModal({
 
   return (
     <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-black/80 backdrop-blur-sm px-4 pb-4 sm:pb-0">
-      <div className="bg-[#0F172A] border border-white/15 rounded-2xl w-full max-w-sm p-6 shadow-2xl">
+      <div className="bg-[#080808] border border-white/15 rounded-2xl w-full max-w-sm p-6 shadow-2xl">
 
         {/* Question preview */}
         <div className="text-center mb-4">
@@ -134,7 +134,7 @@ function AuthModal({
 
             <button
               onClick={() => signIn('apple', { callbackUrl: '/compass' })}
-              className="w-full flex items-center justify-center gap-3 bg-black border border-white/20 text-white py-2.5 rounded-xl text-sm font-medium hover:bg-white/5 transition"
+              className="w-full flex items-center justify-center gap-3 bg-black border border-white/20 text-white py-2.5 rounded-xl text-sm font-medium hover:bg-[#111111] transition"
             >
               <svg width="16" height="16" viewBox="0 0 24 24" fill="white"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
               Continue with Apple
@@ -142,21 +142,21 @@ function AuthModal({
 
             <button
               onClick={() => signIn('twitter', { callbackUrl: '/compass' })}
-              className="w-full flex items-center justify-center gap-3 bg-black border border-white/20 text-white py-2.5 rounded-xl text-sm font-medium hover:bg-white/5 transition"
+              className="w-full flex items-center justify-center gap-3 bg-black border border-white/20 text-white py-2.5 rounded-xl text-sm font-medium hover:bg-[#111111] transition"
             >
               <svg width="16" height="16" viewBox="0 0 24 24" fill="white"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
               Continue with X
             </button>
 
             <div className="flex items-center gap-3 my-1">
-              <div className="flex-1 h-px bg-white/10" />
+              <div className="flex-1 h-px bg-[#1A1A1A]" />
               <span className="text-white/30 text-xs">or</span>
-              <div className="flex-1 h-px bg-white/10" />
+              <div className="flex-1 h-px bg-[#1A1A1A]" />
             </div>
 
             <button
               onClick={() => reset('signin')}
-              className="w-full bg-[#1E40AF] text-white py-2.5 rounded-xl text-sm font-semibold hover:bg-blue-700 transition"
+              className="w-full bg-[#C9A84C] text-black py-2.5 rounded-xl text-sm font-semibold hover:bg-[#E8C96E] transition"
             >
               Sign in with Email
             </button>
@@ -184,13 +184,13 @@ function AuthModal({
             <form onSubmit={handleSignIn} className="space-y-3">
               <input type="email" value={email} onChange={e => setEmail(e.target.value)} required autoFocus
                 placeholder="Email"
-                className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-2.5 text-sm text-white placeholder-white/30 focus:outline-none focus:border-[#D4AF37]" />
+                className="w-full bg-[#111111] border border-[#1A1A1A] rounded-xl px-4 py-2.5 text-sm text-white placeholder-white/30 focus:outline-none focus:ring-1 focus:ring-[#C9A84C]/40 focus:border-[#C9A84C]" />
               <input type="password" value={password} onChange={e => setPassword(e.target.value)} required
                 placeholder="Password"
-                className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-2.5 text-sm text-white placeholder-white/30 focus:outline-none focus:border-[#D4AF37]" />
+                className="w-full bg-[#111111] border border-[#1A1A1A] rounded-xl px-4 py-2.5 text-sm text-white placeholder-white/30 focus:outline-none focus:ring-1 focus:ring-[#C9A84C]/40 focus:border-[#C9A84C]" />
               {error && <p className="text-red-400 text-xs">{error}</p>}
               <button type="submit" disabled={loading}
-                className="w-full bg-[#1E40AF] text-white py-2.5 rounded-xl text-sm font-semibold hover:bg-blue-700 transition disabled:opacity-50">
+                className="w-full bg-[#C9A84C] text-black py-2.5 rounded-xl text-sm font-semibold hover:bg-[#E8C96E] transition disabled:opacity-50">
                 {loading ? 'Signing in...' : 'Sign In & Get My Answer'}
               </button>
             </form>
@@ -210,17 +210,17 @@ function AuthModal({
             <form onSubmit={handleSignUp} className="space-y-3">
               <input type="email" value={email} onChange={e => setEmail(e.target.value)} required autoFocus
                 placeholder="Email"
-                className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-2.5 text-sm text-white placeholder-white/30 focus:outline-none focus:border-[#D4AF37]" />
+                className="w-full bg-[#111111] border border-[#1A1A1A] rounded-xl px-4 py-2.5 text-sm text-white placeholder-white/30 focus:outline-none focus:ring-1 focus:ring-[#C9A84C]/40 focus:border-[#C9A84C]" />
               <input type="password" value={password} onChange={e => setPassword(e.target.value)} required
                 placeholder="Password (8+ chars, uppercase, number)"
-                className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-2.5 text-sm text-white placeholder-white/30 focus:outline-none focus:border-[#D4AF37]" />
+                className="w-full bg-[#111111] border border-[#1A1A1A] rounded-xl px-4 py-2.5 text-sm text-white placeholder-white/30 focus:outline-none focus:ring-1 focus:ring-[#C9A84C]/40 focus:border-[#C9A84C]" />
 
               <label className="flex items-start gap-3 cursor-pointer group">
                 <input
                   type="checkbox"
                   checked={marketingOptIn}
                   onChange={e => setMarketingOptIn(e.target.checked)}
-                  className="mt-0.5 w-4 h-4 rounded border-white/30 bg-white/10 accent-[#D4AF37] shrink-0"
+                  className="mt-0.5 w-4 h-4 rounded border-white/30 bg-[#1A1A1A] accent-[#C9A84C] shrink-0"
                 />
                 <span className="text-xs text-white/40 leading-relaxed group-hover:text-white/60 transition">
                   I&apos;d like to receive updates, devotional content, and offers from Faith Compass. You can unsubscribe at any time.
@@ -236,7 +236,7 @@ function AuthModal({
 
               {error && <p className="text-red-400 text-xs">{error}</p>}
               <button type="submit" disabled={loading}
-                className="w-full bg-[#1E40AF] text-white py-2.5 rounded-xl text-sm font-semibold hover:bg-blue-700 transition disabled:opacity-50">
+                className="w-full bg-[#C9A84C] text-black py-2.5 rounded-xl text-sm font-semibold hover:bg-[#E8C96E] transition disabled:opacity-50">
                 {loading ? 'Creating account...' : 'Create Account & Ask'}
               </button>
             </form>
@@ -270,11 +270,11 @@ function AuthModal({
                 onChange={e => setCode(e.target.value.replace(/\D/g, ''))}
                 required autoFocus
                 placeholder="6-digit code"
-                className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 text-sm text-white placeholder-white/30 focus:outline-none focus:border-[#D4AF37] text-center text-lg tracking-widest"
+                className="w-full bg-[#111111] border border-[#1A1A1A] rounded-xl px-4 py-3 text-sm text-white placeholder-white/30 focus:outline-none focus:ring-1 focus:ring-[#C9A84C]/40 focus:border-[#C9A84C] text-center text-lg tracking-widest"
               />
               {error && <p className="text-red-400 text-xs text-center">{error}</p>}
               <button type="submit" disabled={loading || code.length < 6}
-                className="w-full bg-[#1E40AF] text-white py-2.5 rounded-xl text-sm font-semibold hover:bg-blue-700 transition disabled:opacity-50">
+                className="w-full bg-[#C9A84C] text-black py-2.5 rounded-xl text-sm font-semibold hover:bg-[#E8C96E] transition disabled:opacity-50">
                 {loading ? 'Verifying...' : 'Verify & Get My Answer'}
               </button>
             </form>
@@ -291,7 +291,7 @@ function AuthModal({
 // ── Main page ───────────────────────────────────────────────────────────────
 export default function CompassPage() {
   return (
-    <Suspense fallback={<div className="min-h-screen bg-[#0F172A]" />}>
+    <Suspense fallback={<div className="min-h-screen bg-[#080808]" />}>
       <CompassContent />
     </Suspense>
   )
@@ -530,7 +530,7 @@ function CompassContent() {
   }
 
   return (
-    <main className="min-h-screen bg-[#0F172A] text-white">
+    <main className="min-h-screen bg-[#080808] text-white">
       <Header />
 
       {showUpgradeBanner && (
@@ -565,7 +565,7 @@ function CompassContent() {
           Every answer is grounded in Scripture. No opinions — only the Word.
         </p>
 
-        <div className={`bg-white/5 border rounded-2xl p-5 mb-6 transition-all ${listening ? 'border-red-400/60 shadow-[0_0_20px_rgba(248,113,113,0.15)]' : 'border-white/10'}`}>
+        <div className={`bg-[#111111] border rounded-2xl p-5 mb-6 transition-all ${listening ? 'border-red-400/60 shadow-[0_0_20px_rgba(248,113,113,0.15)]' : 'border-[#1A1A1A]'}`}>
           <div className="flex items-start gap-3">
             {/* Mic button */}
             {voiceSupported && (
@@ -575,7 +575,7 @@ function CompassContent() {
                 className={`shrink-0 w-11 h-11 rounded-xl flex items-center justify-center transition-all mt-1 ${
                   listening
                     ? 'bg-red-500/20 border border-red-400/50 text-red-400 animate-pulse'
-                    : 'bg-[#D4AF37]/10 border border-[#D4AF37]/30 text-[#D4AF37] hover:bg-[#D4AF37]/20'
+                    : 'bg-[#C9A84C]/10 border border-[#C9A84C]/30 text-[#C9A84C] hover:bg-[#C9A84C]/20'
                 }`}
               >
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -604,12 +604,12 @@ function CompassContent() {
             </div>
           )}
 
-          <div className="flex justify-between items-center mt-4 pt-4 border-t border-white/10">
+          <div className="flex justify-between items-center mt-4 pt-4 border-t border-[#1A1A1A]">
             <span className="text-xs text-white/30">{question.length}/500</span>
             <button
               onClick={handleAsk}
               disabled={!question.trim() || loading || limitReached || status === 'loading'}
-              className="bg-[#1E40AF] text-white px-5 py-2 rounded-lg text-sm font-medium hover:bg-blue-700 transition disabled:opacity-40 disabled:cursor-not-allowed"
+              className="bg-[#C9A84C] text-black px-5 py-2 rounded-lg text-sm font-bold tracking-wide hover:bg-[#E8C96E] transition disabled:opacity-40 disabled:cursor-not-allowed"
             >
               {status === 'loading' ? (
                 <span className="flex items-center gap-2">
@@ -622,11 +622,11 @@ function CompassContent() {
         </div>
 
         {answer && (
-          <div className="bg-[#1E40AF]/10 border border-[#1E40AF]/30 rounded-2xl p-5 mb-5">
+          <div className="bg-[#C9A84C]/10 border border-[#C9A84C]/30 rounded-2xl p-5 mb-5">
             <div className="flex items-center justify-between mb-3">
               <div className="flex items-center gap-2">
-                <span className="text-[#D4AF37]">📖</span>
-                <span className="text-sm font-medium text-[#D4AF37]">Scripture Response</span>
+                <span className="text-[#C9A84C]">📖</span>
+                <span className="text-sm font-medium text-[#C9A84C]">Scripture Response</span>
               </div>
               <button
                 onClick={async () => {
@@ -641,7 +641,7 @@ function CompassContent() {
                     alert('Answer copied to clipboard!')
                   }
                 }}
-                className="flex items-center gap-1.5 text-xs text-white/40 hover:text-[#D4AF37] transition px-2 py-1 rounded-lg hover:bg-white/5"
+                className="flex items-center gap-1.5 text-xs text-white/40 hover:text-[#C9A84C] transition px-2 py-1 rounded-lg hover:bg-[#111111]"
               >
                 <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
                 Share
@@ -653,17 +653,17 @@ function CompassContent() {
 
         {verses.length > 0 && (
           <div className="space-y-3 mb-6">
-            <p className="text-sm font-medium text-[#D4AF37]">Verified Scripture References</p>
+            <p className="text-sm font-medium text-[#C9A84C]">Verified Scripture References</p>
             {verses.map((v) => {
               const slug = bookNameToSlug(v.book)
               return (
                 <Link
                   key={v.id}
                   href={`/bible/${slug}/${v.chapter}?verse=${v.verse}`}
-                  className="block bg-white/5 border border-white/10 rounded-xl p-4 hover:border-[#D4AF37]/40 transition group"
+                  className="block bg-[#111111] border border-[#1A1A1A] rounded-xl p-4 hover:border-[#C9A84C]/40 transition group"
                 >
                   <div className="flex items-center justify-between mb-2">
-                    <span className="text-sm font-semibold text-[#D4AF37]">{v.reference}</span>
+                    <span className="text-sm font-semibold text-[#C9A84C]">{v.reference}</span>
                     <span
                       className={`text-xs px-2 py-0.5 rounded-full flex items-center gap-1 ${
                         v.verified ? 'bg-green-500/10 text-green-400' : 'bg-red-500/10 text-red-400'
@@ -674,7 +674,7 @@ function CompassContent() {
                     </span>
                   </div>
                   <p className="text-white/70 text-sm font-serif leading-relaxed">{v.text}</p>
-                  <span className="text-xs text-[#1E40AF] mt-2 inline-block opacity-0 group-hover:opacity-100 transition">
+                  <span className="text-xs text-[#C9A84C] mt-2 inline-block opacity-0 group-hover:opacity-100 transition">
                     Read in context →
                   </span>
                 </Link>

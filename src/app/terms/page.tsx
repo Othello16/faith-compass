@@ -2,7 +2,7 @@ import Header from '@/components/Header'
 
 export default function TermsPage() {
   return (
-    <main className="min-h-screen bg-[#0F172A] text-white">
+    <main className="min-h-screen bg-[#080808] text-white">
       <Header />
 
       <div className="max-w-3xl mx-auto px-6 py-16">
@@ -31,7 +31,7 @@ export default function TermsPage() {
 
           <section>
             <h2 className="text-xl font-semibold text-white mb-3">3. Important Disclaimer</h2>
-            <p className="text-[#D4AF37]">
+            <p className="text-[#C9A84C]">
               Faith Compass is a technology tool that surfaces Scripture references. It does not
               provide theological authority, pastoral counseling, or spiritual direction. Always
               take what you read here to prayer and to your pastor or spiritual leader.
@@ -159,7 +159,7 @@ export default function TermsPage() {
             <h2 className="text-xl font-semibold text-white mb-3">16. Contact</h2>
             <p>
               For questions about these terms, contact us at{' '}
-              <a href="mailto:legal@faithcompass.app" className="text-[#1E40AF] hover:text-blue-400 transition">
+              <a href="mailto:legal@faithcompass.app" className="text-[#C9A84C] hover:text-[#E8C96E] transition">
                 legal@faithcompass.app
               </a>
             </p>

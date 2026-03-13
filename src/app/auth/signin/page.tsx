@@ -9,20 +9,20 @@ function SignInContent() {
   const callbackUrl = searchParams.get('callbackUrl') || '/compass'
 
   return (
-    <main className="min-h-screen bg-[#0F172A] text-white flex items-center justify-center">
+    <main className="min-h-screen bg-[#080808] text-white flex items-center justify-center">
       <div className="max-w-sm w-full mx-4">
         {/* Logo */}
         <div className="text-center mb-8">
           <Link href="/" className="inline-flex items-center gap-2 mb-6">
             <span className="text-3xl">🧭</span>
-            <span className="text-2xl font-bold text-[#D4AF37]">Faith Compass</span>
+            <span className="text-2xl font-bold"><span className="text-white">Faith</span> <span className="text-[#C9A84C]">Compass</span></span>
           </Link>
           <h1 className="text-xl font-bold mb-1">Welcome Back</h1>
           <p className="text-white/50 text-sm">Sign in to continue your faith journey</p>
         </div>
 
         {/* Social Login Buttons */}
-        <div className="bg-white/5 border border-white/10 rounded-2xl p-6 space-y-3">
+        <div className="bg-[#111111] border border-[#1A1A1A] rounded-2xl p-6 space-y-3">
           {/* Google */}
           <button
             onClick={() => signIn('google', { callbackUrl })}
@@ -40,7 +40,7 @@ function SignInContent() {
           {/* Apple */}
           <button
             onClick={() => signIn('apple', { callbackUrl })}
-            className="w-full flex items-center justify-center gap-3 bg-black border border-white/20 text-white py-3 rounded-xl text-sm font-semibold hover:bg-white/10 transition"
+            className="w-full flex items-center justify-center gap-3 bg-black border border-white/20 text-white py-3 rounded-xl text-sm font-semibold hover:bg-[#1A1A1A] transition"
           >
             <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
               <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/>
@@ -51,7 +51,7 @@ function SignInContent() {
           {/* X / Twitter */}
           <button
             onClick={() => signIn('twitter', { callbackUrl })}
-            className="w-full flex items-center justify-center gap-3 bg-black border border-white/20 text-white py-3 rounded-xl text-sm font-semibold hover:bg-white/10 transition"
+            className="w-full flex items-center justify-center gap-3 bg-black border border-white/20 text-white py-3 rounded-xl text-sm font-semibold hover:bg-[#1A1A1A] transition"
           >
             <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
               <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.747l7.73-8.835L1.254 2.25H8.08l4.253 5.622zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
@@ -73,7 +73,7 @@ function SignInContent() {
 
 export default function SignInPage() {
   return (
-    <Suspense fallback={<div className="min-h-screen bg-[#0F172A]" />}>
+    <Suspense fallback={<div className="min-h-screen bg-[#080808]" />}>
       <SignInContent />
     </Suspense>
   )

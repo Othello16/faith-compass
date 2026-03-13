@@ -2,11 +2,11 @@ import Link from 'next/link'
 
 export default function AboutPage() {
   return (
-    <main className="min-h-screen bg-[#0F172A] text-white">
-      <nav className="flex items-center justify-between px-6 py-4 border-b border-white/10">
+    <main className="min-h-screen bg-[#080808] text-white">
+      <nav className="flex items-center justify-between px-6 py-4 border-b border-[#1A1A1A]">
         <Link href="/" className="flex items-center gap-2">
           <span className="text-2xl">🧭</span>
-          <span className="text-xl font-bold text-[#D4AF37]">Faith Compass</span>
+          <span className="text-xl font-bold"><span className="text-white">Faith</span> <span className="text-[#C9A84C]">Compass</span></span>
         </Link>
         <div className="flex gap-4 items-center">
           <Link href="/compass" className="text-sm text-white/70 hover:text-white transition">Compass</Link>
@@ -31,7 +31,7 @@ export default function AboutPage() {
 
           <section>
             <h2 className="text-2xl font-semibold text-white mb-4">Our Philosophy</h2>
-            <p className="text-[#D4AF37] font-semibold text-lg mb-3">Leverage it. Don&#39;t rely on it.</p>
+            <p className="text-[#C9A84C] font-semibold text-lg mb-3">Leverage it. Don&#39;t rely on it.</p>
             <p>
               Other AI apps try to replace your pastor. Some even pretend to be Jesus. Faith Compass was built
               by people who heard the warning — and decided to build the answer. We use AI the way a surgeon
@@ -43,15 +43,15 @@ export default function AboutPage() {
             <h2 className="text-2xl font-semibold text-white mb-4">What We Offer</h2>
             <ul className="space-y-3">
               <li className="flex gap-3">
-                <span className="text-[#D4AF37]">&#x2022;</span>
+                <span className="text-[#C9A84C]">&#x2022;</span>
                 <span><strong className="text-white">Scripture-Anchored AI</strong> — Every answer grounded exclusively in the Word. No personal opinions. Always ends with a prayer prompt.</span>
               </li>
               <li className="flex gap-3">
-                <span className="text-[#D4AF37]">&#x2022;</span>
+                <span className="text-[#C9A84C]">&#x2022;</span>
                 <span><strong className="text-white">Trusted Church Finder</strong> — Find real congregations near you with service times that fit your schedule.</span>
               </li>
               <li className="flex gap-3">
-                <span className="text-[#D4AF37]">&#x2022;</span>
+                <span className="text-[#C9A84C]">&#x2022;</span>
                 <span><strong className="text-white">Faith Integrity Check</strong> — Cross-reference sermons, articles, and devotionals against Scripture.</span>
               </li>
             </ul>
@@ -65,10 +65,10 @@ export default function AboutPage() {
             </p>
 
             {/* Theological Advisory */}
-            <div className="bg-white/5 border border-[#D4AF37]/20 rounded-2xl p-6">
-              <div className="text-[#D4AF37] text-xs uppercase tracking-widest mb-4">Theological Advisory Lead</div>
+            <div className="bg-[#111111] border border-[#C9A84C]/20 rounded-2xl p-6">
+              <div className="text-[#C9A84C] text-xs uppercase tracking-widest mb-4">Theological Advisory Lead</div>
               <div className="flex items-start gap-4 mb-4">
-                <div className="w-14 h-14 rounded-full bg-[#D4AF37]/20 flex items-center justify-center text-2xl shrink-0">✝️</div>
+                <div className="w-14 h-14 rounded-full bg-[#C9A84C]/20 flex items-center justify-center text-2xl shrink-0">✝️</div>
                 <div>
                   <h3 className="text-white font-bold text-lg">Rev. Dr. Renn S. Law II, D.Min.</h3>
                   <p className="text-white/50 text-sm">Theological Advisory Lead • MostHighKing Ministries</p>
@@ -80,7 +80,7 @@ export default function AboutPage() {
                 verification standard honors the integrity of God&apos;s Word. His oversight provides the clergy accountability layer
                 that distinguishes Faith Compass from every other AI platform in the faith space.
               </p>
-              <blockquote className="border-l-2 border-[#D4AF37]/40 pl-4 text-white/50 text-sm italic">
+              <blockquote className="border-l-2 border-[#C9A84C]/40 pl-4 text-white/50 text-sm italic">
                 &ldquo;Faith Compass exists to point people back to the Word — not to replace the wisdom of the Church,
                 but to put the power of Scripture in the hands of every believer, in any moment they need it.&rdquo;
               </blockquote>
@@ -91,7 +91,7 @@ export default function AboutPage() {
             <h2 className="text-2xl font-semibold text-white mb-4">Contact</h2>
             <p>
               Have questions or feedback? Reach us at{' '}
-              <a href="mailto:contact@faithcompass.app" className="text-[#1E40AF] hover:text-blue-400 transition">
+              <a href="mailto:contact@faithcompass.app" className="text-[#C9A84C] hover:text-[#E8C96E] transition">
                 contact@faithcompass.app
               </a>
             </p>
@@ -99,14 +99,14 @@ export default function AboutPage() {
         </div>
       </div>
 
-      <footer className="border-t border-white/10 px-6 py-8 text-center text-white/40 text-sm">
-        <div className="flex justify-center items-center gap-6 mb-4">
-          <span className="text-white/20 text-xs">v{process.env.NEXT_PUBLIC_APP_VERSION || '1.0.0'}</span>
-          <Link href="/about" className="hover:text-white transition">About</Link>
-          <Link href="/privacy" className="hover:text-white transition">Privacy</Link>
-          <Link href="/terms" className="hover:text-white transition">Terms</Link>
+      <footer className="border-t border-[#C9A84C]/20 px-6 py-8 text-center text-sm">
+        <div className="flex justify-center items-center gap-6 mb-4 text-[#C9A84C]/40">
+          <span className="text-xs">v{process.env.NEXT_PUBLIC_APP_VERSION || '1.0.0'}</span>
+          <Link href="/about" className="hover:text-[#C9A84C] transition">About</Link>
+          <Link href="/privacy" className="hover:text-[#C9A84C] transition">Privacy</Link>
+          <Link href="/terms" className="hover:text-[#C9A84C] transition">Terms</Link>
         </div>
-        <p>&copy; 2026 Faith Compass. Built with faith and purpose.</p>
+        <p className="text-white/20">&copy; 2026 Faith Compass. Built with faith and purpose.</p>
       </footer>
     </main>
   )

@@ -3,12 +3,18 @@
 @tailwind utilities;
 
 :root {
-  --faith-blue: #1E40AF;
-  --faith-gold: #D4AF37;
-  --faith-dark: #0F172A;
+  --fc-black: #080808;
+  --fc-card: #111111;
+  --fc-border: #1A1A1A;
+  --fc-gold: #C9A84C;
+  --fc-gold-light: #E8C96E;
+  --fc-gold-muted: rgba(201,168,76,0.15);
+  --fc-white: #FFFFFF;
+  --fc-off-white: #F8F6F1;
+  --fc-text-muted: #9CA3AF;
 }
 
 body {
-  background-color: var(--faith-dark);
-  color: #f8fafc;
+  background: #080808;
+  color: #FFFFFF;
 }

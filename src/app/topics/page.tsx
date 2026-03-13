@@ -258,7 +258,7 @@ export default function TopicsPage() {
   }
 
   return (
-    <main className="min-h-screen bg-[#0F172A] text-white">
+    <main className="min-h-screen bg-[#080808] text-white">
       <Header />
 
       {/* Auth gate modal — same flow as Compass */}
@@ -281,7 +281,7 @@ export default function TopicsPage() {
         </div>
 
         {/* Search bar */}
-        <div className="bg-white/5 border border-white/10 rounded-2xl p-4 mb-3">
+        <div className="bg-[#111111] border border-[#1A1A1A] rounded-2xl p-4 mb-3">
           <div className="flex items-center gap-3">
             {voiceSupported && (
               <button
@@ -290,7 +290,7 @@ export default function TopicsPage() {
                 className={`shrink-0 w-11 h-11 rounded-xl flex items-center justify-center transition-all ${
                   listening
                     ? 'bg-red-500/20 border border-red-500/50 text-red-400 animate-pulse'
-                    : 'bg-white/10 border border-white/20 text-white/60 hover:text-white hover:bg-white/20'
+                    : 'bg-[#111111] border border-[#1A1A1A] text-white/60 hover:text-white hover:bg-white/20'
                 }`}
               >
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -322,7 +322,7 @@ export default function TopicsPage() {
           <button
             onClick={() => handleSearch()}
             disabled={(!topic.trim() && !listening) || loading}
-            className="mt-3 w-full bg-[#1E40AF] text-white py-3 rounded-xl text-sm font-semibold hover:bg-blue-700 transition disabled:opacity-40"
+            className="mt-3 w-full bg-[#C9A84C] text-black py-3 rounded-xl text-sm font-semibold hover:bg-[#E8C96E] transition disabled:opacity-40"
           >
             {loading ? 'Searching...' : 'Search Scriptures'}
           </button>
@@ -332,7 +332,7 @@ export default function TopicsPage() {
         <button
           onClick={handleAskCompass}
           disabled={(!topic.trim() && !result) || loading || limitReached}
-          className="w-full flex items-center justify-center gap-2 bg-[#D4AF37]/10 border border-[#D4AF37]/25 text-[#D4AF37] px-4 py-2.5 rounded-xl text-sm font-medium hover:bg-[#D4AF37]/20 transition disabled:opacity-30 mb-6"
+          className="w-full flex items-center justify-center gap-2 bg-[#C9A84C]/10 border border-[#C9A84C]/25 text-[#C9A84C] px-4 py-2.5 rounded-xl text-sm font-medium hover:bg-[#C9A84C]/20 transition disabled:opacity-30 mb-6"
         >
           <span>🧭</span>
           <span>Ask the Compass{topic.trim() ? ` about "${topic.trim()}"` : result ? ` about ${result.topic}` : ''}</span>
@@ -347,7 +347,7 @@ export default function TopicsPage() {
                 <button
                   key={t}
                   onClick={() => { setTopic(t); handleSearch(t) }}
-                  className="bg-white/5 border border-white/10 rounded-full px-3 py-1 text-xs text-white/60 hover:text-white hover:border-[#D4AF37]/50 hover:bg-[#D4AF37]/5 transition capitalize"
+                  className="bg-[#111111] border border-[#1A1A1A] rounded-full px-3 py-1 text-xs text-white/60 hover:text-white hover:border-[#C9A84C]/50 hover:bg-[#C9A84C]/5 transition capitalize"
                 >
                   {t}
                 </button>
@@ -368,10 +368,10 @@ export default function TopicsPage() {
         {loading && (
           <div className="space-y-3">
             {[1, 2, 3, 4].map(i => (
-              <div key={i} className="bg-white/5 border border-white/10 rounded-xl p-4 animate-pulse">
-                <div className="h-3 w-28 bg-white/10 rounded mb-3" />
-                <div className="h-3 w-full bg-white/5 rounded mb-2" />
-                <div className="h-3 w-4/5 bg-white/5 rounded" />
+              <div key={i} className="bg-[#111111] border border-[#1A1A1A] rounded-xl p-4 animate-pulse">
+                <div className="h-3 w-28 bg-[#1A1A1A] rounded mb-3" />
+                <div className="h-3 w-full bg-[#111111] rounded mb-2" />
+                <div className="h-3 w-4/5 bg-[#111111] rounded" />
               </div>
             ))}
           </div>
@@ -399,10 +399,10 @@ export default function TopicsPage() {
 
             {/* Fallback: Compass AI answer */}
             {result.fallback && result.fallbackAnswer && (
-              <div className="bg-[#1E40AF]/10 border border-[#1E40AF]/30 rounded-2xl p-5 mb-5">
+              <div className="bg-[#C9A84C]/10 border border-[#C9A84C]/30 rounded-2xl p-5 mb-5">
                 <div className="flex items-center gap-2 mb-3">
-                  <span className="text-[#D4AF37]">🧭</span>
-                  <span className="text-sm font-medium text-[#D4AF37]">Compass Scripture Answer</span>
+                  <span className="text-[#C9A84C]">🧭</span>
+                  <span className="text-sm font-medium text-[#C9A84C]">Compass Scripture Answer</span>
                   <span className="text-xs text-white/30 ml-auto">KJV · AI-assisted</span>
                 </div>
                 <p className="text-white/80 text-sm leading-relaxed whitespace-pre-wrap">{result.fallbackAnswer}</p>
@@ -413,9 +413,9 @@ export default function TopicsPage() {
             {!result.fallback && (
               <div className="space-y-3">
                 {result.verses.map((verse, i) => (
-                  <div key={i} className="bg-white/5 border border-white/10 rounded-xl p-4 hover:border-[#D4AF37]/30 transition">
+                  <div key={i} className="bg-[#111111] border border-[#1A1A1A] rounded-xl p-4 hover:border-[#C9A84C]/30 transition">
                     <div className="flex items-center justify-between mb-2">
-                      <span className="text-sm font-semibold text-[#D4AF37]">{verse.reference}</span>
+                      <span className="text-sm font-semibold text-[#C9A84C]">{verse.reference}</span>
                       {verse.votes > 0 && (
                         <span className="text-xs text-white/30 flex items-center gap-1">
                           <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3H14z"/><path d="M7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"/></svg>
@@ -437,7 +437,7 @@ export default function TopicsPage() {
           <div className="mt-4 text-center">
             <p className="text-white/25 text-xs">
               🔒 Voice search and AI-powered results require a free account.{' '}
-              <Link href="/compass" className="text-[#D4AF37]/60 hover:text-[#D4AF37] underline">Sign in →</Link>
+              <Link href="/compass" className="text-[#C9A84C]/60 hover:text-[#C9A84C] underline">Sign in →</Link>
             </p>
           </div>
         )}

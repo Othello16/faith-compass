@@ -68,7 +68,7 @@ export default function BibleChapterPage() {
   const currentSlugIdx = allSlugs.indexOf(bookSlug)
 
   return (
-    <main className="min-h-screen bg-[#0F172A] text-white">
+    <main className="min-h-screen bg-[#080808] text-white">
       <Header />
 
       <div className="max-w-2xl mx-auto px-6 py-12">
@@ -79,7 +79,7 @@ export default function BibleChapterPage() {
         {error && (
           <div className="text-center py-20">
             <p className="text-red-400 mb-4">{error}</p>
-            <Link href="/compass" className="text-[#1E40AF] hover:text-blue-400 text-sm">
+            <Link href="/compass" className="text-[#C9A84C] hover:text-[#E8C96E] text-sm">
               Back to Compass
             </Link>
           </div>
@@ -88,7 +88,7 @@ export default function BibleChapterPage() {
         {!loading && !error && (
           <>
             <div className="text-center mb-10">
-              <h1 className="text-3xl font-serif font-bold text-[#D4AF37] mb-1">
+              <h1 className="text-3xl font-serif font-bold text-[#C9A84C] mb-1">
                 {bookName}
               </h1>
               <p className="text-white/50 text-sm">Chapter {chapterNum}</p>
@@ -103,7 +103,7 @@ export default function BibleChapterPage() {
                     id={`verse-${v.verse}`}
                     className={`font-serif text-base leading-relaxed transition-colors ${
                       isHighlighted
-                        ? 'bg-[#D4AF37]/10 border-l-2 border-[#D4AF37] pl-4 py-2 text-white'
+                        ? 'bg-[#C9A84C]/10 border-l-2 border-[#C9A84C] pl-4 py-2 text-white'
                         : 'text-white/75'
                     }`}
                   >
@@ -115,18 +115,18 @@ export default function BibleChapterPage() {
             </div>
 
             {/* Navigation */}
-            <div className="flex justify-between items-center mt-12 pt-6 border-t border-white/10">
+            <div className="flex justify-between items-center mt-12 pt-6 border-t border-[#1A1A1A]">
               {prevChapter ? (
                 <Link
                   href={`/bible/${bookSlug}/${prevChapter}`}
-                  className="text-sm text-[#1E40AF] hover:text-blue-400 transition"
+                  className="text-sm text-[#C9A84C] hover:text-[#E8C96E] transition"
                 >
                   ← Chapter {prevChapter}
                 </Link>
               ) : currentSlugIdx > 0 ? (
                 <Link
                   href={`/bible/${allSlugs[currentSlugIdx - 1]}/1`}
-                  className="text-sm text-[#1E40AF] hover:text-blue-400 transition"
+                  className="text-sm text-[#C9A84C] hover:text-[#E8C96E] transition"
                 >
                   ← Previous Book
                 </Link>
@@ -135,7 +135,7 @@ export default function BibleChapterPage() {
               )}
               <Link
                 href={`/bible/${bookSlug}/${ch + 1}`}
-                className="text-sm text-[#1E40AF] hover:text-blue-400 transition"
+                className="text-sm text-[#C9A84C] hover:text-[#E8C96E] transition"
               >
                 Chapter {ch + 1} →
               </Link>

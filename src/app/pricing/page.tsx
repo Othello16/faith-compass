@@ -57,7 +57,7 @@ const tiers = [
 
 export default function PricingPage() {
   return (
-    <Suspense fallback={<div className="min-h-screen bg-[#0F172A]" />}>
+    <Suspense fallback={<div className="min-h-screen bg-[#080808]" />}>
       <PricingContent />
     </Suspense>
   )
@@ -113,11 +113,11 @@ function PricingContent() {
   }, [session, searchParams])
 
   return (
-    <main className="min-h-screen bg-[#0F172A] text-white">
-      <nav className="flex items-center justify-between px-6 py-4 border-b border-white/10">
+    <main className="min-h-screen bg-[#080808] text-white">
+      <nav className="flex items-center justify-between px-6 py-4 border-b border-[#1A1A1A]">
         <Link href="/" className="flex items-center gap-2">
           <span className="text-2xl">🧭</span>
-          <span className="text-xl font-bold text-[#D4AF37]">Faith Compass</span>
+          <span className="text-xl font-bold"><span className="text-white">Faith</span> <span className="text-[#C9A84C]">Compass</span></span>
         </Link>
         <Link href="/compass" className="text-sm text-white/70 hover:text-white transition">
           Open Compass
@@ -155,12 +155,12 @@ function PricingContent() {
               key={tier.id}
               className={`rounded-2xl p-6 border flex flex-col relative ${
                 tier.highlight
-                  ? 'border-[#D4AF37] bg-[#D4AF37]/5'
-                  : 'border-white/10 bg-white/5'
+                  ? 'border-[#C9A84C] bg-[#C9A84C]/5'
+                  : 'border-[#1A1A1A] bg-[#111111]'
               }`}
             >
               {tier.highlight && (
-                <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-[#D4AF37] text-black text-xs font-bold px-3 py-1 rounded-full whitespace-nowrap">
+                <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-[#C9A84C] text-black text-xs font-bold px-3 py-1 rounded-full whitespace-nowrap">
                   Most Popular
                 </div>
               )}
@@ -168,14 +168,14 @@ function PricingContent() {
               <h3 className="text-sm font-semibold text-white/60 mb-1">{tier.name}</h3>
 
               <div className="mb-1">
-                <span className={`text-2xl font-bold ${tier.highlight ? 'text-[#D4AF37]' : 'text-white'}`}>
+                <span className="text-2xl font-bold text-[#C9A84C]">
                   {tier.price}
                 </span>
                 {tier.period && <span className="text-white/40 text-sm ml-1">{tier.period}</span>}
               </div>
 
               {/* The only feature shown — questions */}
-              <div className={`text-sm font-semibold mb-3 ${tier.highlight ? 'text-[#D4AF37]' : 'text-white'}`}>
+              <div className={`text-sm font-semibold mb-3 ${tier.highlight ? 'text-[#C9A84C]' : 'text-white'}`}>
                 {tier.questions}
               </div>
 
@@ -187,8 +187,8 @@ function PricingContent() {
                   disabled={loading === tier.stripePlan}
                   className={`w-full py-3 rounded-xl text-sm font-semibold transition disabled:opacity-50 ${
                     tier.highlight
-                      ? 'bg-[#D4AF37] text-black hover:bg-yellow-400'
-                      : 'bg-[#1E40AF] text-white hover:bg-blue-700'
+                      ? 'bg-[#C9A84C] text-black hover:bg-[#E8C96E]'
+                      : 'bg-[#C9A84C] text-black hover:bg-[#E8C96E]'
                   }`}
                 >
                   {loading === tier.stripePlan ? 'Loading…' : tier.cta}
@@ -198,9 +198,9 @@ function PricingContent() {
                   href={tier.ctaHref!}
                   className={`block text-center w-full py-3 rounded-xl text-sm font-semibold transition ${
                     tier.highlight
-                      ? 'bg-[#D4AF37] text-black hover:bg-yellow-400'
+                      ? 'bg-[#C9A84C] text-black hover:bg-[#E8C96E]'
                       : tier.id === 'free'
-                        ? 'bg-white/10 text-white hover:bg-white/20'
+                        ? 'bg-[#1A1A1A] text-white hover:bg-white/20'
                         : 'border border-white/20 text-white/70 hover:border-white/40'
                   }`}
                 >
@@ -215,7 +215,7 @@ function PricingContent() {
           The $7.77 price is intentional. 777 = divine completion. All glory to God.
         </p>
 
-        <div className="bg-white/5 border border-white/10 rounded-2xl p-6 text-center">
+        <div className="bg-[#111111] border border-[#1A1A1A] rounded-2xl p-6 text-center">
           <p className="text-white/50 text-sm">
             Questions reset on a rolling basis — daily for Free, monthly for paid plans.
             <br />
@@ -224,11 +224,11 @@ function PricingContent() {
         </div>
       </div>
 
-      <footer className="border-t border-white/10 px-6 py-8 text-center text-white/40 text-sm">
-        <div className="flex justify-center items-center gap-6 mb-2">
-          <span className="text-white/20 text-xs">v{process.env.NEXT_PUBLIC_APP_VERSION || '1.0.0'}</span>
-          <Link href="/privacy" className="hover:text-white transition">Privacy</Link>
-          <Link href="/terms" className="hover:text-white transition">Terms</Link>
+      <footer className="border-t border-[#C9A84C]/20 px-6 py-8 text-center text-sm">
+        <div className="flex justify-center items-center gap-6 mb-2 text-[#C9A84C]/40">
+          <span className="text-xs">v{process.env.NEXT_PUBLIC_APP_VERSION || '1.0.0'}</span>
+          <Link href="/privacy" className="hover:text-[#C9A84C] transition">Privacy</Link>
+          <Link href="/terms" className="hover:text-[#C9A84C] transition">Terms</Link>
         </div>
         <p className="text-white/20 text-xs">&copy; 2026 Faith Compass. Built with faith and purpose.</p>
       </footer>

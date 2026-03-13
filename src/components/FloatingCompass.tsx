@@ -22,13 +22,13 @@ export default function FloatingCompass() {
     <button
       onClick={() => router.push('/compass')}
       aria-label="Ask the Compass"
-      className="fixed bottom-6 right-5 z-40 flex items-center gap-2 bg-[#1E40AF] text-white px-4 py-3 rounded-2xl shadow-2xl hover:bg-blue-700 active:scale-95 transition-all group"
-      style={{ boxShadow: '0 0 24px rgba(30,64,175,0.5)' }}
+      className="fixed bottom-6 right-5 z-40 flex items-center gap-2 bg-[#C9A84C] text-black px-4 py-3 rounded-2xl shadow-2xl hover:bg-[#E8C96E] active:scale-95 transition-all group"
+      style={{ boxShadow: '0 0 24px rgba(201,168,76,0.4)' }}
     >
       <span className="text-xl leading-none">🧭</span>
       <span className="text-sm font-semibold">Ask the Compass</span>
       {/* Pulse ring */}
-      <span className="absolute inset-0 rounded-2xl animate-ping opacity-20 bg-blue-400 pointer-events-none" />
+      <span className="absolute inset-0 rounded-2xl animate-ping opacity-20 bg-[#C9A84C] pointer-events-none" />
     </button>
   )
 }

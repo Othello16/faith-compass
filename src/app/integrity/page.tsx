@@ -48,7 +48,7 @@ export default function IntegrityPage() {
   }
 
   return (
-    <main className="min-h-screen bg-[#0F172A] text-white">
+    <main className="min-h-screen bg-[#080808] text-white">
       <Header />
 
       <div className="max-w-2xl mx-auto px-6 py-16">
@@ -61,11 +61,11 @@ export default function IntegrityPage() {
         <p className="text-white/50 text-sm mb-2">
           Paste a sermon, article, or devotional. AI cross-references it against Scripture and flags concerns.
         </p>
-        <p className="text-[#D4AF37]/60 text-xs mb-8">
+        <p className="text-[#C9A84C]/60 text-xs mb-8">
           This is a discernment tool, not a judgment of people.
         </p>
 
-        <div className="bg-white/5 border border-white/10 rounded-2xl p-6 mb-6">
+        <div className="bg-[#111111] border border-[#1A1A1A] rounded-2xl p-6 mb-6">
           <textarea
             className="w-full bg-transparent text-white placeholder-white/30 resize-none outline-none text-sm leading-relaxed"
             rows={8}
@@ -75,12 +75,12 @@ export default function IntegrityPage() {
             maxLength={MAX_CHARS}
             disabled={limitReached}
           />
-          <div className="flex justify-between items-center mt-4 pt-4 border-t border-white/10">
+          <div className="flex justify-between items-center mt-4 pt-4 border-t border-[#1A1A1A]">
             <span className="text-xs text-white/30">{content.length}/{MAX_CHARS} characters</span>
             <button
               onClick={analyzeContent}
               disabled={!content.trim() || loading || limitReached}
-              className="bg-[#1E40AF] text-white px-6 py-2 rounded-lg text-sm font-medium hover:bg-blue-700 transition disabled:opacity-40 disabled:cursor-not-allowed"
+              className="bg-[#C9A84C] text-black px-6 py-2 rounded-lg text-sm font-medium hover:bg-[#E8C96E] transition disabled:opacity-40 disabled:cursor-not-allowed"
             >
               {loading ? 'Analyzing...' : 'Check Integrity'}
             </button>
@@ -94,10 +94,10 @@ export default function IntegrityPage() {
         )}
 
         {analysis && (
-          <div className="bg-[#1E40AF]/10 border border-[#1E40AF]/30 rounded-2xl p-6">
+          <div className="bg-[#C9A84C]/10 border border-[#C9A84C]/30 rounded-2xl p-6">
             <div className="flex items-center gap-2 mb-4">
-              <span className="text-[#D4AF37]">🔍</span>
-              <span className="text-sm font-medium text-[#D4AF37]">Integrity Analysis</span>
+              <span className="text-[#C9A84C]">🔍</span>
+              <span className="text-sm font-medium text-[#C9A84C]">Integrity Analysis</span>
             </div>
             <div className="text-white/80 text-sm leading-relaxed whitespace-pre-wrap">{analysis}</div>
           </div>
@@ -105,10 +105,10 @@ export default function IntegrityPage() {
 
         {limitReached && <LimitGate nextAvailable={nextAvailable} />}
 
-        <div className="mt-8 bg-white/5 border border-white/10 rounded-xl p-4 text-center">
+        <div className="mt-8 bg-[#111111] border border-[#1A1A1A] rounded-xl p-4 text-center">
           <p className="text-white/40 text-xs">
             Free tier: up to {MAX_CHARS} characters per check.
-            <Link href="/pricing" className="text-[#D4AF37] hover:text-yellow-400 ml-1">Upgrade to Pro</Link>
+            <Link href="/pricing" className="text-[#C9A84C] hover:text-[#E8C96E] ml-1">Upgrade to Pro</Link>
             {' '}for extended analysis and PDF exports.
           </p>
         </div>

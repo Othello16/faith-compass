@@ -4,9 +4,10 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        'faith-blue': '#1E40AF',
-        'faith-gold': '#D4AF37',
-        'faith-dark': '#0F172A',
+        'faith-gold': '#C9A84C',
+        'faith-dark': '#080808',
+        'faith-card': '#111111',
+        'faith-border': '#1A1A1A',
       },
       fontFamily: {
         serif: ['Georgia', 'Cambria', 'serif'],

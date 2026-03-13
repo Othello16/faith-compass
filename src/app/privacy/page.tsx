@@ -2,7 +2,7 @@ import Header from '@/components/Header'
 
 export default function PrivacyPage() {
   return (
-    <main className="min-h-screen bg-[#0F172A] text-white">
+    <main className="min-h-screen bg-[#080808] text-white">
       <Header />
 
       <div className="max-w-3xl mx-auto px-6 py-16">
@@ -153,7 +153,7 @@ export default function PrivacyPage() {
             <h2 className="text-xl font-semibold text-white mb-3">15. Contact</h2>
             <p>
               For privacy-related inquiries, contact us at{' '}
-              <a href="mailto:privacy@faithcompass.app" className="text-[#1E40AF] hover:text-blue-400 transition">
+              <a href="mailto:privacy@faithcompass.app" className="text-[#C9A84C] hover:text-[#E8C96E] transition">
                 privacy@faithcompass.app
               </a>
             </p>

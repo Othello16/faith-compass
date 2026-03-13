@@ -121,7 +121,7 @@ export default function ChurchesPage() {
   }
 
   return (
-    <main className="min-h-screen bg-[#0F172A] text-white">
+    <main className="min-h-screen bg-[#080808] text-white">
       <Header />
 
       <div className="max-w-4xl mx-auto px-6 py-16">
@@ -132,13 +132,13 @@ export default function ChurchesPage() {
 
         {/* Location prompt — show when denied or idle with no results */}
         {(locationStatus === 'idle' || locationStatus === 'denied') && !searched && (
-          <div className="bg-[#1E40AF]/10 border border-[#1E40AF]/30 rounded-2xl p-6 mb-6 text-center">
+          <div className="bg-[#C9A84C]/10 border border-[#C9A84C]/30 rounded-2xl p-6 mb-6 text-center">
             <p className="text-white/70 text-sm mb-3">
               We use your location to find churches near you. We do not store this.
             </p>
             <button
               onClick={useMyLocation}
-              className="bg-[#1E40AF] text-white px-6 py-3 rounded-lg text-sm font-medium hover:bg-blue-700 transition"
+              className="bg-[#C9A84C] text-black px-6 py-3 rounded-lg text-sm font-medium hover:bg-[#E8C96E] transition"
             >
               Use My Location
             </button>
@@ -147,7 +147,7 @@ export default function ChurchesPage() {
         )}
 
         {locationStatus === 'requesting' && !searched && (
-          <div className="bg-[#1E40AF]/10 border border-[#1E40AF]/30 rounded-2xl p-6 mb-6 text-center">
+          <div className="bg-[#C9A84C]/10 border border-[#C9A84C]/30 rounded-2xl p-6 mb-6 text-center">
             <p className="text-white/70 text-sm">Requesting location access...</p>
           </div>
         )}
@@ -157,7 +157,7 @@ export default function ChurchesPage() {
           <div className="mb-4 text-center">
             <button
               onClick={useMyLocation}
-              className="text-xs text-[#1E40AF] hover:text-blue-400 transition underline"
+              className="text-xs text-[#C9A84C] hover:text-[#E8C96E] transition underline"
             >
               Try using my location again
             </button>
@@ -165,7 +165,7 @@ export default function ChurchesPage() {
         )}
 
         {/* Search */}
-        <div className="bg-white/5 border border-white/10 rounded-2xl p-6 mb-8">
+        <div className="bg-[#111111] border border-[#1A1A1A] rounded-2xl p-6 mb-8">
           <div className="flex flex-col sm:flex-row gap-4">
             <div className="flex-1">
               <label className="text-xs text-white/40 block mb-1">Zip Code</label>
@@ -174,7 +174,7 @@ export default function ChurchesPage() {
                 value={zip}
                 onChange={(e) => setZip(e.target.value.replace(/\D/g, '').slice(0, 5))}
                 placeholder="Enter zip code"
-                className="w-full bg-white/5 border border-white/10 rounded-lg px-4 py-3 text-sm text-white placeholder-white/30 outline-none focus:border-[#1E40AF]/50 transition"
+                className="w-full bg-[#111111] border border-[#1A1A1A] rounded-lg px-4 py-3 text-sm text-white placeholder-white/30 outline-none focus:ring-1 focus:ring-[#C9A84C]/40 focus:border-[#C9A84C]/50 transition"
                 onKeyDown={(e) => e.key === 'Enter' && searchChurches()}
               />
             </div>
@@ -183,10 +183,10 @@ export default function ChurchesPage() {
               <select
                 value={denomination}
                 onChange={(e) => setDenomination(e.target.value)}
-                className="w-full bg-white/5 border border-white/10 rounded-lg px-4 py-3 text-sm text-white outline-none focus:border-[#1E40AF]/50 transition appearance-none"
+                className="w-full bg-[#111111] border border-[#1A1A1A] rounded-lg px-4 py-3 text-sm text-white outline-none focus:ring-1 focus:ring-[#C9A84C]/40 focus:border-[#C9A84C]/50 transition appearance-none"
               >
                 {DENOMINATIONS.map((d) => (
-                  <option key={d} value={d} className="bg-[#0F172A]">{d}</option>
+                  <option key={d} value={d} className="bg-[#080808]">{d}</option>
                 ))}
               </select>
             </div>
@@ -194,7 +194,7 @@ export default function ChurchesPage() {
               <button
                 onClick={searchChurches}
                 disabled={!zip.trim() || loading}
-                className="bg-[#1E40AF] text-white px-6 py-3 rounded-lg text-sm font-medium hover:bg-blue-700 transition disabled:opacity-40 disabled:cursor-not-allowed whitespace-nowrap"
+                className="bg-[#C9A84C] text-black px-6 py-3 rounded-lg text-sm font-medium hover:bg-[#E8C96E] transition disabled:opacity-40 disabled:cursor-not-allowed whitespace-nowrap"
               >
                 {loading ? 'Searching...' : 'Find Churches'}
               </button>
@@ -213,12 +213,12 @@ export default function ChurchesPage() {
             <p className="text-sm text-white/40">{churches.length} churches found nearby</p>
             <div className="grid md:grid-cols-2 gap-4">
               {churches.map((church) => (
-                <div key={church.id} className="bg-white/5 border border-white/10 rounded-2xl p-6 hover:border-[#1E40AF]/50 transition">
-                  <h3 className="text-lg font-semibold text-[#D4AF37] mb-1">{church.name}</h3>
+                <div key={church.id} className="bg-[#111111] border border-[#1A1A1A] rounded-2xl p-6 hover:border-[#C9A84C]/50 transition">
+                  <h3 className="text-lg font-semibold text-[#C9A84C] mb-1">{church.name}</h3>
 
                   {/* Denomination badge */}
                   {church.denomination && (
-                    <span className="inline-block bg-white/10 text-white/60 text-xs px-2 py-0.5 rounded-full mb-2">
+                    <span className="inline-block bg-[#1A1A1A] text-white/60 text-xs px-2 py-0.5 rounded-full mb-2">
                       {church.denomination}
                     </span>
                   )}
@@ -231,25 +231,25 @@ export default function ChurchesPage() {
                   {/* Distance */}
                   <div className="flex flex-wrap gap-3 text-xs mb-4">
                     {church.distance != null && (
-                      <span className="bg-white/10 px-2 py-1 rounded-full text-white/70">
+                      <span className="bg-[#C9A84C] text-black px-2 py-1 rounded-full font-medium">
                         {church.distance} mi
                       </span>
                     )}
                     {church.phone && (
-                      <a href={`tel:${church.phone}`} className="bg-white/10 px-2 py-1 rounded-full text-white/70 hover:text-white transition">
+                      <a href={`tel:${church.phone}`} className="bg-[#1A1A1A] px-2 py-1 rounded-full text-white/70 hover:text-white transition">
                         {church.phone}
                       </a>
                     )}
                   </div>
 
                   {/* Action links */}
-                  <div className="pt-4 border-t border-white/10 flex flex-wrap gap-3">
+                  <div className="pt-4 border-t border-[#1A1A1A] flex flex-wrap gap-3">
                     {church.website && (
                       <a
                         href={church.website.startsWith('http') ? church.website : `https://${church.website}`}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="text-xs text-[#D4AF37] hover:text-yellow-400 transition font-medium"
+                        className="text-xs text-[#C9A84C] hover:text-[#E8C96E] transition font-medium"
                       >
                         Visit Website →
                       </a>
@@ -258,7 +258,7 @@ export default function ChurchesPage() {
                       href={buildGoogleMapsUrl(church)}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="text-xs text-[#1E40AF] hover:text-blue-400 transition"
+                      className="text-xs text-[#C9A84C] hover:text-[#E8C96E] transition"
                     >
                       Get Directions →
                     </a>

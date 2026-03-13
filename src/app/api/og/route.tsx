@@ -15,7 +15,7 @@ export async function GET(req: NextRequest) {
         style={{
           width: '1200px',
           height: '630px',
-          background: 'linear-gradient(135deg, #0F172A 0%, #1E1B4B 100%)',
+          background: 'linear-gradient(135deg, #080808 0%, #111111 100%)',
           display: 'flex',
           flexDirection: 'column',
           justifyContent: 'space-between',
@@ -26,7 +26,7 @@ export async function GET(req: NextRequest) {
         {/* Top badge */}
         <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
           <span style={{ fontSize: '36px' }}>🧭</span>
-          <span style={{ color: '#D4AF37', fontSize: '22px', fontWeight: 'bold', letterSpacing: '2px' }}>
+          <span style={{ color: '#C9A84C', fontSize: '22px', fontWeight: 'bold', letterSpacing: '2px' }}>
             FAITH COMPASS
           </span>
         </div>
@@ -35,7 +35,7 @@ export async function GET(req: NextRequest) {
         <div style={{ display: 'flex', flexDirection: 'column', gap: '20px', flex: 1, justifyContent: 'center' }}>
           <div
             style={{
-              color: '#D4AF37',
+              color: '#C9A84C',
               fontSize: '28px',
               fontWeight: 'bold',
               letterSpacing: '1px',
@@ -68,8 +68,8 @@ export async function GET(req: NextRequest) {
           </div>
           <div
             style={{
-              background: '#1E40AF',
-              color: 'white',
+              background: '#C9A84C',
+              color: 'black',
               padding: '12px 28px',
               borderRadius: '12px',
               fontSize: '18px',

@@ -41,7 +41,7 @@ export default function ConsentModal({ onAccept, onClose }: ConsentModalProps) {
 
   return (
     <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-black/80 backdrop-blur-sm px-4 pb-4 sm:pb-0">
-      <div className="bg-[#0F172A] border border-white/15 rounded-2xl w-full max-w-sm p-6 shadow-2xl">
+      <div className="bg-[#080808] border border-white/15 rounded-2xl w-full max-w-sm p-6 shadow-2xl">
         <div className="text-center mb-5">
           <span className="text-2xl">🧭</span>
           <h2 className="text-base font-bold mt-2">Welcome to Faith Compass</h2>
@@ -54,13 +54,13 @@ export default function ConsentModal({ onAccept, onClose }: ConsentModalProps) {
               type="checkbox"
               checked={termsAccepted}
               onChange={e => setTermsAccepted(e.target.checked)}
-              className="mt-0.5 w-4 h-4 rounded border-white/30 bg-white/10 accent-[#D4AF37] shrink-0"
+              className="mt-0.5 w-4 h-4 rounded border-white/30 bg-[#1A1A1A] accent-[#C9A84C] shrink-0"
             />
             <span className="text-xs text-white/60 leading-relaxed group-hover:text-white/80 transition">
               I accept the{' '}
-              <Link href="/terms" target="_blank" className="text-[#D4AF37] underline">Terms of Service</Link>
+              <Link href="/terms" target="_blank" className="text-[#C9A84C] underline">Terms of Service</Link>
               {' '}and{' '}
-              <Link href="/privacy" target="_blank" className="text-[#D4AF37] underline">Privacy Policy</Link>
+              <Link href="/privacy" target="_blank" className="text-[#C9A84C] underline">Privacy Policy</Link>
             </span>
           </label>
 
@@ -69,7 +69,7 @@ export default function ConsentModal({ onAccept, onClose }: ConsentModalProps) {
               type="checkbox"
               checked={privacyAccepted}
               onChange={e => setPrivacyAccepted(e.target.checked)}
-              className="mt-0.5 w-4 h-4 rounded border-white/30 bg-white/10 accent-[#D4AF37] shrink-0"
+              className="mt-0.5 w-4 h-4 rounded border-white/30 bg-[#1A1A1A] accent-[#C9A84C] shrink-0"
             />
             <span className="text-xs text-white/60 leading-relaxed group-hover:text-white/80 transition">
               I consent to Faith Compass using my data as described in the Privacy Policy <span className="text-white/30">(required)</span>
@@ -81,7 +81,7 @@ export default function ConsentModal({ onAccept, onClose }: ConsentModalProps) {
               type="checkbox"
               checked={marketingOptIn}
               onChange={e => setMarketingOptIn(e.target.checked)}
-              className="mt-0.5 w-4 h-4 rounded border-white/30 bg-white/10 accent-[#D4AF37] shrink-0"
+              className="mt-0.5 w-4 h-4 rounded border-white/30 bg-[#1A1A1A] accent-[#C9A84C] shrink-0"
             />
             <span className="text-xs text-white/40 leading-relaxed group-hover:text-white/60 transition">
               I&apos;d like to receive devotional content and updates <span className="text-white/20">(optional)</span>
@@ -94,7 +94,7 @@ export default function ConsentModal({ onAccept, onClose }: ConsentModalProps) {
         <button
           onClick={handleAccept}
           disabled={!canAccept || loading}
-          className="w-full bg-[#1E40AF] text-white py-2.5 rounded-xl text-sm font-semibold hover:bg-blue-700 transition disabled:opacity-40 disabled:cursor-not-allowed"
+          className="w-full bg-[#C9A84C] text-black py-2.5 rounded-xl text-sm font-semibold hover:bg-[#E8C96E] transition disabled:opacity-40 disabled:cursor-not-allowed"
         >
           {loading ? 'Saving...' : 'Accept & Continue'}
         </button>
