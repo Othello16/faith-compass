@@ -2,6 +2,7 @@
 import Link from 'next/link'
 import { useSession, signOut } from 'next-auth/react'
 import { usePathname } from 'next/navigation'
+import FaithIcon from '@/components/FaithIcon'
 
 export default function Header() {
   const { data: session, status } = useSession()
@@ -15,8 +16,8 @@ export default function Header() {
       <div className="max-w-5xl mx-auto flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 shrink-0">
-          <span className="text-xl">🧭</span>
-          <span className="text-base font-bold leading-tight"><span className="text-[#0A0A0A]">Faith</span><br className="hidden sm:block" /> <span className="gold-text">Compass</span></span>
+          <FaithIcon size={30} />
+          <span className="text-base font-bold text-[#0A0A0A]">Faith</span>
         </Link>
 
         {/* Nav */}

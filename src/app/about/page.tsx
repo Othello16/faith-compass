@@ -1,12 +1,13 @@
 import Link from 'next/link'
+import FaithIcon from '@/components/FaithIcon'
 
 export default function AboutPage() {
   return (
     <main className="min-h-screen bg-white text-[#0A0A0A]">
       <nav className="flex items-center justify-between px-6 py-4 bg-white border-b border-gray-100 shadow-sm">
         <Link href="/" className="flex items-center gap-2">
-          <span className="text-2xl">🧭</span>
-          <span className="text-xl font-bold"><span className="text-[#0A0A0A]">Faith</span> <span className="gold-text">Compass</span></span>
+          <FaithIcon size={32} />
+          <span className="text-xl font-bold text-[#0A0A0A]">Faith</span>
         </Link>
         <div className="flex gap-4 items-center">
           <Link href="/compass" className="text-sm text-[#374151] hover:text-[#0A0A0A] transition">Compass</Link>
