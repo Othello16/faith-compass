@@ -3,7 +3,6 @@ import { signIn } from 'next-auth/react'
 import { useSearchParams } from 'next/navigation'
 import Link from 'next/link'
 import { Suspense } from 'react'
-import FaithIcon from '@/components/FaithIcon'
 
 function SignInContent() {
   const searchParams = useSearchParams()
@@ -15,8 +14,8 @@ function SignInContent() {
         {/* Logo */}
         <div className="text-center mb-8">
           <Link href="/" className="inline-flex items-center gap-2 mb-6">
-            <FaithIcon size={36} />
-            <span className="text-2xl font-bold text-[#0A0A0A]">Faith</span>
+            <span className="text-3xl">🧭</span>
+            <span className="text-2xl font-bold"><span className="text-[#0A0A0A]">Faith</span> <span className="gold-text">Compass</span></span>
           </Link>
           <h1 className="text-xl font-bold text-[#0A0A0A] mb-1">Welcome Back</h1>
           <p className="text-[#374151] text-sm">Sign in to continue your faith journey</p>

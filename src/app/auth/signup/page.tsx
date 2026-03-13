@@ -2,7 +2,6 @@
 import { signIn } from 'next-auth/react'
 import { useState } from 'react'
 import Link from 'next/link'
-import FaithIcon from '@/components/FaithIcon'
 
 export default function SignUpPage() {
   const [loading, setLoading] = useState(false)
@@ -18,8 +17,8 @@ export default function SignUpPage() {
       <div className="max-w-md w-full mx-4">
         <div className="text-center mb-8">
           <Link href="/" className="inline-flex items-center gap-2 mb-6">
-            <FaithIcon size={36} />
-            <span className="text-2xl font-bold text-[#0A0A0A]">Faith</span>
+            <span className="text-3xl">🧭</span>
+            <span className="text-2xl font-bold"><span className="text-[#0A0A0A]">Faith</span> <span className="gold-text">Compass</span></span>
           </Link>
           <h1 className="text-2xl font-bold text-[#0A0A0A] mb-2">Create Your Account</h1>
           <p className="text-[#374151] text-sm">Start your faith journey with Faith Compass</p>
