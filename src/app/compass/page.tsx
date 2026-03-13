@@ -1,6 +1,7 @@
 'use client'
 import { useState, useEffect, useRef } from 'react'
 import Link from 'next/link'
+import { useRouter } from 'next/navigation'
 import Header from '@/components/Header'
 import LimitGate from '@/components/LimitGate'
 import { bookNameToSlug } from '@/lib/bible'
@@ -16,8 +17,10 @@ interface BibleVerse {
   verified: boolean
 }
 
-// ── Sign-in gate modal ──────────────────────────────────────────────────────
-function SignInModal({
+type ModalStep = 'choice' | 'signin' | 'signup' | 'verify'
+
+// ── Auth Gate Modal ─────────────────────────────────────────────────────────
+function AuthModal({
   pendingQuestion,
   onClose,
   onSuccess,
@@ -26,104 +29,245 @@ function SignInModal({
   onClose: () => void
   onSuccess: () => void
 }) {
+  const [step, setStep] = useState<ModalStep>('choice')
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
+  const [code, setCode] = useState('')
+  const [marketingOptIn, setMarketingOptIn] = useState(false)
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
-  const [mode, setMode] = useState<'signin' | 'signup'>('signin')
 
-  const submit = async (e: React.FormEvent) => {
+  const reset = (s: ModalStep) => { setStep(s); setError('') }
+
+  // Sign In
+  const handleSignIn = async (e: React.FormEvent) => {
     e.preventDefault()
-    setLoading(true)
-    setError('')
+    setLoading(true); setError('')
     try {
-      const endpoint = mode === 'signin' ? '/api/auth/login' : '/api/auth/signup'
-      const res = await fetch(endpoint, {
+      const res = await fetch('/api/auth/login', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email, password }),
       })
       const data = await res.json()
-      if (!res.ok) {
-        setError(data.error || `${mode === 'signin' ? 'Sign in' : 'Sign up'} failed`)
-      } else {
-        onSuccess()
-      }
-    } catch {
-      setError('Network error. Please try again.')
-    } finally {
-      setLoading(false)
-    }
+      if (!res.ok) { setError(data.error || 'Sign in failed'); return }
+      onSuccess()
+    } catch { setError('Network error. Please try again.') }
+    finally { setLoading(false) }
+  }
+
+  // Sign Up
+  const handleSignUp = async (e: React.FormEvent) => {
+    e.preventDefault()
+    setLoading(true); setError('')
+    try {
+      const res = await fetch('/api/auth/signup', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, password, marketingOptIn }),
+      })
+      const data = await res.json()
+      if (data.code === 'USER_EXISTS') { setError(data.error); setStep('signin'); return }
+      if (!res.ok) { setError(data.error || 'Sign up failed'); return }
+      if (data.needsVerification) { setStep('verify') }
+    } catch { setError('Network error. Please try again.') }
+    finally { setLoading(false) }
+  }
+
+  // Verify email
+  const handleVerify = async (e: React.FormEvent) => {
+    e.preventDefault()
+    setLoading(true); setError('')
+    try {
+      const res = await fetch('/api/auth/verify', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, code, password }),
+      })
+      const data = await res.json()
+      if (!res.ok) { setError(data.error || 'Verification failed'); return }
+      onSuccess()
+    } catch { setError('Network error. Please try again.') }
+    finally { setLoading(false) }
   }
 
   return (
-    <div
-      className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-black/70 backdrop-blur-sm px-4 pb-4 sm:pb-0"
-      onClick={(e) => e.target === e.currentTarget && onClose()}
-    >
+    <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-black/80 backdrop-blur-sm px-4 pb-4 sm:pb-0">
       <div className="bg-[#0F172A] border border-white/15 rounded-2xl w-full max-w-sm p-6 shadow-2xl">
-        {/* Header */}
-        <div className="text-center mb-5">
-          <span className="text-3xl">🧭</span>
-          <h2 className="text-lg font-bold mt-2 mb-1">
-            {mode === 'signin' ? 'Sign in to get your answer' : 'Create your account'}
-          </h2>
-          <p className="text-white/40 text-xs leading-relaxed">
-            Your question is saved. Sign in and we&apos;ll submit it for you instantly.
-          </p>
+
+        {/* Question preview */}
+        <div className="text-center mb-4">
+          <span className="text-2xl">🧭</span>
+          <p className="text-white/40 text-xs mt-2 leading-relaxed">Your question is ready:</p>
+          <p className="text-white/70 text-xs italic mt-1 line-clamp-2 px-2">&ldquo;{pendingQuestion}&rdquo;</p>
         </div>
 
-        {/* Pending question preview */}
-        <div className="bg-white/5 border border-white/10 rounded-xl px-4 py-2 mb-5 text-xs text-white/50 italic line-clamp-2">
-          &ldquo;{pendingQuestion}&rdquo;
-        </div>
+        {/* STEP: Choice */}
+        {step === 'choice' && (
+          <div className="space-y-3">
+            <h2 className="text-base font-bold text-center mb-4">Sign in to get your answer</h2>
 
-        <form onSubmit={submit} className="space-y-3">
-          <input
-            type="email"
-            value={email}
-            onChange={e => setEmail(e.target.value)}
-            required
-            autoFocus
-            placeholder="Email"
-            className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-2.5 text-sm text-white placeholder-white/30 focus:outline-none focus:border-[#D4AF37]"
-          />
-          <input
-            type="password"
-            value={password}
-            onChange={e => setPassword(e.target.value)}
-            required
-            placeholder="Password"
-            className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-2.5 text-sm text-white placeholder-white/30 focus:outline-none focus:border-[#D4AF37]"
-          />
-          {error && <p className="text-red-400 text-xs">{error}</p>}
-          <button
-            type="submit"
-            disabled={loading}
-            className="w-full bg-[#1E40AF] text-white py-2.5 rounded-xl text-sm font-semibold hover:bg-blue-700 transition disabled:opacity-50"
-          >
-            {loading
-              ? (mode === 'signin' ? 'Signing in...' : 'Creating account...')
-              : (mode === 'signin' ? 'Sign In & Get My Answer' : 'Create Account & Ask')}
-          </button>
-        </form>
-
-        <div className="mt-4 text-center space-y-2">
-          <button
-            onClick={() => { setMode(mode === 'signin' ? 'signup' : 'signin'); setError('') }}
-            className="text-white/40 text-xs hover:text-white/60 transition"
-          >
-            {mode === 'signin' ? "Don't have an account? Sign up free" : 'Already have an account? Sign in'}
-          </button>
-          <div>
+            {/* Social logins */}
             <button
-              onClick={onClose}
-              className="text-white/25 text-xs hover:text-white/40 transition"
+              onClick={() => setError('Google Sign-In coming soon — use email for now')}
+              className="w-full flex items-center justify-center gap-3 bg-white text-gray-800 py-2.5 rounded-xl text-sm font-medium hover:bg-gray-100 transition"
             >
-              Maybe later (continue as guest)
+              <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/></svg>
+              Continue with Google
             </button>
+
+            <button
+              onClick={() => setError('Apple Sign-In coming soon — use email for now')}
+              className="w-full flex items-center justify-center gap-3 bg-black border border-white/20 text-white py-2.5 rounded-xl text-sm font-medium hover:bg-white/5 transition"
+            >
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="white"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
+              Continue with Apple
+            </button>
+
+            <button
+              onClick={() => setError('X Sign-In coming soon — use email for now')}
+              className="w-full flex items-center justify-center gap-3 bg-black border border-white/20 text-white py-2.5 rounded-xl text-sm font-medium hover:bg-white/5 transition"
+            >
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="white"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+              Continue with X
+            </button>
+
+            <div className="flex items-center gap-3 my-1">
+              <div className="flex-1 h-px bg-white/10" />
+              <span className="text-white/30 text-xs">or</span>
+              <div className="flex-1 h-px bg-white/10" />
+            </div>
+
+            <button
+              onClick={() => reset('signin')}
+              className="w-full bg-[#1E40AF] text-white py-2.5 rounded-xl text-sm font-semibold hover:bg-blue-700 transition"
+            >
+              Sign in with Email
+            </button>
+            <button
+              onClick={() => reset('signup')}
+              className="w-full border border-white/20 text-white/70 py-2.5 rounded-xl text-sm font-medium hover:border-white/40 transition"
+            >
+              Create Account
+            </button>
+
+            {error && <p className="text-yellow-400 text-xs text-center">{error}</p>}
+
+            <div className="text-center pt-1">
+              <button onClick={onClose} className="text-white/25 text-xs hover:text-white/40 transition">
+                ← Back to home
+              </button>
+            </div>
           </div>
-        </div>
+        )}
+
+        {/* STEP: Sign In */}
+        {step === 'signin' && (
+          <>
+            <h2 className="text-base font-bold text-center mb-4">Sign In</h2>
+            <form onSubmit={handleSignIn} className="space-y-3">
+              <input type="email" value={email} onChange={e => setEmail(e.target.value)} required autoFocus
+                placeholder="Email"
+                className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-2.5 text-sm text-white placeholder-white/30 focus:outline-none focus:border-[#D4AF37]" />
+              <input type="password" value={password} onChange={e => setPassword(e.target.value)} required
+                placeholder="Password"
+                className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-2.5 text-sm text-white placeholder-white/30 focus:outline-none focus:border-[#D4AF37]" />
+              {error && <p className="text-red-400 text-xs">{error}</p>}
+              <button type="submit" disabled={loading}
+                className="w-full bg-[#1E40AF] text-white py-2.5 rounded-xl text-sm font-semibold hover:bg-blue-700 transition disabled:opacity-50">
+                {loading ? 'Signing in...' : 'Sign In & Get My Answer'}
+              </button>
+            </form>
+            <div className="mt-3 text-center space-y-2">
+              <button onClick={() => reset('signup')} className="text-white/40 text-xs hover:text-white/60 transition">
+                Don&apos;t have an account? Sign up free
+              </button>
+              <div><button onClick={() => reset('choice')} className="text-white/25 text-xs hover:text-white/40 transition">← Other sign-in options</button></div>
+            </div>
+          </>
+        )}
+
+        {/* STEP: Sign Up */}
+        {step === 'signup' && (
+          <>
+            <h2 className="text-base font-bold text-center mb-4">Create Account</h2>
+            <form onSubmit={handleSignUp} className="space-y-3">
+              <input type="email" value={email} onChange={e => setEmail(e.target.value)} required autoFocus
+                placeholder="Email"
+                className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-2.5 text-sm text-white placeholder-white/30 focus:outline-none focus:border-[#D4AF37]" />
+              <input type="password" value={password} onChange={e => setPassword(e.target.value)} required
+                placeholder="Password (8+ chars, uppercase, number)"
+                className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-2.5 text-sm text-white placeholder-white/30 focus:outline-none focus:border-[#D4AF37]" />
+
+              {/* Marketing opt-in */}
+              <label className="flex items-start gap-3 cursor-pointer group">
+                <input
+                  type="checkbox"
+                  checked={marketingOptIn}
+                  onChange={e => setMarketingOptIn(e.target.checked)}
+                  className="mt-0.5 w-4 h-4 rounded border-white/30 bg-white/10 accent-[#D4AF37] shrink-0"
+                />
+                <span className="text-xs text-white/40 leading-relaxed group-hover:text-white/60 transition">
+                  I&apos;d like to receive updates, devotional content, and offers from Faith Compass. You can unsubscribe at any time.
+                </span>
+              </label>
+
+              <p className="text-white/25 text-xs leading-relaxed">
+                By creating an account you agree to our{' '}
+                <Link href="/terms" className="text-white/40 hover:text-white underline">Terms</Link>
+                {' & '}
+                <Link href="/privacy" className="text-white/40 hover:text-white underline">Privacy Policy</Link>.
+              </p>
+
+              {error && <p className="text-red-400 text-xs">{error}</p>}
+              <button type="submit" disabled={loading}
+                className="w-full bg-[#1E40AF] text-white py-2.5 rounded-xl text-sm font-semibold hover:bg-blue-700 transition disabled:opacity-50">
+                {loading ? 'Creating account...' : 'Create Account & Ask'}
+              </button>
+            </form>
+            <div className="mt-3 text-center space-y-2">
+              <button onClick={() => reset('signin')} className="text-white/40 text-xs hover:text-white/60 transition">
+                Already have an account? Sign in
+              </button>
+              <div><button onClick={() => reset('choice')} className="text-white/25 text-xs hover:text-white/40 transition">← Other sign-in options</button></div>
+            </div>
+          </>
+        )}
+
+        {/* STEP: Verify Email */}
+        {step === 'verify' && (
+          <>
+            <div className="text-center mb-4">
+              <span className="text-3xl">📧</span>
+              <h2 className="text-base font-bold mt-2">Check your email</h2>
+              <p className="text-white/40 text-xs mt-1">
+                We sent a 6-digit code to<br />
+                <span className="text-white/70">{email}</span>
+              </p>
+            </div>
+            <form onSubmit={handleVerify} className="space-y-3">
+              <input
+                type="text"
+                inputMode="numeric"
+                pattern="[0-9]{6}"
+                maxLength={6}
+                value={code}
+                onChange={e => setCode(e.target.value.replace(/\D/g, ''))}
+                required autoFocus
+                placeholder="6-digit code"
+                className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 text-sm text-white placeholder-white/30 focus:outline-none focus:border-[#D4AF37] text-center text-lg tracking-widest"
+              />
+              {error && <p className="text-red-400 text-xs text-center">{error}</p>}
+              <button type="submit" disabled={loading || code.length < 6}
+                className="w-full bg-[#1E40AF] text-white py-2.5 rounded-xl text-sm font-semibold hover:bg-blue-700 transition disabled:opacity-50">
+                {loading ? 'Verifying...' : 'Verify & Get My Answer'}
+              </button>
+            </form>
+            <p className="text-center text-white/25 text-xs mt-3">
+              Didn&apos;t get it? Check your spam folder.
+            </p>
+          </>
+        )}
       </div>
     </div>
   )
@@ -131,6 +275,7 @@ function SignInModal({
 
 // ── Main page ───────────────────────────────────────────────────────────────
 export default function CompassPage() {
+  const router = useRouter()
   const [question, setQuestion] = useState('')
   const [answer, setAnswer] = useState('')
   const [loading, setLoading] = useState(false)
@@ -138,11 +283,10 @@ export default function CompassPage() {
   const [limitReached, setLimitReached] = useState(false)
   const [nextAvailable, setNextAvailable] = useState<string | null>(null)
   const [verses, setVerses] = useState<BibleVerse[]>([])
-  const [showSignIn, setShowSignIn] = useState(false)
+  const [showAuth, setShowAuth] = useState(false)
   const pendingQuestion = useRef('')
   const LIMIT = 3
 
-  // On mount: check if we just returned from sign-in with a pending question
   useEffect(() => {
     const saved = sessionStorage.getItem('fc_pending_question')
     if (saved) {
@@ -199,37 +343,33 @@ export default function CompassPage() {
 
   const handleAsk = () => {
     if (!question.trim() || loading || limitReached) return
-    // Save question and show sign-in gate
     pendingQuestion.current = question
     sessionStorage.setItem('fc_pending_question', question)
-    setShowSignIn(true)
+    setShowAuth(true)
   }
 
-  const handleSignInSuccess = () => {
-    setShowSignIn(false)
-    // Question is already saved in sessionStorage; submit directly
+  const handleAuthSuccess = () => {
+    setShowAuth(false)
     const q = pendingQuestion.current || question
     sessionStorage.removeItem('fc_pending_question')
     submitQuestion(q)
   }
 
-  const handleGuestContinue = () => {
-    // User dismissed sign-in — submit as guest
-    setShowSignIn(false)
-    const q = pendingQuestion.current || question
+  // "Back to home" — discard, no free tokens given
+  const handleDismiss = () => {
     sessionStorage.removeItem('fc_pending_question')
-    submitQuestion(q)
+    router.push('/')
   }
 
   return (
     <main className="min-h-screen bg-[#0F172A] text-white">
       <Header />
 
-      {showSignIn && (
-        <SignInModal
+      {showAuth && (
+        <AuthModal
           pendingQuestion={pendingQuestion.current}
-          onClose={handleGuestContinue}
-          onSuccess={handleSignInSuccess}
+          onClose={handleDismiss}
+          onSuccess={handleAuthSuccess}
         />
       )}
 
@@ -248,13 +388,11 @@ export default function CompassPage() {
           <textarea
             className="w-full bg-transparent text-white placeholder-white/30 resize-none outline-none text-sm leading-relaxed"
             rows={4}
-            placeholder="Ask a faith or moral question... (e.g. 'What does the Bible say about forgiveness?' or 'How should I handle conflict with a family member?')"
+            placeholder="Ask a faith or moral question... (e.g. 'What does the Bible say about forgiveness?')"
             value={question}
             onChange={(e) => setQuestion(e.target.value.slice(0, 500))}
             disabled={limitReached}
-            onKeyDown={(e) => {
-              if (e.key === 'Enter' && (e.metaKey || e.ctrlKey)) handleAsk()
-            }}
+            onKeyDown={(e) => { if (e.key === 'Enter' && (e.metaKey || e.ctrlKey)) handleAsk() }}
           />
           <div className="flex justify-between items-center mt-4 pt-4 border-t border-white/10">
             <span className="text-xs text-white/30">{question.length}/500</span>
