@@ -48,24 +48,24 @@ export default function IntegrityPage() {
   }
 
   return (
-    <main className="min-h-screen bg-[#080808] text-white">
+    <main className="min-h-screen bg-white text-[#0A0A0A]">
       <Header />
 
       <div className="max-w-2xl mx-auto px-6 py-16">
         <div className="flex items-center justify-between mb-2">
           <h1 className="text-3xl font-bold">Faith Integrity Check</h1>
-          <span className="text-sm text-white/50">
+          <span className="text-sm text-[#9CA3AF]">
             {used}/{LIMIT} questions used today
           </span>
         </div>
-        <p className="text-white/50 text-sm mb-2">
+        <p className="text-[#374151] text-sm mb-2">
           Paste a sermon, article, or devotional. AI cross-references it against Scripture and flags concerns.
         </p>
         <p className="text-[#C9A84C]/60 text-xs mb-8">
           This is a discernment tool, not a judgment of people.
         </p>
 
-        <div className="bg-[#111111] border border-[#1A1A1A] rounded-2xl p-6 mb-6">
+        <div className="bg-[#080808] rounded-2xl border border-[#C9A84C]/20 p-6 mb-6">
           <textarea
             className="w-full bg-transparent text-white placeholder-white/30 resize-none outline-none text-sm leading-relaxed"
             rows={8}
@@ -80,7 +80,7 @@ export default function IntegrityPage() {
             <button
               onClick={analyzeContent}
               disabled={!content.trim() || loading || limitReached}
-              className="bg-[#C9A84C] text-black px-6 py-2 rounded-lg text-sm font-medium hover:bg-[#E8C96E] transition disabled:opacity-40 disabled:cursor-not-allowed"
+              className="btn-gold px-6 py-2 rounded-lg text-sm font-medium disabled:opacity-40 disabled:cursor-not-allowed"
             >
               {loading ? 'Analyzing...' : 'Check Integrity'}
             </button>
@@ -105,8 +105,8 @@ export default function IntegrityPage() {
 
         {limitReached && <LimitGate nextAvailable={nextAvailable} />}
 
-        <div className="mt-8 bg-[#111111] border border-[#1A1A1A] rounded-xl p-4 text-center">
-          <p className="text-white/40 text-xs">
+        <div className="mt-8 bg-[#FAFAF8] border border-[#E5E7EB] rounded-xl p-4 text-center">
+          <p className="text-[#9CA3AF] text-xs">
             Free tier: up to {MAX_CHARS} characters per check.
             <Link href="/pricing" className="text-[#C9A84C] hover:text-[#E8C96E] ml-1">Upgrade to Pro</Link>
             {' '}for extended analysis and PDF exports.

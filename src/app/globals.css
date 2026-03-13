@@ -3,18 +3,40 @@
 @tailwind utilities;
 
 :root {
+  --gold-gradient: linear-gradient(135deg, #F5D785 0%, #C9A84C 40%, #8A6E2F 100%);
+  --gold-gradient-hover: linear-gradient(135deg, #FAE499 0%, #D4AF37 40%, #9A7E3A 100%);
+  --gold-flat: #C9A84C;
+  --gold-border: rgba(201,168,76,0.35);
+  --gold-glow: 0 0 24px rgba(201,168,76,0.3);
   --fc-black: #080808;
-  --fc-card: #111111;
-  --fc-border: #1A1A1A;
-  --fc-gold: #C9A84C;
-  --fc-gold-light: #E8C96E;
-  --fc-gold-muted: rgba(201,168,76,0.15);
-  --fc-white: #FFFFFF;
-  --fc-off-white: #F8F6F1;
-  --fc-text-muted: #9CA3AF;
+  --fc-card-dark: #111111;
+  --fc-border-dark: #1A1A1A;
 }
 
 body {
-  background: #080808;
-  color: #FFFFFF;
+  background: #FFFFFF;
+  color: #0A0A0A;
+}
+
+/* Utility class for shiny gold gradient text */
+.gold-text {
+  background: linear-gradient(135deg, #F5D785 0%, #C9A84C 40%, #8A6E2F 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Shiny gold button */
+.btn-gold {
+  background: linear-gradient(135deg, #F5D785 0%, #C9A84C 40%, #8A6E2F 100%);
+  color: #000;
+  font-weight: 700;
+  letter-spacing: 0.025em;
+  box-shadow: 0 4px 14px rgba(201,168,76,0.4);
+  transition: all 0.2s;
+}
+.btn-gold:hover {
+  background: linear-gradient(135deg, #FAE499 0%, #D4AF37 40%, #9A7E3A 100%);
+  box-shadow: 0 6px 20px rgba(201,168,76,0.55);
+  transform: translateY(-1px);
 }

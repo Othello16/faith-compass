@@ -2,16 +2,16 @@ import Header from '@/components/Header'
 
 export default function TermsPage() {
   return (
-    <main className="min-h-screen bg-[#080808] text-white">
+    <main className="min-h-screen bg-white text-[#0A0A0A]">
       <Header />
 
       <div className="max-w-3xl mx-auto px-6 py-16">
         <h1 className="text-4xl font-bold mb-2">Terms of Service</h1>
-        <p className="text-white/40 text-sm mb-12">Last updated: March 13, 2026</p>
+        <p className="text-[#9CA3AF] text-sm mb-12">Last updated: March 13, 2026</p>
 
-        <div className="space-y-8 text-white/70 leading-relaxed text-sm">
+        <div className="space-y-8 text-[#374151] leading-relaxed text-sm">
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">1. Acceptance of Terms</h2>
+            <h2 className="text-xl font-semibold gold-text mb-3">1. Acceptance of Terms</h2>
             <p>
               By accessing or using Faith Compass (&quot;the Service&quot;), you agree to be bound by these
               Terms of Service. If you do not agree to these terms, please do not use the Service.
@@ -20,7 +20,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">2. Description of Service</h2>
+            <h2 className="text-xl font-semibold gold-text mb-3">2. Description of Service</h2>
             <p>
               Faith Compass provides AI-powered Scripture reference tools, church finding services,
               Bible search with cryptographic verification, and content integrity analysis. The Service
@@ -30,7 +30,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">3. Important Disclaimer</h2>
+            <h2 className="text-xl font-semibold gold-text mb-3">3. Important Disclaimer</h2>
             <p className="text-[#C9A84C]">
               Faith Compass is a technology tool that surfaces Scripture references. It does not
               provide theological authority, pastoral counseling, or spiritual direction. Always
@@ -39,7 +39,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">4. User Accounts &amp; Authentication</h2>
+            <h2 className="text-xl font-semibold gold-text mb-3">4. User Accounts &amp; Authentication</h2>
             <ul className="list-disc pl-6 space-y-1">
               <li>Accounts are managed through AWS Cognito with email-based authentication</li>
               <li>You must provide accurate information when creating an account</li>
@@ -50,7 +50,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">5. Question Limits &amp; Free Tier</h2>
+            <h2 className="text-xl font-semibold gold-text mb-3">5. Question Limits &amp; Free Tier</h2>
             <ul className="list-disc pl-6 space-y-1">
               <li>Free tier: 3 questions per 24-hour rolling window, no credit card required</li>
               <li>Questions are counted across both Compass and Integrity Check features</li>
@@ -61,7 +61,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">6. Subscriptions and Payments</h2>
+            <h2 className="text-xl font-semibold gold-text mb-3">6. Subscriptions and Payments</h2>
             <ul className="list-disc pl-6 space-y-1">
               <li>Basic ($3/month): 500 questions/month, bookmarks, history</li>
               <li>Pro ($7.77/month): 1,500 questions/month, Faith Integrity Check, priority AI, PDF exports</li>
@@ -73,7 +73,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">7. AI Usage Disclosure</h2>
+            <h2 className="text-xl font-semibold gold-text mb-3">7. AI Usage Disclosure</h2>
             <p>
               Faith Compass uses OpenAI&apos;s GPT-4o model to process questions and generate Scripture-based
               responses. Your questions are sent to OpenAI for processing but are not used to train AI
@@ -83,7 +83,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">8. Location Data</h2>
+            <h2 className="text-xl font-semibold gold-text mb-3">8. Location Data</h2>
             <p>
               The Church Finder feature may request access to your browser&apos;s geolocation. This data
               is used only during your active session to find nearby churches and is never stored
@@ -92,7 +92,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">9. Voice Feature</h2>
+            <h2 className="text-xl font-semibold gold-text mb-3">9. Voice Feature</h2>
             <p>
               Voice search is provided as a convenience feature. Faith Compass does not guarantee accuracy
               of voice transcription. Voice queries count against your daily question limit.
@@ -100,7 +100,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">10. Account Required</h2>
+            <h2 className="text-xl font-semibold gold-text mb-3">10. Account Required</h2>
             <p>
               Access to the Compass AI feature and voice search requires a free account. You must be 13
               or older to create an account (COPPA).
@@ -108,7 +108,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">11. Terms Acceptance</h2>
+            <h2 className="text-xl font-semibold gold-text mb-3">11. Terms Acceptance</h2>
             <p>
               By using Faith Compass, you agree to these Terms. We will notify you of material changes.
               Continued use after changes constitutes acceptance.
@@ -116,7 +116,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">12. Acceptable Use</h2>
+            <h2 className="text-xl font-semibold gold-text mb-3">12. Acceptable Use</h2>
             <p className="mb-3">You agree not to:</p>
             <ul className="list-disc pl-6 space-y-1">
               <li>Use the Service to spread misinformation or false doctrine intentionally</li>
@@ -128,7 +128,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">13. Intellectual Property</h2>
+            <h2 className="text-xl font-semibold gold-text mb-3">13. Intellectual Property</h2>
             <p>
               Scripture quotations are from the King James Version (public domain).
               The Faith Compass platform, branding, and original content are the property
@@ -137,7 +137,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">14. Limitation of Liability</h2>
+            <h2 className="text-xl font-semibold gold-text mb-3">14. Limitation of Liability</h2>
             <p>
               Faith Compass is provided &quot;as is&quot; without warranties of any kind. We are not
               liable for any spiritual, emotional, or other decisions made based on information
@@ -147,7 +147,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">15. Modifications</h2>
+            <h2 className="text-xl font-semibold gold-text mb-3">15. Modifications</h2>
             <p>
               We reserve the right to modify these terms at any time. Continued use of the
               Service after changes constitutes acceptance of the modified terms. Material
@@ -156,7 +156,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">16. Contact</h2>
+            <h2 className="text-xl font-semibold gold-text mb-3">16. Contact</h2>
             <p>
               For questions about these terms, contact us at{' '}
               <a href="mailto:legal@faithcompass.app" className="text-[#C9A84C] hover:text-[#E8C96E] transition">

@@ -30,22 +30,22 @@ export default function LimitGate({ nextAvailable }: LimitGateProps) {
   }, [nextAvailable])
 
   return (
-    <div className="mt-6 bg-[#C9A84C]/10 border border-[#C9A84C]/30 rounded-2xl p-6 text-center">
-      <p className="text-[#C9A84C] font-semibold mb-2">Daily limit reached (3/3)</p>
-      <p className="text-white/60 text-sm mb-2">
+    <div className="mt-6 bg-white border border-[#E5E7EB] rounded-2xl p-6 text-center shadow-sm">
+      <p className="text-[#0A0A0A] font-semibold mb-2">Daily limit reached (3/3)</p>
+      <p className="text-[#374151] text-sm mb-2">
         You&apos;ve used your 3 free questions today.
       </p>
       {nextAvailable && countdown !== 'now' && (
-        <p className="text-white/50 text-sm mb-4">
-          Your next question unlocks in: <span className="text-[#C9A84C] font-mono">{countdown}</span>
+        <p className="text-[#374151] text-sm mb-4">
+          Your next question unlocks in: <span className="gold-text font-mono font-bold">{countdown}</span>
         </p>
       )}
       {countdown === 'now' && (
-        <p className="text-green-400 text-sm mb-4">
+        <p className="text-green-600 text-sm mb-4">
           Your next question is available now! Refresh the page.
         </p>
       )}
-      <Link href="/pricing" className="inline-block bg-[#C9A84C] text-black px-6 py-2 rounded-lg text-sm font-semibold hover:bg-[#E8C96E] transition">
+      <Link href="/pricing" className="inline-block btn-gold px-6 py-2 rounded-lg text-sm">
         Upgrade for Unlimited →
       </Link>
     </div>

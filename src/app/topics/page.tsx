@@ -258,7 +258,7 @@ export default function TopicsPage() {
   }
 
   return (
-    <main className="min-h-screen bg-[#080808] text-white">
+    <main className="min-h-screen bg-white text-[#0A0A0A]">
       <Header />
 
       {/* Auth gate modal — same flow as Compass */}
@@ -274,14 +274,14 @@ export default function TopicsPage() {
 
       <div className="max-w-2xl mx-auto px-5 py-10">
         <div className="mb-6">
-          <h1 className="text-3xl font-bold mb-1">Topical Bible</h1>
-          <p className="text-white/50 text-sm">
+          <h1 className="text-3xl font-bold mb-1 text-[#0A0A0A]">Topical Bible</h1>
+          <p className="text-[#374151] text-sm">
             Speak or type any topic — see every Scripture that speaks to it.
           </p>
         </div>
 
-        {/* Search bar */}
-        <div className="bg-[#111111] border border-[#1A1A1A] rounded-2xl p-4 mb-3">
+        {/* Search bar — dark panel */}
+        <div className="bg-[#080808] rounded-2xl border border-[#C9A84C]/20 p-4 mb-3">
           <div className="flex items-center gap-3">
             {voiceSupported && (
               <button
@@ -290,7 +290,7 @@ export default function TopicsPage() {
                 className={`shrink-0 w-11 h-11 rounded-xl flex items-center justify-center transition-all ${
                   listening
                     ? 'bg-red-500/20 border border-red-500/50 text-red-400 animate-pulse'
-                    : 'bg-[#111111] border border-[#1A1A1A] text-white/60 hover:text-white hover:bg-white/20'
+                    : 'btn-gold'
                 }`}
               >
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -322,7 +322,7 @@ export default function TopicsPage() {
           <button
             onClick={() => handleSearch()}
             disabled={(!topic.trim() && !listening) || loading}
-            className="mt-3 w-full bg-[#C9A84C] text-black py-3 rounded-xl text-sm font-semibold hover:bg-[#E8C96E] transition disabled:opacity-40"
+            className="btn-gold mt-3 w-full py-3 rounded-xl text-sm font-semibold transition disabled:opacity-40"
           >
             {loading ? 'Searching...' : 'Search Scriptures'}
           </button>
@@ -341,13 +341,17 @@ export default function TopicsPage() {
         {/* Popular topic chips */}
         {!result && !loading && (
           <div className="mb-8">
-            <p className="text-xs text-white/30 mb-3 uppercase tracking-wider">Popular topics</p>
+            <p className="text-xs text-[#9CA3AF] mb-3 uppercase tracking-wider">Popular topics</p>
             <div className="flex flex-wrap gap-2">
               {POPULAR_TOPICS.map(t => (
                 <button
                   key={t}
                   onClick={() => { setTopic(t); handleSearch(t) }}
-                  className="bg-[#111111] border border-[#1A1A1A] rounded-full px-3 py-1 text-xs text-white/60 hover:text-white hover:border-[#C9A84C]/50 hover:bg-[#C9A84C]/5 transition capitalize"
+                  className={`rounded-full px-3 py-1 text-xs transition capitalize ${
+                    topic === t
+                      ? 'bg-[#080808] border border-[#C9A84C] text-[#C9A84C]'
+                      : 'bg-white border border-gray-200 text-[#374151] hover:border-[#C9A84C] hover:text-[#C9A84C] hover:shadow-sm'
+                  }`}
                 >
                   {t}
                 </button>
@@ -382,8 +386,8 @@ export default function TopicsPage() {
           <div>
             <div className="flex items-center justify-between mb-4">
               <div>
-                <h2 className="text-lg font-semibold capitalize">{result.topic}</h2>
-                <p className="text-xs text-white/40 mt-0.5">
+                <h2 className="text-lg font-semibold capitalize text-[#0A0A0A]">{result.topic}</h2>
+                <p className="text-xs text-[#9CA3AF] mt-0.5">
                   {result.fallback
                     ? 'Scripture AI answer (Compass) — OpenBible index unavailable for this topic'
                     : `${result.count} scriptures — sorted by community relevance`}
@@ -391,7 +395,7 @@ export default function TopicsPage() {
               </div>
               {!result.fallback && result.url && (
                 <a href={result.url} target="_blank" rel="noopener noreferrer"
-                  className="text-xs text-white/30 hover:text-white/60 transition shrink-0">
+                  className="text-xs text-[#9CA3AF] hover:text-[#374151] transition shrink-0">
                   openbible.info ↗
                 </a>
               )}
@@ -413,9 +417,9 @@ export default function TopicsPage() {
             {!result.fallback && (
               <div className="space-y-3">
                 {result.verses.map((verse, i) => (
-                  <div key={i} className="bg-[#111111] border border-[#1A1A1A] rounded-xl p-4 hover:border-[#C9A84C]/30 transition">
+                  <div key={i} className="bg-[#111111] border border-[#1A1A1A] border-l-2 border-l-[#C9A84C] rounded-xl p-4 hover:border-[#C9A84C]/30 transition">
                     <div className="flex items-center justify-between mb-2">
-                      <span className="text-sm font-semibold text-[#C9A84C]">{verse.reference}</span>
+                      <span className="text-sm font-semibold gold-text">{verse.reference}</span>
                       {verse.votes > 0 && (
                         <span className="text-xs text-white/30 flex items-center gap-1">
                           <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3H14z"/><path d="M7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"/></svg>
@@ -435,7 +439,7 @@ export default function TopicsPage() {
         {/* Sign-in nudge for unauthenticated users */}
         {!session && !loading && !result && !limitReached && (
           <div className="mt-4 text-center">
-            <p className="text-white/25 text-xs">
+            <p className="text-[#9CA3AF] text-xs">
               🔒 Voice search and AI-powered results require a free account.{' '}
               <Link href="/compass" className="text-[#C9A84C]/60 hover:text-[#C9A84C] underline">Sign in →</Link>
             </p>

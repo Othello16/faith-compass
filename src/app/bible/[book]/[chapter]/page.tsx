@@ -68,12 +68,12 @@ export default function BibleChapterPage() {
   const currentSlugIdx = allSlugs.indexOf(bookSlug)
 
   return (
-    <main className="min-h-screen bg-[#080808] text-white">
+    <main className="min-h-screen bg-white text-[#0A0A0A]">
       <Header />
 
       <div className="max-w-2xl mx-auto px-6 py-12">
         {loading && (
-          <div className="text-center py-20 text-white/40">Loading chapter...</div>
+          <div className="text-center py-20 text-[#9CA3AF]">Loading chapter...</div>
         )}
 
         {error && (
@@ -88,10 +88,10 @@ export default function BibleChapterPage() {
         {!loading && !error && (
           <>
             <div className="text-center mb-10">
-              <h1 className="text-3xl font-serif font-bold text-[#C9A84C] mb-1">
+              <h1 className="text-3xl font-serif font-bold gold-text mb-1">
                 {bookName}
               </h1>
-              <p className="text-white/50 text-sm">Chapter {chapterNum}</p>
+              <p className="text-[#9CA3AF] text-sm">Chapter {chapterNum}</p>
             </div>
 
             <div className="space-y-4">
@@ -103,11 +103,11 @@ export default function BibleChapterPage() {
                     id={`verse-${v.verse}`}
                     className={`font-serif text-base leading-relaxed transition-colors ${
                       isHighlighted
-                        ? 'bg-[#C9A84C]/10 border-l-2 border-[#C9A84C] pl-4 py-2 text-white'
-                        : 'text-white/75'
+                        ? 'bg-[#C9A84C]/10 border-l-2 border-[#C9A84C] pl-4 py-2 text-[#0A0A0A]'
+                        : 'text-[#374151]'
                     }`}
                   >
-                    <sup className="text-xs text-white/30 mr-1 font-sans">{v.verse}</sup>
+                    <sup className="text-xs text-[#9CA3AF] mr-1 font-sans">{v.verse}</sup>
                     {v.text}
                   </p>
                 )
@@ -115,7 +115,7 @@ export default function BibleChapterPage() {
             </div>
 
             {/* Navigation */}
-            <div className="flex justify-between items-center mt-12 pt-6 border-t border-[#1A1A1A]">
+            <div className="flex justify-between items-center mt-12 pt-6 border-t border-[#E5E7EB]">
               {prevChapter ? (
                 <Link
                   href={`/bible/${bookSlug}/${prevChapter}`}

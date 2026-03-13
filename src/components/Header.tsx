@@ -11,34 +11,34 @@ export default function Header() {
   const callbackUrl = encodeURIComponent(pathname || '/compass')
 
   return (
-    <nav className="w-full px-4 py-3 bg-[#080808] border-b border-[#1A1A1A]">
+    <nav className="w-full px-4 py-3 bg-white border-b border-gray-100 shadow-sm">
       <div className="max-w-5xl mx-auto flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 shrink-0">
           <span className="text-xl">🧭</span>
-          <span className="text-base font-bold leading-tight"><span className="text-white">Faith</span><br className="hidden sm:block" /> <span className="text-[#C9A84C]">Compass</span></span>
+          <span className="text-base font-bold leading-tight"><span className="text-[#0A0A0A]">Faith</span><br className="hidden sm:block" /> <span className="gold-text">Compass</span></span>
         </Link>
 
         {/* Nav */}
         <div className="flex items-center gap-3">
-          <Link href="/compass" className="text-xs text-white/60 hover:text-white transition px-2 py-1">Compass</Link>
-          <Link href="/topics" className="text-xs text-white/60 hover:text-white transition px-2 py-1 hidden sm:block">Topics</Link>
-          <Link href="/churches" className="text-xs text-white/60 hover:text-white transition px-2 py-1 hidden sm:block">Churches</Link>
-          <Link href="/pricing" className="text-xs text-white/60 hover:text-white transition px-2 py-1 hidden sm:block">Pricing</Link>
+          <Link href="/compass" className="text-xs text-[#374151] hover:text-[#0A0A0A] transition px-2 py-1">Compass</Link>
+          <Link href="/topics" className="text-xs text-[#374151] hover:text-[#0A0A0A] transition px-2 py-1 hidden sm:block">Topics</Link>
+          <Link href="/churches" className="text-xs text-[#374151] hover:text-[#0A0A0A] transition px-2 py-1 hidden sm:block">Churches</Link>
+          <Link href="/pricing" className="text-xs text-[#374151] hover:text-[#0A0A0A] transition px-2 py-1 hidden sm:block">Pricing</Link>
 
           {status === 'loading' ? (
-            <div className="w-16 h-7 rounded-lg bg-[#1A1A1A] animate-pulse" />
+            <div className="w-16 h-7 rounded-lg bg-gray-100 animate-pulse" />
           ) : session ? (
             <button
               onClick={() => signOut({ callbackUrl: '/' })}
-              className="bg-[#1A1A1A] text-white/80 px-3 py-1.5 rounded-lg text-xs font-medium hover:bg-white/20 transition whitespace-nowrap"
+              className="bg-gray-100 text-[#374151] px-3 py-1.5 rounded-lg text-xs font-medium hover:bg-gray-200 transition whitespace-nowrap"
             >
               Sign Out
             </button>
           ) : (
             <Link
               href={`/auth/signin?callbackUrl=${callbackUrl}`}
-              className="border border-[#C9A84C]/40 text-[#C9A84C] px-3 py-1.5 rounded-lg text-xs font-medium hover:bg-[#C9A84C] hover:text-black transition whitespace-nowrap"
+              className="bg-[#080808] text-white border border-[#C9A84C]/40 px-3 py-1.5 rounded-lg text-xs font-medium hover:shadow-[0_0_12px_rgba(201,168,76,0.3)] transition whitespace-nowrap"
             >
               Sign In
             </Link>

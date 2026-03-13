@@ -10,7 +10,7 @@ export const viewport: Viewport = {
   width: 'device-width',
   initialScale: 1,
   maximumScale: 1,
-  themeColor: '#080808',
+  themeColor: '#FFFFFF',
 }
 
 export const metadata: Metadata = {
@@ -61,7 +61,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="application-name" content="Faith Compass" />
         {/* Splash screen background color for iOS */}
-        <meta name="msapplication-TileColor" content="#080808" />
+        <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="msapplication-TileImage" content="/icon-144x144.png" />
       </head>
       <body>

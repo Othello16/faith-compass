@@ -60,16 +60,16 @@ export default function InstallPrompt() {
 
   return (
     <div className="fixed bottom-24 left-4 right-4 sm:left-auto sm:right-20 sm:w-80 z-40
-                    bg-[#080808] border border-[#C9A84C]/40 rounded-2xl p-4 shadow-2xl
-                    shadow-black/50 animate-in slide-in-from-bottom-4">
+                    bg-white border border-[#E5E7EB] rounded-2xl p-4 shadow-2xl
+                    animate-in slide-in-from-bottom-4">
       <div className="flex items-start gap-3">
         {/* Icon */}
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img src="/icon-96x96.png" alt="Faith Compass" className="w-12 h-12 rounded-xl shrink-0" />
 
         <div className="flex-1 min-w-0">
-          <p className="text-sm font-semibold text-white mb-0.5">Add to Home Screen</p>
-          <p className="text-xs text-white/50 leading-relaxed">
+          <p className="text-sm font-semibold text-[#0A0A0A] mb-0.5">Add to Home Screen</p>
+          <p className="text-xs text-[#9CA3AF] leading-relaxed">
             {isIOS
               ? 'Tap the Share button below, then "Add to Home Screen" to install Faith Compass.'
               : 'Install Faith Compass for quick access — works offline too.'}
@@ -79,13 +79,13 @@ export default function InstallPrompt() {
             <div className="flex gap-2 mt-3">
               <button
                 onClick={handleInstall}
-                className="flex-1 bg-[#C9A84C] text-black py-1.5 rounded-lg text-xs font-semibold hover:bg-[#E8C96E] transition"
+                className="flex-1 btn-gold py-1.5 rounded-lg text-xs"
               >
                 Install
               </button>
               <button
                 onClick={handleDismiss}
-                className="px-3 py-1.5 rounded-lg text-xs text-white/40 hover:text-white/70 hover:bg-[#111111] transition"
+                className="px-3 py-1.5 rounded-lg text-xs text-[#9CA3AF] hover:text-[#374151] hover:bg-gray-50 transition"
               >
                 Not now
               </button>
@@ -96,13 +96,13 @@ export default function InstallPrompt() {
             <div className="flex items-center gap-2 mt-3">
               <span className="text-lg">⬆️</span>
               <span className="text-xs text-[#C9A84C]">Tap Share → Add to Home Screen</span>
-              <button onClick={handleDismiss} className="ml-auto text-white/30 hover:text-white/60 transition text-lg leading-none">×</button>
+              <button onClick={handleDismiss} className="ml-auto text-[#9CA3AF] hover:text-[#374151] transition text-lg leading-none">×</button>
             </div>
           )}
         </div>
 
         {isIOS && (
-          <button onClick={handleDismiss} className="text-white/30 hover:text-white/60 transition text-xl leading-none shrink-0">×</button>
+          <button onClick={handleDismiss} className="text-[#9CA3AF] hover:text-[#374151] transition text-xl leading-none shrink-0">×</button>
         )}
       </div>
     </div>

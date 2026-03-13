@@ -23,25 +23,25 @@ export default function CookieConsent() {
   if (!visible) return null
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 bg-[#080808] border-t border-[#1A1A1A] px-6 py-4 z-50">
+    <div className="fixed bottom-0 left-0 right-0 bg-white border-t border-[#E5E7EB] px-6 py-4 z-50 shadow-lg">
       <div className="max-w-4xl mx-auto flex flex-col sm:flex-row items-center gap-4">
-        <p className="text-white/70 text-sm flex-1">
+        <p className="text-[#374151] text-sm flex-1">
           We use cookies for authentication and to remember your preferences.
           We do not use tracking or advertising cookies.{' '}
-          <Link href="/privacy" className="text-[#C9A84C] hover:text-[#E8C96E] transition">
+          <Link href="/privacy" className="text-[#C9A84C] hover:underline transition">
             Privacy Policy
           </Link>
         </p>
         <div className="flex gap-3">
           <button
             onClick={handleDecline}
-            className="px-4 py-2 text-sm text-white/50 hover:text-white border border-white/20 rounded-lg transition"
+            className="px-4 py-2 text-sm text-[#374151] hover:text-[#0A0A0A] border border-gray-200 rounded-lg transition"
           >
             Decline
           </button>
           <button
             onClick={handleAccept}
-            className="px-4 py-2 text-sm text-black bg-[#C9A84C] rounded-lg hover:bg-[#E8C96E] transition"
+            className="px-4 py-2 text-sm btn-gold rounded-lg"
           >
             Accept
           </button>
