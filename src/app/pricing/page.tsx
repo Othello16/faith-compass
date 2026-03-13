@@ -1,7 +1,8 @@
 'use client'
-import { useState } from 'react'
+import { Suspense, useState, useEffect } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
+import { useRouter, useSearchParams } from 'next/navigation'
+import { useSession } from 'next-auth/react'
 
 const tiers = [
   {
@@ -55,11 +56,27 @@ const tiers = [
 ]
 
 export default function PricingPage() {
+  return (
+    <Suspense fallback={<div className="min-h-screen bg-[#0F172A]" />}>
+      <PricingContent />
+    </Suspense>
+  )
+}
+
+function PricingContent() {
   const router = useRouter()
+  const searchParams = useSearchParams()
+  const { data: session, status } = useSession()
   const [loading, setLoading] = useState<string | null>(null)
   const [error, setError] = useState('')
 
   const handleSubscribe = async (plan: string) => {
+    // Require login first
+    if (!session) {
+      localStorage.setItem('fc_pending_plan', plan)
+      router.push('/compass?returnTo=pricing')
+      return
+    }
     setLoading(plan)
     setError('')
     try {
@@ -70,9 +87,9 @@ export default function PricingPage() {
       })
       const data = await res.json()
       if (!res.ok || !data.url) {
-        // If not signed in, send to compass to sign in first
         if (res.status === 401) {
-          router.push('/compass')
+          localStorage.setItem('fc_pending_plan', plan)
+          router.push('/compass?returnTo=pricing')
           return
         }
         setError(data.error || 'Could not start checkout. Please try again.')
@@ -86,6 +103,15 @@ export default function PricingPage() {
     }
   }
 
+  // Fix 4: Auto-trigger checkout if returning from sign-in with ?plan= param
+  useEffect(() => {
+    const planParam = searchParams.get('plan')
+    if (planParam && session && (planParam === 'guided' || planParam === 'pro')) {
+      handleSubscribe(planParam)
+    }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [session, searchParams])
+
   return (
     <main className="min-h-screen bg-[#0F172A] text-white">
       <nav className="flex items-center justify-between px-6 py-4 border-b border-white/10">
@@ -97,6 +123,17 @@ export default function PricingPage() {
           Open Compass
         </Link>
       </nav>
+
+      {/* Login status bar */}
+      {status === 'authenticated' ? (
+        <div className="bg-green-500/10 border-b border-green-500/20 px-6 py-3 text-center text-green-400 text-sm">
+          ✅ Signed in as {session?.user?.email}
+        </div>
+      ) : status !== 'loading' ? (
+        <div className="bg-yellow-500/10 border-b border-yellow-500/20 px-6 py-3 text-center text-yellow-400 text-sm">
+          ⚠️ Sign in before subscribing — your plan is linked to your account
+        </div>
+      ) : null}
 
       <div className="max-w-4xl mx-auto px-6 py-16">
         <div className="text-center mb-12">

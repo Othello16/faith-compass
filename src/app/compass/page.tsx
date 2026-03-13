@@ -1,7 +1,7 @@
 'use client'
-import { useState, useEffect, useRef, useCallback } from 'react'
+import { Suspense, useState, useEffect, useRef, useCallback } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
+import { useRouter, useSearchParams } from 'next/navigation'
 import { signIn, useSession } from 'next-auth/react'
 import Header from '@/components/Header'
 import LimitGate from '@/components/LimitGate'
@@ -290,11 +290,29 @@ function AuthModal({
 
 // ── Main page ───────────────────────────────────────────────────────────────
 export default function CompassPage() {
+  return (
+    <Suspense fallback={<div className="min-h-screen bg-[#0F172A]" />}>
+      <CompassContent />
+    </Suspense>
+  )
+}
+
+function CompassContent() {
   const router = useRouter()
+  const searchParams = useSearchParams()
   const { data: session, status } = useSession()
+  const [showUpgradeBanner, setShowUpgradeBanner] = useState(false)
   // Stable refs to avoid stale closures in speech recognition callbacks
   const sessionRef = useRef(session)
   useEffect(() => { sessionRef.current = session }, [session])
+
+  // Fix 5: Show success banner after upgrade
+  useEffect(() => {
+    if (searchParams.get('upgraded') === '1') {
+      setShowUpgradeBanner(true)
+      setTimeout(() => setShowUpgradeBanner(false), 10000)
+    }
+  }, [searchParams])
 
   const [question, setQuestion] = useState('')
   const [answer, setAnswer] = useState('')
@@ -444,6 +462,16 @@ export default function CompassPage() {
   // ── After OAuth social sign-in returns ────────────────────────────────────
   useEffect(() => {
     if (status === 'loading') return
+    // Check for pending plan first — redirect to pricing
+    if (session) {
+      const pendingPlan = localStorage.getItem('fc_pending_plan')
+      if (pendingPlan) {
+        localStorage.removeItem('fc_pending_plan')
+        router.push(`/pricing?plan=${pendingPlan}`)
+        return
+      }
+    }
+    // Then check for pending question
     const saved = localStorage.getItem('fc_pending_question')
     if (saved && !hasAutoSubmitted.current) {
       hasAutoSubmitted.current = true
@@ -475,6 +503,14 @@ export default function CompassPage() {
 
   const handleAuthSuccess = () => {
     setShowAuth(false)
+    // Check for pending plan first — redirect to pricing
+    const pendingPlan = localStorage.getItem('fc_pending_plan')
+    if (pendingPlan) {
+      localStorage.removeItem('fc_pending_plan')
+      router.push(`/pricing?plan=${pendingPlan}`)
+      return
+    }
+    // Then check for pending question
     const q = pendingQuestion.current || question
     localStorage.removeItem('fc_pending_question')
     sessionStorage.removeItem('fc_pending_question')
@@ -496,6 +532,12 @@ export default function CompassPage() {
   return (
     <main className="min-h-screen bg-[#0F172A] text-white">
       <Header />
+
+      {showUpgradeBanner && (
+        <div className="bg-green-500/20 border border-green-500/30 rounded-xl p-4 mb-4 text-green-400 text-sm text-center mx-5 mt-4">
+          🎉 Subscription active! Your daily limit has been upgraded. Ask away.
+        </div>
+      )}
 
       {showAuth && (
         <AuthModal

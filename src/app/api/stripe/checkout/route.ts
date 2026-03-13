@@ -2,7 +2,6 @@ import { NextRequest, NextResponse } from 'next/server'
 import Stripe from 'stripe'
 import { getServerSession } from 'next-auth'
 import { authOptions } from '@/lib/auth'
-import { getUserIdFromRequest } from '@/lib/usage-limit'
 
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, { apiVersion: '2024-06-20' })
 
@@ -19,12 +18,10 @@ export async function POST(req: NextRequest) {
     }
 
     const session = await getServerSession(authOptions)
-    const ip = req.headers.get('x-forwarded-for')?.split(',')[0]?.trim() || 'unknown'
-    // Normalize session to match getUserIdFromRequest signature
-    const sessionForUsage = session?.user
-      ? { user: { id: (session.user as { id?: string }).id, email: session.user.email ?? undefined } }
-      : null
-    const userId = getUserIdFromRequest(sessionForUsage, ip)
+    if (!session?.user) {
+      return NextResponse.json({ error: 'auth_required' }, { status: 401 })
+    }
+    const userId = `user:${session.user.email}`
 
     const priceId = PRICE_IDS[plan]
 
