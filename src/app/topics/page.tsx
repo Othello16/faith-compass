@@ -1,7 +1,6 @@
 'use client'
 import { useState, useRef, useEffect, useCallback } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
 import { useSession } from 'next-auth/react'
 import Header from '@/components/Header'
 import AuthModal from '@/components/AuthModal'
@@ -50,8 +49,12 @@ declare global {
 }
 
 export default function TopicsPage() {
-  const router = useRouter()
   const { data: session, status } = useSession()
+  // sessionRef keeps a live reference accessible from speech recognition callbacks
+  // (avoids stale closure — useEffect([]) captures session at mount, before it resolves)
+  const sessionRef = useRef(session)
+  useEffect(() => { sessionRef.current = session }, [session])
+
   const [topic, setTopic] = useState('')
   const [result, setResult] = useState<TopicResult | null>(null)
   const [loading, setLoading] = useState(false)
@@ -63,7 +66,6 @@ export default function TopicsPage() {
   // Auth gate state
   const [showAuth, setShowAuth] = useState(false)
   const pendingTopic = useRef('')
-  const pendingIsVoice = useRef(false)
   const hasAutoSubmitted = useRef(false)
 
   // Limit state (for Compass AI fallback)
@@ -90,8 +92,16 @@ export default function TopicsPage() {
         setTopic(final)
         setTranscript('')
         setListening(false)
-        // Voice requires auth — gate it like Compass
-        handleVoiceResult(final)
+        // Use sessionRef (not session) — avoids stale closure in this callback
+        if (sessionRef.current) {
+          // Already signed in — go straight to search
+          executeSearchRef.current(final)
+        } else {
+          // Not signed in — save topic, show auth gate
+          pendingTopic.current = final
+          localStorage.setItem('fc_pending_topic', final)
+          setShowAuth(true)
+        }
       }
     }
     recognition.onerror = () => { setListening(false); setTranscript('') }
@@ -113,21 +123,6 @@ export default function TopicsPage() {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [status, session])
 
-  // ── Voice result handler — gate behind auth ──────────────────────────────
-  const handleVoiceResult = (spokenTopic: string) => {
-    if (!spokenTopic) return
-    if (session) {
-      // Already signed in — submit directly
-      executeSearch(spokenTopic)
-    } else {
-      // Save topic, show auth gate
-      pendingTopic.current = spokenTopic
-      pendingIsVoice.current = true
-      localStorage.setItem('fc_pending_topic', spokenTopic)
-      setShowAuth(true)
-    }
-  }
-
   // ── Text/chip search — free for OpenBible; gate Compass AI fallback ──────
   const handleSearch = (searchTopic?: string) => {
     const q = (searchTopic || topic).trim()
@@ -135,7 +130,22 @@ export default function TopicsPage() {
     executeSearch(q)
   }
 
+  // ── "Ask the Compass" — same auth+limit flow, runs inline (no redirect) ──
+  const handleAskCompass = () => {
+    const q = topic.trim() || result?.topic || ''
+    if (!q) return
+    if (session) {
+      executeSearch(q)
+    } else {
+      pendingTopic.current = q
+      localStorage.setItem('fc_pending_topic', q)
+      setShowAuth(true)
+    }
+  }
+
   // ── Core search execution ────────────────────────────────────────────────
+  // executeSearchRef keeps a stable ref for the speech recognition stale closure
+  const executeSearchRef = useRef<(q: string) => void>(() => {})
   const executeSearch = useCallback(async (q: string) => {
     if (!q || loading) return
     setLoading(true)
@@ -183,6 +193,9 @@ export default function TopicsPage() {
     }
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [session, loading])
+
+  // Keep ref in sync with latest executeSearch
+  useEffect(() => { executeSearchRef.current = executeSearch }, [executeSearch])
 
   const runCompassFallback = async (q: string) => {
     try {
@@ -242,13 +255,6 @@ export default function TopicsPage() {
       try { recognitionRef.current.start(); setListening(true) }
       catch { setListening(false) }
     }
-  }
-
-  const handleAskCompass = () => {
-    const q = topic.trim() || result?.topic || ''
-    if (!q) return
-    localStorage.setItem('fc_pending_question', `What does the Bible say about ${q}?`)
-    router.push('/compass')
   }
 
   return (
@@ -322,15 +328,14 @@ export default function TopicsPage() {
           </button>
         </div>
 
-        {/* Ask the Compass CTA */}
+        {/* Ask the Compass CTA — runs Compass AI inline (auth + limit gated) */}
         <button
           onClick={handleAskCompass}
-          disabled={!topic.trim() && !result}
+          disabled={(!topic.trim() && !result) || loading || limitReached}
           className="w-full flex items-center justify-center gap-2 bg-[#D4AF37]/10 border border-[#D4AF37]/25 text-[#D4AF37] px-4 py-2.5 rounded-xl text-sm font-medium hover:bg-[#D4AF37]/20 transition disabled:opacity-30 mb-6"
         >
           <span>🧭</span>
-          <span>Ask the Compass{result ? ` about ${result.topic}` : ''}</span>
-          <span className="text-xs text-[#D4AF37]/60">→ Scripture AI with KJV verification</span>
+          <span>Ask the Compass{topic.trim() ? ` about "${topic.trim()}"` : result ? ` about ${result.topic}` : ''}</span>
         </button>
 
         {/* Popular topic chips */}
