@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
 import OpenAI from 'openai'
-import { getSession } from '@/lib/auth'
 import { checkUsageLimit, recordUsage, getUserIdFromRequest } from '@/lib/usage-limit'
 
 const SYSTEM_PROMPT = `You are a Faith Integrity Check tool for Faith Compass. You analyze religious content (sermons, articles, devotionals) against Scripture.
@@ -28,9 +27,8 @@ Rules:
 export async function POST(req: NextRequest) {
   const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
   try {
-    const session = await getSession()
     const ip = req.headers.get('x-forwarded-for')?.split(',')[0]?.trim() || req.headers.get('x-real-ip')
-    const userId = getUserIdFromRequest(session as { user?: { id?: string; email?: string } } | null, ip)
+    const userId = getUserIdFromRequest(null, ip)
 
     // Check usage limit
     const usage = await checkUsageLimit(userId)
