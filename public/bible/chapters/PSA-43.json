@@ -1,0 +1,52 @@
+[
+  {
+    "id": "PSA.43.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 43,
+    "verse": 1,
+    "text": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man. {ungodly: or, unmerciful} {the deceitful...: Heb. a man of deceit and iniquity}",
+    "hash": "6d4d174e1731b7cb3bcf283686d2994178650e6c78ef9a2c57c0cea9bdbaa666"
+  },
+  {
+    "id": "PSA.43.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 43,
+    "verse": 2,
+    "text": "For thou {art} the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?",
+    "hash": "ffe63d5024f50daffcedf01ec23fed95316cf21b9815a35674881e74ed232678"
+  },
+  {
+    "id": "PSA.43.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 43,
+    "verse": 3,
+    "text": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.",
+    "hash": "ba2516f225bc97cb3d7e0b9ca1f5175264c0bd882ce55432968227a845c2335d"
+  },
+  {
+    "id": "PSA.43.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 43,
+    "verse": 4,
+    "text": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God. {my exceeding...: Heb. the gladness of my joy}",
+    "hash": "654fbe9f4c20b5a1b6743f4d5b587be28b33a66d3ce07168976ce21da1d12461"
+  },
+  {
+    "id": "PSA.43.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 43,
+    "verse": 5,
+    "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, {who is} the health of my countenance, and my God.",
+    "hash": "e8880b586bbc02459c0c3b82c1ee3d8bb5b63686d24f7b6b71f936cce8b9fe6a"
+  }
+]

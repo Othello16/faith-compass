@@ -1,0 +1,482 @@
+[
+  {
+    "id": "LUK.19.1",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 1,
+    "text": "And {Jesus} entered and passed through Jericho.",
+    "hash": "a1a25f992818bbf4fab210b00b09eddd908c741901b2e74acaa6b61aac438c5f"
+  },
+  {
+    "id": "LUK.19.2",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 2,
+    "text": "And, behold, {there was} a man named Zacchaeus, which was the chief among the publicans, and he was rich.",
+    "hash": "b434bca83920772a0b0a605d704f247105fe37f50c1ba7901c1859f70573cb92"
+  },
+  {
+    "id": "LUK.19.3",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 3,
+    "text": "And he sought to see Jesus who he was; and could not for the press, because he was little of stature.",
+    "hash": "a3af76b105fc55310504863f1cc87621a4cf000840c3bda05488f41dde8c7f59"
+  },
+  {
+    "id": "LUK.19.4",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 4,
+    "text": "And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that {way}.",
+    "hash": "88d8d6950805989b385ac1274f78336cf3a143ec64d2e4a69daa85ff91ce6b55"
+  },
+  {
+    "id": "LUK.19.5",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 5,
+    "text": "And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchaeus, make haste, and come down; for to day I must abide at thy house.",
+    "hash": "3dd12c85c1e231d883214ad77e1e57af7a8f16720148736037e68e55205ffbc6"
+  },
+  {
+    "id": "LUK.19.6",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 6,
+    "text": "And he made haste, and came down, and received him joyfully.",
+    "hash": "871ccea18686f65c806b85dc7a01c98ccae7b2f605cb8858624ed4a1f4094f7f"
+  },
+  {
+    "id": "LUK.19.7",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 7,
+    "text": "And when they saw {it}, they all murmured, saying, That he was gone to be guest with a man that is a sinner.",
+    "hash": "e8f4ea6c6816c3f132d52a5f1818d90ac90df0d5672103eacf0a6f449a09d993"
+  },
+  {
+    "id": "LUK.19.8",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 8,
+    "text": "And Zacchaeus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore {him} fourfold.",
+    "hash": "8030f2a29d7e801bf08fabe104420df4b054ea2a1e5da3a08638fdce32ecaba8"
+  },
+  {
+    "id": "LUK.19.9",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 9,
+    "text": "And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.",
+    "hash": "2268f76abbb0564c5e2954c4f6107907b12942e0ebfef0d1653dfb5a619e4aef"
+  },
+  {
+    "id": "LUK.19.10",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 10,
+    "text": "For the Son of man is come to seek and to save that which was lost.",
+    "hash": "603077d743fd793e932c69a9a6c3b7b8ad5d057cd065834c78ce6f5357eee381"
+  },
+  {
+    "id": "LUK.19.11",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 11,
+    "text": "And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear.",
+    "hash": "7d3548ee1800bca5a0796920d700c637cc855d6a076da91174d8ce79dbccbf50"
+  },
+  {
+    "id": "LUK.19.12",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 12,
+    "text": "He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return.",
+    "hash": "53a0a7791445d6d7ce8a886f1703920ba93f7c7d85d73827a8bcf1db4141e746"
+  },
+  {
+    "id": "LUK.19.13",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 13,
+    "text": "And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come. {pounds: mina, here translated a pound, is twelve ounces and an half: which according to five shillings the ounce is three pounds two shillings and sixpence}",
+    "hash": "5b3b656cb37a25bf040aadf3712dabeb2eaa5eb47bdcd513c5c311354f1c85b4"
+  },
+  {
+    "id": "LUK.19.14",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 14,
+    "text": "But his citizens hated him, and sent a message after him, saying, We will not have this {man} to reign over us.",
+    "hash": "2c515a40f211a1cfdb7ce3786eea73c9038c0c399bbf03680104f744eae8bed2"
+  },
+  {
+    "id": "LUK.19.15",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 15,
+    "text": "And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading. {money: Gr. silver}",
+    "hash": "09d02f59472ee9e7a85ee931da23d46d6132b20dcf97ca232613da171ce76119"
+  },
+  {
+    "id": "LUK.19.16",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 16,
+    "text": "Then came the first, saying, Lord, thy pound hath gained ten pounds.",
+    "hash": "11f69e5f7e4aa987ad49d4ab8b8d2e63514e0cbde05e036ca46c4aff622c7f1a"
+  },
+  {
+    "id": "LUK.19.17",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 17,
+    "text": "And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.",
+    "hash": "0c5519fe4bfc0198592ceabeb0de22185b4b13b3ba6e97c270232c517d40b388"
+  },
+  {
+    "id": "LUK.19.18",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 18,
+    "text": "And the second came, saying, Lord, thy pound hath gained five pounds.",
+    "hash": "e3de7d38704ea8123692e0f4a01fb975abac5400dd0a99c3dd82604807b58a94"
+  },
+  {
+    "id": "LUK.19.19",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 19,
+    "text": "And he said likewise to him, Be thou also over five cities.",
+    "hash": "7e27ce912e2853e6ec8309889f96037e5fb1c021d553a1af4706a2edb975e5da"
+  },
+  {
+    "id": "LUK.19.20",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 20,
+    "text": "And another came, saying, Lord, behold, {here is} thy pound, which I have kept laid up in a napkin:",
+    "hash": "11b4b73f721b71115fba6bbdca7a795481c5e842d45e9bf4c9d761ca7223d4e4"
+  },
+  {
+    "id": "LUK.19.21",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 21,
+    "text": "For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.",
+    "hash": "5ee0060941ee91bcb72c43688ed3f90c466e109c3d37a219a06cc7cd1aea146e"
+  },
+  {
+    "id": "LUK.19.22",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 22,
+    "text": "And he saith unto him, Out of thine own mouth will I judge thee, {thou} wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:",
+    "hash": "9b959b20053d7c41ec137102e285b82c16d87f6abee9c3356769eb4e1a07efcd"
+  },
+  {
+    "id": "LUK.19.23",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 23,
+    "text": "Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury? {money: Gr. silver}",
+    "hash": "64ff8dd5d12214650dca6a0170cd8de7638b1d887c6c891ebc10a4472d1ee62d"
+  },
+  {
+    "id": "LUK.19.24",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 24,
+    "text": "And he said unto them that stood by, Take from him the pound, and give {it} to him that hath ten pounds.",
+    "hash": "6760b30b7f5b1aa45255664f721f2227b99fc7a977628b23ee399d8523e88cb6"
+  },
+  {
+    "id": "LUK.19.25",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 25,
+    "text": "(And they said unto him, Lord, he hath ten pounds.)",
+    "hash": "eb029f9a4874a2733955fe85673d73433199cf05472059d42e82aceea12d42a3"
+  },
+  {
+    "id": "LUK.19.26",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 26,
+    "text": "For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.",
+    "hash": "35b95e9e294054b3005f2711ee3eb8ffd71f03d43ec3cf7a0d5a3cb9427369b3"
+  },
+  {
+    "id": "LUK.19.27",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 27,
+    "text": "But those mine enemies, which would not that I should reign over them, bring hither, and slay {them} before me.",
+    "hash": "0214f9532576a2ee45ec04766768a37d739d3090266f9902d2d9f892997616fc"
+  },
+  {
+    "id": "LUK.19.28",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 28,
+    "text": "And when he had thus spoken, he went before, ascending up to Jerusalem.",
+    "hash": "f00ef82cc0739efee6858b226accde6e857149333ff997a538807318b5f0c820"
+  },
+  {
+    "id": "LUK.19.29",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 29,
+    "text": "And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called {the mount} of Olives, he sent two of his disciples,",
+    "hash": "82837bdeb58c2286f925d43fdffc5332f69ec0cf1b6b7a024f1a9d2948e945be"
+  },
+  {
+    "id": "LUK.19.30",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 30,
+    "text": "Saying, Go ye into the village over against {you}; in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring {him hither}.",
+    "hash": "0b015fc9199728e9feedf7bea2c50d93478ac3234c0ec0a54f108636ef4d0bf4"
+  },
+  {
+    "id": "LUK.19.31",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 31,
+    "text": "And if any man ask you, Why do ye loose {him}? thus shall ye say unto him, Because the Lord hath need of him.",
+    "hash": "b5830d08e2158a471b7f860955e152f18bb321819c56e513f908a0835dfa07d6"
+  },
+  {
+    "id": "LUK.19.32",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 32,
+    "text": "And they that were sent went their way, and found even as he had said unto them.",
+    "hash": "fa45b2806d1e0b75c101c59ebfd9914605be8b7e8eda4357b7eb28e9a9ca7f86"
+  },
+  {
+    "id": "LUK.19.33",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 33,
+    "text": "And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt?",
+    "hash": "e5d110dbbc36e6a23d7c7a1472172402264eddeb616ddeb87da80a9c50c6fbb1"
+  },
+  {
+    "id": "LUK.19.34",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 34,
+    "text": "And they said, The Lord hath need of him.",
+    "hash": "1a9ab5c48d6ca6958bbe15da017ed077037f79cf268941f372c2bbf8ce02b1d0"
+  },
+  {
+    "id": "LUK.19.35",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 35,
+    "text": "And they brought him to Jesus: and they cast their garments upon the colt, and they set Jesus thereon.",
+    "hash": "1a2a5919564a934ef67effaf5f5c4610f747e662ec32613c68470f2a20739d80"
+  },
+  {
+    "id": "LUK.19.36",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 36,
+    "text": "And as he went, they spread their clothes in the way.",
+    "hash": "1cc4bd5648eef2cf56612b289a96750897760294a73b8258d2e0580ab9ecfe50"
+  },
+  {
+    "id": "LUK.19.37",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 37,
+    "text": "And when he was come nigh, even now at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen;",
+    "hash": "c34046b1f113e8f361a1077fb8520bacce88e797c02e3c35a99f8c35622eaa1c"
+  },
+  {
+    "id": "LUK.19.38",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 38,
+    "text": "Saying, Blessed {be} the King that cometh in the name of the Lord: peace in heaven, and glory in the highest.",
+    "hash": "c1f5606c5233691298de4ac0072916984c5d176adbccedcd046fe483f2105139"
+  },
+  {
+    "id": "LUK.19.39",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 39,
+    "text": "And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples.",
+    "hash": "ee1225d01cb6d5186dc450096573ff8b9b787135eb04d8fb6328dd65b86096ca"
+  },
+  {
+    "id": "LUK.19.40",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 40,
+    "text": "And he answered and said unto them, I tell you that, if these should hold their peace, the stones would immediately cry out.",
+    "hash": "97fcec8c13685edec703993158e49ba1c600a81edea9de6a5938c45576592b47"
+  },
+  {
+    "id": "LUK.19.41",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 41,
+    "text": "And when he was come near, he beheld the city, and wept over it,",
+    "hash": "c3b63d270388cf3b7bdaba97a38cd17280af218a5406b21edc46f86ece10ba45"
+  },
+  {
+    "id": "LUK.19.42",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 42,
+    "text": "Saying, If thou hadst known, even thou, at least in this thy day, the things {which belong} unto thy peace! but now they are hid from thine eyes.",
+    "hash": "404b9ec976f849f0178ca5b6cbd6ed3d9fd5167c3939819280381ac27699917f"
+  },
+  {
+    "id": "LUK.19.43",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 43,
+    "text": "For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,",
+    "hash": "a6f8dd3c5aea8f4e8a63075461f053931a171d20dcd03319e296e9f29b7bed28"
+  },
+  {
+    "id": "LUK.19.44",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 44,
+    "text": "And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation.",
+    "hash": "59e4ba3c7347fa5eff0363918434babc8e5b38a436a4369b7eaf147fcdbbce16"
+  },
+  {
+    "id": "LUK.19.45",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 45,
+    "text": "And he went into the temple, and began to cast out them that sold therein, and them that bought;",
+    "hash": "a6d362f190d564589bdf5713f7dfba083b6eccca11689280fa17167481c6ba1d"
+  },
+  {
+    "id": "LUK.19.46",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 46,
+    "text": "Saying unto them, It is written, My house is the house of prayer: but ye have made it a den of thieves.",
+    "hash": "76f1083c136e85ebe9a594abc1a925efea2a4e12cc2be0d93bcbcc7a3be447d1"
+  },
+  {
+    "id": "LUK.19.47",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 47,
+    "text": "And he taught daily in the temple. But the chief priests and the scribes and the chief of the people sought to destroy him,",
+    "hash": "d6948980464a10e504c193edefa7d54d72ea1b2e3f0711d7156847f36f728025"
+  },
+  {
+    "id": "LUK.19.48",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 19,
+    "verse": 48,
+    "text": "And could not find what they might do: for all the people were very attentive to hear him. {were...: or, hanged on him}",
+    "hash": "5f09bfd42bd31c2378ac683a9e6b1875873e6ae896238c18cfc76ac6c7fb112b"
+  }
+]

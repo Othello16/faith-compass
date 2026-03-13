@@ -1,0 +1,222 @@
+[
+  {
+    "id": "PRO.2.1",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 1,
+    "text": "My son, if thou wilt receive my words, and hide my commandments with thee;",
+    "hash": "601fa63e8f672b0cb4d022cbe3eee2279616080787317f71bb310d29f1ea9dc6"
+  },
+  {
+    "id": "PRO.2.2",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 2,
+    "text": "So that thou incline thine ear unto wisdom, {and} apply thine heart to understanding;",
+    "hash": "6f05e3296b9738b182c6e48e57190820583ca88e514b022708d26c5a6865bccf"
+  },
+  {
+    "id": "PRO.2.3",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 3,
+    "text": "Yea, if thou criest after knowledge, {and} liftest up thy voice for understanding; {liftest...: Heb. givest thy voice}",
+    "hash": "99440acb075cd96378049e9a15e459204886b1b0ebf58da54bce1cc9df10956a"
+  },
+  {
+    "id": "PRO.2.4",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 4,
+    "text": "If thou seekest her as silver, and searchest for her as {for} hid treasures;",
+    "hash": "584a06a2ac986e01ad92b5519847bd9a2115746c4b0b13867ffe43be767546dc"
+  },
+  {
+    "id": "PRO.2.5",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 5,
+    "text": "Then shalt thou understand the fear of the LORD, and find the knowledge of God.",
+    "hash": "dfa4470f59f4ed8f808c4200851b136503f04c2d018093757b41c3f8419d3d81"
+  },
+  {
+    "id": "PRO.2.6",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 6,
+    "text": "For the LORD giveth wisdom: out of his mouth {cometh} knowledge and understanding.",
+    "hash": "b37b592b13f9e3409bcdb2979a9d4557254ebfd4e1372ff44a9490e2f667adac"
+  },
+  {
+    "id": "PRO.2.7",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 7,
+    "text": "He layeth up sound wisdom for the righteous: {he is} a buckler to them that walk uprightly.",
+    "hash": "1e25134f53ecee4446797a0ada85d6cb7a671305146deba2e11c299b1c3e4f9c"
+  },
+  {
+    "id": "PRO.2.8",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 8,
+    "text": "He keepeth the paths of judgment, and preserveth the way of his saints.",
+    "hash": "c4344ff7c4768aabb0cd178436c6413a0455bfe8e3294b5cea4f1a2ec8899cd4"
+  },
+  {
+    "id": "PRO.2.9",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 9,
+    "text": "Then shalt thou understand righteousness, and judgment, and equity; {yea}, every good path.",
+    "hash": "12bb5b5d3ca81c8023622880e320a7bef56d94bd28c6b48f20b349ab7c8a0141"
+  },
+  {
+    "id": "PRO.2.10",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 10,
+    "text": "When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;",
+    "hash": "b52fb7a13237a918dc8adecc8b065897eb57b69972c78913dda6528c62929a35"
+  },
+  {
+    "id": "PRO.2.11",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 11,
+    "text": "Discretion shall preserve thee, understanding shall keep thee:",
+    "hash": "b0c3cec23dde97461107b4dadc3c350072041f890e291ef733d8844b2ed45496"
+  },
+  {
+    "id": "PRO.2.12",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 12,
+    "text": "To deliver thee from the way of the evil {man}, from the man that speaketh froward things;",
+    "hash": "7c7a495546e0dfdbe915d5a596b0a56f651724555372dad85b3a78a22430deec"
+  },
+  {
+    "id": "PRO.2.13",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 13,
+    "text": "Who leave the paths of uprightness, to walk in the ways of darkness;",
+    "hash": "dbace03537f3947420e2e91eee5147d6fa1e4af5b7c0e8bb5be18b064cd3be98"
+  },
+  {
+    "id": "PRO.2.14",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 14,
+    "text": "Who rejoice to do evil, {and} delight in the frowardness of the wicked;",
+    "hash": "8f4be3823039029d694a8dcadf1d42dfba1f6d2f0b8b984d8d827ccc96767340"
+  },
+  {
+    "id": "PRO.2.15",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 15,
+    "text": "Whose ways {are} crooked, and {they} froward in their paths:",
+    "hash": "dcd029f6043918716c4a387bc697d47563cd6dff137e2fd6ea964cdce054414b"
+  },
+  {
+    "id": "PRO.2.16",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 16,
+    "text": "To deliver thee from the strange woman, {even} from the stranger {which} flattereth with her words;",
+    "hash": "b4a6e30b97b344163143448ad582e8dad9ebcfcf786f893f340f7c5a40443d6e"
+  },
+  {
+    "id": "PRO.2.17",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 17,
+    "text": "Which forsaketh the guide of her youth, and forgetteth the covenant of her God.",
+    "hash": "bf16289d074915b3397e3207b56a8a286b1bdbfb503b3a3c625c101c5fb40131"
+  },
+  {
+    "id": "PRO.2.18",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 18,
+    "text": "For her house inclineth unto death, and her paths unto the dead.",
+    "hash": "d5fd6aaf65845330fb555cad47c7dfe5478f3a7e6dddf40f8ab2c710c4b7b1fc"
+  },
+  {
+    "id": "PRO.2.19",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 19,
+    "text": "None that go unto her return again, neither take they hold of the paths of life.",
+    "hash": "858259e576d8713702090edf394fb1bbbd6ba94608dd8e8684b6bd830e57d50e"
+  },
+  {
+    "id": "PRO.2.20",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 20,
+    "text": "That thou mayest walk in the way of good {men}, and keep the paths of the righteous.",
+    "hash": "53f9d0e7f09c52b6a61c59399220519ae7301f052cdb6062c28737289e101349"
+  },
+  {
+    "id": "PRO.2.21",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 21,
+    "text": "For the upright shall dwell in the land, and the perfect shall remain in it.",
+    "hash": "bec3ceb043ac853486d4b6bf630bfed6b8f8d8d5788c6b5f96f1cf6a3a3c0cc1"
+  },
+  {
+    "id": "PRO.2.22",
+    "book": "Proverbs",
+    "bookNum": 20,
+    "bookAbbrev": "PRO",
+    "chapter": 2,
+    "verse": 22,
+    "text": "But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it. {rooted: or, plucked up}",
+    "hash": "dc339144359f121490d20a5aa7bf2a1643d5e09e2b57f5883e1789dc6aedfc64"
+  }
+]

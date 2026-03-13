@@ -1,0 +1,32 @@
+[
+  {
+    "id": "PSA.134.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 134,
+    "verse": 1,
+    "text": "[A Song of degrees.] Behold, bless ye the LORD, all {ye} servants of the LORD, which by night stand in the house of the LORD.",
+    "hash": "edbbe6c137bc3d405e9502ef36145e8214407d49ec4b66a816aa580bc1139008"
+  },
+  {
+    "id": "PSA.134.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 134,
+    "verse": 2,
+    "text": "Lift up your hands {in} the sanctuary, and bless the LORD. {the sanctuary: or, holiness}",
+    "hash": "882adaa7d4a1e64ffefc14bb744a54eb27f408f356d960c85c359213390bdea5"
+  },
+  {
+    "id": "PSA.134.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 134,
+    "verse": 3,
+    "text": "The LORD that made heaven and earth bless thee out of Zion.",
+    "hash": "d70070aff015f2ca1de5872faaef4c6c297f0a1049a98d3cea00bb4ae6000564"
+  }
+]

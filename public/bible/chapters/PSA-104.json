@@ -1,0 +1,352 @@
+[
+  {
+    "id": "PSA.104.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 1,
+    "text": "Bless the LORD, O my soul. O LORD my God, thou art very great; thou art clothed with honour and majesty.",
+    "hash": "17efafe3b56a7c1ba5409e315f645e8c47579e83a3ff3c504abdf156c172f61c"
+  },
+  {
+    "id": "PSA.104.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 2,
+    "text": "Who coverest {thyself} with light as {with} a garment: who stretchest out the heavens like a curtain:",
+    "hash": "38982137491d7ea29db98f6a9c38a31e7587b0657b71c026db7c7c8d6c918fe3"
+  },
+  {
+    "id": "PSA.104.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 3,
+    "text": "Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind:",
+    "hash": "85dc729412d0ee5cb57b8271ec2771d996ff9392b5a92528afcbc4cfe7e34c7b"
+  },
+  {
+    "id": "PSA.104.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 4,
+    "text": "Who maketh his angels spirits; his ministers a flaming fire:",
+    "hash": "c96cdad5e17189b68419296e87d5681e07227af9f890f63cb39def03c0f79674"
+  },
+  {
+    "id": "PSA.104.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 5,
+    "text": "{Who} laid the foundations of the earth, {that} it should not be removed for ever. {Who...: Heb. He hath founded the earth upon her bases}",
+    "hash": "6f4c3a698e3ba8c3ae73e6bcb7c923d42898926e4b557476b46b5b600d157c6c"
+  },
+  {
+    "id": "PSA.104.6",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 6,
+    "text": "Thou coveredst it with the deep as {with} a garment: the waters stood above the mountains.",
+    "hash": "c65d04b76b71776fbe89165d21b37cfd7d7f9caa5e5c88490d00b1430425bbcd"
+  },
+  {
+    "id": "PSA.104.7",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 7,
+    "text": "At thy rebuke they fled; at the voice of thy thunder they hasted away.",
+    "hash": "e8ea92fe6e807c9586aa3557de03bfab7f72bc6c9df2cf0385dfaef327318c86"
+  },
+  {
+    "id": "PSA.104.8",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 8,
+    "text": "They go up by the mountains; they go down by the valleys unto the place which thou hast founded for them. {They go up...: or, The mountains ascend, the valleys descend}",
+    "hash": "cde22c5828a887f24071f0f0c3e93fba38a6346248b5481faa90bd87f372d31d"
+  },
+  {
+    "id": "PSA.104.9",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 9,
+    "text": "Thou hast set a bound that they may not pass over; that they turn not again to cover the earth.",
+    "hash": "eef5013fcdc8cf0bdb91d3ab3d384ee11b6a4c67d5d6e91d2831678afbd41999"
+  },
+  {
+    "id": "PSA.104.10",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 10,
+    "text": "He sendeth the springs into the valleys, {which} run among the hills. {He: Heb. Who} {run: Heb. walk}",
+    "hash": "67e63b831c0ddd106de45ee3e1541740c99fb76d72efb931aaa765f487d14a66"
+  },
+  {
+    "id": "PSA.104.11",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 11,
+    "text": "They give drink to every beast of the field: the wild asses quench their thirst. {quench: Heb. break}",
+    "hash": "5d56dfbec28b2098ed3c5aeece03d8f1672d6320f33b2ee14986229631beabb6"
+  },
+  {
+    "id": "PSA.104.12",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 12,
+    "text": "By them shall the fowls of the heaven have their habitation, {which} sing among the branches. {sing: Heb. give a voice}",
+    "hash": "d3080c1bb41ec285ea3b5136d4723f31faa3872e27ec8478010db1c3e895bc65"
+  },
+  {
+    "id": "PSA.104.13",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 13,
+    "text": "He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works.",
+    "hash": "b131378c3b705f1277173eef082329d3906cd4ad4de01020b591c561da9330f6"
+  },
+  {
+    "id": "PSA.104.14",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 14,
+    "text": "He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;",
+    "hash": "e7fb870e5e718950edec8bc5ed75c6a5f3bd704bb50feb1a65d1d01b0c467cd3"
+  },
+  {
+    "id": "PSA.104.15",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 15,
+    "text": "And wine {that} maketh glad the heart of man, {and} oil to make {his} face to shine, and bread {which} strengtheneth man's heart. {oil...: Heb. to make his face shine with oil, or, more than oil}",
+    "hash": "32043b0cd821636f18fd4d831e1b7d8313ced251004df65d4cb2f140e054d1ba"
+  },
+  {
+    "id": "PSA.104.16",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 16,
+    "text": "The trees of the LORD are full {of sap}; the cedars of Lebanon, which he hath planted;",
+    "hash": "db758035582a861fb3e12665fc92ff3eca4a842f9db2b4530cc680748f7c3c4f"
+  },
+  {
+    "id": "PSA.104.17",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 17,
+    "text": "Where the birds make their nests: {as for} the stork, the fir trees {are} her house.",
+    "hash": "e6079d017052490d617ad47e725f78ca7894bdbecee43092b36a2c01f4b93918"
+  },
+  {
+    "id": "PSA.104.18",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 18,
+    "text": "The high hills {are} a refuge for the wild goats; {and} the rocks for the conies.",
+    "hash": "443de08cb94ef71a1991383b46b1863f89f82157dd97a6e66c9d27837da900e7"
+  },
+  {
+    "id": "PSA.104.19",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 19,
+    "text": "He appointed the moon for seasons: the sun knoweth his going down.",
+    "hash": "439e07fdb5a6d05f8b6cff60baac50b1663939204edbb54cbdf507af298984de"
+  },
+  {
+    "id": "PSA.104.20",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 20,
+    "text": "Thou makest darkness, and it is night: wherein all the beasts of the forest do creep {forth}. {beasts...: Heb. beasts thereof do trample on the forest}",
+    "hash": "c3e1e73cbb0f8fbd1276425ffaf466dcac1cb9030bf3f3896cbfc01816cb98a9"
+  },
+  {
+    "id": "PSA.104.21",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 21,
+    "text": "The young lions roar after their prey, and seek their meat from God.",
+    "hash": "34b027ddaf8ebb711ab7a7e36be7e9c179de72b325380ce7ccbf3ccdb78ff4c6"
+  },
+  {
+    "id": "PSA.104.22",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 22,
+    "text": "The sun ariseth, they gather themselves together, and lay them down in their dens.",
+    "hash": "89a6a587248a474fe138922b78e7a039182f5f7eff0aac2dc01507d14b38e126"
+  },
+  {
+    "id": "PSA.104.23",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 23,
+    "text": "Man goeth forth unto his work and to his labour until the evening.",
+    "hash": "df5bf782ccadf098f2f4d54812dcba9b2bf59fd21080f94a9b384f11dd33f994"
+  },
+  {
+    "id": "PSA.104.24",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 24,
+    "text": "O LORD, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.",
+    "hash": "c414836a007d56acd5d3dca6856453dc0d487c0ae73f0cb7d99ab7eb1ff3e33b"
+  },
+  {
+    "id": "PSA.104.25",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 25,
+    "text": "{So is} this great and wide sea, wherein {are} things creeping innumerable, both small and great beasts.",
+    "hash": "32959eb81c7c0409461f0877665df4d6f94ff37b1027dd31abfa846a3889bae3"
+  },
+  {
+    "id": "PSA.104.26",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 26,
+    "text": "There go the ships: {there is} that leviathan, {whom} thou hast made to play therein. {made: Heb. formed}",
+    "hash": "1267fece08cce9af1c75ef8bbe818bb777402c2054600f29803680bf6deb3eb8"
+  },
+  {
+    "id": "PSA.104.27",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 27,
+    "text": "These wait all upon thee; that thou mayest give {them} their meat in due season.",
+    "hash": "576453a60030d2deff506cad1d19dea2a31c45d67fd3dc3853056295b0e7ff9c"
+  },
+  {
+    "id": "PSA.104.28",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 28,
+    "text": "{That} thou givest them they gather: thou openest thine hand, they are filled with good.",
+    "hash": "d881e884d5870e1785b8ce03771cb65b34a9644c57baca34a7e76f10b82c3275"
+  },
+  {
+    "id": "PSA.104.29",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 29,
+    "text": "Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.",
+    "hash": "b1e691d6a2ec9b2edc9d9c68505675dad4171fce096a7767cc771f85052d9238"
+  },
+  {
+    "id": "PSA.104.30",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 30,
+    "text": "Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth.",
+    "hash": "16d337fc3d3764882ea6f5934cd2abb2a8739934a8d596c92283dd1ea659948b"
+  },
+  {
+    "id": "PSA.104.31",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 31,
+    "text": "The glory of the LORD shall endure for ever: the LORD shall rejoice in his works. {endure: Heb. be}",
+    "hash": "1245e4c839fca85ee385167dc5f0b39e0b45ef39642ec42cc5e917adb360d5a1"
+  },
+  {
+    "id": "PSA.104.32",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 32,
+    "text": "He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke.",
+    "hash": "e1ca026c534bcdb6abaddb139a76858cadcdad847c63b36f659713c81a549e97"
+  },
+  {
+    "id": "PSA.104.33",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 33,
+    "text": "I will sing unto the LORD as long as I live: I will sing praise to my God while I have my being.",
+    "hash": "4ffe350f32ae20c9e55d5a665981e6ff54c51e410e413d66c27fe8c526c637f7"
+  },
+  {
+    "id": "PSA.104.34",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 34,
+    "text": "My meditation of him shall be sweet: I will be glad in the LORD.",
+    "hash": "39e0699414fdab159048ed4961b4f6bc7b4dc7b6a4a7cad92fbe218d0ddaa733"
+  },
+  {
+    "id": "PSA.104.35",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 104,
+    "verse": 35,
+    "text": "Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the LORD, O my soul. Praise ye the LORD.",
+    "hash": "4278d18d69a696d721de40a2429fc0389564aaa0fc8aec9c0d6ff7152009bee5"
+  }
+]

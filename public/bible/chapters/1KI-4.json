@@ -1,0 +1,342 @@
+[
+  {
+    "id": "1KI.4.1",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 1,
+    "text": "So king Solomon was king over all Israel.",
+    "hash": "9075bddcef93d8340ed4faf7d23de3c86553324781f9949da6bc83951f4848b1"
+  },
+  {
+    "id": "1KI.4.2",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 2,
+    "text": "And these {were} the princes which he had; Azariah the son of Zadok the priest, {priest: or, chief officer}",
+    "hash": "7f80f81696edcda28acaa09bf016f88d5167fe95504be07b45f049ab39b6aadb"
+  },
+  {
+    "id": "1KI.4.3",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 3,
+    "text": "Elihoreph and Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder. {scribes: or, secretaries} {recorder: or, remembrancer}",
+    "hash": "28f50d32fbc9cd10289d97c4be55aee24bed6cba2d1bb920245934c468a4f004"
+  },
+  {
+    "id": "1KI.4.4",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 4,
+    "text": "And Benaiah the son of Jehoiada {was} over the host: and Zadok and Abiathar {were} the priests:",
+    "hash": "cc21ee658b28a611b2ab1f8fc337c491ceab9254d5386332eb86b069ea149f4c"
+  },
+  {
+    "id": "1KI.4.5",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 5,
+    "text": "And Azariah the son of Nathan {was} over the officers: and Zabud the son of Nathan {was} principal officer, {and} the king's friend:",
+    "hash": "efc9ea5ebfc4447bfd3e4d5b44d98f18628b06e00a3f7a474738432de4d677c0"
+  },
+  {
+    "id": "1KI.4.6",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 6,
+    "text": "And Ahishar {was} over the household: and Adoniram the son of Abda {was} over the tribute. {tribute: or, levy}",
+    "hash": "753a4152a9bef3d26456bf323fb7ae3dfb167d2646a545b84a07a49976025c19"
+  },
+  {
+    "id": "1KI.4.7",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 7,
+    "text": "And Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision.",
+    "hash": "adeb332b72d5bc90b50ac49fcfa6b52e0c00bf2252f8cc28f3ee371a16445997"
+  },
+  {
+    "id": "1KI.4.8",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 8,
+    "text": "And these {are} their names: The son of Hur, in mount Ephraim: {The son...: or, Benhur}",
+    "hash": "eadc63144b6c2ca03ca99550a69da9fc4154cb9361e9695ab0d1c208653e8dc9"
+  },
+  {
+    "id": "1KI.4.9",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 9,
+    "text": "The son of Dekar, in Makaz, and in Shaalbim, and Bethshemesh, and Elonbethhanan: {The son...: or, Bendekar}",
+    "hash": "1a764e7651f2fb5c8c66da99ed1a058fa07a08f717d572cdb4b06f57cfa3494e"
+  },
+  {
+    "id": "1KI.4.10",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 10,
+    "text": "The son of Hesed, in Aruboth; to him {pertained} Sochoh, and all the land of Hepher: {The son...: or, Benhesed}",
+    "hash": "db943de19c859c49a362ca5e1ca56364f629308291fdc15238e46dc0fc17f0d5"
+  },
+  {
+    "id": "1KI.4.11",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 11,
+    "text": "The son of Abinadab, in all the region of Dor; which had Taphath the daughter of Solomon to wife: {The son...: or, Benabinadab}",
+    "hash": "0a394dde26f53ea9ab1e86b14768e1bb317e92e2d7d5cf21fb856988c878af37"
+  },
+  {
+    "id": "1KI.4.12",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 12,
+    "text": "Baana the son of Ahilud; {to him pertained} Taanach and Megiddo, and all Bethshean, which {is} by Zartanah beneath Jezreel, from Bethshean to Abelmeholah, {even} unto {the place that is} beyond Jokneam:",
+    "hash": "2b34f11c0e1fc7849842b9609a0efb0b46166bed3e65d138fd82a8fbb675478c"
+  },
+  {
+    "id": "1KI.4.13",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 13,
+    "text": "The son of Geber, in Ramothgilead; to him {pertained} the towns of Jair the son of Manasseh, which {are} in Gilead; to him {also pertained} the region of Argob, which {is} in Bashan, threescore great cities with walls and brasen bars: {The son...: or, Bengeber}",
+    "hash": "81bd2d0b2cbba7d8547532ca38d7e452f2c6f4333c864bc4fe4600c3c15f2d3d"
+  },
+  {
+    "id": "1KI.4.14",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 14,
+    "text": "Ahinadab the son of Iddo {had} Mahanaim: {Mahanaim: or, to Mahanaim}",
+    "hash": "2348fa34dda11d47e8e702483d2c4b259d934efdefef9abab6d283eaae60cc9c"
+  },
+  {
+    "id": "1KI.4.15",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 15,
+    "text": "Ahimaaz {was} in Naphtali; he also took Basmath the daughter of Solomon to wife:",
+    "hash": "b7cee28bd544a72f23d4889352f0937e73aceb589d3c5fbd5d4cf9e2f44cdf6f"
+  },
+  {
+    "id": "1KI.4.16",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 16,
+    "text": "Baanah the son of Hushai {was} in Asher and in Aloth:",
+    "hash": "c2c97dcd05813a99c2efe2251b361d4c2654aebb01c50f30341c5206d0e3c2bc"
+  },
+  {
+    "id": "1KI.4.17",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 17,
+    "text": "Jehoshaphat the son of Paruah, in Issachar:",
+    "hash": "dee9ca6c21c1640acc1924b96f337917b0db0928ff3e5f2718368ea344aa0996"
+  },
+  {
+    "id": "1KI.4.18",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 18,
+    "text": "Shimei the son of Elah, in Benjamin:",
+    "hash": "7273530ec5b5c3efc567a6c3d34ef4191e914263ca48776cd7701414a665f9f3"
+  },
+  {
+    "id": "1KI.4.19",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 19,
+    "text": "Geber the son of Uri {was} in the country of Gilead, {in} the country of Sihon king of the Amorites, and of Og king of Bashan; and {he was} the only officer which {was} in the land.",
+    "hash": "47d0cfa6fcf7f5c2692a425d1e7b2a208774f9b500a60c4faa9f95a8b2d81530"
+  },
+  {
+    "id": "1KI.4.20",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 20,
+    "text": "Judah and Israel {were} many, as the sand which {is} by the sea in multitude, eating and drinking, and making merry.",
+    "hash": "0f2c16fec02a763f5f1a98ea9ea4dcc9a4f3f1c8cdaf9931559d96b6c964a1c4"
+  },
+  {
+    "id": "1KI.4.21",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 21,
+    "text": "And Solomon reigned over all kingdoms from the river unto the land of the Philistines, and unto the border of Egypt: they brought presents, and served Solomon all the days of his life.",
+    "hash": "0c8dbc94836d12b9cca56e09df85b87819c9949d6edd65a045ed30ae6ea5501b"
+  },
+  {
+    "id": "1KI.4.22",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 22,
+    "text": "And Solomon's provision for one day was thirty measures of fine flour, and threescore measures of meal, {provision: Heb. bread} {measures: Heb. cors}",
+    "hash": "f90da6b4d4157c21a6bf2919742a8d58683909dfa4d370c6cb73ca746a65c2ea"
+  },
+  {
+    "id": "1KI.4.23",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 23,
+    "text": "Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl.",
+    "hash": "ef86f660d1adb1d8b3a413271282b285dc8128337340781cb3afd3e2b7a39ab4"
+  },
+  {
+    "id": "1KI.4.24",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 24,
+    "text": "For he had dominion over all {the region} on this side the river, from Tiphsah even to Azzah, over all the kings on this side the river: and he had peace on all sides round about him.",
+    "hash": "d398e42c17c579660e2416235ede7fed4290ed3d18a3537e709fed5e76624ed9"
+  },
+  {
+    "id": "1KI.4.25",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 25,
+    "text": "And Judah and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beersheba, all the days of Solomon. {safely: Heb. confidently}",
+    "hash": "b773caedc531c528ce585f222a45f8c47da6bb19a55d53ee968234d412f44fa7"
+  },
+  {
+    "id": "1KI.4.26",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 26,
+    "text": "And Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen.",
+    "hash": "e2a64d25dada97334ce52ce4fb7d876ef67d2fcc0a4134089df8cdb99880a02b"
+  },
+  {
+    "id": "1KI.4.27",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 27,
+    "text": "And those officers provided victual for king Solomon, and for all that came unto king Solomon's table, every man in his month: they lacked nothing.",
+    "hash": "88fad402eaf02ea6b364fdd17591e4a0b4cd1e5542ce41689f83f3e190194829"
+  },
+  {
+    "id": "1KI.4.28",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 28,
+    "text": "Barley also and straw for the horses and dromedaries brought they unto the place where {the officers} were, every man according to his charge. {dromedaries: or, mules, or, swift beasts}",
+    "hash": "7db5e27e5e2e56acc0ebf4a22ea7c87051721b3a089e39ef7400eb92816e31ba"
+  },
+  {
+    "id": "1KI.4.29",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 29,
+    "text": "And God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that {is} on the sea shore.",
+    "hash": "c6545d97555eb023c105389d9d73ecd32f1bbc2be0f8e2ab539890db6ea5e058"
+  },
+  {
+    "id": "1KI.4.30",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 30,
+    "text": "And Solomon's wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt.",
+    "hash": "1df794410b175f7accc4a62bbed07abd57036fe58ab056804565fc125691255d"
+  },
+  {
+    "id": "1KI.4.31",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 31,
+    "text": "For he was wiser than all men; than Ethan the Ezrahite, and Heman, and Chalcol, and Darda, the sons of Mahol: and his fame was in all nations round about.",
+    "hash": "ce202c59a6d727a2d15a061b12bdd5f906fc26751194184e7e2e42eba3058006"
+  },
+  {
+    "id": "1KI.4.32",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 32,
+    "text": "And he spake three thousand proverbs: and his songs were a thousand and five.",
+    "hash": "cb7320b3c47e7f7a9420c74efcf9b732f0e72f6b938f24c52141f895b7a04f24"
+  },
+  {
+    "id": "1KI.4.33",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 33,
+    "text": "And he spake of trees, from the cedar tree that {is} in Lebanon even unto the hyssop that springeth out of the wall: he spake also of beasts, and of fowl, and of creeping things, and of fishes.",
+    "hash": "f58b6069578f2f3064618b62e1330cb5c9284dc89befa52ad266958075ff5add"
+  },
+  {
+    "id": "1KI.4.34",
+    "book": "1 Kings",
+    "bookNum": 11,
+    "bookAbbrev": "1KI",
+    "chapter": 4,
+    "verse": 34,
+    "text": "And there came of all people to hear the wisdom of Solomon, from all kings of the earth, which had heard of his wisdom.",
+    "hash": "251fc2318d7b95bd0f0fa4cd78a7d600230037cf16c14bf734452d26bdd8a917"
+  }
+]

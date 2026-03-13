@@ -1,0 +1,82 @@
+[
+  {
+    "id": "LEV.12.1",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 12,
+    "verse": 1,
+    "text": "And the LORD spake unto Moses, saying,",
+    "hash": "29615d17124775fa5339ffa2cd24e057ac808e6d460d778ac4e7434756684a52"
+  },
+  {
+    "id": "LEV.12.2",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 12,
+    "verse": 2,
+    "text": "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean.",
+    "hash": "3b529891c346b1f50f04708dd245066aed1d75424cf0d7cc5557ad0979eb3e3d"
+  },
+  {
+    "id": "LEV.12.3",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 12,
+    "verse": 3,
+    "text": "And in the eighth day the flesh of his foreskin shall be circumcised.",
+    "hash": "66eeefb3d818b9f96f7307c834efc6389d9941511f50b69209984f4d6b317267"
+  },
+  {
+    "id": "LEV.12.4",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 12,
+    "verse": 4,
+    "text": "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.",
+    "hash": "a29ec4bb221c946fe7778c59b50fab7712fa16b21246e5c0f7059708ee88bf2d"
+  },
+  {
+    "id": "LEV.12.5",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 12,
+    "verse": 5,
+    "text": "But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.",
+    "hash": "563ec47dd304ee5ac35835775ff0f083c08b7d7b34606b76fdf9e6c53a4a19a2"
+  },
+  {
+    "id": "LEV.12.6",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 12,
+    "verse": 6,
+    "text": "And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest: {of the first...: Heb. a son of his year}",
+    "hash": "c35823f5228c709cc45ca1f97e420a3927531f4483e431bae7c3508b39ed1524"
+  },
+  {
+    "id": "LEV.12.7",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 12,
+    "verse": 7,
+    "text": "Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This {is} the law for her that hath born a male or a female.",
+    "hash": "2ee281fb55d184065d7df357feaa8e2973fca808d9bee9d61399d5e1d86507bf"
+  },
+  {
+    "id": "LEV.12.8",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 12,
+    "verse": 8,
+    "text": "And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean. {she be...: Heb. her hand find not sufficiency of}",
+    "hash": "a8a04be28ca66e3222b424f9d405c31ed05ef8e0c0a71232a38465ea0443093b"
+  }
+]

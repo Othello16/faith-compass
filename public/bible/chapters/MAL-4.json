@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MAL.4.1",
+    "book": "Malachi",
+    "bookNum": 39,
+    "bookAbbrev": "MAL",
+    "chapter": 4,
+    "verse": 1,
+    "text": "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch.",
+    "hash": "c8f14c94b4c1a18ef69eeb0289193a50cc581989319bbb3459ef42ed3fed6c93"
+  },
+  {
+    "id": "MAL.4.2",
+    "book": "Malachi",
+    "bookNum": 39,
+    "bookAbbrev": "MAL",
+    "chapter": 4,
+    "verse": 2,
+    "text": "But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.",
+    "hash": "f74ac5dc624e858820e62e0a9e6a2c30a3878a560ebaa6227a0eade904f61f40"
+  },
+  {
+    "id": "MAL.4.3",
+    "book": "Malachi",
+    "bookNum": 39,
+    "bookAbbrev": "MAL",
+    "chapter": 4,
+    "verse": 3,
+    "text": "And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do {this}, saith the LORD of hosts.",
+    "hash": "f07a12e6383d05b67465e34779c4fde446659b5294d0ce8c5e8e0b08b908879b"
+  },
+  {
+    "id": "MAL.4.4",
+    "book": "Malachi",
+    "bookNum": 39,
+    "bookAbbrev": "MAL",
+    "chapter": 4,
+    "verse": 4,
+    "text": "Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, {with} the statutes and judgments.",
+    "hash": "a15e352dc8cdfdcc213c9c1d7072c98271a6cbb9e37b7cbd2bfe745e61cc73a9"
+  },
+  {
+    "id": "MAL.4.5",
+    "book": "Malachi",
+    "bookNum": 39,
+    "bookAbbrev": "MAL",
+    "chapter": 4,
+    "verse": 5,
+    "text": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD:",
+    "hash": "63bcdb186dcad086ed844c238901aa9a279540b829349e3604b31511c4ea63df"
+  },
+  {
+    "id": "MAL.4.6",
+    "book": "Malachi",
+    "bookNum": 39,
+    "bookAbbrev": "MAL",
+    "chapter": 4,
+    "verse": 6,
+    "text": "And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.",
+    "hash": "d92ba74d5b014d107f711f2c643e37333afbe105f2f6061e8e0b3850307fc5bd"
+  }
+]

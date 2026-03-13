@@ -1,0 +1,592 @@
+[
+  {
+    "id": "LUK.12.1",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 1,
+    "text": "In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy.",
+    "hash": "ffd5609907abc9b150469bbd6ec663bb34fc44994b12ba4386a8bba6db7ad39a"
+  },
+  {
+    "id": "LUK.12.2",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 2,
+    "text": "For there is nothing covered, that shall not be revealed; neither hid, that shall not be known.",
+    "hash": "723b59d3874bec501331bc8c471caf80841471bb4acf3e6bce5349c65dc643a1"
+  },
+  {
+    "id": "LUK.12.3",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 3,
+    "text": "Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops.",
+    "hash": "e87f6d218d17fad631673866d07e8fbc61760b52f4aec7161989ec345a68d50f"
+  },
+  {
+    "id": "LUK.12.4",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 4,
+    "text": "And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.",
+    "hash": "ce96c1460403b3500929c7b4198a21375e7348d7d90e2b07bda048a6e99d93d3"
+  },
+  {
+    "id": "LUK.12.5",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 5,
+    "text": "But I will forewarn you whom ye shall fear: Fear him, which after he hath killed hath power to cast into hell; yea, I say unto you, Fear him.",
+    "hash": "d8788aaf316693205b15fb87e2eb9eb6c967bb26d48f4554169c7b63deb9d367"
+  },
+  {
+    "id": "LUK.12.6",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 6,
+    "text": "Are not five sparrows sold for two farthings, and not one of them is forgotten before God?",
+    "hash": "d46b852de69fab52c0127108a3eff05e039a2d14938cf5e3679a721ef8673f6b"
+  },
+  {
+    "id": "LUK.12.7",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 7,
+    "text": "But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows.",
+    "hash": "b9a3e638aa99e90735eb61b0ef7b1d5ad68d15d7689906a5b505a7112ad2748e"
+  },
+  {
+    "id": "LUK.12.8",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 8,
+    "text": "Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:",
+    "hash": "9598191c8c226803c863f19ead68e442a25406103c20c7e74cb2e2212df58110"
+  },
+  {
+    "id": "LUK.12.9",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 9,
+    "text": "But he that denieth me before men shall be denied before the angels of God.",
+    "hash": "938b8d1531d0b6a7c0d27263da2b55150adfe225c6b836a0719f22a213302bb1"
+  },
+  {
+    "id": "LUK.12.10",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 10,
+    "text": "And whosoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven.",
+    "hash": "28aae30de44e19e0cf93e6a554182f31ccd63e00e49acb9d161164ff67e08681"
+  },
+  {
+    "id": "LUK.12.11",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 11,
+    "text": "And when they bring you unto the synagogues, and {unto} magistrates, and powers, take ye no thought how or what thing ye shall answer, or what ye shall say:",
+    "hash": "ba2974cf1ff51809159f9c26c9c4489cd2be723fa185256ce15a7fdc77d13882"
+  },
+  {
+    "id": "LUK.12.12",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 12,
+    "text": "For the Holy Ghost shall teach you in the same hour what ye ought to say.",
+    "hash": "21bf9c5569180c13f3d871f902e8b290632a597721604afeac6059d4110f7209"
+  },
+  {
+    "id": "LUK.12.13",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 13,
+    "text": "And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me.",
+    "hash": "a3eee2f0d8aeb0e7a8cda036a6d6937a685538e2b8e27d7ee690197e4a2f9f62"
+  },
+  {
+    "id": "LUK.12.14",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 14,
+    "text": "And he said unto him, Man, who made me a judge or a divider over you?",
+    "hash": "6daa28f5bf92adb53a5dc7ced979196b76c967c5dbc87b10091ba62a03ceb07a"
+  },
+  {
+    "id": "LUK.12.15",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 15,
+    "text": "And he said unto them, Take heed, and beware of covetousness: for a man's life consisteth not in the abundance of the things which he possesseth.",
+    "hash": "67dbe66cbe92c0ef60bb0ff0c06c4eb69b91945526c54f44b6d789e4f43daa45"
+  },
+  {
+    "id": "LUK.12.16",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 16,
+    "text": "And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:",
+    "hash": "4ac61e3f54051b133a4e4fb64c87253fb67a4affd985638670eca6f1cd30fb69"
+  },
+  {
+    "id": "LUK.12.17",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 17,
+    "text": "And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?",
+    "hash": "4eca401bb8fa9a2cf3a8e5b8910922124df8de04aa6389d4a38005b638c10b90"
+  },
+  {
+    "id": "LUK.12.18",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 18,
+    "text": "And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods.",
+    "hash": "b60b7675953aaaf717a1dcedc591813039995365299ec6576cdb7c0b9f67e95d"
+  },
+  {
+    "id": "LUK.12.19",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 19,
+    "text": "And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, {and} be merry.",
+    "hash": "bc452811fc3eb41302d15f66e08ea5eba432401e0831371b4e662c0bba223ce6"
+  },
+  {
+    "id": "LUK.12.20",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 20,
+    "text": "But God said unto him, {Thou} fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided? {thy...: Gr. do they require thy soul}",
+    "hash": "4fdda44f9218668249b19fed0daabc94883af38281e7bf17012555b05f23b727"
+  },
+  {
+    "id": "LUK.12.21",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 21,
+    "text": "So {is} he that layeth up treasure for himself, and is not rich toward God.",
+    "hash": "c7a8384b9f79a27b38816aaec88a2af853f6fb6e08852d565bf3c8db7aee22f8"
+  },
+  {
+    "id": "LUK.12.22",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 22,
+    "text": "And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on.",
+    "hash": "0fc291f5b4ce082c16f086c657ecf84b2bef384be8105f36f816729056e3c661"
+  },
+  {
+    "id": "LUK.12.23",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 23,
+    "text": "The life is more than meat, and the body {is more} than raiment.",
+    "hash": "17bf770a6f9bdf6cf54a0b89dc7b72bbda4aaefdc120d9f3f5f39b0457b325c7"
+  },
+  {
+    "id": "LUK.12.24",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 24,
+    "text": "Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls?",
+    "hash": "3032f3fe3638a826adaaa093c3fac69844eb292c6e2122fafe0a13473d351e70"
+  },
+  {
+    "id": "LUK.12.25",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 25,
+    "text": "And which of you with taking thought can add to his stature one cubit?",
+    "hash": "05fc8223e9f6c21baac4bcead20ec9a68b2ee28bc1cf7d912dddb4379c6a20b6"
+  },
+  {
+    "id": "LUK.12.26",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 26,
+    "text": "If ye then be not able to do that thing which is least, why take ye thought for the rest?",
+    "hash": "e7073896ec217a27602b626d0c7615fb3a4751e0c19c491688ec7e381c79cc5e"
+  },
+  {
+    "id": "LUK.12.27",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 27,
+    "text": "Consider the lilies how they grow: they toil not, they spin not; and yet I say unto you, that Solomon in all his glory was not arrayed like one of these.",
+    "hash": "729631a9fe19165ef589d138a2fa4dc4a0dd887b95e61771975a41f48b7fc32f"
+  },
+  {
+    "id": "LUK.12.28",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 28,
+    "text": "If then God so clothe the grass, which is to day in the field, and to morrow is cast into the oven; how much more {will he clothe} you, O ye of little faith?",
+    "hash": "75f1b53219f0aa7b8da1d5ff91756d62e3555601023cb4544841bd4b8dac1a80"
+  },
+  {
+    "id": "LUK.12.29",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 29,
+    "text": "And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind. {neither...: or, live not in careful suspense}",
+    "hash": "a5391ad947aad4cda3fd1d28fb1dd2828ceccf1fc8e62bf1f87adb697351d3ac"
+  },
+  {
+    "id": "LUK.12.30",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 30,
+    "text": "For all these things do the nations of the world seek after: and your Father knoweth that ye have need of these things.",
+    "hash": "9ea057482065c128ca7dc767c3cd2ae232a8ef4ee05abea4dc1f854f90e68506"
+  },
+  {
+    "id": "LUK.12.31",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 31,
+    "text": "But rather seek ye the kingdom of God; and all these things shall be added unto you.",
+    "hash": "265a1332045fe81705bae215c0a110ed145208e2edcedd08571ebe25c9b961d8"
+  },
+  {
+    "id": "LUK.12.32",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 32,
+    "text": "Fear not, little flock; for it is your Father's good pleasure to give you the kingdom.",
+    "hash": "7099dcb82bdba49e5a662a92a9ab24ef6daf3d76ae47de5077f28bd04331310e"
+  },
+  {
+    "id": "LUK.12.33",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 33,
+    "text": "Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth.",
+    "hash": "23127461fc1d732a9904d536bfd36e71a877bddf519ea1a05874e76f4d7e5a04"
+  },
+  {
+    "id": "LUK.12.34",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 34,
+    "text": "For where your treasure is, there will your heart be also.",
+    "hash": "45e61d50f33ba50ab21e600fc046d475b9c19b605a90114d2390234d91f9d27f"
+  },
+  {
+    "id": "LUK.12.35",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 35,
+    "text": "Let your loins be girded about, and {your} lights burning;",
+    "hash": "2c323c4d8fa6b628a366142b45ae637cad92d6aff0e9dfea7285d3e7a3824124"
+  },
+  {
+    "id": "LUK.12.36",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 36,
+    "text": "And ye yourselves like unto men that wait for their lord, when he will return from the wedding; that when he cometh and knocketh, they may open unto him immediately.",
+    "hash": "9720d21ad072f465853099ef7387fc8ee8b29626ffd3328ecf146a3d93e7b9b6"
+  },
+  {
+    "id": "LUK.12.37",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 37,
+    "text": "Blessed {are} those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them.",
+    "hash": "d59cee2736a087f9d6c43f12bfc5e48840405f31326dd660c08e649ea3e7779b"
+  },
+  {
+    "id": "LUK.12.38",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 38,
+    "text": "And if he shall come in the second watch, or come in the third watch, and find {them} so, blessed are those servants.",
+    "hash": "66edf2879ef2483aee125b69417d9ac70f542ab1c7db1def84d1cf885ea7dedb"
+  },
+  {
+    "id": "LUK.12.39",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 39,
+    "text": "And this know, that if the goodman of the house had known what hour the thief would come, he would have watched, and not have suffered his house to be broken through.",
+    "hash": "8525403a0e2bd821ee88375d078aaee36a878b7003130d4fcf653f4a94f9de1c"
+  },
+  {
+    "id": "LUK.12.40",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 40,
+    "text": "Be ye therefore ready also: for the Son of man cometh at an hour when ye think not.",
+    "hash": "14252d50f8871a68a39270e0b05c8aa313af3c1f850729384df0f8c7fa8d2a21"
+  },
+  {
+    "id": "LUK.12.41",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 41,
+    "text": "Then Peter said unto him, Lord, speakest thou this parable unto us, or even to all?",
+    "hash": "cbb34ddd9bbc279d06a38adeb7cdf0e45c31b8205914294a9014ac5fdfc9e385"
+  },
+  {
+    "id": "LUK.12.42",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 42,
+    "text": "And the Lord said, Who then is that faithful and wise steward, whom {his} lord shall make ruler over his household, to give {them their} portion of meat in due season?",
+    "hash": "f80cba63c27feb32dbdf94b2c4afcc47606595fe1b49c26b14571aea7e0d1102"
+  },
+  {
+    "id": "LUK.12.43",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 43,
+    "text": "Blessed {is} that servant, whom his lord when he cometh shall find so doing.",
+    "hash": "cda1be39ded5f4c24be64ecdea61eaaaae127907c9a9f062d407833fb8d6e3c9"
+  },
+  {
+    "id": "LUK.12.44",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 44,
+    "text": "Of a truth I say unto you, that he will make him ruler over all that he hath.",
+    "hash": "6adcd92d01481bc95f2605bbb7993cff2359f18ddade2590b78a1dfefe1ed4a3"
+  },
+  {
+    "id": "LUK.12.45",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 45,
+    "text": "But and if that servant say in his heart, My lord delayeth his coming; and shall begin to beat the menservants and maidens, and to eat and drink, and to be drunken;",
+    "hash": "b284afb85f57889c1dca3821da0d4d33c0bf860848806975ab4634616a083b16"
+  },
+  {
+    "id": "LUK.12.46",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 46,
+    "text": "The lord of that servant will come in a day when he looketh not for {him}, and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers. {cut...: or, cut him off}",
+    "hash": "e57b6b172b99bd8c0583e9e662bd55c39d22e34c9037f236f95f815e753aaaed"
+  },
+  {
+    "id": "LUK.12.47",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 47,
+    "text": "And that servant, which knew his lord's will, and prepared not {himself}, neither did according to his will, shall be beaten with many {stripes}.",
+    "hash": "c65e9333d8df4ad5ba369c5d9874a5e99a8254fd77b4abeeae4598049ed536e8"
+  },
+  {
+    "id": "LUK.12.48",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 48,
+    "text": "But he that knew not, and did commit things worthy of stripes, shall be beaten with few {stripes}. For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.",
+    "hash": "c935ca3debdf3f83a019b43f39442879850b629541c2a7b28db2aeee87cdbdac"
+  },
+  {
+    "id": "LUK.12.49",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 49,
+    "text": "I am come to send fire on the earth; and what will I, if it be already kindled?",
+    "hash": "5b058bd5e00d2eb60e5a128c28c4edfce58fc70a9ab924f165ee1a1417486d12"
+  },
+  {
+    "id": "LUK.12.50",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 50,
+    "text": "But I have a baptism to be baptized with; and how am I straitened till it be accomplished! {straitened: or, pained}",
+    "hash": "ad920d7bfff59a4d488b01e6d1a145ab394b12cbf4d3d3f76c0f5c0d1b67cd07"
+  },
+  {
+    "id": "LUK.12.51",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 51,
+    "text": "Suppose ye that I am come to give peace on earth? I tell you, Nay; but rather division:",
+    "hash": "48a9324da9a6c91c033d843b8702f0d0ceb9b7c813ddbc559617b2f8c671472f"
+  },
+  {
+    "id": "LUK.12.52",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 52,
+    "text": "For from henceforth there shall be five in one house divided, three against two, and two against three.",
+    "hash": "c5d8118cc23668c7011d35236048b41afc61b328ad37430a5c62ff1a84808094"
+  },
+  {
+    "id": "LUK.12.53",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 53,
+    "text": "The father shall be divided against the son, and the son against the father; the mother against the daughter, and the daughter against the mother; the mother in law against her daughter in law, and the daughter in law against her mother in law.",
+    "hash": "7bf2134e166a45b4aecadb91f7a0939a38e87f04b147658a6f0dd24aa695429e"
+  },
+  {
+    "id": "LUK.12.54",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 54,
+    "text": "And he said also to the people, When ye see a cloud rise out of the west, straightway ye say, There cometh a shower; and so it is.",
+    "hash": "343341308b522cc380dd07adbaffe1a5210c51d553b171607ed7bda86f3c8091"
+  },
+  {
+    "id": "LUK.12.55",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 55,
+    "text": "And when {ye see} the south wind blow, ye say, There will be heat; and it cometh to pass.",
+    "hash": "a11e1ff9b526c6fbf02d3189d2b6374602ddc88654077814f96ce9ae1a253631"
+  },
+  {
+    "id": "LUK.12.56",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 56,
+    "text": "{Ye} hypocrites, ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time?",
+    "hash": "a2bd873eab51b55d1e81a790a0369450045b6bc0e3d52bf393b9575d5aa87323"
+  },
+  {
+    "id": "LUK.12.57",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 57,
+    "text": "Yea, and why even of yourselves judge ye not what is right?",
+    "hash": "1db4f27378a4a63a7230d63e8e3bac30563e466b0b2f1ebe594be38cd90758f1"
+  },
+  {
+    "id": "LUK.12.58",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 58,
+    "text": "When thou goest with thine adversary to the magistrate, {as thou art} in the way, give diligence that thou mayest be delivered from him; lest he hale thee to the judge, and the judge deliver thee to the officer, and the officer cast thee into prison.",
+    "hash": "95adf9681d1f5d28ba1af7e79a5cbfbf5c4f51703c77a311adadf782f68cb801"
+  },
+  {
+    "id": "LUK.12.59",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 12,
+    "verse": 59,
+    "text": "I tell thee, thou shalt not depart thence, till thou hast paid the very last mite.",
+    "hash": "db25a158139fab91d95fee097ab8d89acf079c0db2f8bbb9ca33db67efa424db"
+  }
+]

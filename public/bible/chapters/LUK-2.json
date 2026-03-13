@@ -1,0 +1,522 @@
+[
+  {
+    "id": "LUK.2.1",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 1,
+    "text": "And it came to pass in those days, that there went out a decree from Caesar Augustus, that all the world should be taxed. {taxed: or, enrolled}",
+    "hash": "4166bb2a4091b8cee5cefff95ff30538123a3f9803f38eccac51437044c099f1"
+  },
+  {
+    "id": "LUK.2.2",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 2,
+    "text": "({And} this taxing was first made when Cyrenius was governor of Syria.)",
+    "hash": "c61949b6a40d2e23bb8d5053fb0336a420ef4f0c69998996f0810aae6d916311"
+  },
+  {
+    "id": "LUK.2.3",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 3,
+    "text": "And all went to be taxed, every one into his own city. {taxed: or, enrolled}",
+    "hash": "0670f0bfbc668db98735b8edf424eabed6613fd5b7067877f97f8cf9715c8295"
+  },
+  {
+    "id": "LUK.2.4",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 4,
+    "text": "And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)",
+    "hash": "ae14593a7ce3f388574f76d6df8a8455b61a7a5780b32f3bc7fad8e37f4bc186"
+  },
+  {
+    "id": "LUK.2.5",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 5,
+    "text": "To be taxed with Mary his espoused wife, being great with child. {taxed: or, enrolled}",
+    "hash": "466226bcc85858db491844a251d52154492fb9d8f7e747d7bb8d423f7945f6fb"
+  },
+  {
+    "id": "LUK.2.6",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 6,
+    "text": "And so it was, that, while they were there, the days were accomplished that she should be delivered.",
+    "hash": "7b7f6ef710c9810ed655e69cdb6ceac6fbdbc8560310d2168cf802069e11ef30"
+  },
+  {
+    "id": "LUK.2.7",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 7,
+    "text": "And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.",
+    "hash": "b5bac7f7ffd391ea1a69dc8a6e9e77adcec820d0ab9cd71ec7bf2bbb5daa7038"
+  },
+  {
+    "id": "LUK.2.8",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 8,
+    "text": "And there were in the same country shepherds abiding in the field, keeping watch over their flock by night. {watch: or, the night watches}",
+    "hash": "5f0d919ae6f74711b0c3beeb154930aeace34d603b2a0954a415d490db5a55fb"
+  },
+  {
+    "id": "LUK.2.9",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 9,
+    "text": "And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid.",
+    "hash": "9f82e99dfe4be8f5ae535bbeabfad490e8e69d503cb3c9277b2840f1c7c52060"
+  },
+  {
+    "id": "LUK.2.10",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 10,
+    "text": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.",
+    "hash": "90e6710ade0e4015b70a79794640490e8dcc442944456a8220c23457cceb3b5f"
+  },
+  {
+    "id": "LUK.2.11",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 11,
+    "text": "For unto you is born this day in the city of David a Saviour, which is Christ the Lord.",
+    "hash": "3a130a9c81e512cefbf190e7da32efb80d74b67a35ed2c6a2bf919a6e69ba9e8"
+  },
+  {
+    "id": "LUK.2.12",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 12,
+    "text": "And this {shall be} a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger.",
+    "hash": "b019bcbf3673e765154ed96e2ea3ee56fbb6fe50bc82a5f1d6d24ac7271f9d77"
+  },
+  {
+    "id": "LUK.2.13",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 13,
+    "text": "And suddenly there was with the angel a multitude of the heavenly host praising God, and saying,",
+    "hash": "8b0abad58a9a838fffe8a38735a20e545442ffcd7cba06f643c6ce132a6d850f"
+  },
+  {
+    "id": "LUK.2.14",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 14,
+    "text": "Glory to God in the highest, and on earth peace, good will toward men.",
+    "hash": "8c2c660f08626cb0fb0cd8fcc327bb57afd399a6807b0a04ffea6e7d0f25a1a4"
+  },
+  {
+    "id": "LUK.2.15",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 15,
+    "text": "And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us. {the shepherds: Gr. the men the shepherds}",
+    "hash": "d1659ad72dca3db3e64884672f934871acde8904490b24e0b3b5c96a6138eb3b"
+  },
+  {
+    "id": "LUK.2.16",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 16,
+    "text": "And they came with haste, and found Mary, and Joseph, and the babe lying in a manger.",
+    "hash": "d7ddaa2763909bd3a11cf5fd22dd12b61bc8199be0871bb4afb198923370044f"
+  },
+  {
+    "id": "LUK.2.17",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 17,
+    "text": "And when they had seen {it}, they made known abroad the saying which was told them concerning this child.",
+    "hash": "f61303c94c1239252179a132b0a9319d72e6501156d80fdd16c4aa5784b7d11c"
+  },
+  {
+    "id": "LUK.2.18",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 18,
+    "text": "And all they that heard {it} wondered at those things which were told them by the shepherds.",
+    "hash": "b971baca1c94d52cbf86a60ee0d280ba88fa6bd0d94abf0de30735fa06e93192"
+  },
+  {
+    "id": "LUK.2.19",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 19,
+    "text": "But Mary kept all these things, and pondered {them} in her heart.",
+    "hash": "d3a465dc1372b5c9ab353bbb9c7b7360a89329e6c4740c80d9ad3756eeb61f8f"
+  },
+  {
+    "id": "LUK.2.20",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 20,
+    "text": "And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them.",
+    "hash": "d862033ae381db0a94250b6efa757d6b02172d0d8f49372712c55ae273fe5ee2"
+  },
+  {
+    "id": "LUK.2.21",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 21,
+    "text": "And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.",
+    "hash": "e35dba426498a6642582ee29f5ffe0e72aba9a2aaf957203504048d5d08bf34f"
+  },
+  {
+    "id": "LUK.2.22",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 22,
+    "text": "And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present {him} to the Lord;",
+    "hash": "319eb7c302893abcfba0b28e46db5d98c3472d07daff74a7402dc5f6c9f0c645"
+  },
+  {
+    "id": "LUK.2.23",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 23,
+    "text": "(As it is written in the law of the Lord, Every male that openeth the womb shall be called holy to the Lord;)",
+    "hash": "ceb4b6e7b50e304a509baaaf24047b316c8334ef64c72fe01b045f17d3791f59"
+  },
+  {
+    "id": "LUK.2.24",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 24,
+    "text": "And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons.",
+    "hash": "994fb0b3a2c4cc191a187ba5def1a45cb724b117e6700f4d20bbe33dbe1a054f"
+  },
+  {
+    "id": "LUK.2.25",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 25,
+    "text": "And, behold, there was a man in Jerusalem, whose name {was} Simeon; and the same man {was} just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him.",
+    "hash": "ddd25eb2d8f718e6c129eae8319adc3424754bb1c3af1bef4f7de561bf8b8563"
+  },
+  {
+    "id": "LUK.2.26",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 26,
+    "text": "And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord's Christ.",
+    "hash": "910becb0937fb05fff8b8fe12efba2db38104bae7902fa13955565813bdab81e"
+  },
+  {
+    "id": "LUK.2.27",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 27,
+    "text": "And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,",
+    "hash": "068a03b934f389761f1950459f4dafe44791c8e0ea6fde4e9cbf6d99f39b7f63"
+  },
+  {
+    "id": "LUK.2.28",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 28,
+    "text": "Then took he him up in his arms, and blessed God, and said,",
+    "hash": "62aa078fb350fe5b03d77dd9145e7f88392b763164e531b5fbcd364dd9d12a0d"
+  },
+  {
+    "id": "LUK.2.29",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 29,
+    "text": "Lord, now lettest thou thy servant depart in peace, according to thy word:",
+    "hash": "4ed82c13746ba801a9645fcf08fd162dd8fca771f3717c5491759c6df76cf9bb"
+  },
+  {
+    "id": "LUK.2.30",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 30,
+    "text": "For mine eyes have seen thy salvation,",
+    "hash": "60c957208b434ff3d077b8ffd5042aa65f530900c639b1f59a0bdbea6f6547e1"
+  },
+  {
+    "id": "LUK.2.31",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 31,
+    "text": "Which thou hast prepared before the face of all people;",
+    "hash": "a7c96d4d006a380ad7cc2c576a4aa532db87ec131d8eab875cb5e1fcd500b044"
+  },
+  {
+    "id": "LUK.2.32",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 32,
+    "text": "A light to lighten the Gentiles, and the glory of thy people Israel.",
+    "hash": "30ab776e30407574fb890f4594edff6502cd18a0ce780f68aed51acc9c01448b"
+  },
+  {
+    "id": "LUK.2.33",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 33,
+    "text": "And Joseph and his mother marvelled at those things which were spoken of him.",
+    "hash": "610b81cf83ac2fac350df1049047b2f5a37c0405b4f8b8697ac5088b2418f732"
+  },
+  {
+    "id": "LUK.2.34",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 34,
+    "text": "And Simeon blessed them, and said unto Mary his mother, Behold, this {child} is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;",
+    "hash": "1f6625bcc5f23155c9b99f7b4e67b13e582333cdb25afd07140265c6e4c37216"
+  },
+  {
+    "id": "LUK.2.35",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 35,
+    "text": "(Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed.",
+    "hash": "d17b71b4abcc4fe0a5d3e9b157e0ae3b2ae1890a013b03a9670ce349812a3c5e"
+  },
+  {
+    "id": "LUK.2.36",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 36,
+    "text": "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity;",
+    "hash": "081bffa6e561510364697d265f79d2bb3eb8718fffc56bed095b25bb98c6dc01"
+  },
+  {
+    "id": "LUK.2.37",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 37,
+    "text": "And she {was} a widow of about fourscore and four years, which departed not from the temple, but served {God} with fastings and prayers night and day.",
+    "hash": "c7f516dfa1529c6c54e5b5390e34d24f40f71907a003a15e36b74f663f2be763"
+  },
+  {
+    "id": "LUK.2.38",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 38,
+    "text": "And she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem. {Jerusalem: or, Israel}",
+    "hash": "a0b3d50fd9b60b00b68f8eef29c8447e5bcca70891a13b3e551e02abd29d5c89"
+  },
+  {
+    "id": "LUK.2.39",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 39,
+    "text": "And when they had performed all things according to the law of the Lord, they returned into Galilee, to their own city Nazareth.",
+    "hash": "d33e78117c2aaf9b03b430e3897b539e1a822646d8729e45855516bfcb77f968"
+  },
+  {
+    "id": "LUK.2.40",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 40,
+    "text": "And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him.",
+    "hash": "892a6ba0a2004b42c7c533d3b7274f839b7b850fd02125815c599921e3b248d8"
+  },
+  {
+    "id": "LUK.2.41",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 41,
+    "text": "Now his parents went to Jerusalem every year at the feast of the passover.",
+    "hash": "635ddcf37bf53ae041d33d44aeea60df0cd2e4e69ef6d8963c8d0c9db1f6f181"
+  },
+  {
+    "id": "LUK.2.42",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 42,
+    "text": "And when he was twelve years old, they went up to Jerusalem after the custom of the feast.",
+    "hash": "294a4dd94726be9f2a13410a0c1d951b572d1cd0215aae2fbfada5c74cab537e"
+  },
+  {
+    "id": "LUK.2.43",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 43,
+    "text": "And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not {of it}.",
+    "hash": "4b74ad0d7efb64f7fae096e47f01c1d6f3cde8bf688d76f065e896f7945ae1e1"
+  },
+  {
+    "id": "LUK.2.44",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 44,
+    "text": "But they, supposing him to have been in the company, went a day's journey; and they sought him among {their} kinsfolk and acquaintance.",
+    "hash": "baccac2af03f5306c7f258196bc19f8f41371104ccff11145aa70114756db37b"
+  },
+  {
+    "id": "LUK.2.45",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 45,
+    "text": "And when they found him not, they turned back again to Jerusalem, seeking him.",
+    "hash": "a5829f34bd4b988eb9f65ff3dbf1c79b64c88ecea276c8a974210f493f9ea202"
+  },
+  {
+    "id": "LUK.2.46",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 46,
+    "text": "And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions.",
+    "hash": "e1b9a0341a2b57141f884e4de11ae22a982c3e3182f35fabd68de0a9b9cf9f9a"
+  },
+  {
+    "id": "LUK.2.47",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 47,
+    "text": "And all that heard him were astonished at his understanding and answers.",
+    "hash": "f3f9da79d27668e703dac562f10a14c9d8ff4ae6625943991bb32030f2ef90c6"
+  },
+  {
+    "id": "LUK.2.48",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 48,
+    "text": "And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing.",
+    "hash": "b7642c5eb1636aeb751af23cf1a5b6999ed32ab6118e8e13ef2a5963a8751027"
+  },
+  {
+    "id": "LUK.2.49",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 49,
+    "text": "And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father's business?",
+    "hash": "30ef61ca2071ed2988343de39c5e29986714beb4340fb67559a27070d26b835a"
+  },
+  {
+    "id": "LUK.2.50",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 50,
+    "text": "And they understood not the saying which he spake unto them.",
+    "hash": "9c3331aa6d4b88da7448c8351dd8d10a7980bd0b0ffe1f9450b42d8914dc1fda"
+  },
+  {
+    "id": "LUK.2.51",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 51,
+    "text": "And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart.",
+    "hash": "7fb79eb51de6ec5eed09c0fd6458189595ee488baabf213421ec6aa4647eaf14"
+  },
+  {
+    "id": "LUK.2.52",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 2,
+    "verse": 52,
+    "text": "And Jesus increased in wisdom and stature, and in favour with God and man. {stature: or, age}",
+    "hash": "815414238e49fe632427e837ac68c646f11ad693679a75fc863b4d36df129ef6"
+  }
+]

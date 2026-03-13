@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PSA.13.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 13,
+    "verse": 1,
+    "text": "[To the chief Musician, A Psalm of David.] How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me? {chief...: or, overseer}",
+    "hash": "9aac8196ab709a6f2a6b8ac17938586eecc02b8211ec89fe16940e057ec9350e"
+  },
+  {
+    "id": "PSA.13.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 13,
+    "verse": 2,
+    "text": "How long shall I take counsel in my soul, {having} sorrow in my heart daily? how long shall mine enemy be exalted over me?",
+    "hash": "5984c6fd07d1890593f7db113ad1627d9610be0eaf9452e728130e02e867dd60"
+  },
+  {
+    "id": "PSA.13.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 13,
+    "verse": 3,
+    "text": "Consider {and} hear me, O LORD my God: lighten mine eyes, lest I sleep the {sleep of} death;",
+    "hash": "7872ae2045e170584e6392953729d74f25da887eccaeedd23a8f8d89e6e30aa9"
+  },
+  {
+    "id": "PSA.13.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 13,
+    "verse": 4,
+    "text": "Lest mine enemy say, I have prevailed against him; {and} those that trouble me rejoice when I am moved.",
+    "hash": "324949ffc1e365e5ebd4e66991d7bc7e6597d066bc33b928df3732d2096286be"
+  },
+  {
+    "id": "PSA.13.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 13,
+    "verse": 5,
+    "text": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation.",
+    "hash": "789f6fd5cb1b27a5944d19a15b5159e148ea5cab6d553f1d2bdab69c0577d182"
+  },
+  {
+    "id": "PSA.13.6",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 13,
+    "verse": 6,
+    "text": "I will sing unto the LORD, because he hath dealt bountifully with me.",
+    "hash": "810c1c26be8adf3603fa5c1e2359e6ed103b14fa6c6a249091f827cb08bb5209"
+  }
+]

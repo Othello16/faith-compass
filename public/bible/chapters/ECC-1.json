@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ECC.1.1",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 1,
+    "text": "The words of the Preacher, the son of David, king in Jerusalem.",
+    "hash": "1eb2ddb11b4c1dca40d434bc7b7699cf3f79be9b9f717beacf1831fc064d5174"
+  },
+  {
+    "id": "ECC.1.2",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 2,
+    "text": "Vanity of vanities, saith the Preacher, vanity of vanities; all {is} vanity.",
+    "hash": "860232e6c2f97c321d9bd3abb71bbda16b81e8bdae736beab383b6d21c3f6809"
+  },
+  {
+    "id": "ECC.1.3",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 3,
+    "text": "What profit hath a man of all his labour which he taketh under the sun?",
+    "hash": "c44bf24e588bcafd75669f6988e7512635907ef36e516b1f437d528d43001544"
+  },
+  {
+    "id": "ECC.1.4",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 4,
+    "text": "{One} generation passeth away, and {another} generation cometh: but the earth abideth for ever.",
+    "hash": "941857ab8912e75d28288b85b6aff235f6205548604d626a943001308040c240"
+  },
+  {
+    "id": "ECC.1.5",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 5,
+    "text": "The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose. {hasteth: Heb. panteth}",
+    "hash": "941ba9cd6d83cdf73d4410965a71d579e64167aae647e5fc50c88d898ed4feb6"
+  },
+  {
+    "id": "ECC.1.6",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 6,
+    "text": "The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.",
+    "hash": "69c0487c22b3c6a682ba62ae99deb1a43bf191dfb05b1b9c70685bbaa2cd2688"
+  },
+  {
+    "id": "ECC.1.7",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 7,
+    "text": "All the rivers run into the sea; yet the sea {is} not full; unto the place from whence the rivers come, thither they return again. {return...: Heb. return to go}",
+    "hash": "05ec5988fbc1fc083f3da99748c721df31be332f11f311e3457ccb4a9ac93af8"
+  },
+  {
+    "id": "ECC.1.8",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 8,
+    "text": "All things {are} full of labour; man cannot utter {it}: the eye is not satisfied with seeing, nor the ear filled with hearing.",
+    "hash": "7f9d5f861fa35863ae6561cb5a0db90eca9f71ecf0f8e5ef13a04ba052af63ff"
+  },
+  {
+    "id": "ECC.1.9",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 9,
+    "text": "The thing that hath been, it {is that} which shall be; and that which is done {is} that which shall be done: and {there is} no new {thing} under the sun.",
+    "hash": "5dc93d969fb54cfcbfff337826407bc57cb367b0aef8640ac57084088dc8d6e9"
+  },
+  {
+    "id": "ECC.1.10",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 10,
+    "text": "Is there {any} thing whereof it may be said, See, this {is} new? it hath been already of old time, which was before us.",
+    "hash": "2fa05d77281d4157ae551ee81ce19c41836ec51c00bf80a47463e2eec4a3769b"
+  },
+  {
+    "id": "ECC.1.11",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 11,
+    "text": "{There is} no remembrance of former {things}; neither shall there be {any} remembrance of {things} that are to come with {those} that shall come after.",
+    "hash": "3b65e22c931c69464492b49e8b6a45642ffb3f71aa23d562f9673878283e15bb"
+  },
+  {
+    "id": "ECC.1.12",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 12,
+    "text": "I the Preacher was king over Israel in Jerusalem.",
+    "hash": "89b10fbd590dfd7c3710aad362dfc396824b8902f7a2c99041b270057afb71b4"
+  },
+  {
+    "id": "ECC.1.13",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 13,
+    "text": "And I gave my heart to seek and search out by wisdom concerning all {things} that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith. {to be...: or, to afflict them}",
+    "hash": "91d744c9c540001f00e2890270c8a863a4a9407d447c2d47f8561417a2b3b7b0"
+  },
+  {
+    "id": "ECC.1.14",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 14,
+    "text": "I have seen all the works that are done under the sun; and, behold, all {is} vanity and vexation of spirit.",
+    "hash": "5463c5e82866fc7da1f2b374aeceef4926a7dcb5285b6b894a50b52c0f324e23"
+  },
+  {
+    "id": "ECC.1.15",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 15,
+    "text": "{That which is} crooked cannot be made straight: and that which is wanting cannot be numbered. {that which is wanting: Heb. defect}",
+    "hash": "5897dfbcf4c079c083a8ac8c283ae424931b54b398bb76fbcd4713acb10ed139"
+  },
+  {
+    "id": "ECC.1.16",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 16,
+    "text": "I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all {they} that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge. {had...: Heb. had seen much}",
+    "hash": "e5a2ba4891bc30ec6c935cab7e6e9af165ff5e11db1833a808d51a912c7f2754"
+  },
+  {
+    "id": "ECC.1.17",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 17,
+    "text": "And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.",
+    "hash": "c7c10e94f3ebe5a3e0972c23c51c14045b6539b5be33d78e1d6bcc0347dc2bb3"
+  },
+  {
+    "id": "ECC.1.18",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 1,
+    "verse": 18,
+    "text": "For in much wisdom {is} much grief: and he that increaseth knowledge increaseth sorrow.",
+    "hash": "c65c1f8b275551520dc651a0adb340e14ec1596ae5870c87555e781a5a715a20"
+  }
+]

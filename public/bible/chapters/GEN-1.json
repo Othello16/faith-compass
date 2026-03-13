@@ -1,0 +1,312 @@
+[
+  {
+    "id": "GEN.1.1",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 1,
+    "text": "In the beginning God created the heaven and the earth.",
+    "hash": "6f785a86b2716dcc5a48caa0de944396ba871d5c7f3bf776993648335fcb2bb2"
+  },
+  {
+    "id": "GEN.1.2",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 2,
+    "text": "And the earth was without form, and void; and darkness {was} upon the face of the deep. And the Spirit of God moved upon the face of the waters.",
+    "hash": "3ca7357bbcc9a7f61ecebbaac97399a24c332c17a48b9ceba04b2e8ac71f096a"
+  },
+  {
+    "id": "GEN.1.3",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 3,
+    "text": "And God said, Let there be light: and there was light.",
+    "hash": "cb548ddda54d247e18490056cf4de91c26531b9cce58851ca16841ec4c28f3bb"
+  },
+  {
+    "id": "GEN.1.4",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 4,
+    "text": "And God saw the light, that {it was} good: and God divided the light from the darkness. {the light from...: Heb. between the light and between the darkness}",
+    "hash": "2f9856bed299e060cad38c10e51156719c6e5c2cca7a122ef04a8eba5eb6f8da"
+  },
+  {
+    "id": "GEN.1.5",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 5,
+    "text": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day. {And the evening...: Heb. And the evening was, and the morning was etc.}",
+    "hash": "c19f5ef3fe20f6dec2550c0ad74e931ece2baefe970940f39544e8d1e9dc7414"
+  },
+  {
+    "id": "GEN.1.6",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 6,
+    "text": "And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. {firmament: Heb. expansion}",
+    "hash": "4b8d89013af5dd6b5520a828d34feead8016aa2fe5ae337d9f391fb0ca79c85b"
+  },
+  {
+    "id": "GEN.1.7",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 7,
+    "text": "And God made the firmament, and divided the waters which {were} under the firmament from the waters which {were} above the firmament: and it was so.",
+    "hash": "3b835fa74490b07ec63f4e0c919230e53bea1852cb0b0a45ee4ebde7fc3b3813"
+  },
+  {
+    "id": "GEN.1.8",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 8,
+    "text": "And God called the firmament Heaven. And the evening and the morning were the second day. {And the evening...: Heb. And the evening was, and the morning was etc.}",
+    "hash": "9224e8dd51e732de976a112231a1ef956c3f9908bcff608a92a397621fd3e64f"
+  },
+  {
+    "id": "GEN.1.9",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 9,
+    "text": "And God said, Let the waters under the heaven be gathered together unto one place, and let the dry {land} appear: and it was so.",
+    "hash": "1d8c5609f9e81c2ceb77a9c176974f5ef93c198e14bc2b7edc3c66e332a0e68a"
+  },
+  {
+    "id": "GEN.1.10",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 10,
+    "text": "And God called the dry {land} Earth; and the gathering together of the waters called he Seas: and God saw that {it was} good.",
+    "hash": "ec9f515f96dfcca839d6ce869fdaa06f8dd3fd70756ae04e7ab02ab8605f486a"
+  },
+  {
+    "id": "GEN.1.11",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 11,
+    "text": "And God said, Let the earth bring forth grass, the herb yielding seed, {and} the fruit tree yielding fruit after his kind, whose seed {is} in itself, upon the earth: and it was so. {grass: Heb. tender grass}",
+    "hash": "2b8fcb44ad97e69fe65b29110fcf1913ca36c79bf0b5d50e22eb356926867a97"
+  },
+  {
+    "id": "GEN.1.12",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 12,
+    "text": "And the earth brought forth grass, {and} herb yielding seed after his kind, and the tree yielding fruit, whose seed {was} in itself, after his kind: and God saw that {it was} good.",
+    "hash": "ff895276d7524e51fdbccbcea571425a0eff5efa0bd6524af27bc542c216755a"
+  },
+  {
+    "id": "GEN.1.13",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 13,
+    "text": "And the evening and the morning were the third day. {And the evening...: Heb. And the evening was, and the morning was etc.}",
+    "hash": "11693a2dfdc5682007ee25058f4a8cc2adb7a3a278b8f0c4273dd49d27dd6ddc"
+  },
+  {
+    "id": "GEN.1.14",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 14,
+    "text": "And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years: {the day...: Heb. between the day and between the night}",
+    "hash": "49531e6992ce155d90aa95ba904d6655cc5df5828201a96fcfa91d85b3a9f13c"
+  },
+  {
+    "id": "GEN.1.15",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 15,
+    "text": "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.",
+    "hash": "610b1fec2770ca5b58135b3eb1f27e9bff29fbeb9d989fb8bea6b265f3428006"
+  },
+  {
+    "id": "GEN.1.16",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 16,
+    "text": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: {he made} the stars also. {to rule the day...: Heb. for the rule of the day, etc.}",
+    "hash": "d4ed6f852d03889c4bee244e356bccbc2f73832c5f3f884ab4e7917c9856c1d0"
+  },
+  {
+    "id": "GEN.1.17",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 17,
+    "text": "And God set them in the firmament of the heaven to give light upon the earth,",
+    "hash": "20fd94e696664df72f725d1f902713559167e9fc9d726b9f09acbcf0eedf338a"
+  },
+  {
+    "id": "GEN.1.18",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 18,
+    "text": "And to rule over the day and over the night, and to divide the light from the darkness: and God saw that {it was} good.",
+    "hash": "1c77c031f7cb9796ee1df2eb8f5376b614f16460a1f13bbad8f2b29e9bf5ff89"
+  },
+  {
+    "id": "GEN.1.19",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 19,
+    "text": "And the evening and the morning were the fourth day. {And the evening...: Heb. And the evening was, and the morning was etc.}",
+    "hash": "2078eadae4b3f0cc0e3fc44b4492300de24184c0e307eb8d19ecf505dcb25ed3"
+  },
+  {
+    "id": "GEN.1.20",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 20,
+    "text": "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl {that} may fly above the earth in the open firmament of heaven. {moving: or, creeping} {life: Heb. soul} {fowl...: Heb. let fowl fly} {open...: Heb. face of the firmament of heaven}",
+    "hash": "bd72beb418e27c239097aa7459199b7e55abbec992de5c8fc0bb7fb0ee535bce"
+  },
+  {
+    "id": "GEN.1.21",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 21,
+    "text": "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that {it was} good.",
+    "hash": "e623729929b54f3db84fc495ad61a7a2f60744a920ed95762f21b4c74e631096"
+  },
+  {
+    "id": "GEN.1.22",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 22,
+    "text": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.",
+    "hash": "592e90b256f3d1161747c1e092bf57625ec66a00f120b27c92be48725e27c4c4"
+  },
+  {
+    "id": "GEN.1.23",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 23,
+    "text": "And the evening and the morning were the fifth day. {And the evening...: Heb. And the evening was, and the morning was etc.}",
+    "hash": "c8e9f5b0e2baa1b052c007a987fc56d746d52a39468f82efe4461805293f6f62"
+  },
+  {
+    "id": "GEN.1.24",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 24,
+    "text": "And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.",
+    "hash": "6adca8c882984b4ba1f483d630af6b8a4ee775becfae70702574d690401a61fb"
+  },
+  {
+    "id": "GEN.1.25",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 25,
+    "text": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that {it was} good.",
+    "hash": "90fa07cdaf26d0769b18fdfb0dd932791aeb6235f7107c1dbdd823d94983212f"
+  },
+  {
+    "id": "GEN.1.26",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 26,
+    "text": "And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.",
+    "hash": "87cc6a6a32700ef89ce8deac215f0d9b3c6806cb8740d4679c4cc98085edb137"
+  },
+  {
+    "id": "GEN.1.27",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 27,
+    "text": "So God created man in his {own} image, in the image of God created he him; male and female created he them.",
+    "hash": "0c2927ad767e26583d4e6dba8bdd2858376034a9c675e680305aaa0bf1f20c3c"
+  },
+  {
+    "id": "GEN.1.28",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 28,
+    "text": "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. {moveth: Heb. creepeth}",
+    "hash": "071beaf42699645aad277e8aca381cb01edfc176c4b3d71a13ef1a55336592c0"
+  },
+  {
+    "id": "GEN.1.29",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 29,
+    "text": "And God said, Behold, I have given you every herb bearing seed, which {is} upon the face of all the earth, and every tree, in the which {is} the fruit of a tree yielding seed; to you it shall be for meat. {bearing...: Heb. seeding seed} {yielding...: Heb. seeding seed}",
+    "hash": "95987d79e29a9ae3449ee5bdedc18d2f1030b4b76ca8fccd0bea1dbe35eb1458"
+  },
+  {
+    "id": "GEN.1.30",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 30,
+    "text": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein {there is} life, {I have given} every green herb for meat: and it was so. {life: Heb. a living soul}",
+    "hash": "15614d8e37db091a8cd33dd20e04383963734a2aba1dce6c33faab6b2a30f82f"
+  },
+  {
+    "id": "GEN.1.31",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 1,
+    "verse": 31,
+    "text": "And God saw every thing that he had made, and, behold, {it was} very good. And the evening and the morning were the sixth day. {And the evening...: Heb. And the evening was, and the morning was etc.}",
+    "hash": "219b8498544dbf9e6c31ae5510cb4d5a1d04c7432f798773b4d637557f0289cb"
+  }
+]

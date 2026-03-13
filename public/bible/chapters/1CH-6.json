@@ -1,0 +1,812 @@
+[
+  {
+    "id": "1CH.6.1",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 1,
+    "text": "The sons of Levi; Gershon, Kohath, and Merari. {Gershon: or, Gershom}",
+    "hash": "f73d6b435cd531ff6b667a8e813f96e39707f7fab6db65bcf0dd62ccf399f7b2"
+  },
+  {
+    "id": "1CH.6.2",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 2,
+    "text": "And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel.",
+    "hash": "90780bb2db4dee4d45035fc4987ca08034fdc2a37903dec461f5bb95605c8679"
+  },
+  {
+    "id": "1CH.6.3",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 3,
+    "text": "And the children of Amram; Aaron, and Moses, and Miriam. The sons also of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.",
+    "hash": "4f49f9153497ba25401dc85af365a53a308e619af20c8361d2db1c09a711b755"
+  },
+  {
+    "id": "1CH.6.4",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 4,
+    "text": "Eleazar begat Phinehas, Phinehas begat Abishua,",
+    "hash": "02d3c268ad98b818e38e02d4edae9c5e2f4e6a0b636d59675a7c94ff713a19fc"
+  },
+  {
+    "id": "1CH.6.5",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 5,
+    "text": "And Abishua begat Bukki, and Bukki begat Uzzi,",
+    "hash": "3c639a3892e9fcba11c1e15fbc73ceff6bb4db8e0e8131e59cb47bd5fbf362b0"
+  },
+  {
+    "id": "1CH.6.6",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 6,
+    "text": "And Uzzi begat Zerahiah, and Zerahiah begat Meraioth,",
+    "hash": "11f753477244743993fd65ce2731abdf86f1f19d41b2fb8d132c9bb77a7f6db9"
+  },
+  {
+    "id": "1CH.6.7",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 7,
+    "text": "Meraioth begat Amariah, and Amariah begat Ahitub,",
+    "hash": "abe7761b2b1a230cbbfd7948673c1306548b5ea7169204738e8a8065a6c512dd"
+  },
+  {
+    "id": "1CH.6.8",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 8,
+    "text": "And Ahitub begat Zadok, and Zadok begat Ahimaaz,",
+    "hash": "5095ebcdebaeb66fbc78b439acf0e1c87c643d2ed4f1b076e46d89a297bbc69f"
+  },
+  {
+    "id": "1CH.6.9",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 9,
+    "text": "And Ahimaaz begat Azariah, and Azariah begat Johanan,",
+    "hash": "5ddbc6b0de10b4bcdbd83ea53b53060afaf3966ccfac69a90e370920d65118b0"
+  },
+  {
+    "id": "1CH.6.10",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 10,
+    "text": "And Johanan begat Azariah, (he {it is} that executed the priest's office in the temple that Solomon built in Jerusalem:) {in the temple: Heb. in the house}",
+    "hash": "2de0a92fe5ce5eac659760f6b0186b21a22b7bbd480fbf5bf4da7c7315309f02"
+  },
+  {
+    "id": "1CH.6.11",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 11,
+    "text": "And Azariah begat Amariah, and Amariah begat Ahitub,",
+    "hash": "3a943a89c1d90efd0d2582cf74c5cbcaadd5f7dea41b1f9e718d3891c90bd199"
+  },
+  {
+    "id": "1CH.6.12",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 12,
+    "text": "And Ahitub begat Zadok, and Zadok begat Shallum, {Shallum: or, Meshullam}",
+    "hash": "c991750e8651ba896f8d7301365a62ed6fcd593523636a3b01d4b5a40b53625d"
+  },
+  {
+    "id": "1CH.6.13",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 13,
+    "text": "And Shallum begat Hilkiah, and Hilkiah begat Azariah,",
+    "hash": "0fcdb2f966ae122cf4bd99d5c74b10996b694f7c40b23eb38295e8354e1f9387"
+  },
+  {
+    "id": "1CH.6.14",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 14,
+    "text": "And Azariah begat Seraiah, and Seraiah begat Jehozadak,",
+    "hash": "a842cb92c60af5d969ef19ef46c7d0ac5d98a5b457d4d7e670e73c62e62d34c5"
+  },
+  {
+    "id": "1CH.6.15",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 15,
+    "text": "And Jehozadak went {into captivity}, when the LORD carried away Judah and Jerusalem by the hand of Nebuchadnezzar.",
+    "hash": "55d74bee9265a9cb74bcfa5a356084992bc7c8cf8e18fcfbf933516f991e3810"
+  },
+  {
+    "id": "1CH.6.16",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 16,
+    "text": "The sons of Levi; Gershom, Kohath, and Merari. {Gershom: or, Gershon}",
+    "hash": "ea4409f18691d9abdd5450458b0f78fb10708617ff5d6390b22ba732454d6642"
+  },
+  {
+    "id": "1CH.6.17",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 17,
+    "text": "And these {be} the names of the sons of Gershom; Libni, and Shimei.",
+    "hash": "cc0ebc5413bb68f60f511387174ee6c22020ad6ec9f613608c267ef38fb92b1c"
+  },
+  {
+    "id": "1CH.6.18",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 18,
+    "text": "And the sons of Kohath {were}, Amram, and Izhar, and Hebron, and Uzziel.",
+    "hash": "b454d9c05231b885f7e49a3f5a7b2e3bcebd8b35690050c33773704894ad0350"
+  },
+  {
+    "id": "1CH.6.19",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 19,
+    "text": "The sons of Merari; Mahli, and Mushi. And these {are} the families of the Levites according to their fathers.",
+    "hash": "0f30380f9cc2b19b8578b071c761189ad91eacd27eccc994b3fd2b986f4a5ece"
+  },
+  {
+    "id": "1CH.6.20",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 20,
+    "text": "Of Gershom; Libni his son, Jahath his son, Zimmah his son,",
+    "hash": "1465a25d56a8defcb80ed95de2b05b20976c78455bba37ef0868c88b68337a99"
+  },
+  {
+    "id": "1CH.6.21",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 21,
+    "text": "Joah his son, Iddo his son, Zerah his son, Jeaterai his son. {Joah: or, Ethan} {Iddo: or, Adaiah} {Jeaterai: also called, Ethni}",
+    "hash": "094ae6bcc578a20a2812d7ab000ea0546db8e234b2332da1a5ab812c144dcd9e"
+  },
+  {
+    "id": "1CH.6.22",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 22,
+    "text": "The sons of Kohath; Amminadab his son, Korah his son, Assir his son, {Amminadab: or, Izhar}",
+    "hash": "4a8471b5a784fe71a50fbc73f05148c67bf4c3dba5a935981063a2217c924972"
+  },
+  {
+    "id": "1CH.6.23",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 23,
+    "text": "Elkanah his son, and Ebiasaph his son, and Assir his son,",
+    "hash": "0327efce96291e9423092c4eba13615874cae30429c4eaf509157620e13c37d5"
+  },
+  {
+    "id": "1CH.6.24",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 24,
+    "text": "Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.",
+    "hash": "efab409d7b8506de8d6aa4dcd9b877eca5cee6508eb2bb68846604e537633e1b"
+  },
+  {
+    "id": "1CH.6.25",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 25,
+    "text": "And the sons of Elkanah; Amasai, and Ahimoth.",
+    "hash": "892482bb1ad11d8399022adff702826c220fab9cd8020869634ff7b234c080bb"
+  },
+  {
+    "id": "1CH.6.26",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 26,
+    "text": "{As for} Elkanah: the sons of Elkanah; Zophai his son, and Nahath his son, {Zophai: or, Zuph}",
+    "hash": "b91806474f4ed7dd3e01c715840c5478f80bcb6b8471664a3ebcf04dffa2158a"
+  },
+  {
+    "id": "1CH.6.27",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 27,
+    "text": "Eliab his son, Jeroham his son, Elkanah his son.",
+    "hash": "66978527b41bb28f66ea82d02828b51001959945547b689849a44421ed443f5c"
+  },
+  {
+    "id": "1CH.6.28",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 28,
+    "text": "And the sons of Samuel; the firstborn Vashni, and Abiah. {Vashni: called also Joel}",
+    "hash": "9f8bc3109a5c51b44baa32ed18f81ba6bc49713bcfb58bb4c17f1574a10cf96e"
+  },
+  {
+    "id": "1CH.6.29",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 29,
+    "text": "The sons of Merari; Mahli, Libni his son, Shimei his son, Uzza his son,",
+    "hash": "58a679b488a801bec09f80e4f684c900dcb33066e35c0a0508a9616bb28a7127"
+  },
+  {
+    "id": "1CH.6.30",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 30,
+    "text": "Shimea his son, Haggiah his son, Asaiah his son.",
+    "hash": "659082d0767e5ad87b6117af949ba0602326e3f258028b6c6f257345a0308ac7"
+  },
+  {
+    "id": "1CH.6.31",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 31,
+    "text": "And these {are they} whom David set over the service of song in the house of the LORD, after that the ark had rest.",
+    "hash": "dce1de25866f061c1e1363f44d8cb9c9e9c7465e19dddb38b933bf6fa3f4e8d8"
+  },
+  {
+    "id": "1CH.6.32",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 32,
+    "text": "And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the LORD in Jerusalem: and {then} they waited on their office according to their order.",
+    "hash": "86772b1a78b4085448d90f0c778cadc89808d6f964d699789beed03250007042"
+  },
+  {
+    "id": "1CH.6.33",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 33,
+    "text": "And these {are} they that waited with their children. Of the sons of the Kohathites: Heman a singer, the son of Joel, the son of Shemuel, {waited: Heb. stood}",
+    "hash": "3d835abadb9a53f7bae35116af4be0894aad1dc95219ed7c3f560027a83d274b"
+  },
+  {
+    "id": "1CH.6.34",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 34,
+    "text": "The son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,",
+    "hash": "78b1a86e2b8b6a7b3a09a7dc9df8933f61a836866e6a18f1be1296a0d0452714"
+  },
+  {
+    "id": "1CH.6.35",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 35,
+    "text": "The son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,",
+    "hash": "fb6e70dea4d388140cebdf76213d03776327235c081aaf83af477a3a2c09e45c"
+  },
+  {
+    "id": "1CH.6.36",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 36,
+    "text": "The son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,",
+    "hash": "7ba850e784813a33819786f4eea64012a55ad2eb43cc4e5aa9e618b9abd7b70e"
+  },
+  {
+    "id": "1CH.6.37",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 37,
+    "text": "The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,",
+    "hash": "39d9df3df1396113476b0ab253c2b2a6f8cc06344a7bf479563b6c4ec713db15"
+  },
+  {
+    "id": "1CH.6.38",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 38,
+    "text": "The son of Izhar, the son of Kohath, the son of Levi, the son of Israel.",
+    "hash": "911e6a0d345e63406a6ea7a7545e3c5b650b9163f5c528590cbf74eda7fb6ef0"
+  },
+  {
+    "id": "1CH.6.39",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 39,
+    "text": "And his brother Asaph, who stood on his right hand, {even} Asaph the son of Berachiah, the son of Shimea,",
+    "hash": "c7a4854eb2ecfc975e580e76b5f0f70f0c631d384ff92d8db70352c9d3e4d6f2"
+  },
+  {
+    "id": "1CH.6.40",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 40,
+    "text": "The son of Michael, the son of Baaseiah, the son of Malchiah,",
+    "hash": "901637345f1f6c4f001a0b064be2dded654dc66b8f59db3ee434db6e93d83327"
+  },
+  {
+    "id": "1CH.6.41",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 41,
+    "text": "The son of Ethni, the son of Zerah, the son of Adaiah,",
+    "hash": "a745be2da36836309d837652e86116fb2da3f2db579f7c65fd07386f75d9d4d8"
+  },
+  {
+    "id": "1CH.6.42",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 42,
+    "text": "The son of Ethan, the son of Zimmah, the son of Shimei,",
+    "hash": "f84911a96bcc1f412e144a825eb7e730761c58148223e14a7afcd3613baa93a1"
+  },
+  {
+    "id": "1CH.6.43",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 43,
+    "text": "The son of Jahath, the son of Gershom, the son of Levi.",
+    "hash": "3dfe13186f0c938814c753721e124a228e5ee7cd99c1d6bbac504b120e0a5b6c"
+  },
+  {
+    "id": "1CH.6.44",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 44,
+    "text": "And their brethren the sons of Merari {stood} on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch, {Kishi: or, Kushaiah}",
+    "hash": "4989d86995d28700876ebd35cff13e1286d4a6db3e54339950aba60c2d5f8281"
+  },
+  {
+    "id": "1CH.6.45",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 45,
+    "text": "The son of Hashabiah, the son of Amaziah, the son of Hilkiah,",
+    "hash": "c443d79dcaffbfc9ba793ccea7fb3468243140f111dabef61f93753c9113ded5"
+  },
+  {
+    "id": "1CH.6.46",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 46,
+    "text": "The son of Amzi, the son of Bani, the son of Shamer,",
+    "hash": "bafce2ea04d0e9f3a58029e7c99d9cc416da26ba034a4048edd6dcd5c2cd11d8"
+  },
+  {
+    "id": "1CH.6.47",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 47,
+    "text": "The son of Mahli, the son of Mushi, the son of Merari, the son of Levi.",
+    "hash": "1eb1d72782836ebcaccaefeb03d87e6fe60406b3629779b22f991cd9ab781c0f"
+  },
+  {
+    "id": "1CH.6.48",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 48,
+    "text": "Their brethren also the Levites {were} appointed unto all manner of service of the tabernacle of the house of God.",
+    "hash": "ff39ac1fc6c394e447837a85c29d599b31555af236cf3fdf47ae8d1aff6bb37b"
+  },
+  {
+    "id": "1CH.6.49",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 49,
+    "text": "But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, {and were appointed} for all the work of the {place} most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded.",
+    "hash": "04953df04968019eb1d2eb3ce009a3083ec18c3bbbcb3964b3f0f4d70477cef9"
+  },
+  {
+    "id": "1CH.6.50",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 50,
+    "text": "And these {are} the sons of Aaron; Eleazar his son, Phinehas his son, Abishua his son,",
+    "hash": "598c43cca0ad14f40e2976ae9cd41fc203a71d9488d06e1f2bda5d7de2ab93b0"
+  },
+  {
+    "id": "1CH.6.51",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 51,
+    "text": "Bukki his son, Uzzi his son, Zerahiah his son,",
+    "hash": "204aafb8cace1a64becfde42865f381de9426adf5a56915674136a93cdce1b56"
+  },
+  {
+    "id": "1CH.6.52",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 52,
+    "text": "Meraioth his son, Amariah his son, Ahitub his son,",
+    "hash": "e5b722daf456ddaf803d4e344267ff6d74b45af84c8069d698533bdb655e5334"
+  },
+  {
+    "id": "1CH.6.53",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 53,
+    "text": "Zadok his son, Ahimaaz his son.",
+    "hash": "4f30f9fbc2cc1bb03aadde3b8b729f07ca1a94aa7b82e6a1b960b5c625cee246"
+  },
+  {
+    "id": "1CH.6.54",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 54,
+    "text": "Now these {are} their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot.",
+    "hash": "d3019edcc537140307a5fb44dddbacabb2f81b2ee8f66b3243e18c658dfdac57"
+  },
+  {
+    "id": "1CH.6.55",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 55,
+    "text": "And they gave them Hebron in the land of Judah, and the suburbs thereof round about it.",
+    "hash": "3cd10b1c3d81d390808ab995e55b29a733dc28ab1c17b513276c828bef8fae2e"
+  },
+  {
+    "id": "1CH.6.56",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 56,
+    "text": "But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh.",
+    "hash": "0682855661cc2915724a82a10b690b3cdeadf15a91fc3703cbbd26095328aad0"
+  },
+  {
+    "id": "1CH.6.57",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 57,
+    "text": "And to the sons of Aaron they gave the cities of Judah, {namely}, Hebron, {the city} of refuge, and Libnah with her suburbs, and Jattir, and Eshtemoa, with their suburbs,",
+    "hash": "18d279ee1c5aa771360bb2692c53b2503e47fc984484d00a26921900edab1467"
+  },
+  {
+    "id": "1CH.6.58",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 58,
+    "text": "And Hilen with her suburbs, Debir with her suburbs, {Hilen: or, Holon}",
+    "hash": "2715e10ffd71d8dde9e3b8f028afa90e04d380421c59f45d518607da26580194"
+  },
+  {
+    "id": "1CH.6.59",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 59,
+    "text": "And Ashan with her suburbs, and Bethshemesh with her suburbs: {Ashan: or, Ain}",
+    "hash": "11bcd9ed6fefbfbaf1dadf7e0cc323114771806c2d367de00787819baa6fd286"
+  },
+  {
+    "id": "1CH.6.60",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 60,
+    "text": "And out of the tribe of Benjamin; Geba with her suburbs, and Alemeth with her suburbs, and Anathoth with her suburbs. All their cities throughout their families {were} thirteen cities. {Alemeth: or, Almon}",
+    "hash": "2b89fb3795659d63dbbfa9d6b2817b362c25767c0484f4659b327d9faa558a3b"
+  },
+  {
+    "id": "1CH.6.61",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 61,
+    "text": "And unto the sons of Kohath, {which were} left of the family of that tribe, {were cities given} out of the half tribe, {namely, out of} the half {tribe} of Manasseh, by lot, ten cities.",
+    "hash": "9e0cb6a5d2e1f68ab61d9d634ea176c7d65e25e36fc3d022164028f8ea5e0c17"
+  },
+  {
+    "id": "1CH.6.62",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 62,
+    "text": "And to the sons of Gershom throughout their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities.",
+    "hash": "19def50bc1f022c4b2bccdc0911bb56cd9744b4fcca15bdba18280fee91836fc"
+  },
+  {
+    "id": "1CH.6.63",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 63,
+    "text": "Unto the sons of Merari {were given} by lot, throughout their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.",
+    "hash": "e990cd665ad3a7e43f02f5179b3040d67f99dc09a532c934ad05931b4865322a"
+  },
+  {
+    "id": "1CH.6.64",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 64,
+    "text": "And the children of Israel gave to the Levites {these} cities with their suburbs.",
+    "hash": "5c0ebf8906fda3aa547793fd1dfc907fa01924648f3c049db92a8f9ba3c1872c"
+  },
+  {
+    "id": "1CH.6.65",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 65,
+    "text": "And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities, which are called by {their} names.",
+    "hash": "bbbdf406bb112e1b882efe2c301418217dbbe7c3cfde3c5c83bfd555007d6125"
+  },
+  {
+    "id": "1CH.6.66",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 66,
+    "text": "And {the residue} of the families of the sons of Kohath had cities of their coasts out of the tribe of Ephraim.",
+    "hash": "8b6597d92b27409c37b0a41d95c187fafe8555d92451d8ce07a34772c2ca1666"
+  },
+  {
+    "id": "1CH.6.67",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 67,
+    "text": "And they gave unto them, {of} the cities of refuge, Shechem in mount Ephraim with her suburbs; {they gave} also Gezer with her suburbs,",
+    "hash": "45e2b6c47f9fa8ea613772b15742a72af6a6c03a8bdd5b4b2b8d1214501abbeb"
+  },
+  {
+    "id": "1CH.6.68",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 68,
+    "text": "And Jokmeam with her suburbs, and Bethhoron with her suburbs,",
+    "hash": "bbf3cebca200eee14a05123eeea5ba29a4375b1cb6d5e4e5fb9eeebe8a7123d6"
+  },
+  {
+    "id": "1CH.6.69",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 69,
+    "text": "And Aijalon with her suburbs, and Gathrimmon with her suburbs:",
+    "hash": "1788520d348c6c8ea5da43f8d1629e379050c63c1397e7a8d6a0d4502c10ef62"
+  },
+  {
+    "id": "1CH.6.70",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 70,
+    "text": "And out of the half tribe of Manasseh; Aner with her suburbs, and Bileam with her suburbs, for the family of the remnant of the sons of Kohath.",
+    "hash": "8bf05871eee1138d0861b7a0d9de9e83f7be95c14185171e29ae755279b9ff7f"
+  },
+  {
+    "id": "1CH.6.71",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 71,
+    "text": "Unto the sons of Gershom {were given} out of the family of the half tribe of Manasseh, Golan in Bashan with her suburbs, and Ashtaroth with her suburbs:",
+    "hash": "4fb5898b1a323d1bf1e9a518e06ab6d53d166e4c280615d59382890c3ebaabd0"
+  },
+  {
+    "id": "1CH.6.72",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 72,
+    "text": "And out of the tribe of Issachar; Kedesh with her suburbs, Daberath with her suburbs,",
+    "hash": "2ae17222b62f0220116fcc01b7d0938f4699d87470fbb3959a160d197be7f085"
+  },
+  {
+    "id": "1CH.6.73",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 73,
+    "text": "And Ramoth with her suburbs, and Anem with her suburbs:",
+    "hash": "1faf27ed571ddd83321322ae4c4c1728d7b1422b80728f52953e7faa9ffc46a2"
+  },
+  {
+    "id": "1CH.6.74",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 74,
+    "text": "And out of the tribe of Asher; Mashal with her suburbs, and Abdon with her suburbs,",
+    "hash": "9cc9036b2917e01e7708ec358cffd896df7a982d097e7efa653e47d8536b2846"
+  },
+  {
+    "id": "1CH.6.75",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 75,
+    "text": "And Hukok with her suburbs, and Rehob with her suburbs:",
+    "hash": "4876296385a099cc7fa850e88c65400eef6395b75f3ada32719a59f6e69c761f"
+  },
+  {
+    "id": "1CH.6.76",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 76,
+    "text": "And out of the tribe of Naphtali; Kedesh in Galilee with her suburbs, and Hammon with her suburbs, and Kirjathaim with her suburbs.",
+    "hash": "b5728c74270526ff6c0c31361ad5907eafe0840ab482c3ef10f82cfcd4f91f25"
+  },
+  {
+    "id": "1CH.6.77",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 77,
+    "text": "Unto the rest of the children of Merari {were given} out of the tribe of Zebulun, Rimmon with her suburbs, Tabor with her suburbs:",
+    "hash": "3044e68a93553282661a98c7aec36932544867b5f3cb5e0d04c74235096faf22"
+  },
+  {
+    "id": "1CH.6.78",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 78,
+    "text": "And on the other side Jordan by Jericho, on the east side of Jordan, {were given them} out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs,",
+    "hash": "30975b1ec121ce2f254bd371efef1b22ccc5a62fa19096e149b6b16bb00a6379"
+  },
+  {
+    "id": "1CH.6.79",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 79,
+    "text": "Kedemoth also with her suburbs, and Mephaath with her suburbs:",
+    "hash": "5fb64d3b3ac98cee1332964a84f25e1388221745817681ae19c49489d5979ce4"
+  },
+  {
+    "id": "1CH.6.80",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 80,
+    "text": "And out of the tribe of Gad; Ramoth in Gilead with her suburbs, and Mahanaim with her suburbs,",
+    "hash": "338814bf0e353c00d808c3c3668d24693ee311407f42f8fcb5c241bdd98a2f9e"
+  },
+  {
+    "id": "1CH.6.81",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 6,
+    "verse": 81,
+    "text": "And Heshbon with her suburbs, and Jazer with her suburbs.",
+    "hash": "dbeba03545e93bd6a17b85c7327d00bb8c20d748bbbd372eac95e4ae4e2ab114"
+  }
+]

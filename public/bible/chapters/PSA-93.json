@@ -1,0 +1,52 @@
+[
+  {
+    "id": "PSA.93.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 93,
+    "verse": 1,
+    "text": "The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, {wherewith} he hath girded himself: the world also is stablished, that it cannot be moved.",
+    "hash": "8ddf9d04fb06cfb8cbe5f6429827d71c75981f32d7a7d6f61627030feae84aa2"
+  },
+  {
+    "id": "PSA.93.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 93,
+    "verse": 2,
+    "text": "Thy throne {is} established of old: thou {art} from everlasting. {of old: Heb. from then}",
+    "hash": "86053f9d017faae8242a184bbd6b7c61e313423e1bb36b61c26233f719607fde"
+  },
+  {
+    "id": "PSA.93.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 93,
+    "verse": 3,
+    "text": "The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their waves.",
+    "hash": "baac1aef8bb1114a4a8ce2bfd448665494f3d98b266b5f3bb21ed7b36ba10940"
+  },
+  {
+    "id": "PSA.93.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 93,
+    "verse": 4,
+    "text": "The LORD on high {is} mightier than the noise of many waters, {yea, than} the mighty waves of the sea.",
+    "hash": "d9b74b87caf84c907e446d1c0bbf29740be619a427f7c639527b6a4641f1f886"
+  },
+  {
+    "id": "PSA.93.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 93,
+    "verse": 5,
+    "text": "Thy testimonies are very sure: holiness becometh thine house, O LORD, for ever. {for ever: Heb. to length of days}",
+    "hash": "e3c9a961c41b74af38b2d7fe58cc6950adb3c05146d87d3fbc231b824b5edfec"
+  }
+]

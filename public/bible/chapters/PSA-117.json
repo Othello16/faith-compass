@@ -1,0 +1,22 @@
+[
+  {
+    "id": "PSA.117.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 117,
+    "verse": 1,
+    "text": "O praise the LORD, all ye nations: praise him, all ye people.",
+    "hash": "0add7c9dc7743ad5a6162139df59e78980f9b73fccfa9c967dd6d42924432ae7"
+  },
+  {
+    "id": "PSA.117.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 117,
+    "verse": 2,
+    "text": "For his merciful kindness is great toward us: and the truth of the LORD {endureth} for ever. Praise ye the LORD.",
+    "hash": "909d04b04a4576956923ddc5c05ab1cd6edab43b1cc466db26e19cfa3044dd97"
+  }
+]

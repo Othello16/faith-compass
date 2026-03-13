@@ -1,0 +1,52 @@
+[
+  {
+    "id": "PSA.15.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 15,
+    "verse": 1,
+    "text": "[A Psalm of David.] LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill? {abide: Heb. sojourn}",
+    "hash": "f93692faafe08c8a001ad817ba87837282f39d408d84f7a9a7f3c9b4d06c759b"
+  },
+  {
+    "id": "PSA.15.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 15,
+    "verse": 2,
+    "text": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.",
+    "hash": "69acbe1accc89999feff8fe19fbf98893022ed880b257c8f689e3f9a5b1aa8c2"
+  },
+  {
+    "id": "PSA.15.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 15,
+    "verse": 3,
+    "text": "{He that} backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour. {taketh...: or, receiveth, or, endureth}",
+    "hash": "74f8ef0860d0e559a8e18f047786edb28e8e5214f42fabdbd6cf235127eb2ba2"
+  },
+  {
+    "id": "PSA.15.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 15,
+    "verse": 4,
+    "text": "In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. {He that} sweareth to {his own} hurt, and changeth not.",
+    "hash": "4c101a7ca04f7f67e13076f0f96d814f8199273c36bbf5610d12dbe436b795a6"
+  },
+  {
+    "id": "PSA.15.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 15,
+    "verse": 5,
+    "text": "{He that} putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these {things} shall never be moved.",
+    "hash": "111dce4fa4266db06a58f8545bfa6fb2c76285f093d4f9b551ff18a9e36afb94"
+  }
+]

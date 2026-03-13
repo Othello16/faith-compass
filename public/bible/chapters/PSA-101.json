@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PSA.101.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 101,
+    "verse": 1,
+    "text": "[A Psalm of David.] I will sing of mercy and judgment: unto thee, O LORD, will I sing.",
+    "hash": "298c19bd02307ddd9504288df0d5afa41b2940b1d2ebc60ff37e7acc297e23b8"
+  },
+  {
+    "id": "PSA.101.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 101,
+    "verse": 2,
+    "text": "I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.",
+    "hash": "99743c9eed7ad8ad285c5b42c88d2a9e17b45b66e0f688e7f9edfef6286731aa"
+  },
+  {
+    "id": "PSA.101.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 101,
+    "verse": 3,
+    "text": "I will set no wicked thing before mine eyes: I hate the work of them that turn aside; {it} shall not cleave to me. {wicked...: Heb. thing of Belial}",
+    "hash": "5caefd7698f5fa91f25e4faf4927a6a97dec7abd9b5f95105c46058782274aba"
+  },
+  {
+    "id": "PSA.101.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 101,
+    "verse": 4,
+    "text": "A froward heart shall depart from me: I will not know a wicked {person}.",
+    "hash": "00881ce94881b278c002954ad00ef7eb41068bff1f09f199959fc570515b01f3"
+  },
+  {
+    "id": "PSA.101.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 101,
+    "verse": 5,
+    "text": "Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.",
+    "hash": "f50ee35438ac88cac9d4d76fdf2703eda901f21e5e782d796b83ed4d950c5ff9"
+  },
+  {
+    "id": "PSA.101.6",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 101,
+    "verse": 6,
+    "text": "Mine eyes {shall be} upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me. {in a...: or, perfect in the way}",
+    "hash": "90daab833e061a39d892c554e8044ff89a87f5ac680bb4707ae6f42378e4cf4b"
+  },
+  {
+    "id": "PSA.101.7",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 101,
+    "verse": 7,
+    "text": "He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight. {shall not tarry: Heb. shall not be established}",
+    "hash": "8404e7110259ebff2e7b58e2a7dadd67b3c406512fd1cc1f813cd76649bc7d5b"
+  },
+  {
+    "id": "PSA.101.8",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 101,
+    "verse": 8,
+    "text": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the LORD.",
+    "hash": "b6506093fc879ad9b0473f55e4d8923a12c705a4e2afb98e2762fd5f49291644"
+  }
+]

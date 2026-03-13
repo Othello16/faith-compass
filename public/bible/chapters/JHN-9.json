@@ -1,0 +1,412 @@
+[
+  {
+    "id": "JHN.9.1",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 1,
+    "text": "And as {Jesus} passed by, he saw a man which was blind from {his} birth.",
+    "hash": "340233986bb41d5eb7734155910638c7a161e75490b0a65371818af1a45cf6cd"
+  },
+  {
+    "id": "JHN.9.2",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 2,
+    "text": "And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?",
+    "hash": "a98ff519a0fc2f21b7be11e7f282eff2ea9bbf5c8989e7598dd21255559f0ff6"
+  },
+  {
+    "id": "JHN.9.3",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 3,
+    "text": "Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.",
+    "hash": "1d33877c85c0812276515f8e64ecd11a5bf10931d3c48c77309f4b5129025a44"
+  },
+  {
+    "id": "JHN.9.4",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 4,
+    "text": "I must work the works of him that sent me, while it is day: the night cometh, when no man can work.",
+    "hash": "d49bf00ffb559624ca5aba8ad6eafdae62d31a19eeaeba8205d6ad60ea828772"
+  },
+  {
+    "id": "JHN.9.5",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 5,
+    "text": "As long as I am in the world, I am the light of the world.",
+    "hash": "a92f0dbf81c8e0d08427dcdde2206a12de6bb0533ec053f6eb0a1a9bc1b3e19a"
+  },
+  {
+    "id": "JHN.9.6",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 6,
+    "text": "When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay, {anointed...: or, spread the clay upon the eyes of the blind man}",
+    "hash": "dbfed6a63ab1a51b27a7b9c8b68f43ea7d77a992ed43a8ec64510ea67b550e37"
+  },
+  {
+    "id": "JHN.9.7",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 7,
+    "text": "And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing.",
+    "hash": "ebffe61096c7a95145e0857b9584dcaa9f64f9472934aec7b58312674ee13b77"
+  },
+  {
+    "id": "JHN.9.8",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 8,
+    "text": "The neighbours therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged?",
+    "hash": "a994b2a138c1eb50393f48015a3b0973f69683aba71542d339814fb99179b4b0"
+  },
+  {
+    "id": "JHN.9.9",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 9,
+    "text": "Some said, This is he: others {said}, He is like him: {but} he said, I am {he}.",
+    "hash": "1616b4714f9ce775129c6d4006c1b49148302ab7776a709aa2c7dc1936d1b5fa"
+  },
+  {
+    "id": "JHN.9.10",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 10,
+    "text": "Therefore said they unto him, How were thine eyes opened?",
+    "hash": "84613fefd430f98ecd5f7a3ba847538427a8be63c07a8f933e2c058ceb3bf0da"
+  },
+  {
+    "id": "JHN.9.11",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 11,
+    "text": "He answered and said, A man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight.",
+    "hash": "d0bac52b99e1941adc223bdfd29f3c8f434e3ff4351bba9ee9014fbaed1b231e"
+  },
+  {
+    "id": "JHN.9.12",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 12,
+    "text": "Then said they unto him, Where is he? He said, I know not.",
+    "hash": "505ecd88e594caf9c1672e8fc387269677de213be6bf77e457a5b35e00d8e633"
+  },
+  {
+    "id": "JHN.9.13",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 13,
+    "text": "They brought to the Pharisees him that aforetime was blind.",
+    "hash": "23fbef86ce83ec7821a3e35b91b380cc7f5c3f1f08dbf8a4ed9a0dc847fcfe87"
+  },
+  {
+    "id": "JHN.9.14",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 14,
+    "text": "And it was the sabbath day when Jesus made the clay, and opened his eyes.",
+    "hash": "c619f6ca36af4a3c63c6ff94bd6a9288e3a0296e6e9865a9a8fd8fb1449d5572"
+  },
+  {
+    "id": "JHN.9.15",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 15,
+    "text": "Then again the Pharisees also asked him how he had received his sight. He said unto them, He put clay upon mine eyes, and I washed, and do see.",
+    "hash": "c2f04451a9c4681383e5e4354c3f87a7717120e347c7981bb60b69011da53f90"
+  },
+  {
+    "id": "JHN.9.16",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 16,
+    "text": "Therefore said some of the Pharisees, This man is not of God, because he keepeth not the sabbath day. Others said, How can a man that is a sinner do such miracles? And there was a division among them.",
+    "hash": "7a355e8cae6574b04e30256afb586da76c29c994049262fa62f3a94f0abfb910"
+  },
+  {
+    "id": "JHN.9.17",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 17,
+    "text": "They say unto the blind man again, What sayest thou of him, that he hath opened thine eyes? He said, He is a prophet.",
+    "hash": "25886044c9ae92fe89adf5bcf2f4bcc8de534abd2ad75120d013bcdaa6e1c594"
+  },
+  {
+    "id": "JHN.9.18",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 18,
+    "text": "But the Jews did not believe concerning him, that he had been blind, and received his sight, until they called the parents of him that had received his sight.",
+    "hash": "cb86ccf8da0abaa1d0e319c464d5de87c478db0a98d95a7417d28e847b297897"
+  },
+  {
+    "id": "JHN.9.19",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 19,
+    "text": "And they asked them, saying, Is this your son, who ye say was born blind? how then doth he now see?",
+    "hash": "6372866b124bff2c0e8c7555009aa857f55bf124c0519402f6d796034348c0b7"
+  },
+  {
+    "id": "JHN.9.20",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 20,
+    "text": "His parents answered them and said, We know that this is our son, and that he was born blind:",
+    "hash": "df44ab9b0434d73464611f69d4a92b4645d0d405fdea1e51a07d00c427a237c4"
+  },
+  {
+    "id": "JHN.9.21",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 21,
+    "text": "But by what means he now seeth, we know not; or who hath opened his eyes, we know not: he is of age; ask him: he shall speak for himself.",
+    "hash": "369bcc20b9a36e83c42ebbfd8791ab533a7a80ea6d48d56068b0a2dc2a9fb848"
+  },
+  {
+    "id": "JHN.9.22",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 22,
+    "text": "These {words} spake his parents, because they feared the Jews: for the Jews had agreed already, that if any man did confess that he was Christ, he should be put out of the synagogue.",
+    "hash": "121ebba22894c7b4ab776868287a0af20c8c835ff182c2675719ff73e9b44664"
+  },
+  {
+    "id": "JHN.9.23",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 23,
+    "text": "Therefore said his parents, He is of age; ask him.",
+    "hash": "a6b641f10e07e5044d4fefd2a99734f1a106851ec9dc5cb2c12d2103c6c5e889"
+  },
+  {
+    "id": "JHN.9.24",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 24,
+    "text": "Then again called they the man that was blind, and said unto him, Give God the praise: we know that this man is a sinner.",
+    "hash": "0e72f41a67cd5d25d9b2693ad356cfc5c9c946a10e8b12e2ccf45b0388e98a3e"
+  },
+  {
+    "id": "JHN.9.25",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 25,
+    "text": "He answered and said, Whether he be a sinner {or no}, I know not: one thing I know, that, whereas I was blind, now I see.",
+    "hash": "29dff1d70d37a483c5470cf8909ad343bf2a96fa723076cba37de8ea89147ecf"
+  },
+  {
+    "id": "JHN.9.26",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 26,
+    "text": "Then said they to him again, What did he to thee? how opened he thine eyes?",
+    "hash": "9a52f19aea5e6cc67d3f6ef4ce6b7633c1f10802a39ac496746425cb04631259"
+  },
+  {
+    "id": "JHN.9.27",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 27,
+    "text": "He answered them, I have told you already, and ye did not hear: wherefore would ye hear {it} again? will ye also be his disciples?",
+    "hash": "f76f92f7da35ddf3e192bce7a8d0b963c84a2703f1e2d614db17c6a109b5d759"
+  },
+  {
+    "id": "JHN.9.28",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 28,
+    "text": "Then they reviled him, and said, Thou art his disciple; but we are Moses' disciples.",
+    "hash": "6a3562b87f3ecbf8c39be7489478b7361f5ba150bf9412388ffc21b4ffc500ff"
+  },
+  {
+    "id": "JHN.9.29",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 29,
+    "text": "We know that God spake unto Moses: {as for} this {fellow}, we know not from whence he is.",
+    "hash": "070b8c2454d498b9be007aed1e451a899c42f8b59eb0df6b2d5f44ca14bb3892"
+  },
+  {
+    "id": "JHN.9.30",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 30,
+    "text": "The man answered and said unto them, Why herein is a marvellous thing, that ye know not from whence he is, and {yet} he hath opened mine eyes.",
+    "hash": "142cbae313a64075253f48f85e603ec0b2ef6cf83554823f22751a17aa90c94d"
+  },
+  {
+    "id": "JHN.9.31",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 31,
+    "text": "Now we know that God heareth not sinners: but if any man be a worshipper of God, and doeth his will, him he heareth.",
+    "hash": "4ba4959fb849cde345c4cad238bf28c1e5cfd5f9b7cb1299afae3f8547047683"
+  },
+  {
+    "id": "JHN.9.32",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 32,
+    "text": "Since the world began was it not heard that any man opened the eyes of one that was born blind.",
+    "hash": "d859d29a07956d79b969c52f0142b28f49ccb03dce1a48538240e9c9be191f02"
+  },
+  {
+    "id": "JHN.9.33",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 33,
+    "text": "If this man were not of God, he could do nothing.",
+    "hash": "de402938ab17243a1ce512e23370cb9eefd5f5b193bedf93b8a12de292d9a9da"
+  },
+  {
+    "id": "JHN.9.34",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 34,
+    "text": "They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out. {cast...: or, excommunicated him}",
+    "hash": "75c7b446da1ac156d54562ed5f6adf9f02b6dea8b31a9302f60bc972cf69bd81"
+  },
+  {
+    "id": "JHN.9.35",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 35,
+    "text": "Jesus heard that they had cast him out; and when he had found him, he said unto him, Dost thou believe on the Son of God?",
+    "hash": "95d746ad1aebe814e3cd1e67c8cd966c604186cde3f20bffcf4ad7544aecdab5"
+  },
+  {
+    "id": "JHN.9.36",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 36,
+    "text": "He answered and said, Who is he, Lord, that I might believe on him?",
+    "hash": "a252f8c8d97b292e4524848bbbf6571ecaa1d17a1e28fbffbfeaa4fbddb0156f"
+  },
+  {
+    "id": "JHN.9.37",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 37,
+    "text": "And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee.",
+    "hash": "2f4572b42ae1e4ef926a144d03c396938fe7036fb598e51b9d830e919f1387b6"
+  },
+  {
+    "id": "JHN.9.38",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 38,
+    "text": "And he said, Lord, I believe. And he worshipped him.",
+    "hash": "43ed2c114b63fc06da5f04feabf4979a63916f98f61be4db64192a3c495770bd"
+  },
+  {
+    "id": "JHN.9.39",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 39,
+    "text": "And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.",
+    "hash": "480c04fcca62c1f591d5a9a02fac06d69bcfa1181b673f7b79f04c8deb4af06d"
+  },
+  {
+    "id": "JHN.9.40",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 40,
+    "text": "And {some} of the Pharisees which were with him heard these words, and said unto him, Are we blind also?",
+    "hash": "aeadbacbf39795b347e6b85f6b7b028bd66c28b5ce4b6cf183251f84292eaf17"
+  },
+  {
+    "id": "JHN.9.41",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 9,
+    "verse": 41,
+    "text": "Jesus said unto them, If ye were blind, ye should have no sin: but now ye say, We see; therefore your sin remaineth.",
+    "hash": "0a92ae2fb9f752ce2fd7c225e64c8e61db3d01c8d251af3951b81461b79cc8a3"
+  }
+]

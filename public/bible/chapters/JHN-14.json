@@ -1,0 +1,312 @@
+[
+  {
+    "id": "JHN.14.1",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 1,
+    "text": "Let not your heart be troubled: ye believe in God, believe also in me.",
+    "hash": "b0e523b37c836c6898c44424296b3fb62bd9b2ed0a6ac5599b7f440701f6599e"
+  },
+  {
+    "id": "JHN.14.2",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 2,
+    "text": "In my Father's house are many mansions: if {it were} not {so}, I would have told you. I go to prepare a place for you.",
+    "hash": "651350c4839bfa0ca08b7657329c0d83381081470986ce16081d7b51c03e8529"
+  },
+  {
+    "id": "JHN.14.3",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 3,
+    "text": "And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, {there} ye may be also.",
+    "hash": "2ec621a1b23c3ee381a945f445f23aec3ce030ddd0bb656bb6a651fbd106239a"
+  },
+  {
+    "id": "JHN.14.4",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 4,
+    "text": "And whither I go ye know, and the way ye know.",
+    "hash": "53cf011023d9435b774a7295bce96313c60075c5ee564f55609ed50559dfb913"
+  },
+  {
+    "id": "JHN.14.5",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 5,
+    "text": "Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?",
+    "hash": "a10f2fc936991d76857ec6961b4dddc062a2f9660f0c3866c429fb389d9dcbaa"
+  },
+  {
+    "id": "JHN.14.6",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 6,
+    "text": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.",
+    "hash": "f4d356192c061a9e4aa23356258cfba984df11647a8a6d5421277992da97d521"
+  },
+  {
+    "id": "JHN.14.7",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 7,
+    "text": "If ye had known me, ye should have known my Father also: and from henceforth ye know him, and have seen him.",
+    "hash": "a8c02a2de9a13d08565abda46eaebe2829fc73a54ee0f539809d07e9b16797c6"
+  },
+  {
+    "id": "JHN.14.8",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 8,
+    "text": "Philip saith unto him, Lord, shew us the Father, and it sufficeth us.",
+    "hash": "d534ad5bd679384840995aaa546746040bb41782223e1245c4e77be7f9f17aea"
+  },
+  {
+    "id": "JHN.14.9",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 9,
+    "text": "Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou {then}, Shew us the Father?",
+    "hash": "197d410d363ac86a6488ed662d5de3c62d95c574e9bdf63bb82b3951e8e38179"
+  },
+  {
+    "id": "JHN.14.10",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 10,
+    "text": "Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works.",
+    "hash": "0a59011da77647c0d6fa5d310d9d29c2b6c072636c7c942c073d6e992f544396"
+  },
+  {
+    "id": "JHN.14.11",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 11,
+    "text": "Believe me that I {am} in the Father, and the Father in me: or else believe me for the very works' sake.",
+    "hash": "8fcd322a9c52c5b1a1291249ae1f37722d004e0cafe522f46e4995d38bdf0299"
+  },
+  {
+    "id": "JHN.14.12",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 12,
+    "text": "Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater {works} than these shall he do; because I go unto my Father.",
+    "hash": "3ea6cfd1411e3cc0a1a29d5b1d50c70d3ef7e77695780faca06966c8a952a462"
+  },
+  {
+    "id": "JHN.14.13",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 13,
+    "text": "And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son.",
+    "hash": "f1a3270298fc88739bbb5016c000dbb34ad7e1bc962a9ba20de8e87e1342a45b"
+  },
+  {
+    "id": "JHN.14.14",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 14,
+    "text": "If ye shall ask any thing in my name, I will do {it}.",
+    "hash": "cdf487bc37bef8e9d188cc697387dc6c9a374290fcf3935ce941030ba35178f7"
+  },
+  {
+    "id": "JHN.14.15",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 15,
+    "text": "If ye love me, keep my commandments.",
+    "hash": "c5f2f4f94ef28253cb96fadb417e59e1c88fe867c6158981a8e7df336de125e1"
+  },
+  {
+    "id": "JHN.14.16",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 16,
+    "text": "And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;",
+    "hash": "c6d9d14980399ffaafade7e8a2daa1c5389348b6c204b7d2abfd9192a2a5b7d3"
+  },
+  {
+    "id": "JHN.14.17",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 17,
+    "text": "{Even} the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.",
+    "hash": "2bb227af9eccc16bda98730e97197dd90116ccb2c641113dd7c2f5c445dea8eb"
+  },
+  {
+    "id": "JHN.14.18",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 18,
+    "text": "I will not leave you comfortless: I will come to you. {comfortless: or, orphans}",
+    "hash": "436781a1d0229bfc2fc97739a7cfc34182bf1c3ef6594c331cdbdb5d50e64d2f"
+  },
+  {
+    "id": "JHN.14.19",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 19,
+    "text": "Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also.",
+    "hash": "34addcb8a89aafc09dbd8dc375c164def9caec9f3d88e066c37ea800c325eedd"
+  },
+  {
+    "id": "JHN.14.20",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 20,
+    "text": "At that day ye shall know that I {am} in my Father, and ye in me, and I in you.",
+    "hash": "f8a6e3c16e758996208ad0b8fb213780acc191deb9183dc9d17ea903d0805225"
+  },
+  {
+    "id": "JHN.14.21",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 21,
+    "text": "He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.",
+    "hash": "47e3677d2fdf8518f708aa4327a4dfa1b30ecaad6c19e816a7edd6c10f25c512"
+  },
+  {
+    "id": "JHN.14.22",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 22,
+    "text": "Judas saith unto him, not Iscariot, Lord, how is it that thou wilt manifest thyself unto us, and not unto the world?",
+    "hash": "9aabf9dc1d6447286a79c267445d9ae6c704b42c12105aab4c16c0ca48893604"
+  },
+  {
+    "id": "JHN.14.23",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 23,
+    "text": "Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.",
+    "hash": "c4b0be30497ea7fa00443675049b01b7967a3d6c47fccf1086795c6e892f77ea"
+  },
+  {
+    "id": "JHN.14.24",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 24,
+    "text": "He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father's which sent me.",
+    "hash": "6c7bf2c3ece43d71153f11d8aefc93584b200efa1549abe8f872db8130519c21"
+  },
+  {
+    "id": "JHN.14.25",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 25,
+    "text": "These things have I spoken unto you, being {yet} present with you.",
+    "hash": "a2d0b4746dc27865f8b729e23e81a5c97770084fd3e2b7641d77b8cba6cb8777"
+  },
+  {
+    "id": "JHN.14.26",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 26,
+    "text": "But the Comforter, {which is} the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.",
+    "hash": "e09ed7430917f6c029ec49da875b1a56bfad83066349ce870dfe898ef1884cc6"
+  },
+  {
+    "id": "JHN.14.27",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 27,
+    "text": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.",
+    "hash": "614d2b21ff8d42deaaa37109b2d820bd222844e98f36e532c2de74568ceb91c8"
+  },
+  {
+    "id": "JHN.14.28",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 28,
+    "text": "Ye have heard how I said unto you, I go away, and come {again} unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I.",
+    "hash": "5b4f71281940a56a66fb3316cb61413fbbae3ca6ec993668fb45c5120301eb09"
+  },
+  {
+    "id": "JHN.14.29",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 29,
+    "text": "And now I have told you before it come to pass, that, when it is come to pass, ye might believe.",
+    "hash": "bd11bac8f086ef05b5c7cec48166fdc985adf2948c5a519fbbf104afc50fe760"
+  },
+  {
+    "id": "JHN.14.30",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 30,
+    "text": "Hereafter I will not talk much with you: for the prince of this world cometh, and hath nothing in me.",
+    "hash": "eca5b9d07ca7796aa465b36e697d222f715144ceb16a14ec4cc54c087e47c0ab"
+  },
+  {
+    "id": "JHN.14.31",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 14,
+    "verse": 31,
+    "text": "But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence.",
+    "hash": "a8f83b6ee1deb5404a1cd22a8d9a8c4d0a548f4b13c29c9a401ff8a56c76a092"
+  }
+]

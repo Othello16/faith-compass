@@ -1,0 +1,512 @@
+[
+  {
+    "id": "JHN.1.1",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 1,
+    "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+    "hash": "09c9620e89cbbf56f96c3edb0ddb8b0824a656bf92e940a83cdb527bd3426765"
+  },
+  {
+    "id": "JHN.1.2",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 2,
+    "text": "The same was in the beginning with God.",
+    "hash": "f20f25ca54038979da7652c54ee652608d0127f2bb1918a71493493f7d49f10e"
+  },
+  {
+    "id": "JHN.1.3",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 3,
+    "text": "All things were made by him; and without him was not any thing made that was made.",
+    "hash": "c0d456197695c555a0e1aa56e41cb23bc3ebf6333138522f573fb6aa81a20b36"
+  },
+  {
+    "id": "JHN.1.4",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 4,
+    "text": "In him was life; and the life was the light of men.",
+    "hash": "667a1959ee14f5e7b2163bda5cc360ee5a604c17e864b550f0d6d53024b7c0c6"
+  },
+  {
+    "id": "JHN.1.5",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 5,
+    "text": "And the light shineth in darkness; and the darkness comprehended it not. {comprehended: or, did not admit, or, receive}",
+    "hash": "feeda552fe4711393faa34ae63bfd973360a6ced9d374588fa04ee8e707770c4"
+  },
+  {
+    "id": "JHN.1.6",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 6,
+    "text": "There was a man sent from God, whose name {was} John.",
+    "hash": "d991e524606d376cb6b28d65c1ffb8204afd30448f65928bbaf0f66ef0629d41"
+  },
+  {
+    "id": "JHN.1.7",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 7,
+    "text": "The same came for a witness, to bear witness of the Light, that all {men} through him might believe.",
+    "hash": "ac61bfbbd341aeedf2adf12d154e285e3b61ae12fc4443ca53c5690017190bb2"
+  },
+  {
+    "id": "JHN.1.8",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 8,
+    "text": "He was not that Light, but {was sent} to bear witness of that Light.",
+    "hash": "1399c6d5d286b7884e84a2929e4d0dcd7c1e7e4ac3f553d3db96e8c1613698f3"
+  },
+  {
+    "id": "JHN.1.9",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 9,
+    "text": "{That} was the true Light, which lighteth every man that cometh into the world.",
+    "hash": "08d8a1d1f7e193bbd293cd871884797c8fc37dfbdaceccde75c7eb497e13cb9f"
+  },
+  {
+    "id": "JHN.1.10",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 10,
+    "text": "He was in the world, and the world was made by him, and the world knew him not.",
+    "hash": "295c88a89ea170db5c1f458c445cb4fbbc8392bcbf978181e987ab6830068792"
+  },
+  {
+    "id": "JHN.1.11",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 11,
+    "text": "He came unto his own, and his own received him not.",
+    "hash": "029ba1f7ece9f4b3299cc2319b34e0fc0e6d2bda357bf8f99d84855cdd94d215"
+  },
+  {
+    "id": "JHN.1.12",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 12,
+    "text": "But as many as received him, to them gave he power to become the sons of God, {even} to them that believe on his name: {power: or, the right, or, privilege}",
+    "hash": "ff44eac12fbb1b16ff63abeb2321189bbbcebfe3ef1a0eb37b20b71dbf06c590"
+  },
+  {
+    "id": "JHN.1.13",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 13,
+    "text": "Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+    "hash": "7a34f356376ada46c2639747b174f76e7a5141d033a5adc33cc6df4c04465fd8"
+  },
+  {
+    "id": "JHN.1.14",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 14,
+    "text": "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.",
+    "hash": "0848a96488f18775ba74e4a5c499a402d1e48d49cc59ce1d21a167bdf6f02307"
+  },
+  {
+    "id": "JHN.1.15",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 15,
+    "text": "John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.",
+    "hash": "0a56aa96da9912e165efd457ba92eabfcf33bb0fdb9982a52b878ce81dbd9850"
+  },
+  {
+    "id": "JHN.1.16",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 16,
+    "text": "And of his fulness have all we received, and grace for grace.",
+    "hash": "cbf56af22c1f4a3f5090d1789ab06070022e919a667a9bf859685d06ab9525a1"
+  },
+  {
+    "id": "JHN.1.17",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 17,
+    "text": "For the law was given by Moses, {but} grace and truth came by Jesus Christ.",
+    "hash": "b5f62d0aa3ce5f89c5c6cf5a6e4ae2047ae0edb03b7804c4c63ca79f79cb58ab"
+  },
+  {
+    "id": "JHN.1.18",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 18,
+    "text": "No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared {him}.",
+    "hash": "5a5a8ca2ae52a6611c5ff1ac4ecc3294f988cc3ce3504ee39cf20c7d7028157c"
+  },
+  {
+    "id": "JHN.1.19",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 19,
+    "text": "And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?",
+    "hash": "3fae0314da96a57739daa6156e1ca0ebd9b6c09e01d4ba20f53d3f05ab52b198"
+  },
+  {
+    "id": "JHN.1.20",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 20,
+    "text": "And he confessed, and denied not; but confessed, I am not the Christ.",
+    "hash": "0d0392cc5929ec1ed0c2fa1ba88d88f9be18a4d3d8a64924d984c54f01ea4339"
+  },
+  {
+    "id": "JHN.1.21",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 21,
+    "text": "And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No. {that prophet: or, a prophet?}",
+    "hash": "0e5a9c9f6f6dbc1a8d5594a369b90b9fe7666c57cb8615ed9691c55affd72422"
+  },
+  {
+    "id": "JHN.1.22",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 22,
+    "text": "Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?",
+    "hash": "76a5b13750a9d1a333fdcff226e403bdbf378241ef8280dc493d981dba8612bf"
+  },
+  {
+    "id": "JHN.1.23",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 23,
+    "text": "He said, I {am} the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.",
+    "hash": "b59206154919ca15d5abb4e6d7857adbce3e81c2150976bcbe500f5ba091bdff"
+  },
+  {
+    "id": "JHN.1.24",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 24,
+    "text": "And they which were sent were of the Pharisees.",
+    "hash": "7c1a48d260cbb5377dac03f5b5f294806aa9a5f9da61c3fd42eb61cc51086daf"
+  },
+  {
+    "id": "JHN.1.25",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 25,
+    "text": "And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?",
+    "hash": "63da71e1025290ada813155e68a2dd67a173b66c4e1ee1c6ce54f27e9ec86fcd"
+  },
+  {
+    "id": "JHN.1.26",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 26,
+    "text": "John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;",
+    "hash": "ca50f0bb6476dd7c924d07825d05ef723fdb6b02822a9b606fdbefa2b811291c"
+  },
+  {
+    "id": "JHN.1.27",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 27,
+    "text": "He it is, who coming after me is preferred before me, whose shoe's latchet I am not worthy to unloose.",
+    "hash": "ef9bcab103b1623879da351233c0eea8190f8159eb59521271e0a3a98f2d8182"
+  },
+  {
+    "id": "JHN.1.28",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 28,
+    "text": "These things were done in Bethabara beyond Jordan, where John was baptizing.",
+    "hash": "897edb0179dd77fc53ba309d93f0a193b2662f0eab76c09c55402acce7eaecab"
+  },
+  {
+    "id": "JHN.1.29",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 29,
+    "text": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world. {taketh away: or, beareth}",
+    "hash": "7d1a7352efec8fe6a97c70b19a7cb181f02e3b42f4e85be0f80bbed5d6994b1a"
+  },
+  {
+    "id": "JHN.1.30",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 30,
+    "text": "This is he of whom I said, After me cometh a man which is preferred before me: for he was before me.",
+    "hash": "40f95732e04b171ef048262591c650ffd9fb66796762d169a90620439fc81484"
+  },
+  {
+    "id": "JHN.1.31",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 31,
+    "text": "And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.",
+    "hash": "85df5d3dc26c62066397069eefa39d35bfa573999afe1808e195f8ffc6c93018"
+  },
+  {
+    "id": "JHN.1.32",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 32,
+    "text": "And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.",
+    "hash": "6f1813527e6fc1996fa9a394a304545f157d9e26239fab7286e00c3a3818956a"
+  },
+  {
+    "id": "JHN.1.33",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 33,
+    "text": "And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.",
+    "hash": "15fcf1d1d58e0eca39f4264a2294a1668ee818c8442bff1311e1a43011173a9b"
+  },
+  {
+    "id": "JHN.1.34",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 34,
+    "text": "And I saw, and bare record that this is the Son of God.",
+    "hash": "faa46872e99189a895e1a39b231c9fbc38ad45697a392c9f10b75e52113044e4"
+  },
+  {
+    "id": "JHN.1.35",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 35,
+    "text": "Again the next day after John stood, and two of his disciples;",
+    "hash": "93276becf6047a58140778cd16255e201987eef2eeab0b9a4999e9dea7f6b1c4"
+  },
+  {
+    "id": "JHN.1.36",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 36,
+    "text": "And looking upon Jesus as he walked, he saith, Behold the Lamb of God!",
+    "hash": "429f378e430a364f920715400ddddb0eb5516d0f8860f64b49d2e09ec0de878a"
+  },
+  {
+    "id": "JHN.1.37",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 37,
+    "text": "And the two disciples heard him speak, and they followed Jesus.",
+    "hash": "11338d58757701f10ded58485612fe2da9e64709d77375f4ee323f88c51d7810"
+  },
+  {
+    "id": "JHN.1.38",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 38,
+    "text": "Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou? {dwellest: or, abidest}",
+    "hash": "d371b89b1350b8ddb52ac07e6d59889c7c0409fd66ea64400abaaebaf5263ce8"
+  },
+  {
+    "id": "JHN.1.39",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 39,
+    "text": "He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour. {about...: that was two hours before night}",
+    "hash": "5c893f45a66afee75a9a6f5ec5e9ea71307b7b150dcd0dc11744b4f1805208ad"
+  },
+  {
+    "id": "JHN.1.40",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 40,
+    "text": "One of the two which heard John {speak}, and followed him, was Andrew, Simon Peter's brother.",
+    "hash": "e27ce1e7b1e6c2a5c0d737e7da24507d03a82e9c9e7c22cfa773ec94a9c1a14e"
+  },
+  {
+    "id": "JHN.1.41",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 41,
+    "text": "He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ. {the Christ: or, the Anointed}",
+    "hash": "0c2659a4e9131164105b0aff00c43919b9c007b724e398aa9ea9f98146976e7a"
+  },
+  {
+    "id": "JHN.1.42",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 42,
+    "text": "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.",
+    "hash": "81478cda724b48a0f30a6e45fdc09aafe912a9f85d62cf841456cf7a404bc8c7"
+  },
+  {
+    "id": "JHN.1.43",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 43,
+    "text": "The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.",
+    "hash": "91128f7e44bd75f1c108d37cfd863b126620e9b75cc02ff15d929a2ac5103e8c"
+  },
+  {
+    "id": "JHN.1.44",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 44,
+    "text": "Now Philip was of Bethsaida, the city of Andrew and Peter.",
+    "hash": "df1d437765108a85474cbf2f54c460da7deeff9953ddb245dac9e65aa694af9a"
+  },
+  {
+    "id": "JHN.1.45",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 45,
+    "text": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.",
+    "hash": "a88a8df41eea117ca68d346994ee5223b5e33dce1506ff154521ccdf73fa6ee2"
+  },
+  {
+    "id": "JHN.1.46",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 46,
+    "text": "And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.",
+    "hash": "85c06d0a11d201e5678f51858f7fa404ff941e978174e236b8d4cda966e70c1b"
+  },
+  {
+    "id": "JHN.1.47",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 47,
+    "text": "Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!",
+    "hash": "43d0c2b1be6edbb001298c85dbae5072ac28e33660e7f794b4ad754638dca9fa"
+  },
+  {
+    "id": "JHN.1.48",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 48,
+    "text": "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee.",
+    "hash": "b2f7ce76df0e07f1878f80404cbaf80cb2b72cbf725d9d5f148bed4554be851e"
+  },
+  {
+    "id": "JHN.1.49",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 49,
+    "text": "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.",
+    "hash": "a820cc463ff7d58077b667b2fca9e80410d1300a6a3004f46a19cf53760b50b0"
+  },
+  {
+    "id": "JHN.1.50",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 50,
+    "text": "Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.",
+    "hash": "1b2db15432cdb50c70ab026965185a5530ed8f62718f5326bd128cd3aed69612"
+  },
+  {
+    "id": "JHN.1.51",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 1,
+    "verse": 51,
+    "text": "And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.",
+    "hash": "e816a921ed4ffff304a78a101191ba7809e56b49d6626cbc36c7ae119a27b260"
+  }
+]

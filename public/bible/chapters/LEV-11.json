@@ -1,0 +1,472 @@
+[
+  {
+    "id": "LEV.11.1",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 1,
+    "text": "And the LORD spake unto Moses and to Aaron, saying unto them,",
+    "hash": "3adb434b62e063373e49217e357e2a004800fcba935744625320897ebe3f1e5d"
+  },
+  {
+    "id": "LEV.11.2",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 2,
+    "text": "Speak unto the children of Israel, saying, These {are} the beasts which ye shall eat among all the beasts that {are} on the earth.",
+    "hash": "dd87e1d9569cd3fb4b1be5e14c44839c65494fa52ca5c60ebfaa21a3adebf055"
+  },
+  {
+    "id": "LEV.11.3",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 3,
+    "text": "Whatsoever parteth the hoof, and is clovenfooted, {and} cheweth the cud, among the beasts, that shall ye eat.",
+    "hash": "0f9b40061a9688939bd16264725b8e5e0c5a43beb110d602fba677c3aa885d6f"
+  },
+  {
+    "id": "LEV.11.4",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 4,
+    "text": "Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: {as} the camel, because he cheweth the cud, but divideth not the hoof; he {is} unclean unto you.",
+    "hash": "c5e02d93fcf5ac68e431be4fd10d096c0b29761ac05f5d84e5984913f7a07fc0"
+  },
+  {
+    "id": "LEV.11.5",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 5,
+    "text": "And the coney, because he cheweth the cud, but divideth not the hoof; he {is} unclean unto you.",
+    "hash": "6e7ddbdb050bb085f16cdd0e6315f4d2bb2b7ca45144691ba211bfba37009b95"
+  },
+  {
+    "id": "LEV.11.6",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 6,
+    "text": "And the hare, because he cheweth the cud, but divideth not the hoof; he {is} unclean unto you.",
+    "hash": "a2da0fd81c293eae4853d136697ef39dc4c192739cd4ce8981fc03d9440b1128"
+  },
+  {
+    "id": "LEV.11.7",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 7,
+    "text": "And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he {is} unclean to you.",
+    "hash": "885ba02a6bb181185f531e02d183e16257d77aaa3a291e36da1e08d16470c7e1"
+  },
+  {
+    "id": "LEV.11.8",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 8,
+    "text": "Of their flesh shall ye not eat, and their carcase shall ye not touch; they {are} unclean to you.",
+    "hash": "0500a3960823eb6ab8fcdc671ba19969c1b3a5e321ec034fb8eb0b101ed31c68"
+  },
+  {
+    "id": "LEV.11.9",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 9,
+    "text": "These shall ye eat of all that {are} in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat.",
+    "hash": "5a6c0d6d48fb5064c3ca2107725448e4e87247fee4d1f3694cc1cdb7da3380b4"
+  },
+  {
+    "id": "LEV.11.10",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 10,
+    "text": "And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which {is} in the waters, they {shall be} an abomination unto you:",
+    "hash": "caf48a16f092a246e0b699bd7175260c3d6feb0d4bd7189d45c2f7633d123d6c"
+  },
+  {
+    "id": "LEV.11.11",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 11,
+    "text": "They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination.",
+    "hash": "c7889063ef6112245edf7336a28a6693441dadf140a64764601756c9c60b7c26"
+  },
+  {
+    "id": "LEV.11.12",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 12,
+    "text": "Whatsoever hath no fins nor scales in the waters, that {shall be} an abomination unto you.",
+    "hash": "e93af814395e1ecbc3e9e93aa3ba2083f830a375005dba04d331215a9217275e"
+  },
+  {
+    "id": "LEV.11.13",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 13,
+    "text": "And these {are they which} ye shall have in abomination among the fowls; they shall not be eaten, they {are} an abomination: the eagle, and the ossifrage, and the ospray,",
+    "hash": "b49498c0eb7589a1573333bf95b032e640ac840e963b08b43ba049828567c016"
+  },
+  {
+    "id": "LEV.11.14",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 14,
+    "text": "And the vulture, and the kite after his kind;",
+    "hash": "f7276525b8a5cbe8c941e2a29b6d911a7f4cc2687db42af3c33faeeb22eb2e34"
+  },
+  {
+    "id": "LEV.11.15",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 15,
+    "text": "Every raven after his kind;",
+    "hash": "3e2980c5900c5ee3fc86dca018e915411f265a338483f6e546ee25f20566697f"
+  },
+  {
+    "id": "LEV.11.16",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 16,
+    "text": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,",
+    "hash": "8549e446892e63429ae54e762cd07f8c3df2fe37a3f3d756c6f02d567ecd5a14"
+  },
+  {
+    "id": "LEV.11.17",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 17,
+    "text": "And the little owl, and the cormorant, and the great owl,",
+    "hash": "d71e7eee449acc2504e8b28d0f733a652258a21afabaa5421b48b6d76e520aa0"
+  },
+  {
+    "id": "LEV.11.18",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 18,
+    "text": "And the swan, and the pelican, and the gier eagle,",
+    "hash": "628b499a9801a3ad4e4dae528667e789148a1a7d67b7dedb9f5752fb10139a88"
+  },
+  {
+    "id": "LEV.11.19",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 19,
+    "text": "And the stork, the heron after her kind, and the lapwing, and the bat.",
+    "hash": "a42d31ba9d5de7b98a7f0081a9ca062365110f3f2e360874aaaef810c3fb0bca"
+  },
+  {
+    "id": "LEV.11.20",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 20,
+    "text": "All fowls that creep, going upon {all} four, {shall be} an abomination unto you.",
+    "hash": "8f48445d87e416b365686798a2d347e8be226b29bab4eee0e861fbd835869cc9"
+  },
+  {
+    "id": "LEV.11.21",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 21,
+    "text": "Yet these may ye eat of every flying creeping thing that goeth upon {all} four, which have legs above their feet, to leap withal upon the earth;",
+    "hash": "07b603ac03028338003adf369d89ef23ba739ba38ba836b9e785a079ff39f254"
+  },
+  {
+    "id": "LEV.11.22",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 22,
+    "text": "{Even} these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind.",
+    "hash": "2032cb4cea8952006cf1dbc66ff82f579fe3b420a58e28e881aa87d566f7fb84"
+  },
+  {
+    "id": "LEV.11.23",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 23,
+    "text": "But all {other} flying creeping things, which have four feet, {shall be} an abomination unto you.",
+    "hash": "bf11638af4ed493456da9abe9c60e3f6e88f82fdbb8ccd7d78477cf67df782b2"
+  },
+  {
+    "id": "LEV.11.24",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 24,
+    "text": "And for these ye shall be unclean: whosoever toucheth the carcase of them shall be unclean until the even.",
+    "hash": "b31da14a078aff2bd42a5295e1a736a082920bc1fede0484d05c82a5c0d76de0"
+  },
+  {
+    "id": "LEV.11.25",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 25,
+    "text": "And whosoever beareth {ought} of the carcase of them shall wash his clothes, and be unclean until the even.",
+    "hash": "4c8f242648836755fe9d15ae3528745f8c086b044b94d2b26290b0813cb4ef3f"
+  },
+  {
+    "id": "LEV.11.26",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 26,
+    "text": "{The carcases} of every beast which divideth the hoof, and {is} not clovenfooted, nor cheweth the cud, {are} unclean unto you: every one that toucheth them shall be unclean.",
+    "hash": "50a69e46ab68d25cd5e9f5150f3e65a9f0e88c03cdc50408b57a1fd5f6ec6bce"
+  },
+  {
+    "id": "LEV.11.27",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 27,
+    "text": "And whatsoever goeth upon his paws, among all manner of beasts that go on {all} four, those {are} unclean unto you: whoso toucheth their carcase shall be unclean until the even.",
+    "hash": "0eecdb011de5943162f1d9830f78e6deb17f96d7a86508881a474040e3ff8eb9"
+  },
+  {
+    "id": "LEV.11.28",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 28,
+    "text": "And he that beareth the carcase of them shall wash his clothes, and be unclean until the even: they {are} unclean unto you.",
+    "hash": "01d0095dacb4c034ff156082c37284f9aa03e2402da1cf428ba77b82ffdf9f34"
+  },
+  {
+    "id": "LEV.11.29",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 29,
+    "text": "These also {shall be} unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,",
+    "hash": "b52b601cb3e88880f081c9f14dd9519eef180a135d36d35218019ade0606ab83"
+  },
+  {
+    "id": "LEV.11.30",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 30,
+    "text": "And the ferret, and the chameleon, and the lizard, and the snail, and the mole.",
+    "hash": "3ef0c137a5b15133f56e4a1e27d9acd7d3ce4a74a0bf670e5012b6f51924c469"
+  },
+  {
+    "id": "LEV.11.31",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 31,
+    "text": "These {are} unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even.",
+    "hash": "daaf102f00bb598fe156a4fcdc3e1fed32dbafcf5b14bc01cbe5c913cff7add7"
+  },
+  {
+    "id": "LEV.11.32",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 32,
+    "text": "And upon whatsoever {any} of them, when they are dead, doth fall, it shall be unclean; whether {it be} any vessel of wood, or raiment, or skin, or sack, whatsoever vessel {it be}, wherein {any} work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed.",
+    "hash": "80cbb961c65ff3da26f3fbfb9b389a87f5802bf6723c0f7c04976592235e3c84"
+  },
+  {
+    "id": "LEV.11.33",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 33,
+    "text": "And every earthen vessel, whereinto {any} of them falleth, whatsoever {is} in it shall be unclean; and ye shall break it.",
+    "hash": "482c72d7f062b89405d25e73c4e25ce2a08ea5daf589e4a040ebfeba80192672"
+  },
+  {
+    "id": "LEV.11.34",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 34,
+    "text": "Of all meat which may be eaten, {that} on which {such} water cometh shall be unclean: and all drink that may be drunk in every {such} vessel shall be unclean.",
+    "hash": "c47d3273a00cfc420c3d7b517d3574974c98469221184a4614fdde56f367af45"
+  },
+  {
+    "id": "LEV.11.35",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 35,
+    "text": "And every {thing} whereupon {any part} of their carcase falleth shall be unclean; {whether it be} oven, or ranges for pots, they shall be broken down: {for} they {are} unclean, and shall be unclean unto you.",
+    "hash": "3500ab0d66b6f296d4bcd5043acdf270c0b80d9c98028dfc6d60b70fd0a7343e"
+  },
+  {
+    "id": "LEV.11.36",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 36,
+    "text": "Nevertheless a fountain or pit, {wherein there is} plenty of water, shall be clean: but that which toucheth their carcase shall be unclean. {wherein...: Heb. a gathering together of waters}",
+    "hash": "06e4f696d2e5f1d62ff8f463ad57f932407bec3ac4fd148e9736e58b3713c480"
+  },
+  {
+    "id": "LEV.11.37",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 37,
+    "text": "And if {any part} of their carcase fall upon any sowing seed which is to be sown, it {shall be} clean.",
+    "hash": "d19b93fcf989426b3f8aaec215f2c9352dfca33227585f4aab9c4c8e7e6005ee"
+  },
+  {
+    "id": "LEV.11.38",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 38,
+    "text": "But if {any} water be put upon the seed, and {any part} of their carcase fall thereon, it {shall be} unclean unto you.",
+    "hash": "f93aa86def754be061268e8068c909c73ea8ca5c48f1ac412194146a5b84e214"
+  },
+  {
+    "id": "LEV.11.39",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 39,
+    "text": "And if any beast, of which ye may eat, die; he that toucheth the carcase thereof shall be unclean until the even.",
+    "hash": "a045186a2078620179a754e36f3fd5ffa1e8a699d9aae104a71406a339158f9b"
+  },
+  {
+    "id": "LEV.11.40",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 40,
+    "text": "And he that eateth of the carcase of it shall wash his clothes, and be unclean until the even: he also that beareth the carcase of it shall wash his clothes, and be unclean until the even.",
+    "hash": "045383b0723492802f27edfceb1f5b81d4830c67e7550bc572c6ea5f61bd9e0c"
+  },
+  {
+    "id": "LEV.11.41",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 41,
+    "text": "And every creeping thing that creepeth upon the earth {shall be} an abomination; it shall not be eaten.",
+    "hash": "ec9476f78ad8d7da2b0560c3dc2267577f9d157fa9c03197f040a712d6246988"
+  },
+  {
+    "id": "LEV.11.42",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 42,
+    "text": "Whatsoever goeth upon the belly, and whatsoever goeth upon {all} four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they {are} an abomination. {hath...: Heb. doth multiply feet}",
+    "hash": "43f95cc9c5a3f0c1b4dfafc9c3480155f5c2127d54fbbfd522afefed59645081"
+  },
+  {
+    "id": "LEV.11.43",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 43,
+    "text": "Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby. {yourselves abominable: Heb. your souls, etc}",
+    "hash": "7796a75a5039e04041eff44979157bb8eb5bc65172f558edf0cc5120c5d462b7"
+  },
+  {
+    "id": "LEV.11.44",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 44,
+    "text": "For I {am} the LORD your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I {am} holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.",
+    "hash": "f070f652128e84e7b1436bb83247ed3299eede7a62467e21896cc8d7327bbe30"
+  },
+  {
+    "id": "LEV.11.45",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 45,
+    "text": "For I {am} the LORD that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I {am} holy.",
+    "hash": "64897b3522f782c8871e62940bf6d14240c47cb9e23a464ad674bca36de6b1ed"
+  },
+  {
+    "id": "LEV.11.46",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 46,
+    "text": "This {is} the law of the beasts, and of the fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:",
+    "hash": "2c0eda38324e0bc578849f294be12ec63958986f68e4d925fcd1afc33d439ba3"
+  },
+  {
+    "id": "LEV.11.47",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 11,
+    "verse": 47,
+    "text": "To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten.",
+    "hash": "8b8b435381331d8b8973c2faa522af46f1d1635db8b5c5a10f777503dd8dd24e"
+  }
+]

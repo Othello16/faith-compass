@@ -1,18 +1,10 @@
 import Link from 'next/link'
+import Header from '@/components/Header'
 
 export default function TermsPage() {
   return (
     <main className="min-h-screen bg-[#0F172A] text-white">
-      <nav className="flex items-center justify-between px-6 py-4 border-b border-white/10">
-        <Link href="/" className="flex items-center gap-2">
-          <span className="text-2xl">🧭</span>
-          <span className="text-xl font-bold text-[#D4AF37]">Faith Compass</span>
-        </Link>
-        <div className="flex gap-4 items-center">
-          <Link href="/compass" className="text-sm text-white/70 hover:text-white transition">Compass</Link>
-          <Link href="/pricing" className="text-sm text-white/70 hover:text-white transition">Pricing</Link>
-        </div>
-      </nav>
+      <Header />
 
       <div className="max-w-3xl mx-auto px-6 py-16">
         <h1 className="text-4xl font-bold mb-2">Terms of Service</h1>
@@ -32,8 +24,9 @@ export default function TermsPage() {
             <h2 className="text-xl font-semibold text-white mb-3">2. Description of Service</h2>
             <p>
               Faith Compass provides AI-powered Scripture reference tools, church finding services,
-              and content integrity analysis. The Service is a discernment aid — not a replacement
-              for prayer, the Holy Spirit, pastoral counsel, or the local church.
+              Bible search with cryptographic verification, and content integrity analysis. The Service
+              is a discernment aid — not a replacement for prayer, the Holy Spirit, pastoral counsel,
+              or the local church.
             </p>
           </section>
 
@@ -47,8 +40,9 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">4. User Accounts</h2>
+            <h2 className="text-xl font-semibold text-white mb-3">4. User Accounts &amp; Authentication</h2>
             <ul className="list-disc pl-6 space-y-1">
+              <li>Accounts are managed through AWS Cognito with email-based authentication</li>
               <li>You must provide accurate information when creating an account</li>
               <li>You are responsible for maintaining the security of your account</li>
               <li>You must be at least 13 years old to use the Service</li>
@@ -57,9 +51,19 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">5. Subscriptions and Payments</h2>
+            <h2 className="text-xl font-semibold text-white mb-3">5. Question Limits &amp; Free Tier</h2>
             <ul className="list-disc pl-6 space-y-1">
-              <li>Free tier: 7 questions per day, no credit card required</li>
+              <li>Free tier: 3 questions per 24-hour rolling window, no credit card required</li>
+              <li>Questions are counted across both Compass and Integrity Check features</li>
+              <li>Usage records are automatically purged after 25 hours</li>
+              <li>Anonymous users (no account) are tracked by IP address</li>
+              <li>Subscribed users: limits based on their plan tier</li>
+            </ul>
+          </section>
+
+          <section>
+            <h2 className="text-xl font-semibold text-white mb-3">6. Subscriptions and Payments</h2>
+            <ul className="list-disc pl-6 space-y-1">
               <li>Basic ($3/month): 500 questions/month, bookmarks, history</li>
               <li>Pro ($7.77/month): 1,500 questions/month, Faith Integrity Check, priority AI, PDF exports</li>
               <li>Organization: Custom pricing — contact us for details</li>
@@ -70,7 +74,26 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">6. Acceptable Use</h2>
+            <h2 className="text-xl font-semibold text-white mb-3">7. AI Usage Disclosure</h2>
+            <p>
+              Faith Compass uses OpenAI&apos;s GPT-4o model to process questions and generate Scripture-based
+              responses. Your questions are sent to OpenAI for processing but are not used to train AI
+              models. Bible verse verification uses SHA-256 cryptographic hashing to ensure Scripture
+              accuracy independent of AI.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="text-xl font-semibold text-white mb-3">8. Location Data</h2>
+            <p>
+              The Church Finder feature may request access to your browser&apos;s geolocation. This data
+              is used only during your active session to find nearby churches and is never stored
+              on our servers. You may alternatively search by zip code.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="text-xl font-semibold text-white mb-3">9. Acceptable Use</h2>
             <p className="mb-3">You agree not to:</p>
             <ul className="list-disc pl-6 space-y-1">
               <li>Use the Service to spread misinformation or false doctrine intentionally</li>
@@ -82,16 +105,16 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">7. Intellectual Property</h2>
+            <h2 className="text-xl font-semibold text-white mb-3">10. Intellectual Property</h2>
             <p>
-              Scripture quotations are in the public domain (KJV) or used under license.
+              Scripture quotations are from the King James Version (public domain).
               The Faith Compass platform, branding, and original content are the property
               of Rising Jupiter. AI-generated responses are provided for personal use.
             </p>
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">8. Limitation of Liability</h2>
+            <h2 className="text-xl font-semibold text-white mb-3">11. Limitation of Liability</h2>
             <p>
               Faith Compass is provided &quot;as is&quot; without warranties of any kind. We are not
               liable for any spiritual, emotional, or other decisions made based on information
@@ -101,7 +124,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">9. Modifications</h2>
+            <h2 className="text-xl font-semibold text-white mb-3">12. Modifications</h2>
             <p>
               We reserve the right to modify these terms at any time. Continued use of the
               Service after changes constitutes acceptance of the modified terms. Material
@@ -110,7 +133,7 @@ export default function TermsPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold text-white mb-3">10. Contact</h2>
+            <h2 className="text-xl font-semibold text-white mb-3">13. Contact</h2>
             <p>
               For questions about these terms, contact us at{' '}
               <a href="mailto:legal@faithcompass.app" className="text-[#1E40AF] hover:text-blue-400 transition">

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PSA.150.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 150,
+    "verse": 1,
+    "text": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power. {Praise ye...: Heb. Hallelujah}",
+    "hash": "9be1968a1b4d5ee8c2f6e03e465aeccb012d5c6c6a500e3884acbcf074946703"
+  },
+  {
+    "id": "PSA.150.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 150,
+    "verse": 2,
+    "text": "Praise him for his mighty acts: praise him according to his excellent greatness.",
+    "hash": "2ea5d13dc32b046ddf657c39463a53ba73e1af2511dde21035317a6c402e4cc8"
+  },
+  {
+    "id": "PSA.150.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 150,
+    "verse": 3,
+    "text": "Praise him with the sound of the trumpet: praise him with the psaltery and harp. {trumpet: or, cornet}",
+    "hash": "492157ebc6bf6ddf94af0e6fedb3d11cd513614dcc513e8943484da4d5b219e3"
+  },
+  {
+    "id": "PSA.150.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 150,
+    "verse": 4,
+    "text": "Praise him with the timbrel and dance: praise him with stringed instruments and organs. {dance: or, pipe}",
+    "hash": "663a1546e3775ca7bb0784e0f71b99277e8f9cc4ee6ec612bd5a4b944d9a9760"
+  },
+  {
+    "id": "PSA.150.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 150,
+    "verse": 5,
+    "text": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals.",
+    "hash": "cd1f4e0de2699f8ce9fdc78f44c9f07fda2a0648dc7a33ff4a615ba3c169645b"
+  },
+  {
+    "id": "PSA.150.6",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 150,
+    "verse": 6,
+    "text": "Let every thing that hath breath praise the LORD. Praise ye the LORD.",
+    "hash": "0f15ac16764de0ac3080e05da9538ccb76c24fd59596d8bc2d2c800c6c0536e7"
+  }
+]

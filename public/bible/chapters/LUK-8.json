@@ -1,0 +1,562 @@
+[
+  {
+    "id": "LUK.8.1",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 1,
+    "text": "And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve {were} with him,",
+    "hash": "7b5c9e594f3dcc7231d41574de7950c6e7cf8febb0e8bf120e76c80754e071ff"
+  },
+  {
+    "id": "LUK.8.2",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 2,
+    "text": "And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,",
+    "hash": "aa8a1bcf6afd823844ebf60e8aca20c34c83d9f51daa5cd3787650da4e43d84f"
+  },
+  {
+    "id": "LUK.8.3",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 3,
+    "text": "And Joanna the wife of Chuza Herod's steward, and Susanna, and many others, which ministered unto him of their substance.",
+    "hash": "c3363e9f99ac8f95d668d866266354f1f17c0fb75b77d10642302c88bbeb13c5"
+  },
+  {
+    "id": "LUK.8.4",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 4,
+    "text": "And when much people were gathered together, and were come to him out of every city, he spake by a parable:",
+    "hash": "4884fb38de8d90273970d58f548170ea57ffaf7a5ae2aaa4c6219cca01f266b7"
+  },
+  {
+    "id": "LUK.8.5",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 5,
+    "text": "A sower went out to sow his seed: and as he sowed, some fell by the way side; and it was trodden down, and the fowls of the air devoured it.",
+    "hash": "bed0fb5c34483ba2fb70088719c7ee224a58ed6be69131d2651c83369610e63f"
+  },
+  {
+    "id": "LUK.8.6",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 6,
+    "text": "And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture.",
+    "hash": "8a959ddd33926937422624873c6066861775172680049e29def4af6ab30dc0e4"
+  },
+  {
+    "id": "LUK.8.7",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 7,
+    "text": "And some fell among thorns; and the thorns sprang up with it, and choked it.",
+    "hash": "3db76a0b30be6bf6abc0e57b26611bb1cc2600ab1e8e3899f3526e0e77fad5da"
+  },
+  {
+    "id": "LUK.8.8",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 8,
+    "text": "And other fell on good ground, and sprang up, and bare fruit an hundredfold. And when he had said these things, he cried, He that hath ears to hear, let him hear.",
+    "hash": "7808415226ff5956574965a66dac0e4ae6706b9a504cd24bbd4a1292631e5672"
+  },
+  {
+    "id": "LUK.8.9",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 9,
+    "text": "And his disciples asked him, saying, What might this parable be?",
+    "hash": "d9bc2e12ae9b9ddc988b4de2ed049311e75902120499a1ea61f96e78746830c9"
+  },
+  {
+    "id": "LUK.8.10",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 10,
+    "text": "And he said, Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand.",
+    "hash": "8c8efd2b097ba7bc72d5457904b4a023fe6b45732b381e607d89647f818e23fc"
+  },
+  {
+    "id": "LUK.8.11",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 11,
+    "text": "Now the parable is this: The seed is the word of God.",
+    "hash": "7525cc5beef31781f16fb7c3c3d3133e7340e677f9004f2cf7079445f5b07993"
+  },
+  {
+    "id": "LUK.8.12",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 12,
+    "text": "Those by the way side are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved.",
+    "hash": "b00b74868ad66f978a6c31962324b8c26f1d49b6e8b0ca8f55e8e4f9e07bb5c0"
+  },
+  {
+    "id": "LUK.8.13",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 13,
+    "text": "They on the rock {are they}, which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away.",
+    "hash": "77b857b3c224d41b75c9755607968948fc485c5f5fd059957d9101671bc591b0"
+  },
+  {
+    "id": "LUK.8.14",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 14,
+    "text": "And that which fell among thorns are they, which, when they have heard, go forth, and are choked with cares and riches and pleasures of {this} life, and bring no fruit to perfection.",
+    "hash": "487ee92a3380a9c435ed49a30d061e84240562efae727281e641733002d814e5"
+  },
+  {
+    "id": "LUK.8.15",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 15,
+    "text": "But that on the good ground are they, which in an honest and good heart, having heard the word, keep {it}, and bring forth fruit with patience.",
+    "hash": "498158e944df9ee9f9740d04721374e6a715860719def508ada05fb15ff5ba70"
+  },
+  {
+    "id": "LUK.8.16",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 16,
+    "text": "No man, when he hath lighted a candle, covereth it with a vessel, or putteth {it} under a bed; but setteth {it} on a candlestick, that they which enter in may see the light.",
+    "hash": "a5748d2a059db824bb6c622a6644abad409a5557ccfea2a3a7acf71f27f40076"
+  },
+  {
+    "id": "LUK.8.17",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 17,
+    "text": "For nothing is secret, that shall not be made manifest; neither {any thing} hid, that shall not be known and come abroad.",
+    "hash": "9349e9d08d1230a61bb931c29c8b98c6f64beeecbe55bebe9c53187a9720193e"
+  },
+  {
+    "id": "LUK.8.18",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 18,
+    "text": "Take heed therefore how ye hear: for whosoever hath, to him shall be given; and whosoever hath not, from him shall be taken even that which he seemeth to have. {seemeth...: or, thinketh that he hath}",
+    "hash": "4244f1b0f70bb4db0d9fde4677c030edb208478d4b18a2096ba05964bb7b73d6"
+  },
+  {
+    "id": "LUK.8.19",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 19,
+    "text": "Then came to him {his} mother and his brethren, and could not come at him for the press.",
+    "hash": "483766e1ba189f0063db31dfd910619d5ca7b726eb60ae418fa60b4ca4732a2a"
+  },
+  {
+    "id": "LUK.8.20",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 20,
+    "text": "And it was told him {by certain} which said, Thy mother and thy brethren stand without, desiring to see thee.",
+    "hash": "eba065bf54ecfb25fe4feb083d0712478f39068dcf33fe6dc9c78a24459a018e"
+  },
+  {
+    "id": "LUK.8.21",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 21,
+    "text": "And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it.",
+    "hash": "9b11cb0d798c35c9e074d9604f159484391df933dc6d5b754e7b1b8d78418e2d"
+  },
+  {
+    "id": "LUK.8.22",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 22,
+    "text": "Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth.",
+    "hash": "9f19d6fc45cd00a7a7e9988ba48eba7350d067dcc5aa9b79564b15646a930ef9"
+  },
+  {
+    "id": "LUK.8.23",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 23,
+    "text": "But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled {with water}, and were in jeopardy.",
+    "hash": "f620571a67ba536600b467f3bd09197781990b087a1883b3c5cfbf8f57d8516c"
+  },
+  {
+    "id": "LUK.8.24",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 24,
+    "text": "And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm.",
+    "hash": "cc49e3f100c9014fac8df223f3e2bf7398013382abb26748b7996c139ac26eac"
+  },
+  {
+    "id": "LUK.8.25",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 25,
+    "text": "And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him.",
+    "hash": "6698ea2bb2bb1c137c0829696bef38957394d2126af68e4f7b5534b35f53a8fb"
+  },
+  {
+    "id": "LUK.8.26",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 26,
+    "text": "And they arrived at the country of the Gadarenes, which is over against Galilee.",
+    "hash": "8c68b641b13ed13975e820c4c75a6ca0066b7d2d2aade1ffddb4cd8e53c05127"
+  },
+  {
+    "id": "LUK.8.27",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 27,
+    "text": "And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in {any} house, but in the tombs.",
+    "hash": "56768f18b6a4fd0a4d1e0942f4cf1d876391fc2def04e0778577e3898d04ff84"
+  },
+  {
+    "id": "LUK.8.28",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 28,
+    "text": "When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, {thou} Son of God most high? I beseech thee, torment me not.",
+    "hash": "139cb1c633818427bc82cde76aa64fabfd3fdf03af092f0feb8c548a7c9fb9f7"
+  },
+  {
+    "id": "LUK.8.29",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 29,
+    "text": "(For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)",
+    "hash": "ee14647611db88a7eac6126025e8c312797a275dae9b3d68947d799647d3348b"
+  },
+  {
+    "id": "LUK.8.30",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 30,
+    "text": "And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him.",
+    "hash": "941c1f4d889174e5f8c55ad2cbe6a09b5a5ef3eae1d7f5ecfd7b6dd5d977e034"
+  },
+  {
+    "id": "LUK.8.31",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 31,
+    "text": "And they besought him that he would not command them to go out into the deep.",
+    "hash": "029254bd807b60f96115352f1b514315a8162193e88600511508feac36fc4622"
+  },
+  {
+    "id": "LUK.8.32",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 32,
+    "text": "And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them.",
+    "hash": "ccc177263489f1a887e151f35c3b8c93f4f15912e1f38c61451c291d65e214a9"
+  },
+  {
+    "id": "LUK.8.33",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 33,
+    "text": "Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked.",
+    "hash": "2d5ed21e3d9e56af832086da6f7177da1b7676d952159cd0061ab482ab1d962a"
+  },
+  {
+    "id": "LUK.8.34",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 34,
+    "text": "When they that fed {them} saw what was done, they fled, and went and told {it} in the city and in the country.",
+    "hash": "b3fb79a695b6c5d40969ade54c073c789e9590c449390571b3d1dd2678ef6591"
+  },
+  {
+    "id": "LUK.8.35",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 35,
+    "text": "Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid.",
+    "hash": "0720837f2f1921c81ba915f0b529a3eebe5a88e1ea75070f58515e52c84f9cc0"
+  },
+  {
+    "id": "LUK.8.36",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 36,
+    "text": "They also which saw {it} told them by what means he that was possessed of the devils was healed.",
+    "hash": "f3735f5af41c168befe80cd3682ac9346599e5e344e4c1bfd047f1c318efaa4d"
+  },
+  {
+    "id": "LUK.8.37",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 37,
+    "text": "Then the whole multitude of the country of the Gadarenes round about besought him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again.",
+    "hash": "ff12880dcb3949b1375d8b8f417e0f4c571d67bf674434e177ec06e2b979cef5"
+  },
+  {
+    "id": "LUK.8.38",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 38,
+    "text": "Now the man out of whom the devils were departed besought him that he might be with him: but Jesus sent him away, saying,",
+    "hash": "a3dc3c4e32d8402799b8831e8b05ad546fbe4722fe25a53a88b7559af5cfe0ed"
+  },
+  {
+    "id": "LUK.8.39",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 39,
+    "text": "Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him.",
+    "hash": "5fdbfb4ca329ae4b3411235d639581d64f9d7c39b45dca4fea49d999414043d1"
+  },
+  {
+    "id": "LUK.8.40",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 40,
+    "text": "And it came to pass, that, when Jesus was returned, the people {gladly} received him: for they were all waiting for him.",
+    "hash": "cc3f7a2d18c8e3e01a8b7c7a3fde3755ce8276d0f8c1092a3edb119cfa586745"
+  },
+  {
+    "id": "LUK.8.41",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 41,
+    "text": "And, behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus' feet, and besought him that he would come into his house:",
+    "hash": "4eb858aeac318712065f564b12258a3d45e208aada1bcfc07e467b8cad76d5e3"
+  },
+  {
+    "id": "LUK.8.42",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 42,
+    "text": "For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him.",
+    "hash": "1001a6d27d54de8d23b9cb26c523d25b22a5f1eeb041895a94f627c90553cc3e"
+  },
+  {
+    "id": "LUK.8.43",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 43,
+    "text": "And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,",
+    "hash": "c5a5068937ad26b59259e7b62fa0b0c6e5f0b900d7b09766436f1205105f5835"
+  },
+  {
+    "id": "LUK.8.44",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 44,
+    "text": "Came behind {him}, and touched the border of his garment: and immediately her issue of blood stanched.",
+    "hash": "8c0ecfaf52df7253128914d59ead5f445e8ab8e0c1fcc0c3bff26b64cc115680"
+  },
+  {
+    "id": "LUK.8.45",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 45,
+    "text": "And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press {thee}, and sayest thou, Who touched me?",
+    "hash": "fae2363819e5539be540ff70b98618c1ab601a0f53ce8daa7cf64f1eae09c5d9"
+  },
+  {
+    "id": "LUK.8.46",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 46,
+    "text": "And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me.",
+    "hash": "191208ed9b0cacfdd95e1dfd01138c3c5f1a2b5a5ee55e3805648d3b3536f580"
+  },
+  {
+    "id": "LUK.8.47",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 47,
+    "text": "And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately.",
+    "hash": "63c0fbbe0d67f5b2bb85c1926a1ab626d0620da71a94df96bfae40d741c3d446"
+  },
+  {
+    "id": "LUK.8.48",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 48,
+    "text": "And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace.",
+    "hash": "eb0dece42c1a8ca98225f0cb80af2e0d2a7a5f15d655a60a8258f3f1dadae988"
+  },
+  {
+    "id": "LUK.8.49",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 49,
+    "text": "While he yet spake, there cometh one from the ruler of the synagogue's {house}, saying to him, Thy daughter is dead; trouble not the Master.",
+    "hash": "9dc2ec2f8fe3b89b9a14540b20b41a0a2aa121bf949a5416b1bf8aaddb3f3fac"
+  },
+  {
+    "id": "LUK.8.50",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 50,
+    "text": "But when Jesus heard {it}, he answered him, saying, Fear not: believe only, and she shall be made whole.",
+    "hash": "de7a9d2374f7318787bb3f89c3780f57678c902c012cee7f4c6e31d42741e2cf"
+  },
+  {
+    "id": "LUK.8.51",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 51,
+    "text": "And when he came into the house, he suffered no man to go in, save Peter, and James, and John, and the father and the mother of the maiden.",
+    "hash": "d69ee7f065e779d7b93faf02faabbf78b90d08b318ace2be4368b151f75cf012"
+  },
+  {
+    "id": "LUK.8.52",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 52,
+    "text": "And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth.",
+    "hash": "c31497cfaf254915571358c971b428116ab77e527fef7e79377219d5933518ef"
+  },
+  {
+    "id": "LUK.8.53",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 53,
+    "text": "And they laughed him to scorn, knowing that she was dead.",
+    "hash": "7f7985fa00f2c8477c6425e8845e006553cf595a8a36f2a902b332d0f28ba43b"
+  },
+  {
+    "id": "LUK.8.54",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 54,
+    "text": "And he put them all out, and took her by the hand, and called, saying, Maid, arise.",
+    "hash": "221de5cee20c59a8734b5e0d37e4295f0cdf2f39d6d683174b1103cd5ca5aba3"
+  },
+  {
+    "id": "LUK.8.55",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 55,
+    "text": "And her spirit came again, and she arose straightway: and he commanded to give her meat.",
+    "hash": "e3f19b3292f53a323696879ee4bf6df8e5597ae18f8c19fa57d455e2a2e96653"
+  },
+  {
+    "id": "LUK.8.56",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 8,
+    "verse": 56,
+    "text": "And her parents were astonished: but he charged them that they should tell no man what was done.",
+    "hash": "662b3174fb67af0868df6f945cad0afc76bdd7cd5c84708eea2ef71a8d764351"
+  }
+]

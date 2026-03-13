@@ -1,0 +1,542 @@
+[
+  {
+    "id": "JHN.4.1",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 1,
+    "text": "When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,",
+    "hash": "b42ecf7c12715d6b54e26bd1d497ccc127bced5fb3a3034a5f673e091475d603"
+  },
+  {
+    "id": "JHN.4.2",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 2,
+    "text": "(Though Jesus himself baptized not, but his disciples,)",
+    "hash": "824c6d6a4267e6f31b128d3e0c95e7a633c5507bf176fd299d6194050ee1e9a9"
+  },
+  {
+    "id": "JHN.4.3",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 3,
+    "text": "He left Judaea, and departed again into Galilee.",
+    "hash": "c21e7fb93617b8535cd37acf9d09384009f785591af1577049231253457a8ec2"
+  },
+  {
+    "id": "JHN.4.4",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 4,
+    "text": "And he must needs go through Samaria.",
+    "hash": "511f4a8dfb78c09b0cc35f20d5d1257b1c14805039526eea11c2df213e9ff3e5"
+  },
+  {
+    "id": "JHN.4.5",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 5,
+    "text": "Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph.",
+    "hash": "dfec67bab51e305baa4d205d25ad5ea612b2cb02b8fa4fabb251be3c6277a4f1"
+  },
+  {
+    "id": "JHN.4.6",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 6,
+    "text": "Now Jacob's well was there. Jesus therefore, being wearied with {his} journey, sat thus on the well: {and} it was about the sixth hour.",
+    "hash": "e7cec580983ad6ac2a87818cbc02e3ad65742ce7699c49a8f5d449733fec13ad"
+  },
+  {
+    "id": "JHN.4.7",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 7,
+    "text": "There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.",
+    "hash": "8a7a4f6b284c73b694dc1e06a8731569a76410175b3389bb5b7c43130d306c21"
+  },
+  {
+    "id": "JHN.4.8",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 8,
+    "text": "(For his disciples were gone away unto the city to buy meat.)",
+    "hash": "2628acfad24ea76b40d2d7d21d95d0fd46f7331edda0ce962f05a98a30d1a725"
+  },
+  {
+    "id": "JHN.4.9",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 9,
+    "text": "Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.",
+    "hash": "1bf642e577b336257fa45a6524785a5fb47561792bdfc3c08711f28fcc16b0d7"
+  },
+  {
+    "id": "JHN.4.10",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 10,
+    "text": "Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.",
+    "hash": "7cf2d1af98944d21130e5ed4e6795def18be16f9f7f170d1c694933c9e1f65fa"
+  },
+  {
+    "id": "JHN.4.11",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 11,
+    "text": "The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: from whence then hast thou that living water?",
+    "hash": "1a5c9dccb922abe891a3abed67f7525bbf2f5257be787e5769aa32c2d9faeb58"
+  },
+  {
+    "id": "JHN.4.12",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 12,
+    "text": "Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?",
+    "hash": "2c59e10498cd8c3e9aa16821a42a360b9796af0e6deadd341a3c613c83876244"
+  },
+  {
+    "id": "JHN.4.13",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 13,
+    "text": "Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:",
+    "hash": "85260ed8c98fc8413569d6c797afda3b117a7d404d482753809d43180ebcf1cf"
+  },
+  {
+    "id": "JHN.4.14",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 14,
+    "text": "But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.",
+    "hash": "87c65bbf7265fc78f8d6e298942d36a051409dd46c357d7c8fcaaf4ccfe7b595"
+  },
+  {
+    "id": "JHN.4.15",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 15,
+    "text": "The woman saith unto him, Sir, give me this water, that I thirst not, neither come hither to draw.",
+    "hash": "c1b39af43be3c4acd70ba280d39b8e5773369868ac5178ff7f3cfb1370bd785f"
+  },
+  {
+    "id": "JHN.4.16",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 16,
+    "text": "Jesus saith unto her, Go, call thy husband, and come hither.",
+    "hash": "3a8176d06dd50a2d2456313baa95ca47b533d9345b9ff1a8322afda2aa293412"
+  },
+  {
+    "id": "JHN.4.17",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 17,
+    "text": "The woman answered and said, I have no husband. Jesus said unto her, Thou hast well said, I have no husband:",
+    "hash": "4f35a1bb97bd716d52760f616a81578e18b94bd088451c9b3587ceafc13b3253"
+  },
+  {
+    "id": "JHN.4.18",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 18,
+    "text": "For thou hast had five husbands; and he whom thou now hast is not thy husband: in that saidst thou truly.",
+    "hash": "6b855819b9cdb19b16caf95d41bbd882ce6732c8ee1e4406ba96938d3c98b2d2"
+  },
+  {
+    "id": "JHN.4.19",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 19,
+    "text": "The woman saith unto him, Sir, I perceive that thou art a prophet.",
+    "hash": "2692f10d5604006d122027725a0a2f5f55a6338e0f13449c3c1bcf237cba5794"
+  },
+  {
+    "id": "JHN.4.20",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 20,
+    "text": "Our fathers worshipped in this mountain; and ye say, that in Jerusalem is the place where men ought to worship.",
+    "hash": "5b992818d2bfa9fd2a15d7fa79e9c617dbcc9add9e352888016ff803ba60d8eb"
+  },
+  {
+    "id": "JHN.4.21",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 21,
+    "text": "Jesus saith unto her, Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father.",
+    "hash": "d4ebfb2b0f06b22c702fa02728844c5ff201789e2641c36377e2480dee963d21"
+  },
+  {
+    "id": "JHN.4.22",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 22,
+    "text": "Ye worship ye know not what: we know what we worship: for salvation is of the Jews.",
+    "hash": "cbbf02422c56bc338333d7a4aae7c87548745fe81615a7faab7c3f0af057c354"
+  },
+  {
+    "id": "JHN.4.23",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 23,
+    "text": "But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him.",
+    "hash": "b94b41a974eddedd9cec704efa5178ec7dd0373aabbea09a13a3d56813709bb8"
+  },
+  {
+    "id": "JHN.4.24",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 24,
+    "text": "God {is} a Spirit: and they that worship him must worship {him} in spirit and in truth.",
+    "hash": "59cf0a5e3b9091285d8be0fb90d26a715ffe2e95d216a56292e4ed3845bed3e6"
+  },
+  {
+    "id": "JHN.4.25",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 25,
+    "text": "The woman saith unto him, I know that Messias cometh, which is called Christ: when he is come, he will tell us all things.",
+    "hash": "4352ee299bb9a0f3c01bc752c768330ad1f74421db4400689c831c91411f1885"
+  },
+  {
+    "id": "JHN.4.26",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 26,
+    "text": "Jesus saith unto her, I that speak unto thee am {he}.",
+    "hash": "c84857ee72f413ed92a65dff49ccdbda171f329461802cdcef668850040f3bc4"
+  },
+  {
+    "id": "JHN.4.27",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 27,
+    "text": "And upon this came his disciples, and marvelled that he talked with the woman: yet no man said, What seekest thou? or, Why talkest thou with her?",
+    "hash": "14e90cfee89cdb3c0ceeb9761431b1138975506ad031d7f84f97faff5364074e"
+  },
+  {
+    "id": "JHN.4.28",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 28,
+    "text": "The woman then left her waterpot, and went her way into the city, and saith to the men,",
+    "hash": "e3faa0ec5e089fb5a99db5ea8e2645747161a62475e400c8a8b290018dd3a13d"
+  },
+  {
+    "id": "JHN.4.29",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 29,
+    "text": "Come, see a man, which told me all things that ever I did: is not this the Christ?",
+    "hash": "70f5ed810d1845388252ece5bd39e565f9dd8a401bc832106070147414d8a4cb"
+  },
+  {
+    "id": "JHN.4.30",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 30,
+    "text": "Then they went out of the city, and came unto him.",
+    "hash": "963f3256496247d2de6b74435c847d06692a06c64ad83c05f90876493a619cbb"
+  },
+  {
+    "id": "JHN.4.31",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 31,
+    "text": "In the mean while his disciples prayed him, saying, Master, eat.",
+    "hash": "1e4466b8159221f1362fe85a9ce89699e4f811ef02ca9ef3390b05f172d69d7a"
+  },
+  {
+    "id": "JHN.4.32",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 32,
+    "text": "But he said unto them, I have meat to eat that ye know not of.",
+    "hash": "dfd7786452f5ba27210e7b80d9c45a1c8a641760b79c534449861be310d4a989"
+  },
+  {
+    "id": "JHN.4.33",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 33,
+    "text": "Therefore said the disciples one to another, Hath any man brought him {ought} to eat?",
+    "hash": "aed3a949dba4635a4f3f06050530906f0e9483a1bae1ecfda46bdd176d4172c9"
+  },
+  {
+    "id": "JHN.4.34",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 34,
+    "text": "Jesus saith unto them, My meat is to do the will of him that sent me, and to finish his work.",
+    "hash": "bac1f0e87ebd227093913aa6e3bb8b6b14e928504165d1ac15751630df8468ba"
+  },
+  {
+    "id": "JHN.4.35",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 35,
+    "text": "Say not ye, There are yet four months, and {then} cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest.",
+    "hash": "46f8257380d43b56ef6c68b05344662822c2936e9261dc23936ef4fcdb832258"
+  },
+  {
+    "id": "JHN.4.36",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 36,
+    "text": "And he that reapeth receiveth wages, and gathereth fruit unto life eternal: that both he that soweth and he that reapeth may rejoice together.",
+    "hash": "f33f4c23fd59348f5119f4eaa95e5b7fe984fd043f9eefa7adae29dcf350d36d"
+  },
+  {
+    "id": "JHN.4.37",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 37,
+    "text": "And herein is that saying true, One soweth, and another reapeth.",
+    "hash": "081148c97688bcbdb9917f54b437a2aecd2a643ea858be51a2bc99477679223a"
+  },
+  {
+    "id": "JHN.4.38",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 38,
+    "text": "I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours.",
+    "hash": "800f62b0387602a19ab839ba6517309483dfc8ace33674cbe8751752263e4116"
+  },
+  {
+    "id": "JHN.4.39",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 39,
+    "text": "And many of the Samaritans of that city believed on him for the saying of the woman, which testified, He told me all that ever I did.",
+    "hash": "94a5b9f495d5fbdab9c168c0b7944c1e4a06fbb0a121f4037747473ea894f7a1"
+  },
+  {
+    "id": "JHN.4.40",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 40,
+    "text": "So when the Samaritans were come unto him, they besought him that he would tarry with them: and he abode there two days.",
+    "hash": "a77cb6a878606e3209892ce4fa3d5969f9c3b90b87299457157f5180b2490dc8"
+  },
+  {
+    "id": "JHN.4.41",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 41,
+    "text": "And many more believed because of his own word;",
+    "hash": "e6641a7757c35f7cadb49ff212c69cf86b3e7d0e8380d99d7d2c345cb0cdac43"
+  },
+  {
+    "id": "JHN.4.42",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 42,
+    "text": "And said unto the woman, Now we believe, not because of thy saying: for we have heard {him} ourselves, and know that this is indeed the Christ, the Saviour of the world.",
+    "hash": "79fb8cb3949b18a5542c162d98f2c37bf1cebd26121c82e6978f914cf805d9b1"
+  },
+  {
+    "id": "JHN.4.43",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 43,
+    "text": "Now after two days he departed thence, and went into Galilee.",
+    "hash": "2ab6dada49e3064083dfba1410152da1392adddaed8b77144b549e4dfd370e34"
+  },
+  {
+    "id": "JHN.4.44",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 44,
+    "text": "For Jesus himself testified, that a prophet hath no honour in his own country.",
+    "hash": "d3cf913fab50c7f32478d4cfd03696468c895acf4f7c78ab42a30682a7011d09"
+  },
+  {
+    "id": "JHN.4.45",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 45,
+    "text": "Then when he was come into Galilee, the Galilaeans received him, having seen all the things that he did at Jerusalem at the feast: for they also went unto the feast.",
+    "hash": "8f252751a639b13b6d5e5ea9da5ddac0597216d824200337b052ec4373de1320"
+  },
+  {
+    "id": "JHN.4.46",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 46,
+    "text": "So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum. {nobleman: or, courtier, or, ruler}",
+    "hash": "80bfd1e7c4cedb08daff499e4df1df85e0831c4b3c52a4b3d467def8d6937b9a"
+  },
+  {
+    "id": "JHN.4.47",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 47,
+    "text": "When he heard that Jesus was come out of Judaea into Galilee, he went unto him, and besought him that he would come down, and heal his son: for he was at the point of death.",
+    "hash": "bc15d320b0d53f240274c447a3111c48ee2725d2db60d3d8b06625f8bb14fe0b"
+  },
+  {
+    "id": "JHN.4.48",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 48,
+    "text": "Then said Jesus unto him, Except ye see signs and wonders, ye will not believe.",
+    "hash": "5dee9e59b401d38a651e6c5802b44341922dd6067724363e3a1c4244157b2f67"
+  },
+  {
+    "id": "JHN.4.49",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 49,
+    "text": "The nobleman saith unto him, Sir, come down ere my child die.",
+    "hash": "853bf4bde646148d3b7e66ba8464b1eee14e639cb9fb6a034106f43d039185b9"
+  },
+  {
+    "id": "JHN.4.50",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 50,
+    "text": "Jesus saith unto him, Go thy way; thy son liveth. And the man believed the word that Jesus had spoken unto him, and he went his way.",
+    "hash": "33bfee7af93178d6c964d63d46d827d1812fcbc0e49b3249a1c180b2eaeb0ff5"
+  },
+  {
+    "id": "JHN.4.51",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 51,
+    "text": "And as he was now going down, his servants met him, and told {him}, saying, Thy son liveth.",
+    "hash": "6979ba9d25a81a026db44abf43b227bde0ba1ea354b7d8f4686f8ecfddddb6ef"
+  },
+  {
+    "id": "JHN.4.52",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 52,
+    "text": "Then enquired he of them the hour when he began to amend. And they said unto him, Yesterday at the seventh hour the fever left him.",
+    "hash": "34c2fcf38d4a5f8def97925d6207822443cca283f68a91210e16ae33e08d07d6"
+  },
+  {
+    "id": "JHN.4.53",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 53,
+    "text": "So the father knew that {it was} at the same hour, in the which Jesus said unto him, Thy son liveth: and himself believed, and his whole house.",
+    "hash": "7435b09f4957775429ac388f84a85bd0dea184c0bd4d12e4b2d2ea3417bbe0e8"
+  },
+  {
+    "id": "JHN.4.54",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 4,
+    "verse": 54,
+    "text": "This {is} again the second miracle {that} Jesus did, when he was come out of Judaea into Galilee.",
+    "hash": "9376412037180426610987bedc41e2d19c9657824f5c2dfbe890b8fed557f09d"
+  }
+]

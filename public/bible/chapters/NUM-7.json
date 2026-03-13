@@ -1,0 +1,892 @@
+[
+  {
+    "id": "NUM.7.1",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 1,
+    "text": "And it came to pass on the day that Moses had fully set up the tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the altar and all the vessels thereof, and had anointed them, and sanctified them;",
+    "hash": "0c946b2b935d04a14dcb728588719453a4d8b430c98e055b2f8061e070b72d7a"
+  },
+  {
+    "id": "NUM.7.2",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 2,
+    "text": "That the princes of Israel, heads of the house of their fathers, who {were} the princes of the tribes, and were over them that were numbered, offered: {and were: Heb. who stood}",
+    "hash": "48cae782e5aaa0fa6bc9912bbf4268ae066dfca10faf4bc84c899baa21a921ef"
+  },
+  {
+    "id": "NUM.7.3",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 3,
+    "text": "And they brought their offering before the LORD, six covered wagons, and twelve oxen; a wagon for two of the princes, and for each one an ox: and they brought them before the tabernacle.",
+    "hash": "0bb6cb708397faf2e600037f8afe272258cd9cff5f79b247f3a5915682c50369"
+  },
+  {
+    "id": "NUM.7.4",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 4,
+    "text": "And the LORD spake unto Moses, saying,",
+    "hash": "29615d17124775fa5339ffa2cd24e057ac808e6d460d778ac4e7434756684a52"
+  },
+  {
+    "id": "NUM.7.5",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 5,
+    "text": "Take {it} of them, that they may be to do the service of the tabernacle of the congregation; and thou shalt give them unto the Levites, to every man according to his service.",
+    "hash": "7cccc33542cba2c59404b277687f9e9ae07ca17fba78b18f95036f8e9d643eb9"
+  },
+  {
+    "id": "NUM.7.6",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 6,
+    "text": "And Moses took the wagons and the oxen, and gave them unto the Levites.",
+    "hash": "d69df0a900903ee7b3fbf4e0a213c97cb36e5d0ecc766d393a172e2521592dee"
+  },
+  {
+    "id": "NUM.7.7",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 7,
+    "text": "Two wagons and four oxen he gave unto the sons of Gershon, according to their service:",
+    "hash": "211ecb8f759839e5ad06a62b084a6ff7511acd077047f6fdeeea14cf53bd8a6d"
+  },
+  {
+    "id": "NUM.7.8",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 8,
+    "text": "And four wagons and eight oxen he gave unto the sons of Merari, according unto their service, under the hand of Ithamar the son of Aaron the priest.",
+    "hash": "d5eefb1d195443e7957a69b77586b1af58a3516c024ad2a37ebbc44f4257fb36"
+  },
+  {
+    "id": "NUM.7.9",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 9,
+    "text": "But unto the sons of Kohath he gave none: because the service of the sanctuary belonging unto them {was that} they should bear upon their shoulders.",
+    "hash": "d41b6d34e31cb3084a0e472f3c2562f3dc000b505faae9d8d51b5cc8c2bb1f84"
+  },
+  {
+    "id": "NUM.7.10",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 10,
+    "text": "And the princes offered for dedicating of the altar in the day that it was anointed, even the princes offered their offering before the altar.",
+    "hash": "f8dbd5692f81a873ed07d8c912e4b63593a855e74d14216ecf302f97296bab3f"
+  },
+  {
+    "id": "NUM.7.11",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 11,
+    "text": "And the LORD said unto Moses, They shall offer their offering, each prince on his day, for the dedicating of the altar.",
+    "hash": "1719579f3271ddc9c956720ec11d106b323118f922040b7a46b0ca27742f5628"
+  },
+  {
+    "id": "NUM.7.12",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 12,
+    "text": "And he that offered his offering the first day was Nahshon the son of Amminadab, of the tribe of Judah:",
+    "hash": "f60c2170cd8137b7c5d04c204b9c3d6c88a9cf70535a28099f47bb20426007e6"
+  },
+  {
+    "id": "NUM.7.13",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 13,
+    "text": "And his offering {was} one silver charger, the weight thereof {was} an hundred and thirty {shekels}, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them {were} full of fine flour mingled with oil for a meat offering:",
+    "hash": "349348ded4187fe4ea5df8becd61c86839c51f228da6871ba00bcfa2ea9ec8f8"
+  },
+  {
+    "id": "NUM.7.14",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 14,
+    "text": "One spoon of ten {shekels} of gold, full of incense:",
+    "hash": "805a19e609d0495be2097ca6074bb852fefb1c259eac999338a80a775f1afb3a"
+  },
+  {
+    "id": "NUM.7.15",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 15,
+    "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+    "hash": "7f91180b5fde7deaa98dc663d5376708883efcbb4406a034c2120dc79b8ab236"
+  },
+  {
+    "id": "NUM.7.16",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 16,
+    "text": "One kid of the goats for a sin offering:",
+    "hash": "c4cca6f44a4ce8fc28aa45eef14e5063455693998df115e230e35ab76733251c"
+  },
+  {
+    "id": "NUM.7.17",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 17,
+    "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this {was} the offering of Nahshon the son of Amminadab.",
+    "hash": "3ec9d9701fb0529d366c3bf2156b47e55311dbe013850124282ea0596006181c"
+  },
+  {
+    "id": "NUM.7.18",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 18,
+    "text": "On the second day Nethaneel the son of Zuar, prince of Issachar, did offer:",
+    "hash": "146a57148150d19d4e6eb23590d833f44eddf3f617d6bf2d15c59dce6d3ef26d"
+  },
+  {
+    "id": "NUM.7.19",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 19,
+    "text": "He offered {for} his offering one silver charger, the weight whereof {was} an hundred and thirty {shekels}, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+    "hash": "6bbc861d080ad95495ffa3a58670342acbfb0990d0df343dabf1f846d87caa58"
+  },
+  {
+    "id": "NUM.7.20",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 20,
+    "text": "One spoon of gold of ten {shekels}, full of incense:",
+    "hash": "87c98081bccf7f9ba124ac15c51c087a7a53f7834029b2c08926f48ff75c13cf"
+  },
+  {
+    "id": "NUM.7.21",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 21,
+    "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+    "hash": "7f91180b5fde7deaa98dc663d5376708883efcbb4406a034c2120dc79b8ab236"
+  },
+  {
+    "id": "NUM.7.22",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 22,
+    "text": "One kid of the goats for a sin offering:",
+    "hash": "c4cca6f44a4ce8fc28aa45eef14e5063455693998df115e230e35ab76733251c"
+  },
+  {
+    "id": "NUM.7.23",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 23,
+    "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this {was} the offering of Nethaneel the son of Zuar.",
+    "hash": "36e55959066f336ede03fcc34fb8faa3010f28076330095d85ebb0db162ff9c7"
+  },
+  {
+    "id": "NUM.7.24",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 24,
+    "text": "On the third day Eliab the son of Helon, prince of the children of Zebulun, {did offer}:",
+    "hash": "57a55770976aacfc1f3bb5796fd68e8df73d6157e21cad51a8478f403a54b8a1"
+  },
+  {
+    "id": "NUM.7.25",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 25,
+    "text": "His offering {was} one silver charger, the weight whereof {was} an hundred and thirty {shekels}, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+    "hash": "a40de3445d2714f9c86c1211584702122f354f074a63b8f92e820fcf834dbb5c"
+  },
+  {
+    "id": "NUM.7.26",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 26,
+    "text": "One golden spoon of ten {shekels}, full of incense:",
+    "hash": "e4079f55cec6ebb82288b8b01e6aa941335281da487ffcaa2c03579f5ba8c39e"
+  },
+  {
+    "id": "NUM.7.27",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 27,
+    "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+    "hash": "7f91180b5fde7deaa98dc663d5376708883efcbb4406a034c2120dc79b8ab236"
+  },
+  {
+    "id": "NUM.7.28",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 28,
+    "text": "One kid of the goats for a sin offering:",
+    "hash": "c4cca6f44a4ce8fc28aa45eef14e5063455693998df115e230e35ab76733251c"
+  },
+  {
+    "id": "NUM.7.29",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 29,
+    "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this {was} the offering of Eliab the son of Helon.",
+    "hash": "d130cf19dc658eb63099e34baa455a168f91fbda58090e4a2561d4ede9e177ee"
+  },
+  {
+    "id": "NUM.7.30",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 30,
+    "text": "On the fourth day Elizur the son of Shedeur, prince of the children of Reuben, {did offer}:",
+    "hash": "ac8177664e39e2301c5e787faafd6f0faca4044e2812f5c09c9957b547817a12"
+  },
+  {
+    "id": "NUM.7.31",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 31,
+    "text": "His offering {was} one silver charger of the weight of an hundred and thirty {shekels}, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+    "hash": "e86eb0a7efc41ce19b63229a4e348549d1d5064b8bfbb9ad06f784436313dded"
+  },
+  {
+    "id": "NUM.7.32",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 32,
+    "text": "One golden spoon of ten {shekels}, full of incense:",
+    "hash": "e4079f55cec6ebb82288b8b01e6aa941335281da487ffcaa2c03579f5ba8c39e"
+  },
+  {
+    "id": "NUM.7.33",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 33,
+    "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+    "hash": "7f91180b5fde7deaa98dc663d5376708883efcbb4406a034c2120dc79b8ab236"
+  },
+  {
+    "id": "NUM.7.34",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 34,
+    "text": "One kid of the goats for a sin offering:",
+    "hash": "c4cca6f44a4ce8fc28aa45eef14e5063455693998df115e230e35ab76733251c"
+  },
+  {
+    "id": "NUM.7.35",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 35,
+    "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this {was} the offering of Elizur the son of Shedeur.",
+    "hash": "80fbf2c254dbf4b179f32337c6d0c6877f468ca63ddce2cc72b4811064c55d97"
+  },
+  {
+    "id": "NUM.7.36",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 36,
+    "text": "On the fifth day Shelumiel the son of Zurishaddai, prince of the children of Simeon, {did offer}:",
+    "hash": "aaccdeffdfff47bdfcd9576b1989e096a5bd68c2864db08309d8720c4f8b5ead"
+  },
+  {
+    "id": "NUM.7.37",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 37,
+    "text": "His offering {was} one silver charger, the weight whereof {was} an hundred and thirty {shekels}, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+    "hash": "a40de3445d2714f9c86c1211584702122f354f074a63b8f92e820fcf834dbb5c"
+  },
+  {
+    "id": "NUM.7.38",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 38,
+    "text": "One golden spoon of ten {shekels}, full of incense:",
+    "hash": "e4079f55cec6ebb82288b8b01e6aa941335281da487ffcaa2c03579f5ba8c39e"
+  },
+  {
+    "id": "NUM.7.39",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 39,
+    "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+    "hash": "7f91180b5fde7deaa98dc663d5376708883efcbb4406a034c2120dc79b8ab236"
+  },
+  {
+    "id": "NUM.7.40",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 40,
+    "text": "One kid of the goats for a sin offering:",
+    "hash": "c4cca6f44a4ce8fc28aa45eef14e5063455693998df115e230e35ab76733251c"
+  },
+  {
+    "id": "NUM.7.41",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 41,
+    "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this {was} the offering of Shelumiel the son of Zurishaddai.",
+    "hash": "f765fa9c67b38a4f19bd7b732f6a88c6e3636a43efdb67a489b39867f9147d65"
+  },
+  {
+    "id": "NUM.7.42",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 42,
+    "text": "On the sixth day Eliasaph the son of Deuel, prince of the children of Gad, {offered}:",
+    "hash": "3b6a9af52721f1379af3a454e887f4e84d41ca549c312d0ad882178e2215ab3a"
+  },
+  {
+    "id": "NUM.7.43",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 43,
+    "text": "His offering {was} one silver charger of the weight of an hundred and thirty {shekels}, a silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+    "hash": "ee079806d3df847ad41d4a3bb666ac2e8f6eb150eb18568ad1cee41cc5caeafd"
+  },
+  {
+    "id": "NUM.7.44",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 44,
+    "text": "One golden spoon of ten {shekels}, full of incense:",
+    "hash": "e4079f55cec6ebb82288b8b01e6aa941335281da487ffcaa2c03579f5ba8c39e"
+  },
+  {
+    "id": "NUM.7.45",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 45,
+    "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+    "hash": "7f91180b5fde7deaa98dc663d5376708883efcbb4406a034c2120dc79b8ab236"
+  },
+  {
+    "id": "NUM.7.46",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 46,
+    "text": "One kid of the goats for a sin offering:",
+    "hash": "c4cca6f44a4ce8fc28aa45eef14e5063455693998df115e230e35ab76733251c"
+  },
+  {
+    "id": "NUM.7.47",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 47,
+    "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this {was} the offering of Eliasaph the son of Deuel.",
+    "hash": "4bff6b0059653632ed7487a55244c1bdc3dbe0f93f94e53d762b7a1a8ec5521a"
+  },
+  {
+    "id": "NUM.7.48",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 48,
+    "text": "On the seventh day Elishama the son of Ammihud, prince of the children of Ephraim, {offered}:",
+    "hash": "fc33e29143a7483f8ca1376beba4a6e8af978f73b965b7e3c035ae83ed7a1aba"
+  },
+  {
+    "id": "NUM.7.49",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 49,
+    "text": "His offering {was} one silver charger, the weight whereof {was} an hundred and thirty {shekels}, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+    "hash": "a40de3445d2714f9c86c1211584702122f354f074a63b8f92e820fcf834dbb5c"
+  },
+  {
+    "id": "NUM.7.50",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 50,
+    "text": "One golden spoon of ten {shekels}, full of incense:",
+    "hash": "e4079f55cec6ebb82288b8b01e6aa941335281da487ffcaa2c03579f5ba8c39e"
+  },
+  {
+    "id": "NUM.7.51",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 51,
+    "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+    "hash": "7f91180b5fde7deaa98dc663d5376708883efcbb4406a034c2120dc79b8ab236"
+  },
+  {
+    "id": "NUM.7.52",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 52,
+    "text": "One kid of the goats for a sin offering:",
+    "hash": "c4cca6f44a4ce8fc28aa45eef14e5063455693998df115e230e35ab76733251c"
+  },
+  {
+    "id": "NUM.7.53",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 53,
+    "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this {was} the offering of Elishama the son of Ammihud.",
+    "hash": "d452b3eadd87e1977fda29f93b983a19ad4904789d47a0113bd14a4ff5aff0a9"
+  },
+  {
+    "id": "NUM.7.54",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 54,
+    "text": "On the eighth day {offered} Gamaliel the son of Pedahzur, prince of the children of Manasseh:",
+    "hash": "bafe1ee5596c4523d56d7c35d6416903df7f54e740a3f610df2d0f2a8152e10a"
+  },
+  {
+    "id": "NUM.7.55",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 55,
+    "text": "His offering {was} one silver charger of the weight of an hundred and thirty {shekels}, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+    "hash": "e86eb0a7efc41ce19b63229a4e348549d1d5064b8bfbb9ad06f784436313dded"
+  },
+  {
+    "id": "NUM.7.56",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 56,
+    "text": "One golden spoon of ten {shekels}, full of incense:",
+    "hash": "e4079f55cec6ebb82288b8b01e6aa941335281da487ffcaa2c03579f5ba8c39e"
+  },
+  {
+    "id": "NUM.7.57",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 57,
+    "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+    "hash": "7f91180b5fde7deaa98dc663d5376708883efcbb4406a034c2120dc79b8ab236"
+  },
+  {
+    "id": "NUM.7.58",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 58,
+    "text": "One kid of the goats for a sin offering:",
+    "hash": "c4cca6f44a4ce8fc28aa45eef14e5063455693998df115e230e35ab76733251c"
+  },
+  {
+    "id": "NUM.7.59",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 59,
+    "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this {was} the offering of Gamaliel the son of Pedahzur.",
+    "hash": "15f30c014fd63868ecd7e37afca7fe8ee9d1f64488d6ebf4085458cfb58a446a"
+  },
+  {
+    "id": "NUM.7.60",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 60,
+    "text": "On the ninth day Abidan the son of Gideoni, prince of the children of Benjamin, {offered}:",
+    "hash": "cc3d599de4949d664158481c164d239ec2fe1aef3ec0d161bdf6564583636715"
+  },
+  {
+    "id": "NUM.7.61",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 61,
+    "text": "His offering {was} one silver charger, the weight whereof {was} an hundred and thirty {shekels}, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+    "hash": "a40de3445d2714f9c86c1211584702122f354f074a63b8f92e820fcf834dbb5c"
+  },
+  {
+    "id": "NUM.7.62",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 62,
+    "text": "One golden spoon of ten {shekels}, full of incense:",
+    "hash": "e4079f55cec6ebb82288b8b01e6aa941335281da487ffcaa2c03579f5ba8c39e"
+  },
+  {
+    "id": "NUM.7.63",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 63,
+    "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+    "hash": "7f91180b5fde7deaa98dc663d5376708883efcbb4406a034c2120dc79b8ab236"
+  },
+  {
+    "id": "NUM.7.64",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 64,
+    "text": "One kid of the goats for a sin offering:",
+    "hash": "c4cca6f44a4ce8fc28aa45eef14e5063455693998df115e230e35ab76733251c"
+  },
+  {
+    "id": "NUM.7.65",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 65,
+    "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this {was} the offering of Abidan the son of Gideoni.",
+    "hash": "9cd0f58cbc564195188eb7b6a77aa30278c4e98e5a04b23d1146c8b0761f1c73"
+  },
+  {
+    "id": "NUM.7.66",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 66,
+    "text": "On the tenth day Ahiezer the son of Ammishaddai, prince of the children of Dan, {offered}:",
+    "hash": "079ae0df14c9f56a1606dc494f09fa168f942a73f4d3ac7336b5c12c4184ee48"
+  },
+  {
+    "id": "NUM.7.67",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 67,
+    "text": "His offering {was} one silver charger, the weight whereof {was} an hundred and thirty {shekels}, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+    "hash": "a40de3445d2714f9c86c1211584702122f354f074a63b8f92e820fcf834dbb5c"
+  },
+  {
+    "id": "NUM.7.68",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 68,
+    "text": "One golden spoon of ten {shekels}, full of incense:",
+    "hash": "e4079f55cec6ebb82288b8b01e6aa941335281da487ffcaa2c03579f5ba8c39e"
+  },
+  {
+    "id": "NUM.7.69",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 69,
+    "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+    "hash": "7f91180b5fde7deaa98dc663d5376708883efcbb4406a034c2120dc79b8ab236"
+  },
+  {
+    "id": "NUM.7.70",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 70,
+    "text": "One kid of the goats for a sin offering:",
+    "hash": "c4cca6f44a4ce8fc28aa45eef14e5063455693998df115e230e35ab76733251c"
+  },
+  {
+    "id": "NUM.7.71",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 71,
+    "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this {was} the offering of Ahiezer the son of Ammishaddai.",
+    "hash": "8c6fb5ea17b8a30f8addf0d49aa429b1b7769901a8c85746b95a724784f3e618"
+  },
+  {
+    "id": "NUM.7.72",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 72,
+    "text": "On the eleventh day Pagiel the son of Ocran, prince of the children of Asher, {offered}:",
+    "hash": "ea582472b95eb0eb92a9f0089742a8ddc160507af3fdd119d41320e164c7e69f"
+  },
+  {
+    "id": "NUM.7.73",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 73,
+    "text": "His offering {was} one silver charger, the weight whereof {was} an hundred and thirty {shekels}, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+    "hash": "a40de3445d2714f9c86c1211584702122f354f074a63b8f92e820fcf834dbb5c"
+  },
+  {
+    "id": "NUM.7.74",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 74,
+    "text": "One golden spoon of ten {shekels}, full of incense:",
+    "hash": "e4079f55cec6ebb82288b8b01e6aa941335281da487ffcaa2c03579f5ba8c39e"
+  },
+  {
+    "id": "NUM.7.75",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 75,
+    "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+    "hash": "7f91180b5fde7deaa98dc663d5376708883efcbb4406a034c2120dc79b8ab236"
+  },
+  {
+    "id": "NUM.7.76",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 76,
+    "text": "One kid of the goats for a sin offering:",
+    "hash": "c4cca6f44a4ce8fc28aa45eef14e5063455693998df115e230e35ab76733251c"
+  },
+  {
+    "id": "NUM.7.77",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 77,
+    "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this {was} the offering of Pagiel the son of Ocran.",
+    "hash": "d8925ae6803342729d28a2ab7568c812c6cbcadef56a2c1106b5694460c9739f"
+  },
+  {
+    "id": "NUM.7.78",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 78,
+    "text": "On the twelfth day Ahira the son of Enan, prince of the children of Naphtali, {offered}:",
+    "hash": "96d091632c66d0adb1e1ac7fc90c5d621db3b0d95c888a540a7bfeb5065fea84"
+  },
+  {
+    "id": "NUM.7.79",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 79,
+    "text": "His offering {was} one silver charger, the weight whereof {was} an hundred and thirty {shekels}, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:",
+    "hash": "a40de3445d2714f9c86c1211584702122f354f074a63b8f92e820fcf834dbb5c"
+  },
+  {
+    "id": "NUM.7.80",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 80,
+    "text": "One golden spoon of ten {shekels}, full of incense:",
+    "hash": "e4079f55cec6ebb82288b8b01e6aa941335281da487ffcaa2c03579f5ba8c39e"
+  },
+  {
+    "id": "NUM.7.81",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 81,
+    "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+    "hash": "7f91180b5fde7deaa98dc663d5376708883efcbb4406a034c2120dc79b8ab236"
+  },
+  {
+    "id": "NUM.7.82",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 82,
+    "text": "One kid of the goats for a sin offering:",
+    "hash": "c4cca6f44a4ce8fc28aa45eef14e5063455693998df115e230e35ab76733251c"
+  },
+  {
+    "id": "NUM.7.83",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 83,
+    "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this {was} the offering of Ahira the son of Enan.",
+    "hash": "b93427fd9b150812f97c9ad0724c395ccfbf3d9d7dbf91464d80845db67db6ca"
+  },
+  {
+    "id": "NUM.7.84",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 84,
+    "text": "This {was} the dedication of the altar, in the day when it was anointed, by the princes of Israel: twelve chargers of silver, twelve silver bowls, twelve spoons of gold:",
+    "hash": "2bf036c4db7e88205d2052369731da468ce6e85ed2e23be0848a89228182abb5"
+  },
+  {
+    "id": "NUM.7.85",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 85,
+    "text": "Each charger of silver {weighing} an hundred and thirty {shekels}, each bowl seventy: all the silver vessels {weighed} two thousand and four hundred {shekels}, after the shekel of the sanctuary:",
+    "hash": "4d685b262023836f6c91a90588d046ebdcef8ade33f5c660a731a85fd9470bb0"
+  },
+  {
+    "id": "NUM.7.86",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 86,
+    "text": "The golden spoons {were} twelve, full of incense, {weighing} ten {shekels} apiece, after the shekel of the sanctuary: all the gold of the spoons {was} an hundred and twenty {shekels}.",
+    "hash": "54646827b691694317d8676ebc73348726873ff8f738362f9db101103a568833"
+  },
+  {
+    "id": "NUM.7.87",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 87,
+    "text": "All the oxen for the burnt offering {were} twelve bullocks, the rams twelve, the lambs of the first year twelve, with their meat offering: and the kids of the goats for sin offering twelve.",
+    "hash": "4feece0c4c4762c621f4f25bca160ef74a07241c0562bef701efaa1376d8db81"
+  },
+  {
+    "id": "NUM.7.88",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 88,
+    "text": "And all the oxen for the sacrifice of the peace offerings {were} twenty and four bullocks, the rams sixty, the he goats sixty, the lambs of the first year sixty. This {was} the dedication of the altar, after that it was anointed.",
+    "hash": "a4dcb4b8728c243a5d092ade3d48b41fe5ac72e175da848aca597858eeddf421"
+  },
+  {
+    "id": "NUM.7.89",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 7,
+    "verse": 89,
+    "text": "And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that {was} upon the ark of testimony, from between the two cherubims: and he spake unto him. {with him: that is, with God}",
+    "hash": "0c7f5f0cc1bafb241382cb76d5f936b9e8a22ee87a62589f07e66375fb39d824"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PSA.130.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 130,
+    "verse": 1,
+    "text": "[A Song of degrees.] Out of the depths have I cried unto thee, O LORD.",
+    "hash": "cb827dc72dd7fd368231fc40473e2ea764b83a881208d9d7db656199ace95605"
+  },
+  {
+    "id": "PSA.130.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 130,
+    "verse": 2,
+    "text": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications.",
+    "hash": "2d1d4f9a5a08780da254dbb220a9992689669e4eb5be0b78432d4ba1306aec49"
+  },
+  {
+    "id": "PSA.130.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 130,
+    "verse": 3,
+    "text": "If thou, LORD, shouldest mark iniquities, O Lord, who shall stand?",
+    "hash": "d7d2ba7e6a8557efa95c5204f2822c06f32becd9ad0731746d41d47b7687c930"
+  },
+  {
+    "id": "PSA.130.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 130,
+    "verse": 4,
+    "text": "But {there is} forgiveness with thee, that thou mayest be feared.",
+    "hash": "094ae9412563157b2431659d45a7cedb0f99b9ddfdc8a7e246d06402c074f41a"
+  },
+  {
+    "id": "PSA.130.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 130,
+    "verse": 5,
+    "text": "I wait for the LORD, my soul doth wait, and in his word do I hope.",
+    "hash": "c7a9f7f0ce36c28a917442408409cb7e699aa15f36ea2376d944f79e55e2dc74"
+  },
+  {
+    "id": "PSA.130.6",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 130,
+    "verse": 6,
+    "text": "My soul {waiteth} for the Lord more than they that watch for the morning: {I say, more than} they that watch for the morning. {I say...: or, which watch unto}",
+    "hash": "9ff982c2c39dd77f87e56ff091641c4679a57b06c2a5d06652d9dcf1e3c32f6a"
+  },
+  {
+    "id": "PSA.130.7",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 130,
+    "verse": 7,
+    "text": "Let Israel hope in the LORD: for with the LORD {there is} mercy, and with him {is} plenteous redemption.",
+    "hash": "1a0107d2e3c66e9b365baae656d50c531be40ce6007757d8a46fabd13d592bf7"
+  },
+  {
+    "id": "PSA.130.8",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 130,
+    "verse": 8,
+    "text": "And he shall redeem Israel from all his iniquities.",
+    "hash": "d607c32ce957698fa9d069b16d5a2be34cba9752ec8fc0d47f69ce3e596de746"
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "id": "1CH.16.1",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 1,
+    "text": "So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God.",
+    "hash": "ce799df3a3c4a4d1f4c30c5a7f040a6d8f6ce7f4b5f840dc1311473c148db86b"
+  },
+  {
+    "id": "1CH.16.2",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 2,
+    "text": "And when David had made an end of offering the burnt offerings and the peace offerings, he blessed the people in the name of the LORD.",
+    "hash": "e91ab933a4e2f2ceab8b20e5df7c2d67567e92f49bf84a1e88b4cf7fe29aec43"
+  },
+  {
+    "id": "1CH.16.3",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 3,
+    "text": "And he dealt to every one of Israel, both man and woman, to every one a loaf of bread, and a good piece of flesh, and a flagon {of wine}.",
+    "hash": "1df5d4970774b660baf3bebf17efecae14e31ddc16f96d1c98a19b88669e0304"
+  },
+  {
+    "id": "1CH.16.4",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 4,
+    "text": "And he appointed {certain} of the Levites to minister before the ark of the LORD, and to record, and to thank and praise the LORD God of Israel:",
+    "hash": "fab3987c2daf3bb6dc24186e36083b7749f22ae5dfe670170b1a6dbb9fc9473c"
+  },
+  {
+    "id": "1CH.16.5",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 5,
+    "text": "Asaph the chief, and next to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obededom: and Jeiel with psalteries and with harps; but Asaph made a sound with cymbals; {with psalteries...: Heb. with instruments of psalteries and harps}",
+    "hash": "a6868663a74fed6ab0100eea30903aeae3c100c9a0a9e19643af8ba3cc2640f8"
+  },
+  {
+    "id": "1CH.16.6",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 6,
+    "text": "Benaiah also and Jahaziel the priests with trumpets continually before the ark of the covenant of God.",
+    "hash": "b6c8ef66d55c047639f4169b19a2fa3844cff6e57729fb1e0105e0c9d0bc71d9"
+  },
+  {
+    "id": "1CH.16.7",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 7,
+    "text": "Then on that day David delivered first {this psalm} to thank the LORD into the hand of Asaph and his brethren.",
+    "hash": "f810ef6d35304321eae7c5c6a6faeb3bd060e0dcb48f17daf2c6a8a9c12d7a85"
+  },
+  {
+    "id": "1CH.16.8",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 8,
+    "text": "Give thanks unto the LORD, call upon his name, make known his deeds among the people.",
+    "hash": "38e411fdee4a2b434153abdafcad41eed0b00b5ff09ac228ff3f4402df94fd7a"
+  },
+  {
+    "id": "1CH.16.9",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 9,
+    "text": "Sing unto him, sing psalms unto him, talk ye of all his wondrous works.",
+    "hash": "253e73d002381d3802a0765c4e645121710c8da8239064e945a165bbb0bd34be"
+  },
+  {
+    "id": "1CH.16.10",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 10,
+    "text": "Glory ye in his holy name: let the heart of them rejoice that seek the LORD.",
+    "hash": "c212875cf985b34b64bd2c3fc904073729fb57178ba3ce1126aae1af760c0bd0"
+  },
+  {
+    "id": "1CH.16.11",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 11,
+    "text": "Seek the LORD and his strength, seek his face continually.",
+    "hash": "4b29fc4c29ac69f4982cc921b44e89dda7ed5d2ea7e02df330ad8a30f8413b99"
+  },
+  {
+    "id": "1CH.16.12",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 12,
+    "text": "Remember his marvellous works that he hath done, his wonders, and the judgments of his mouth;",
+    "hash": "2e71f282558334669337980dba58a5f47f0cf13fbac43f631b7c21613f8bb5a1"
+  },
+  {
+    "id": "1CH.16.13",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 13,
+    "text": "O ye seed of Israel his servant, ye children of Jacob, his chosen ones.",
+    "hash": "3ac77cb44696a5b65d74e101ec3d3f4d4fcb2b6226a26d50bf89e64167c736cd"
+  },
+  {
+    "id": "1CH.16.14",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 14,
+    "text": "He {is} the LORD our God; his judgments {are} in all the earth.",
+    "hash": "b161ecacc16c88f9a89599e30748137906d43d028f386fa68f90846077a9a504"
+  },
+  {
+    "id": "1CH.16.15",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 15,
+    "text": "Be ye mindful always of his covenant; the word {which} he commanded to a thousand generations;",
+    "hash": "024d79a0b80e0666a1c85610c1279be7732ab1b35eaead14cb6bb4dac58a36b7"
+  },
+  {
+    "id": "1CH.16.16",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 16,
+    "text": "{Even of the covenant} which he made with Abraham, and of his oath unto Isaac;",
+    "hash": "99f7b7dffdd6f53ec6fec39a7380a23169c16d16c488490406e00cd396c3c6bc"
+  },
+  {
+    "id": "1CH.16.17",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 17,
+    "text": "And hath confirmed the same to Jacob for a law, {and} to Israel {for} an everlasting covenant,",
+    "hash": "fcb27a0ed5f0bcd7e80b72f1169a5e0f26de6f2dd5c7cacd229f88e68fcc3cc1"
+  },
+  {
+    "id": "1CH.16.18",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 18,
+    "text": "Saying, Unto thee will I give the land of Canaan, the lot of your inheritance; {the lot: Heb. the cord}",
+    "hash": "bf007d6c399f30db8210fd59d69e3a68e19bd145442f2218e8171607a656d7f9"
+  },
+  {
+    "id": "1CH.16.19",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 19,
+    "text": "When ye were but few, even a few, and strangers in it. {few, even: Heb. men of number, etc}",
+    "hash": "0f16d727bdda4d7bcfe49dc9cd0d89183f755b5356159f6befc910b841c68fd5"
+  },
+  {
+    "id": "1CH.16.20",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 20,
+    "text": "And {when} they went from nation to nation, and from {one} kingdom to another people;",
+    "hash": "5d6e8f7f245c48724fbbf7056213696b3320dddf63840bff9c97f280bffc6b7f"
+  },
+  {
+    "id": "1CH.16.21",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 21,
+    "text": "He suffered no man to do them wrong: yea, he reproved kings for their sakes,",
+    "hash": "64fc3970f4768adb07e45e8a48b028cc75b32fbe7125ad2169d4d33ee6f373e9"
+  },
+  {
+    "id": "1CH.16.22",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 22,
+    "text": "{Saying}, Touch not mine anointed, and do my prophets no harm.",
+    "hash": "aae672f47ee5dcb0c11fe652230a0f91b5c64d88004792813fd113ec8092882f"
+  },
+  {
+    "id": "1CH.16.23",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 23,
+    "text": "Sing unto the LORD, all the earth; shew forth from day to day his salvation.",
+    "hash": "6bfb2c8977ee6354fdf198459523a2b64ebd16e94417117770af6cbec742ddb7"
+  },
+  {
+    "id": "1CH.16.24",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 24,
+    "text": "Declare his glory among the heathen; his marvellous works among all nations.",
+    "hash": "11e83859fe4c62dd4a02b15ed96576d977825cfa65aa8539b6ad2753c55c3a08"
+  },
+  {
+    "id": "1CH.16.25",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 25,
+    "text": "For great {is} the LORD, and greatly to be praised: he also {is} to be feared above all gods.",
+    "hash": "bad7ae8acca8e45f357f04366fb9bbd2ac52c315442707f7de9568a1cb5b3502"
+  },
+  {
+    "id": "1CH.16.26",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 26,
+    "text": "For all the gods of the people {are} idols: but the LORD made the heavens.",
+    "hash": "9e917f598ffa9d99cb69232712592a9115bd607360427667ecbfa4729324957f"
+  },
+  {
+    "id": "1CH.16.27",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 27,
+    "text": "Glory and honour {are} in his presence; strength and gladness {are} in his place.",
+    "hash": "b6faba6dd89d3307693d92744348efda65f821a7f8cccf23f2ebc37a9c2d5c2a"
+  },
+  {
+    "id": "1CH.16.28",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 28,
+    "text": "Give unto the LORD, ye kindreds of the people, give unto the LORD glory and strength.",
+    "hash": "59fdf1c4d87ac1a6300f4f9ef8d958124f26bcd77037e6da253a32447b4c4e5b"
+  },
+  {
+    "id": "1CH.16.29",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 29,
+    "text": "Give unto the LORD the glory {due} unto his name: bring an offering, and come before him: worship the LORD in the beauty of holiness.",
+    "hash": "bf37d814308db6c27b191045f9fd90eb2b801a9cb5fb786e80df45d491b2b4bd"
+  },
+  {
+    "id": "1CH.16.30",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 30,
+    "text": "Fear before him, all the earth: the world also shall be stable, that it be not moved.",
+    "hash": "690117bc56d9554b4609022b90f7c143e10402d85d3d8f1f564d3b53149c92a9"
+  },
+  {
+    "id": "1CH.16.31",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 31,
+    "text": "Let the heavens be glad, and let the earth rejoice: and let {men} say among the nations, The LORD reigneth.",
+    "hash": "c13afbbf717b3fa440a3252d5fb15987d3ebda46c61a01fcdc4190399d2255b4"
+  },
+  {
+    "id": "1CH.16.32",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 32,
+    "text": "Let the sea roar, and the fulness thereof: let the fields rejoice, and all that {is} therein.",
+    "hash": "5b6afc457426f2313e332648faeeecc8352e269e6732300dfd237a805e522d6f"
+  },
+  {
+    "id": "1CH.16.33",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 33,
+    "text": "Then shall the trees of the wood sing out at the presence of the LORD, because he cometh to judge the earth.",
+    "hash": "3614d6fc1abb67b769b5111e5d4449417af744061cd31c3bb22ae6530c4161fc"
+  },
+  {
+    "id": "1CH.16.34",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 34,
+    "text": "O give thanks unto the LORD; for {he is} good; for his mercy {endureth} for ever.",
+    "hash": "c55b358b4812377fec5afcf30bd25fcbaed7570f455bc27e65a848b542ac23c2"
+  },
+  {
+    "id": "1CH.16.35",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 35,
+    "text": "And say ye, Save us, O God of our salvation, and gather us together, and deliver us from the heathen, that we may give thanks to thy holy name, {and} glory in thy praise.",
+    "hash": "61df338b42437bebae05798672c9b0a294988917929a51cfe9b5e704db6d37d9"
+  },
+  {
+    "id": "1CH.16.36",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 36,
+    "text": "Blessed {be} the LORD God of Israel for ever and ever. And all the people said, Amen, and praised the LORD.",
+    "hash": "ac791d43944475f498a41a6692403640aadebbb7b2bfa9e746dfe9c4d5795474"
+  },
+  {
+    "id": "1CH.16.37",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 37,
+    "text": "So he left there before the ark of the covenant of the LORD Asaph and his brethren, to minister before the ark continually, as every day's work required:",
+    "hash": "2158e3c94ae32ed298028c178c2af27cd361676e2dae088ce5b7f23283f42561"
+  },
+  {
+    "id": "1CH.16.38",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 38,
+    "text": "And Obededom with their brethren, threescore and eight; Obededom also the son of Jeduthun and Hosah {to be} porters:",
+    "hash": "dd7393252e1dc8f8a8a18f30108089fff47e760c15b309164b0de5a3b65b0fc7"
+  },
+  {
+    "id": "1CH.16.39",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 39,
+    "text": "And Zadok the priest, and his brethren the priests, before the tabernacle of the LORD in the high place that {was} at Gibeon,",
+    "hash": "407c1933a532abed8676670081e3ff9a3cfb312f391e0e2d22db3f86ab11cfc1"
+  },
+  {
+    "id": "1CH.16.40",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 40,
+    "text": "To offer burnt offerings unto the LORD upon the altar of the burnt offering continually morning and evening, and {to do} according to all that is written in the law of the LORD, which he commanded Israel; {morning...: Heb. in the morning, and in the evening}",
+    "hash": "2f83b7adf464456d355208851e6c93832f1a8dea9e133b67872cd074d4c63f6d"
+  },
+  {
+    "id": "1CH.16.41",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 41,
+    "text": "And with them Heman and Jeduthun, and the rest that were chosen, who were expressed by name, to give thanks to the LORD, because his mercy {endureth} for ever;",
+    "hash": "5bf1b9b8f3eb4dcd7721d7074de68671be7b55a29ea6eaa7e94e6c78e8d77e44"
+  },
+  {
+    "id": "1CH.16.42",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 42,
+    "text": "And with them Heman and Jeduthun with trumpets and cymbals for those that should make a sound, and with musical instruments of God. And the sons of Jeduthun {were} porters. {porters: Heb. for the gate}",
+    "hash": "eb64cd7a78137c4ea41c45fbdbe838712a3accbfa03762ddfe8ebe1211695417"
+  },
+  {
+    "id": "1CH.16.43",
+    "book": "1 Chronicles",
+    "bookNum": 13,
+    "bookAbbrev": "1CH",
+    "chapter": 16,
+    "verse": 43,
+    "text": "And all the people departed every man to his house: and David returned to bless his house.",
+    "hash": "d9e5f2eb74780c269b1f242c26e5d6081d23022b161c3ff13f248f9f9c3b6688"
+  }
+]

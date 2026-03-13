@@ -1,0 +1,102 @@
+[
+  {
+    "id": "EST.7.1",
+    "book": "Esther",
+    "bookNum": 17,
+    "bookAbbrev": "EST",
+    "chapter": 7,
+    "verse": 1,
+    "text": "So the king and Haman came to banquet with Esther the queen. {to banquet: Heb. to drink}",
+    "hash": "c06a2f955b3373680bd809b77002ba3f90e9580cbd5af38af47dfa78b0e7df49"
+  },
+  {
+    "id": "EST.7.2",
+    "book": "Esther",
+    "bookNum": 17,
+    "bookAbbrev": "EST",
+    "chapter": 7,
+    "verse": 2,
+    "text": "And the king said again unto Esther on the second day at the banquet of wine, What {is} thy petition, queen Esther? and it shall be granted thee: and what {is} thy request? and it shall be performed, {even} to the half of the kingdom.",
+    "hash": "56fce2a2d2fc5620c53c2c010d768abf3ba8557c1426eff1dd4598bba2aa94ab"
+  },
+  {
+    "id": "EST.7.3",
+    "book": "Esther",
+    "bookNum": 17,
+    "bookAbbrev": "EST",
+    "chapter": 7,
+    "verse": 3,
+    "text": "Then Esther the queen answered and said, If I have found favour in thy sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request:",
+    "hash": "b054a96c9837fba0906e29e3121a961a00c6437f10b01bf39585f1637c0a2e70"
+  },
+  {
+    "id": "EST.7.4",
+    "book": "Esther",
+    "bookNum": 17,
+    "bookAbbrev": "EST",
+    "chapter": 7,
+    "verse": 4,
+    "text": "For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king's damage. {to be destroyed...: Heb. that they should destroy, and kill, and cause to perish}",
+    "hash": "80a420d6836e3ffda6211845b78f36d8547bd01df877dda8fd58d11e43d0e643"
+  },
+  {
+    "id": "EST.7.5",
+    "book": "Esther",
+    "bookNum": 17,
+    "bookAbbrev": "EST",
+    "chapter": 7,
+    "verse": 5,
+    "text": "Then the king Ahasuerus answered and said unto Esther the queen, Who is he, and where is he, that durst presume in his heart to do so? {that...: Heb. whose heart hath filled him}",
+    "hash": "e6702c440e31a3a7622ad3b03f4da441e414def5eeb6005807b4cb8f2a9517a0"
+  },
+  {
+    "id": "EST.7.6",
+    "book": "Esther",
+    "bookNum": 17,
+    "bookAbbrev": "EST",
+    "chapter": 7,
+    "verse": 6,
+    "text": "And Esther said, The adversary and enemy {is} this wicked Haman. Then Haman was afraid before the king and the queen. {The adversary: Heb. The man adversary} {before: or, at the presence of}",
+    "hash": "69b5607b3cd89d98f072ae4600f075cadbbb4b2d1de45a59ef79a103ff2de48e"
+  },
+  {
+    "id": "EST.7.7",
+    "book": "Esther",
+    "bookNum": 17,
+    "bookAbbrev": "EST",
+    "chapter": 7,
+    "verse": 7,
+    "text": "And the king arising from the banquet of wine in his wrath {went} into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.",
+    "hash": "d57d515a1424172230476b4f75825771a0fc0006ddc22230e94a49fc82e614d7"
+  },
+  {
+    "id": "EST.7.8",
+    "book": "Esther",
+    "bookNum": 17,
+    "bookAbbrev": "EST",
+    "chapter": 7,
+    "verse": 8,
+    "text": "Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther {was}. Then said the king, Will he force the queen also before me in the house? As the word went out of the king's mouth, they covered Haman's face. {before me: Heb. with me}",
+    "hash": "5e37ab2f76bd19ae1ef8e2bc1356d454e50d5a83f85ed00b109bb385ebf0f936"
+  },
+  {
+    "id": "EST.7.9",
+    "book": "Esther",
+    "bookNum": 17,
+    "bookAbbrev": "EST",
+    "chapter": 7,
+    "verse": 9,
+    "text": "And Harbonah, one of the chamberlains, said before the king, Behold also, the gallows fifty cubits high, which Haman had made for Mordecai, who had spoken good for the king, standeth in the house of Haman. Then the king said, Hang him thereon. {gallows: Heb. tree}",
+    "hash": "28fd1d615b9d906bf96341cee07e6af095224588a4a598cfd9c4893975ea11c5"
+  },
+  {
+    "id": "EST.7.10",
+    "book": "Esther",
+    "bookNum": 17,
+    "bookAbbrev": "EST",
+    "chapter": 7,
+    "verse": 10,
+    "text": "So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king's wrath pacified.",
+    "hash": "c00a719745d094f345f8eb11161629de60d12358288ddac054322187238a3866"
+  }
+]

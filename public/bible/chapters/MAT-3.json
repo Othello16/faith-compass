@@ -1,0 +1,172 @@
+[
+  {
+    "id": "MAT.3.1",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 3,
+    "verse": 1,
+    "text": "In those days came John the Baptist, preaching in the wilderness of Judaea,",
+    "hash": "1ac262e06fa49756cea81d73d69943310d3d199536ff5dc27c7d39aebe6cd15d"
+  },
+  {
+    "id": "MAT.3.2",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 3,
+    "verse": 2,
+    "text": "And saying, Repent ye: for the kingdom of heaven is at hand.",
+    "hash": "825fdfa040220e7be8f2432a6dfce000fc28d7972047c9f433c06489e3338259"
+  },
+  {
+    "id": "MAT.3.3",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 3,
+    "verse": 3,
+    "text": "For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+    "hash": "c58a19071599e71abfaff2a674b58563dc7d8606226a1f90da32746e29008b0c"
+  },
+  {
+    "id": "MAT.3.4",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 3,
+    "verse": 4,
+    "text": "And the same John had his raiment of camel's hair, and a leathern girdle about his loins; and his meat was locusts and wild honey.",
+    "hash": "55aa4838a597b1074eba9a8356b615fe84bf60d6540bbd915d81aa8fb6fd8869"
+  },
+  {
+    "id": "MAT.3.5",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 3,
+    "verse": 5,
+    "text": "Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,",
+    "hash": "d75105ce88cddcaf51621a8d847dfc75c254b5587d2a51ff642ede30a2e8df74"
+  },
+  {
+    "id": "MAT.3.6",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 3,
+    "verse": 6,
+    "text": "And were baptized of him in Jordan, confessing their sins.",
+    "hash": "480c941c82d7bfee57288ad5425a136bbb03a20fd56331fdb9adc556f7e8b92e"
+  },
+  {
+    "id": "MAT.3.7",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 3,
+    "verse": 7,
+    "text": "But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come?",
+    "hash": "dbcbe5fcb87ac3b0c2e23ce1135602d0312e386a6eaf946ec5940679bb66c631"
+  },
+  {
+    "id": "MAT.3.8",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 3,
+    "verse": 8,
+    "text": "Bring forth therefore fruits meet for repentance: {meet...: or, answerable to amendment of life}",
+    "hash": "a03ee02abcda1d0041e1335414ce4a00b5619685e498d0c64afa3b734a54fb6b"
+  },
+  {
+    "id": "MAT.3.9",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 3,
+    "verse": 9,
+    "text": "And think not to say within yourselves, We have Abraham to {our} father: for I say unto you, that God is able of these stones to raise up children unto Abraham.",
+    "hash": "7c575a9b357de62c89d36e349130fa904ac5d470cf866a0f7f92fa075e1b76aa"
+  },
+  {
+    "id": "MAT.3.10",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 3,
+    "verse": 10,
+    "text": "And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire.",
+    "hash": "5de8453ece2ea42af7aef34c9306c0acaca67b37f14a0f29b84f7aff742de5d4"
+  },
+  {
+    "id": "MAT.3.11",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 3,
+    "verse": 11,
+    "text": "I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and {with} fire:",
+    "hash": "d388201cbc3bd26757475f8966801056fc9262de678f7d4bbd1b21f66d669f49"
+  },
+  {
+    "id": "MAT.3.12",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 3,
+    "verse": 12,
+    "text": "Whose fan {is} in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.",
+    "hash": "11b9b78e6b03daf4a89182c76c1192ac0653ee017be92e55da17c0ef253e27b5"
+  },
+  {
+    "id": "MAT.3.13",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 3,
+    "verse": 13,
+    "text": "Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.",
+    "hash": "cae48186a2d3eb8682184169413dbd8e51d68fc45aedf33038fb5e67333680a2"
+  },
+  {
+    "id": "MAT.3.14",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 3,
+    "verse": 14,
+    "text": "But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?",
+    "hash": "106fd322dbdd24ebd11bcc408d6662516e289ff60095864a066bd94ca4b12cad"
+  },
+  {
+    "id": "MAT.3.15",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 3,
+    "verse": 15,
+    "text": "And Jesus answering said unto him, Suffer {it to be so} now: for thus it becometh us to fulfil all righteousness. Then he suffered him.",
+    "hash": "8c284b8f5e62cfaf45b9b2f28cf673903f4ef396a7040963eaea96d98bd11913"
+  },
+  {
+    "id": "MAT.3.16",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 3,
+    "verse": 16,
+    "text": "And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:",
+    "hash": "262f0f4bddbf60f62bf18d2fd1e1cd080772b9bdcb7f064eea068c3ba34bfe64"
+  },
+  {
+    "id": "MAT.3.17",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 3,
+    "verse": 17,
+    "text": "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.",
+    "hash": "804cfdd8f5020d6d136da687945a2d6511aa136c1d55b915d575ed6ebc73ae58"
+  }
+]

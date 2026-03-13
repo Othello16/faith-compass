@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ECC.3.1",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 1,
+    "text": "To every {thing there is} a season, and a time to every purpose under the heaven:",
+    "hash": "3c3371ba2ffca99f4de86cd06b28a8bb6039e99c444e11b3788b0b4069be47d0"
+  },
+  {
+    "id": "ECC.3.2",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 2,
+    "text": "A time to be born, and a time to die; a time to plant, and a time to pluck up {that which is} planted; {to be...: Heb. to bear}",
+    "hash": "cd3ebc1286e3c42c68df4d1e5df0dbfe89de7e8d6f0f00fc1bc2f37ae82a09d4"
+  },
+  {
+    "id": "ECC.3.3",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 3,
+    "text": "A time to kill, and a time to heal; a time to break down, and a time to build up;",
+    "hash": "bbf4785158f3aa1b06a57b660782c743e1ea4370c9654bae15f466783cfb9a48"
+  },
+  {
+    "id": "ECC.3.4",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 4,
+    "text": "A time to weep, and a time to laugh; a time to mourn, and a time to dance;",
+    "hash": "3c77bdc7a38a2fc1d80b51aa385ee29ccf3a20ce2f4ac7b4c618f2890e388362"
+  },
+  {
+    "id": "ECC.3.5",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 5,
+    "text": "A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing; {to refrain from: Heb. to be far from}",
+    "hash": "a1af5ac7aa45ab532f9faa4fef05a39a92b4c42773e67622fe32360d84301831"
+  },
+  {
+    "id": "ECC.3.6",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 6,
+    "text": "A time to get, and a time to lose; a time to keep, and a time to cast away; {get: or, seek}",
+    "hash": "1cb7431cf5fa0160bad3c1c7307954f7c591c7b3db66ab0602ad8364efda920a"
+  },
+  {
+    "id": "ECC.3.7",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 7,
+    "text": "A time to rend, and a time to sew; a time to keep silence, and a time to speak;",
+    "hash": "a74772e5ff7a97a3589bb94058d3012d6a34ce1a6bf071dcd9e13034eb4b93b4"
+  },
+  {
+    "id": "ECC.3.8",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 8,
+    "text": "A time to love, and a time to hate; a time of war, and a time of peace.",
+    "hash": "15aa14cdd2a6a7beeaae6e62af4d2e3f8f6f61cd072c466ce8d95fa8081b9763"
+  },
+  {
+    "id": "ECC.3.9",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 9,
+    "text": "What profit hath he that worketh in that wherein he laboureth?",
+    "hash": "689f55ea0587735f4eee95877d18eb33787c27a405f46c09e8040060c470f343"
+  },
+  {
+    "id": "ECC.3.10",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 10,
+    "text": "I have seen the travail, which God hath given to the sons of men to be exercised in it.",
+    "hash": "e980f1b6752367d1254cc55b926c63566855b110e040749eaebe8596c7cd589d"
+  },
+  {
+    "id": "ECC.3.11",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 11,
+    "text": "He hath made every {thing} beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.",
+    "hash": "cca027f922d417048fd47b0eedb218ac1b011cfcbf4a70b3ab839386529ec19c"
+  },
+  {
+    "id": "ECC.3.12",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 12,
+    "text": "I know that {there is} no good in them, but for {a man} to rejoice, and to do good in his life.",
+    "hash": "42bcf97187f97e7ec6863bd27b983d90bc9d497090fea03580b1d29b56000781"
+  },
+  {
+    "id": "ECC.3.13",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 13,
+    "text": "And also that every man should eat and drink, and enjoy the good of all his labour, it {is} the gift of God.",
+    "hash": "1e2199c07a7aa570c02a0ed506863490984c584e41038b8044294bc71ee06ad2"
+  },
+  {
+    "id": "ECC.3.14",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 14,
+    "text": "I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth {it}, that {men} should fear before him.",
+    "hash": "26e08098c6edb6aeeb5e53dee188fcd9b451d73b6762352b9bfdab9fa64b6cee"
+  },
+  {
+    "id": "ECC.3.15",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 15,
+    "text": "That which hath been is now; and that which is to be hath already been; and God requireth that which is past. {that which is past: Heb. that which is driven away}",
+    "hash": "845d67050b7c52cc097b6e8f65ef4270a3130caf86100797a1a443f0ef73b46a"
+  },
+  {
+    "id": "ECC.3.16",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 16,
+    "text": "And moreover I saw under the sun the place of judgment, {that} wickedness {was} there; and the place of righteousness, {that} iniquity {was} there.",
+    "hash": "6cad5fc2b2dd3a8120c5cafb59ddbf4bbed3f052cc6c8418a52ca3cd3fcdf9b3"
+  },
+  {
+    "id": "ECC.3.17",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 17,
+    "text": "I said in mine heart, God shall judge the righteous and the wicked: for {there is} a time there for every purpose and for every work.",
+    "hash": "d9e4c3089caab72648db7450cd062d335bf81ae6be37be69e388c95ae216f8c8"
+  },
+  {
+    "id": "ECC.3.18",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 18,
+    "text": "I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts. {that God...: or, that they might clear God, and see, etc}",
+    "hash": "0f9b49e8e1d352bdd21abeb87c3df9075a9c0279fd3c136bf8ea50387e84a399"
+  },
+  {
+    "id": "ECC.3.19",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 19,
+    "text": "For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all {is} vanity.",
+    "hash": "6dc281eb1b6d597a0d9ba4849edf39c2b7f0d8e929d68ba780371e3d3cb22f75"
+  },
+  {
+    "id": "ECC.3.20",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 20,
+    "text": "All go unto one place; all are of the dust, and all turn to dust again.",
+    "hash": "63c0923aa6e684193a7ba54033ef151b68b53d1d492033ab83d3bc402ee5ce73"
+  },
+  {
+    "id": "ECC.3.21",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 21,
+    "text": "Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth? {of man: Heb. of the sons of man} {goeth upward: Heb. is ascending, etc}",
+    "hash": "f92af2569d2a113f3bcc95f5ac3fa334d1c07976ea756d61e897f895173f66a5"
+  },
+  {
+    "id": "ECC.3.22",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 3,
+    "verse": 22,
+    "text": "Wherefore I perceive that {there is} nothing better, than that a man should rejoice in his own works; for that {is} his portion: for who shall bring him to see what shall be after him?",
+    "hash": "c454d6e76e933f879571f2264850cccd8bf7db8ea28c7b562683be1599b86837"
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "NEH.10.1",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 1,
+    "text": "Now those that sealed {were}, Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah, {those...: Heb. at the sealings} {the Tirshatha: or, the governor}",
+    "hash": "f94bd775c5354b06fdd89ec41ba41bf0436e830b90a1f24eae425d2d8d3c5a33"
+  },
+  {
+    "id": "NEH.10.2",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 2,
+    "text": "Seraiah, Azariah, Jeremiah,",
+    "hash": "089dcd30dc60be7bb2043e3fe6375a592b06f0bafb837c00d5b7f974553eb3fc"
+  },
+  {
+    "id": "NEH.10.3",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 3,
+    "text": "Pashur, Amariah, Malchijah,",
+    "hash": "894ec0ded32ed984762585c2b06ad15b63604704a0b415e2176e419c0be35955"
+  },
+  {
+    "id": "NEH.10.4",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 4,
+    "text": "Hattush, Shebaniah, Malluch,",
+    "hash": "5e9f533558b6f6c942b31dbc9bed4727daabc7a0e5c71e229c21f7c92c6ac375"
+  },
+  {
+    "id": "NEH.10.5",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 5,
+    "text": "Harim, Meremoth, Obadiah,",
+    "hash": "b230fbe1b36b49702f9b003be08a2fea67caf727f7c82de987f5ee615dd88d37"
+  },
+  {
+    "id": "NEH.10.6",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 6,
+    "text": "Daniel, Ginnethon, Baruch,",
+    "hash": "53582f17af90eec62a0f63e7e3076af33bbbe098429cce3cd022e40065538377"
+  },
+  {
+    "id": "NEH.10.7",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 7,
+    "text": "Meshullam, Abijah, Mijamin,",
+    "hash": "7a18233a5dcd347c0316756d47e992e7ad36b14895dbef1259fe4b50128fb8ad"
+  },
+  {
+    "id": "NEH.10.8",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 8,
+    "text": "Maaziah, Bilgai, Shemaiah: these {were} the priests.",
+    "hash": "e23156b99dc8591bf41cf275973bc221aa8b8cc8ecb28ca38bee5883910add3c"
+  },
+  {
+    "id": "NEH.10.9",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 9,
+    "text": "And the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;",
+    "hash": "8ccce4da11f06218a2cb28f906f56ff05795dfd1ffcc92e44f51f5fdb97f850a"
+  },
+  {
+    "id": "NEH.10.10",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 10,
+    "text": "And their brethren, Shebaniah, Hodijah, Kelita, Pelaiah, Hanan,",
+    "hash": "1e8e5c7131407444296bb398528b1cc234764397b1e0e70281f197a1866b2bf4"
+  },
+  {
+    "id": "NEH.10.11",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 11,
+    "text": "Micha, Rehob, Hashabiah,",
+    "hash": "b1ad24903976f5b8ec879ff68bdd54f91939dbe4b8ae1631a2c9f8cd8a6dc295"
+  },
+  {
+    "id": "NEH.10.12",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 12,
+    "text": "Zaccur, Sherebiah, Shebaniah,",
+    "hash": "86f40ba857ab0b1415561d6123c6e315b153713483fbb7a956423b7c7764ecbe"
+  },
+  {
+    "id": "NEH.10.13",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 13,
+    "text": "Hodijah, Bani, Beninu.",
+    "hash": "a49d12e8814fadb6b078e532b6216f75ec4a161aaffe6b0816879d81f12567f0"
+  },
+  {
+    "id": "NEH.10.14",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 14,
+    "text": "The chief of the people; Parosh, Pahathmoab, Elam, Zatthu, Bani,",
+    "hash": "e9aec1e4a0014f48b5d930cc8d89ec32e5478441960efefe5aedebfadb3a9db2"
+  },
+  {
+    "id": "NEH.10.15",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 15,
+    "text": "Bunni, Azgad, Bebai,",
+    "hash": "c20294f7d5046ac29e09eecc2539bcb44e82b8ae348f1dc8b1bef0e766844cf9"
+  },
+  {
+    "id": "NEH.10.16",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 16,
+    "text": "Adonijah, Bigvai, Adin,",
+    "hash": "be381cab7f42881e8bb487c94624774aa3285d6a0f5b45c3085149e3db235fed"
+  },
+  {
+    "id": "NEH.10.17",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 17,
+    "text": "Ater, Hizkijah, Azzur,",
+    "hash": "089eacb3316c8a4e6bb404e124d58c530b843f8f8aa64e0312e1d7604bcc9931"
+  },
+  {
+    "id": "NEH.10.18",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 18,
+    "text": "Hodijah, Hashum, Bezai,",
+    "hash": "001294c10e7d886ff9d303933c376ccfcbae487adcdc0fca75e07927e16fa781"
+  },
+  {
+    "id": "NEH.10.19",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 19,
+    "text": "Hariph, Anathoth, Nebai,",
+    "hash": "c0bdf3b0c668b0745b8e83ef3840897a4f5932105acebacbcabb6500f62475d0"
+  },
+  {
+    "id": "NEH.10.20",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 20,
+    "text": "Magpiash, Meshullam, Hezir,",
+    "hash": "f862bd77bd12f0c40c95c973987747f0b76dad87d2242e6ab9b9c713b10d191b"
+  },
+  {
+    "id": "NEH.10.21",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 21,
+    "text": "Meshezabeel, Zadok, Jaddua,",
+    "hash": "ff830fbce9138e9ce9117c4cc263c84ead4a8662ba5e1a5cfff8ab0b1503cb1a"
+  },
+  {
+    "id": "NEH.10.22",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 22,
+    "text": "Pelatiah, Hanan, Anaiah,",
+    "hash": "2695f1e9699a7e78508c8b1a910bbd11f4a07801076e42f48c730e5aa7e816fa"
+  },
+  {
+    "id": "NEH.10.23",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 23,
+    "text": "Hoshea, Hananiah, Hashub,",
+    "hash": "fc63c69047f156841e29f3efb30c55a0b354ff342ed985990e466937d2cb6a5f"
+  },
+  {
+    "id": "NEH.10.24",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 24,
+    "text": "Hallohesh, Pileha, Shobek,",
+    "hash": "7c97e11c91c7f59a236bdaa4cd3aa7974a7b328366f5e78f77f2c3bb6547377e"
+  },
+  {
+    "id": "NEH.10.25",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 25,
+    "text": "Rehum, Hashabnah, Maaseiah,",
+    "hash": "d65cca46d8ebbdd28f11c97023eab11b5c9c8ffa7a76781f7241ed713986cb59"
+  },
+  {
+    "id": "NEH.10.26",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 26,
+    "text": "And Ahijah, Hanan, Anan,",
+    "hash": "7d7511c8a2b2fb064dd28fbeff6663f88152f240fa8818820237d879e4b5d9a0"
+  },
+  {
+    "id": "NEH.10.27",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 27,
+    "text": "Malluch, Harim, Baanah.",
+    "hash": "3b2028078de04416ab9aae8fb2aef42d628752ed56bf30cafc320613d1fb6a8f"
+  },
+  {
+    "id": "NEH.10.28",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 28,
+    "text": "And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands unto the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;",
+    "hash": "1714fbd94604f537535747c74bb42bc2d76652b76bd6ec9e32f513561b219383"
+  },
+  {
+    "id": "NEH.10.29",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 29,
+    "text": "They clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God's law, which was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord, and his judgments and his statutes; {by: Heb. by the hand of}",
+    "hash": "9dd4079597a2edf3725fa552a8e080135a081d845188514dd1f2a59f47294368"
+  },
+  {
+    "id": "NEH.10.30",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 30,
+    "text": "And that we would not give our daughters unto the people of the land, nor take their daughters for our sons:",
+    "hash": "b6ffe3115a4dcdd275da7f43a1e25dbe4fa696fa503bd6bd25d6903df4920219"
+  },
+  {
+    "id": "NEH.10.31",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 31,
+    "text": "And {if} the people of the land bring ware or any victuals on the sabbath day to sell, {that} we would not buy it of them on the sabbath, or on the holy day: and {that} we would leave the seventh year, and the exaction of every debt. {every...: Heb. every hand}",
+    "hash": "9b016824aa0a909d252153d08a0660d9fdb50c4ec7f23762025d1923c01a6843"
+  },
+  {
+    "id": "NEH.10.32",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 32,
+    "text": "Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God;",
+    "hash": "82e8bbc2c70cca39d8141ec71fba5cfab91d72172044c845a82a9d4816a4062b"
+  },
+  {
+    "id": "NEH.10.33",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 33,
+    "text": "For the shewbread, and for the continual meat offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy {things}, and for the sin offerings to make an atonement for Israel, and {for} all the work of the house of our God.",
+    "hash": "0a5a4444194ac741c12015a1ffd61718f18a82161c148ecd6db3f193e355ebb3"
+  },
+  {
+    "id": "NEH.10.34",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 34,
+    "text": "And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring {it} into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the LORD our God, as {it is} written in the law:",
+    "hash": "6c079d3c693b2b516e11a3c2dc964087900f40166e58e8d5bf9194c9f8e7c2b3"
+  },
+  {
+    "id": "NEH.10.35",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 35,
+    "text": "And to bring the firstfruits of our ground, and the firstfruits of all fruit of all trees, year by year, unto the house of the LORD:",
+    "hash": "f75f53b6a5c742556078720fdb32cfae72a7331990a8c656ae7802f7f1430c04"
+  },
+  {
+    "id": "NEH.10.36",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 36,
+    "text": "Also the firstborn of our sons, and of our cattle, as {it is} written in the law, and the firstlings of our herds and of our flocks, to bring to the house of our God, unto the priests that minister in the house of our God:",
+    "hash": "1a9fc1a96af581efda85f2d7cb052240ecffcd4b96922f41049c11b61edcfe20"
+  },
+  {
+    "id": "NEH.10.37",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 37,
+    "text": "And {that} we should bring the firstfruits of our dough, and our offerings, and the fruit of all manner of trees, of wine and of oil, unto the priests, to the chambers of the house of our God; and the tithes of our ground unto the Levites, that the same Levites might have the tithes in all the cities of our tillage.",
+    "hash": "4776e2c01f209ff33054f87012453a2cb4e05caeb50767c7cf15d8f1dbd27e4b"
+  },
+  {
+    "id": "NEH.10.38",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 38,
+    "text": "And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes unto the house of our God, to the chambers, into the treasure house.",
+    "hash": "bb62bb22ef7ceafd660a30d23d0597481a3192b3976a1edfc6c8f483a254821d"
+  },
+  {
+    "id": "NEH.10.39",
+    "book": "Nehemiah",
+    "bookNum": 16,
+    "bookAbbrev": "NEH",
+    "chapter": 10,
+    "verse": 39,
+    "text": "For the children of Israel and the children of Levi shall bring the offering of the corn, of the new wine, and the oil, unto the chambers, where {are} the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God.",
+    "hash": "4f6175a55713c47fe87e96d09a94431f8b9597b478ace0313ea44c8e9e6dc2fb"
+  }
+]

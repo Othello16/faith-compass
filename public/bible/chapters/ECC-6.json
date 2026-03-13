@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ECC.6.1",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 6,
+    "verse": 1,
+    "text": "There is an evil which I have seen under the sun, and it {is} common among men:",
+    "hash": "137e7765967aaeb702e2f86269db9986447f29a9fd8eb4c3a015fa7906736628"
+  },
+  {
+    "id": "ECC.6.2",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 6,
+    "verse": 2,
+    "text": "A man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this {is} vanity, and it {is} an evil disease.",
+    "hash": "6e31b5790974bc5fb72b7e660a7ece7390c51a7aedcbc3d5033110c346d0b7f9"
+  },
+  {
+    "id": "ECC.6.3",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 6,
+    "verse": 3,
+    "text": "If a man beget an hundred {children}, and live many years, so that the days of his years be many, and his soul be not filled with good, and also {that} he have no burial; I say, {that} an untimely birth {is} better than he.",
+    "hash": "fab53d988e5aba54aa10b01f924fe9a808d8ff0bd5010ae5eb25c98f706ea65b"
+  },
+  {
+    "id": "ECC.6.4",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 6,
+    "verse": 4,
+    "text": "For he cometh in with vanity, and departeth in darkness, and his name shall be covered with darkness.",
+    "hash": "b54a33491409b79b5640479dbdb2a9325939a6f93151d4c581ae86b0da9d1f53"
+  },
+  {
+    "id": "ECC.6.5",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 6,
+    "verse": 5,
+    "text": "Moreover he hath not seen the sun, nor known {any thing}: this hath more rest than the other.",
+    "hash": "fee84b0782ffd47f7191f92f3c6fc0b547278a7f89346ffb5eae74d839d6fbf1"
+  },
+  {
+    "id": "ECC.6.6",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 6,
+    "verse": 6,
+    "text": "Yea, though he live a thousand years twice {told}, yet hath he seen no good: do not all go to one place?",
+    "hash": "75b6cb8921938d333cbebaff856af378e4b8cb8978583e4d624a35d98456a554"
+  },
+  {
+    "id": "ECC.6.7",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 6,
+    "verse": 7,
+    "text": "All the labour of man {is} for his mouth, and yet the appetite is not filled. {appetite: Heb. soul}",
+    "hash": "ac1de2ea249632e33050f03a386978751df689ae7ba051b40ab17b2c8020c099"
+  },
+  {
+    "id": "ECC.6.8",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 6,
+    "verse": 8,
+    "text": "For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living?",
+    "hash": "fcf5ae7cc434cbf6b1758aff5831d100b2edc64570ae82dc1469de06182e65d0"
+  },
+  {
+    "id": "ECC.6.9",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 6,
+    "verse": 9,
+    "text": "Better {is} the sight of the eyes than the wandering of the desire: this {is} also vanity and vexation of spirit. {than...: Heb. than the walking of the soul}",
+    "hash": "ad83469a37ddd405517fb724028873c8978ae8e736f4a41ada0e9969028a915f"
+  },
+  {
+    "id": "ECC.6.10",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 6,
+    "verse": 10,
+    "text": "That which hath been is named already, and it is known that it {is} man: neither may he contend with him that is mightier than he.",
+    "hash": "5f257e6f2d477a1b30b496a6ea49b2e0cd29c67708bba7cc84dbc3ed00fea77d"
+  },
+  {
+    "id": "ECC.6.11",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 6,
+    "verse": 11,
+    "text": "Seeing there be many things that increase vanity, what {is} man the better?",
+    "hash": "19e90a3e40f44aac49d75332aab9027e74c9f981397fc3fc655525f1fb453d41"
+  },
+  {
+    "id": "ECC.6.12",
+    "book": "Ecclesiastes",
+    "bookNum": 21,
+    "bookAbbrev": "ECC",
+    "chapter": 6,
+    "verse": 12,
+    "text": "For who knoweth what {is} good for man in {this} life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun? {all...: Heb. the number of the days of the life of his vanity}",
+    "hash": "3404c8cb77832a1d48659575704f10e971261dd094cc39b490fb9b422e35a109"
+  }
+]

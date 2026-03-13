@@ -1,0 +1,72 @@
+[
+  {
+    "id": "PSA.110.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 110,
+    "verse": 1,
+    "text": "[A Psalm of David.] The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
+    "hash": "16e203606019b71fe5ae7cf6777487ed70f8a2c5d1455d85e670546cf408048d"
+  },
+  {
+    "id": "PSA.110.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 110,
+    "verse": 2,
+    "text": "The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
+    "hash": "ae88544606c052ff372d8154b99f4fb12b86b0c48b34bb77c0eafe7c6dcc6cc5"
+  },
+  {
+    "id": "PSA.110.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 110,
+    "verse": 3,
+    "text": "Thy people {shall be} willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth. {from...: or, more than the womb of the morning: thou shalt have, etc}",
+    "hash": "e2fb159073eb964894726a934e02d5872c11b425a83b420fc3c47d36380253ef"
+  },
+  {
+    "id": "PSA.110.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 110,
+    "verse": 4,
+    "text": "The LORD hath sworn, and will not repent, Thou {art} a priest for ever after the order of Melchizedek.",
+    "hash": "47fc9d88381c26407ea64697d73d6e3befd7ef7be7679ffc8a047c190ebcd335"
+  },
+  {
+    "id": "PSA.110.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 110,
+    "verse": 5,
+    "text": "The Lord at thy right hand shall strike through kings in the day of his wrath.",
+    "hash": "6bc9d7627fdc0add4c4a55aa67a8d58f56eb70cbf8caed8c877c8fdfedadb79f"
+  },
+  {
+    "id": "PSA.110.6",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 110,
+    "verse": 6,
+    "text": "He shall judge among the heathen, he shall fill {the places} with the dead bodies; he shall wound the heads over many countries. {many: or, great}",
+    "hash": "501fe214a80a4aa4743b09a20d3b714f6491dd960b64c3c40bdfe00399139fa0"
+  },
+  {
+    "id": "PSA.110.7",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 110,
+    "verse": 7,
+    "text": "He shall drink of the brook in the way: therefore shall he lift up the head.",
+    "hash": "2bab2980d665abcb60c15a6803b0eaab42b0bebc361624c9d2f3048bd8e19547"
+  }
+]

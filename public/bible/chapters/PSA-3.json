@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PSA.3.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 3,
+    "verse": 1,
+    "text": "[A Psalm of David, when he fled from Absalom his son.] LORD, how are they increased that trouble me! many {are} they that rise up against me.",
+    "hash": "87e94c3c0e065935dbb76c33853ee4dafaf359f96c20b15b90a88a3acab1e928"
+  },
+  {
+    "id": "PSA.3.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 3,
+    "verse": 2,
+    "text": "Many {there be} which say of my soul, {There is} no help for him in God. Selah.",
+    "hash": "8644b8c372aedbb5c582f66dca8a0bab08fb8fec7ec262282a1aa3000ae62f8a"
+  },
+  {
+    "id": "PSA.3.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 3,
+    "verse": 3,
+    "text": "But thou, O LORD, {art} a shield for me; my glory, and the lifter up of mine head. {for: or, about}",
+    "hash": "58be8509046caf7ff7382a10866e9f2eeb50c1f3fb06e05844f8250c28e771aa"
+  },
+  {
+    "id": "PSA.3.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 3,
+    "verse": 4,
+    "text": "I cried unto the LORD with my voice, and he heard me out of his holy hill. Selah.",
+    "hash": "0bb216cd99f157ced89da327fed078465c3a72119eadba412136b2aef25b9bea"
+  },
+  {
+    "id": "PSA.3.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 3,
+    "verse": 5,
+    "text": "I laid me down and slept; I awaked; for the LORD sustained me.",
+    "hash": "ffbf5b802d3634c587aebf1e1fad1b598d64ee9ebb3a452441296a6a25267177"
+  },
+  {
+    "id": "PSA.3.6",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 3,
+    "verse": 6,
+    "text": "I will not be afraid of ten thousands of people, that have set {themselves} against me round about.",
+    "hash": "f005014701e03424cb567d24f71a25a91851caabb0104cc4829301f139c5aad7"
+  },
+  {
+    "id": "PSA.3.7",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 3,
+    "verse": 7,
+    "text": "Arise, O LORD; save me, O my God: for thou hast smitten all mine enemies {upon} the cheek bone; thou hast broken the teeth of the ungodly.",
+    "hash": "201e587b509a595030978ee671f7e0d2b21cfea74b6444d6bb2a6df2d4e235b9"
+  },
+  {
+    "id": "PSA.3.8",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 3,
+    "verse": 8,
+    "text": "Salvation {belongeth} unto the LORD: thy blessing {is} upon thy people. Selah.",
+    "hash": "e2cc3003f91da1018d4ceddd780ecc9d039a39219cee47acd54878355144e472"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PSA.123.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 123,
+    "verse": 1,
+    "text": "[A Song of degrees.] Unto thee lift I up mine eyes, O thou that dwellest in the heavens.",
+    "hash": "bca67c4dbc6b3c2267da1155e22345bdf5b8b2667085a65cd5465b3ac538e062"
+  },
+  {
+    "id": "PSA.123.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 123,
+    "verse": 2,
+    "text": "Behold, as the eyes of servants {look} unto the hand of their masters, {and} as the eyes of a maiden unto the hand of her mistress; so our eyes {wait} upon the LORD our God, until that he have mercy upon us.",
+    "hash": "e02fcf4407ef5564738857e0f1696eafde5f9a8f47301d806dab3f509df08c35"
+  },
+  {
+    "id": "PSA.123.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 123,
+    "verse": 3,
+    "text": "Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt.",
+    "hash": "ee281f3998577fcdd34b1ab79d1a03956a5aa721d4f7f64bffe9c064b2652210"
+  },
+  {
+    "id": "PSA.123.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 123,
+    "verse": 4,
+    "text": "Our soul is exceedingly filled with the scorning of those that are at ease, {and} with the contempt of the proud.",
+    "hash": "1f6cccfc78484646a6c5ebcc1b5ce366a143b4a68c217b35f135d0d6bc035f0b"
+  }
+]

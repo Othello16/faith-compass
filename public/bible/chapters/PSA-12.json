@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PSA.12.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 12,
+    "verse": 1,
+    "text": "[To the chief Musician upon Sheminith, A Psalm of David.] Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men. {upon...: or, upon the eighth} {Help: or, Save}",
+    "hash": "303f74fe2fab56e26ccb834c44134a0b27bac2881ed68569dd877119e44b89fe"
+  },
+  {
+    "id": "PSA.12.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 12,
+    "verse": 2,
+    "text": "They speak vanity every one with his neighbour: {with} flattering lips {and} with a double heart do they speak. {a double...: Heb. an heart and an heart}",
+    "hash": "b2d8d578de670ee98f490641f523552ed4aebfc8c93011887a7f38276b2b3816"
+  },
+  {
+    "id": "PSA.12.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 12,
+    "verse": 3,
+    "text": "The LORD shall cut off all flattering lips, {and} the tongue that speaketh proud things: {proud: Heb. great}",
+    "hash": "bff7b2aeb0c5f31f03766bbebb7b504e19ee0e30cc11d21f29db8a39e17b0964"
+  },
+  {
+    "id": "PSA.12.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 12,
+    "verse": 4,
+    "text": "Who have said, With our tongue will we prevail; our lips {are} our own: who {is} lord over us? {are...: Heb. are with us}",
+    "hash": "dbf4166fd19b5d7d5a36790b7d60f79c74bd2dc3bbe56fcc85c6de0ca8ad196d"
+  },
+  {
+    "id": "PSA.12.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 12,
+    "verse": 5,
+    "text": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the LORD; I will set {him} in safety {from him that} puffeth at him. {puffeth...: or, would ensnare him}",
+    "hash": "2a616426e76f1f779a965f80825eeaa093a1200528b30c2ab713dfcecb1c6fa2"
+  },
+  {
+    "id": "PSA.12.6",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 12,
+    "verse": 6,
+    "text": "The words of the LORD {are} pure words: {as} silver tried in a furnace of earth, purified seven times.",
+    "hash": "f90c476ee91daa4e5e3623743b2dbd6f9365a3634018c11c722bdf281e770151"
+  },
+  {
+    "id": "PSA.12.7",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 12,
+    "verse": 7,
+    "text": "Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever. {them from: Heb. him, etc: that is, every one of them, etc}",
+    "hash": "5f449406dbaa80fc9ccae0b46eb5ab44183d810a02e9cf11687ac5ec823a3385"
+  },
+  {
+    "id": "PSA.12.8",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 12,
+    "verse": 8,
+    "text": "The wicked walk on every side, when the vilest men are exalted. {men: Heb. of the sons of the men}",
+    "hash": "2c352c1cef116b633376f4cee1d7b607c3809b20cd3d0abc8148ea1846a28b74"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "LUK.14.1",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 1,
+    "text": "And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him.",
+    "hash": "071af9908072a3f9c4c83eee06c8406cc86851a28350b9fa8b5d5fc76c0b5cd0"
+  },
+  {
+    "id": "LUK.14.2",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 2,
+    "text": "And, behold, there was a certain man before him which had the dropsy.",
+    "hash": "2a9bc3eb329e1b1465dce1a89fd70049e93fafbfe5d81d3f0b0b6389564071f1"
+  },
+  {
+    "id": "LUK.14.3",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 3,
+    "text": "And Jesus answering spake unto the lawyers and Pharisees, saying, Is it lawful to heal on the sabbath day?",
+    "hash": "3ac995a3901a37367bfc6dd616ae7b57512f3e217ba05223dced336ca9ff46d9"
+  },
+  {
+    "id": "LUK.14.4",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 4,
+    "text": "And they held their peace. And he took {him}, and healed him, and let him go;",
+    "hash": "bc58d3dc4a752dd2a8dcb41e24a645e3feb22d64a0f9c52d7ce11790bab05cbd"
+  },
+  {
+    "id": "LUK.14.5",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 5,
+    "text": "And answered them, saying, Which of you shall have an ass or an ox fallen into a pit, and will not straightway pull him out on the sabbath day?",
+    "hash": "485f54042a2f6e29ed2b8fc5aefb9d3b220006d812059d9380810230c794056d"
+  },
+  {
+    "id": "LUK.14.6",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 6,
+    "text": "And they could not answer him again to these things.",
+    "hash": "0ac4ea60ebab3e6bda14de31866a73caff27b8bf0cd7d452f0ab38b480f223e6"
+  },
+  {
+    "id": "LUK.14.7",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 7,
+    "text": "And he put forth a parable to those which were bidden, when he marked how they chose out the chief rooms; saying unto them,",
+    "hash": "3fe003def2e4bf0b6d0fc6d93cca005e3a5b1b461e353decc15fdd8f92199a71"
+  },
+  {
+    "id": "LUK.14.8",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 8,
+    "text": "When thou art bidden of any {man} to a wedding, sit not down in the highest room; lest a more honourable man than thou be bidden of him;",
+    "hash": "8fc5ddf5ed64ac612cc2e3563a6dde5cdff33ba3e2ae2ee2e89ad81b1dc3149b"
+  },
+  {
+    "id": "LUK.14.9",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 9,
+    "text": "And he that bade thee and him come and say to thee, Give this man place; and thou begin with shame to take the lowest room.",
+    "hash": "8b886fbbc2502519236c292736e980f82ea691f3e53b88fffc494b11024b5676"
+  },
+  {
+    "id": "LUK.14.10",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 10,
+    "text": "But when thou art bidden, go and sit down in the lowest room; that when he that bade thee cometh, he may say unto thee, Friend, go up higher: then shalt thou have worship in the presence of them that sit at meat with thee.",
+    "hash": "fb91fb1d5abe212767883f57a62ba51748786de981155cd677d02e186710cbc8"
+  },
+  {
+    "id": "LUK.14.11",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 11,
+    "text": "For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted.",
+    "hash": "1f59f5aa5f6968c101c5549a5be8b332e42e30c3b1b99a9c27d50e88e2fe0956"
+  },
+  {
+    "id": "LUK.14.12",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 12,
+    "text": "Then said he also to him that bade him, When thou makest a dinner or a supper, call not thy friends, nor thy brethren, neither thy kinsmen, nor {thy} rich neighbours; lest they also bid thee again, and a recompence be made thee.",
+    "hash": "1d3a02b7cad166ca3919755831ab91091aa743e204a748298838ca967606a37e"
+  },
+  {
+    "id": "LUK.14.13",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 13,
+    "text": "But when thou makest a feast, call the poor, the maimed, the lame, the blind:",
+    "hash": "76dbb58dc7b0162d9c1b9502c11d954e7a50ac1d6f2ab01bb99d70d08403fef2"
+  },
+  {
+    "id": "LUK.14.14",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 14,
+    "text": "And thou shalt be blessed; for they cannot recompense thee: for thou shalt be recompensed at the resurrection of the just.",
+    "hash": "50afe90b7f50cc740be12e6aabe86bd43515462294fa8db0635288a7afe0f3f5"
+  },
+  {
+    "id": "LUK.14.15",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 15,
+    "text": "And when one of them that sat at meat with him heard these things, he said unto him, Blessed {is} he that shall eat bread in the kingdom of God.",
+    "hash": "cb25f1b2557ef3075056d8614e169fab913a797bcd3b2d2f33c21101d55cf047"
+  },
+  {
+    "id": "LUK.14.16",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 16,
+    "text": "Then said he unto him, A certain man made a great supper, and bade many:",
+    "hash": "afa432eebc665637f62f451b79378e6666ce351786c4a4d11465869506e2eddc"
+  },
+  {
+    "id": "LUK.14.17",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 17,
+    "text": "And sent his servant at supper time to say to them that were bidden, Come; for all things are now ready.",
+    "hash": "69dc4a11d8103953e9c3cc5f5ebb9ee2e90a72887215fdf2da7e1ffaab37cd66"
+  },
+  {
+    "id": "LUK.14.18",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 18,
+    "text": "And they all with one {consent} began to make excuse. The first said unto him, I have bought a piece of ground, and I must needs go and see it: I pray thee have me excused.",
+    "hash": "4572e9976846fa08025f8cb757d575fc789603084a8fb30010510129df571d3e"
+  },
+  {
+    "id": "LUK.14.19",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 19,
+    "text": "And another said, I have bought five yoke of oxen, and I go to prove them: I pray thee have me excused.",
+    "hash": "da50e0f8fefcf5317d8625936413bcae0bc405f083d44210db6223e796c1a7ce"
+  },
+  {
+    "id": "LUK.14.20",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 20,
+    "text": "And another said, I have married a wife, and therefore I cannot come.",
+    "hash": "60b753626209c4e3978644822eb01ea0e28df247ad6c75a0b6436c06293ccd00"
+  },
+  {
+    "id": "LUK.14.21",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 21,
+    "text": "So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind.",
+    "hash": "921a1a00baad4fc20368bade077ca3f6c9a01bd4092ed1b2ae7fa84b18cbceae"
+  },
+  {
+    "id": "LUK.14.22",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 22,
+    "text": "And the servant said, Lord, it is done as thou hast commanded, and yet there is room.",
+    "hash": "6712f0af45752e6ddb7a444ea793064c2cbf164c234ef3b6a644fb853861f20f"
+  },
+  {
+    "id": "LUK.14.23",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 23,
+    "text": "And the lord said unto the servant, Go out into the highways and hedges, and compel {them} to come in, that my house may be filled.",
+    "hash": "15d7b115827af25a9b9dc530bae4944ecf2e0776caddea4c7776327a858c2c6a"
+  },
+  {
+    "id": "LUK.14.24",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 24,
+    "text": "For I say unto you, That none of those men which were bidden shall taste of my supper.",
+    "hash": "9dd23832d2d8cf1772c80a110b4715e5156b3d0e303b660813e38d86eef00920"
+  },
+  {
+    "id": "LUK.14.25",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 25,
+    "text": "And there went great multitudes with him: and he turned, and said unto them,",
+    "hash": "ed34e2c044300f50e47552810634f35389706a27bf13a60112ff43793add23c8"
+  },
+  {
+    "id": "LUK.14.26",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 26,
+    "text": "If any {man} come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.",
+    "hash": "d784f0b82e375d87929a80294c4ad45a382dafa382c1091ea61b370365b39f9e"
+  },
+  {
+    "id": "LUK.14.27",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 27,
+    "text": "And whosoever doth not bear his cross, and come after me, cannot be my disciple.",
+    "hash": "0953f68b6e6323180bc4d6a96ed32fac735c11c0c70f660925f20b5e4d1b2d04"
+  },
+  {
+    "id": "LUK.14.28",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 28,
+    "text": "For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have {sufficient} to finish {it}?",
+    "hash": "f658aee2b3182974442c52c6a1510422f5074d86fb328e2e6d4459a11e0f2d7f"
+  },
+  {
+    "id": "LUK.14.29",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 29,
+    "text": "Lest haply, after he hath laid the foundation, and is not able to finish {it}, all that behold {it} begin to mock him,",
+    "hash": "567cfcd7242808bb09c401015fac2a9184b7e78770ad6b6f1075a2422d848c09"
+  },
+  {
+    "id": "LUK.14.30",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 30,
+    "text": "Saying, This man began to build, and was not able to finish.",
+    "hash": "4e1be4695cf25d7d7cf08f1dc093260254c8cba4ef078ff180acde354e96c57d"
+  },
+  {
+    "id": "LUK.14.31",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 31,
+    "text": "Or what king, going to make war against another king, sitteth not down first, and consulteth whether he be able with ten thousand to meet him that cometh against him with twenty thousand?",
+    "hash": "4b4234adb33b39637f7cf5774a6972502d29b6d14ba4c1123515ed05946d3701"
+  },
+  {
+    "id": "LUK.14.32",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 32,
+    "text": "Or else, while the other is yet a great way off, he sendeth an ambassage, and desireth conditions of peace.",
+    "hash": "ed3d9eca9d40bf33983ee092aede117ed01251d5498cb41f45f9ecd483117447"
+  },
+  {
+    "id": "LUK.14.33",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 33,
+    "text": "So likewise, whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple.",
+    "hash": "fe9cc016529004e7ac347975a3e539179ab1104093a8555317e15e2c66f3917a"
+  },
+  {
+    "id": "LUK.14.34",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 34,
+    "text": "Salt {is} good: but if the salt have lost his savour, wherewith shall it be seasoned?",
+    "hash": "e8feefafc8d94946b0585b948b87c261b589ca14c0822f8c2391463da4ba065a"
+  },
+  {
+    "id": "LUK.14.35",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 14,
+    "verse": 35,
+    "text": "It is neither fit for the land, nor yet for the dunghill; {but} men cast it out. He that hath ears to hear, let him hear.",
+    "hash": "84dbf004be538d89f57690699197cd4b1a7928a81f24699e92658a914867a5e8"
+  }
+]

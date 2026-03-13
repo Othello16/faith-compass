@@ -1,0 +1,72 @@
+[
+  {
+    "id": "PSA.54.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 54,
+    "verse": 1,
+    "text": "[To the chief Musician on Neginoth, Maschil, {A Psalm} of David, when the Ziphims came and said to Saul, Doth not David hide himself with us?] Save me, O God, by thy name, and judge me by thy strength. {chief...: or, overseer} {Maschil: or, of instruction}",
+    "hash": "f056de7b0e6112813640b4d9f24e1ff6168e2f7c5fe3d7851654dedc27db0439"
+  },
+  {
+    "id": "PSA.54.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 54,
+    "verse": 2,
+    "text": "Hear my prayer, O God; give ear to the words of my mouth.",
+    "hash": "d6116ce1e91989aaa44814321f58a0df5db398253cc1a7984ea0ab5d540e3089"
+  },
+  {
+    "id": "PSA.54.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 54,
+    "verse": 3,
+    "text": "For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.",
+    "hash": "54291fac5f6d2fd52ad514a43fc2f24f21982c25a8422e12af2a0ecea69eb220"
+  },
+  {
+    "id": "PSA.54.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 54,
+    "verse": 4,
+    "text": "Behold, God {is} mine helper: the Lord {is} with them that uphold my soul.",
+    "hash": "a72a754bc4742f4e33f154b82a86be457b91e769985c6001d886bf0575518317"
+  },
+  {
+    "id": "PSA.54.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 54,
+    "verse": 5,
+    "text": "He shall reward evil unto mine enemies: cut them off in thy truth. {mine...: Heb. those that observe me}",
+    "hash": "866e8e4a9453e233c4b35905da6f5835679a4f72ba2b307e8ba185a9b56b756b"
+  },
+  {
+    "id": "PSA.54.6",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 54,
+    "verse": 6,
+    "text": "I will freely sacrifice unto thee: I will praise thy name, O LORD; for {it is} good.",
+    "hash": "3e580a077ab81681aae2e64abffd6c15cfdf669daa8a1eae6057f2555582055f"
+  },
+  {
+    "id": "PSA.54.7",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 54,
+    "verse": 7,
+    "text": "For he hath delivered me out of all trouble: and mine eye hath seen {his desire} upon mine enemies.",
+    "hash": "9329edc09ca15c721281d94929b6116c25614657377ca00c115a4bc246f72793"
+  }
+]

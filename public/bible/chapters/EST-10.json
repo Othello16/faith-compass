@@ -1,0 +1,32 @@
+[
+  {
+    "id": "EST.10.1",
+    "book": "Esther",
+    "bookNum": 17,
+    "bookAbbrev": "EST",
+    "chapter": 10,
+    "verse": 1,
+    "text": "And the king Ahasuerus laid a tribute upon the land, and {upon} the isles of the sea.",
+    "hash": "83606c70e4563ed175aa289b7881f0f013f2aead42860c970d874b6ba12bb15b"
+  },
+  {
+    "id": "EST.10.2",
+    "book": "Esther",
+    "bookNum": 17,
+    "bookAbbrev": "EST",
+    "chapter": 10,
+    "verse": 2,
+    "text": "And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, {are} they not written in the book of the chronicles of the kings of Media and Persia? {advanced...: Heb. made him great}",
+    "hash": "3e3472d061a18948809e9cd815209f76146519116feb4d80860f9fe29ccbfa51"
+  },
+  {
+    "id": "EST.10.3",
+    "book": "Esther",
+    "bookNum": 17,
+    "bookAbbrev": "EST",
+    "chapter": 10,
+    "verse": 3,
+    "text": "For Mordecai the Jew {was} next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.",
+    "hash": "2d4e6957b02bbc8321e20ad3129987c5b72a74252559f62badc19ad998512797"
+  }
+]

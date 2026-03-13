@@ -1,0 +1,382 @@
+[
+  {
+    "id": "EXO.40.1",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 1,
+    "text": "And the LORD spake unto Moses, saying,",
+    "hash": "29615d17124775fa5339ffa2cd24e057ac808e6d460d778ac4e7434756684a52"
+  },
+  {
+    "id": "EXO.40.2",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 2,
+    "text": "On the first day of the first month shalt thou set up the tabernacle of the tent of the congregation.",
+    "hash": "91fa811a35efa51592c9084bc707ede2072cff21fcaf2f734230c3719b341a12"
+  },
+  {
+    "id": "EXO.40.3",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 3,
+    "text": "And thou shalt put therein the ark of the testimony, and cover the ark with the vail.",
+    "hash": "6a697b417191aefcc1160d9e7c965e71a84a00a28bf696c7f5e8b221f33189ac"
+  },
+  {
+    "id": "EXO.40.4",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 4,
+    "text": "And thou shalt bring in the table, and set in order the things that are to be set in order upon it; and thou shalt bring in the candlestick, and light the lamps thereof. {the things...: Heb. the order thereof}",
+    "hash": "570a9f0f2af060d344719d2e1461f1a012f8fb259b1730239527ca48f77cd174"
+  },
+  {
+    "id": "EXO.40.5",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 5,
+    "text": "And thou shalt set the altar of gold for the incense before the ark of the testimony, and put the hanging of the door to the tabernacle.",
+    "hash": "c11b8796b63222455ed9491ea831854e18a74c968b13820727abad22db8def2b"
+  },
+  {
+    "id": "EXO.40.6",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 6,
+    "text": "And thou shalt set the altar of the burnt offering before the door of the tabernacle of the tent of the congregation.",
+    "hash": "e4d89d37d7313121b9a6992f3fde6e580eefc83b1230bd061948cd614a2173e8"
+  },
+  {
+    "id": "EXO.40.7",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 7,
+    "text": "And thou shalt set the laver between the tent of the congregation and the altar, and shalt put water therein.",
+    "hash": "9e588c54a6948abfa73792c58aa5bd3f5c8bd0e603f6d343c5bd62447da97440"
+  },
+  {
+    "id": "EXO.40.8",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 8,
+    "text": "And thou shalt set up the court round about, and hang up the hanging at the court gate.",
+    "hash": "be2dcb8762babe1f7f6c00e9f53f14097183fdf26f623afa06aa38a0895f8677"
+  },
+  {
+    "id": "EXO.40.9",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 9,
+    "text": "And thou shalt take the anointing oil, and anoint the tabernacle, and all that {is} therein, and shalt hallow it, and all the vessels thereof: and it shall be holy.",
+    "hash": "0f104c3a9624da4560fabe42b97f50ea0e1484b509d35eb9dccd984e2f4d2369"
+  },
+  {
+    "id": "EXO.40.10",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 10,
+    "text": "And thou shalt anoint the altar of the burnt offering, and all his vessels, and sanctify the altar: and it shall be an altar most holy. {most holy: Heb. holiness of holinesses}",
+    "hash": "f2f04664fadeb25b38208e5443117d870f558b3c023123cfe2ef92bd33e3d223"
+  },
+  {
+    "id": "EXO.40.11",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 11,
+    "text": "And thou shalt anoint the laver and his foot, and sanctify it.",
+    "hash": "c64d16025833a0534956f198f091a10adcf91ae0257c306120c3e264ae2afe86"
+  },
+  {
+    "id": "EXO.40.12",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 12,
+    "text": "And thou shalt bring Aaron and his sons unto the door of the tabernacle of the congregation, and wash them with water.",
+    "hash": "4bb9444f5a422e84156cede057805a7f7465dbf21a2c7839fbe7255e8cba3421"
+  },
+  {
+    "id": "EXO.40.13",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 13,
+    "text": "And thou shalt put upon Aaron the holy garments, and anoint him, and sanctify him; that he may minister unto me in the priest's office.",
+    "hash": "bc73f7f97a5e94cc2b3de6ba1b1c54d84d6d6859b4ac785b05f6caa2b027723a"
+  },
+  {
+    "id": "EXO.40.14",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 14,
+    "text": "And thou shalt bring his sons, and clothe them with coats:",
+    "hash": "a2592b17abc241900fbe9335197ae38284b8dd30f29f21529ea2c4557d4d0f47"
+  },
+  {
+    "id": "EXO.40.15",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 15,
+    "text": "And thou shalt anoint them, as thou didst anoint their father, that they may minister unto me in the priest's office: for their anointing shall surely be an everlasting priesthood throughout their generations.",
+    "hash": "b2097bd5512f64c3055b531e891afb808c08d5530eb371b4f147c16de28c6143"
+  },
+  {
+    "id": "EXO.40.16",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 16,
+    "text": "Thus did Moses: according to all that the LORD commanded him, so did he.",
+    "hash": "778b5db4fc1836bb69f213747d63801be5dd5888e3dd3528dbcb010894e70d70"
+  },
+  {
+    "id": "EXO.40.17",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 17,
+    "text": "And it came to pass in the first month in the second year, on the first {day} of the month, {that} the tabernacle was reared up.",
+    "hash": "538cb39c7a69b84195b7f12f59972ab1a07361608237c7ae59d8cdfb92ff30b6"
+  },
+  {
+    "id": "EXO.40.18",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 18,
+    "text": "And Moses reared up the tabernacle, and fastened his sockets, and set up the boards thereof, and put in the bars thereof, and reared up his pillars.",
+    "hash": "77f6a0b5e93e1a405632975f9319976f807a14b054f36ed43688a6eded64d3ea"
+  },
+  {
+    "id": "EXO.40.19",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 19,
+    "text": "And he spread abroad the tent over the tabernacle, and put the covering of the tent above upon it; as the LORD commanded Moses.",
+    "hash": "2852e4a87dfb6282be85c2b86b5f2cf7f2d865f44b9cf00d761f1ef7e41228e4"
+  },
+  {
+    "id": "EXO.40.20",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 20,
+    "text": "And he took and put the testimony into the ark, and set the staves on the ark, and put the mercy seat above upon the ark:",
+    "hash": "c7b17295776a4fbd825d92a1da003279c78646571ab8e4bc5208b54c8c0f5bf3"
+  },
+  {
+    "id": "EXO.40.21",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 21,
+    "text": "And he brought the ark into the tabernacle, and set up the vail of the covering, and covered the ark of the testimony; as the LORD commanded Moses.",
+    "hash": "dde3c76970880c92742b8763ca1b7e1ebebb7c1c5ce6c1040d7ecd2079101980"
+  },
+  {
+    "id": "EXO.40.22",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 22,
+    "text": "And he put the table in the tent of the congregation, upon the side of the tabernacle northward, without the vail.",
+    "hash": "5d8bf07849e7823dbfcdcd4bf6799d754bcb8e49d303eb8a7aba6583b24012d2"
+  },
+  {
+    "id": "EXO.40.23",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 23,
+    "text": "And he set the bread in order upon it before the LORD; as the LORD had commanded Moses.",
+    "hash": "323a538bc71c609f6e56a96172a11442997cfca4a207a868fbc5a7ffe0a126af"
+  },
+  {
+    "id": "EXO.40.24",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 24,
+    "text": "And he put the candlestick in the tent of the congregation, over against the table, on the side of the tabernacle southward.",
+    "hash": "8d4ed395b61c7eeb5d3dfc47428d166d6913d8998935abe0429507aaf542cfad"
+  },
+  {
+    "id": "EXO.40.25",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 25,
+    "text": "And he lighted the lamps before the LORD; as the LORD commanded Moses.",
+    "hash": "eaec9a775a60a48ba89a846d2217f62a978691dea88a3a6c290be038ba99f607"
+  },
+  {
+    "id": "EXO.40.26",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 26,
+    "text": "And he put the golden altar in the tent of the congregation before the vail:",
+    "hash": "7ca351da94391599d21e214aeecd5e28659f524aaf2b42b3aba750bc752245d1"
+  },
+  {
+    "id": "EXO.40.27",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 27,
+    "text": "And he burnt sweet incense thereon; as the LORD commanded Moses.",
+    "hash": "03143d44eadef76a03784096951601cb27bfcf1deb5c8fc76d5f67a9897d15e6"
+  },
+  {
+    "id": "EXO.40.28",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 28,
+    "text": "And he set up the hanging {at} the door of the tabernacle.",
+    "hash": "401b66eee92ebb0f6e80c0a9581ecb6e078122cee9c249979ae3a56c59d3f984"
+  },
+  {
+    "id": "EXO.40.29",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 29,
+    "text": "And he put the altar of burnt offering {by} the door of the tabernacle of the tent of the congregation, and offered upon it the burnt offering and the meat offering; as the LORD commanded Moses.",
+    "hash": "27aa18ceb3835cfd0c3ff44665865e2341084c1898a68f4bfc0e290cdf13b846"
+  },
+  {
+    "id": "EXO.40.30",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 30,
+    "text": "And he set the laver between the tent of the congregation and the altar, and put water there, to wash {withal}.",
+    "hash": "4310b1fb2edd0a7db1e24e282f330ea0e3b70ca33ba019ded0dddcb7d0f51ff5"
+  },
+  {
+    "id": "EXO.40.31",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 31,
+    "text": "And Moses and Aaron and his sons washed their hands and their feet thereat:",
+    "hash": "f7d7d37a54e9c9fbdfb10c0853567216f961d2459a2c4d3174046a783acc177e"
+  },
+  {
+    "id": "EXO.40.32",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 32,
+    "text": "When they went into the tent of the congregation, and when they came near unto the altar, they washed; as the LORD commanded Moses.",
+    "hash": "638bb0c9f235b63c2ca3f77473bc9503ca6fb0bfe4e278f1f8f6e26ece0b6ff0"
+  },
+  {
+    "id": "EXO.40.33",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 33,
+    "text": "And he reared up the court round about the tabernacle and the altar, and set up the hanging of the court gate. So Moses finished the work.",
+    "hash": "1b66c18474594401c380e7dc58e489dbb8e3e733053e664f0dc4908e95525a0d"
+  },
+  {
+    "id": "EXO.40.34",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 34,
+    "text": "Then a cloud covered the tent of the congregation, and the glory of the LORD filled the tabernacle.",
+    "hash": "9e5f4968939dd99ea9effee2570e9287367c4cd9d536cc1353394f99f1a2cc4d"
+  },
+  {
+    "id": "EXO.40.35",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 35,
+    "text": "And Moses was not able to enter into the tent of the congregation, because the cloud abode thereon, and the glory of the LORD filled the tabernacle.",
+    "hash": "b6c56c75c9fed49539ca6d94bad001203f86cd2927a44e6bf1148557229752e3"
+  },
+  {
+    "id": "EXO.40.36",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 36,
+    "text": "And when the cloud was taken up from over the tabernacle, the children of Israel went onward in all their journeys: {went onward: Heb. journeyed}",
+    "hash": "a65b23737ff75708456c1853bb8fd019d3ec9fe6465645383f2e6e8d80c59556"
+  },
+  {
+    "id": "EXO.40.37",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 37,
+    "text": "But if the cloud were not taken up, then they journeyed not till the day that it was taken up.",
+    "hash": "070679a1f613c02d4947d9f07d3088a050966cd25d077d12e9cc22ba130c9966"
+  },
+  {
+    "id": "EXO.40.38",
+    "book": "Exodus",
+    "bookNum": 2,
+    "bookAbbrev": "EXO",
+    "chapter": 40,
+    "verse": 38,
+    "text": "For the cloud of the LORD {was} upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys.",
+    "hash": "b9fb3117975c9e10987d35de6c47f4440d9d96e1dce54d27da46ab6fb1c57eea"
+  }
+]

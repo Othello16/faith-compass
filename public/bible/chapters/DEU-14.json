@@ -1,0 +1,292 @@
+[
+  {
+    "id": "DEU.14.1",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 1,
+    "text": "Ye {are} the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.",
+    "hash": "38938fa8f1e288ed13d436f283caee611ee0ec03ac2b60f99d0d270cb3015d02"
+  },
+  {
+    "id": "DEU.14.2",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 2,
+    "text": "For thou {art} an holy people unto the LORD thy God, and the LORD hath chosen thee to be a peculiar people unto himself, above all the nations that {are} upon the earth.",
+    "hash": "be182113780a7d3deaed3055e4f5c68d9ee0feaa5c309263817ea6951ae7dc96"
+  },
+  {
+    "id": "DEU.14.3",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 3,
+    "text": "Thou shalt not eat any abominable thing.",
+    "hash": "588e3da91d019272d8ec73b0f0567fb75e45676be24f7d8a4651a6168c45da1a"
+  },
+  {
+    "id": "DEU.14.4",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 4,
+    "text": "These {are} the beasts which ye shall eat: the ox, the sheep, and the goat,",
+    "hash": "f8d95f60151481863d36fee6072070e40d537e117ce0a568574656fd75bb0b23"
+  },
+  {
+    "id": "DEU.14.5",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 5,
+    "text": "The hart, and the roebuck, and the fallow deer, and the wild goat, and the pygarg, and the wild ox, and the chamois. {pygarg: or bison: Heb. dishon}",
+    "hash": "d888dc638de31ff3070f30d79da69c9dcbe0641960f440fd737162555973313b"
+  },
+  {
+    "id": "DEU.14.6",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 6,
+    "text": "And every beast that parteth the hoof, and cleaveth the cleft into two claws, {and} cheweth the cud among the beasts, that ye shall eat.",
+    "hash": "373e91551df6f96d849ac37bb9271843f463881c5e0e4e097694975a69b16ab2"
+  },
+  {
+    "id": "DEU.14.7",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 7,
+    "text": "Nevertheless these ye shall not eat of them that chew the cud, or of them that divide the cloven hoof; {as} the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; {therefore} they {are} unclean unto you.",
+    "hash": "4d7420da019036e9193ed8fdd5d1c6a8559153bed5b347e7aa0dcdb738a920da"
+  },
+  {
+    "id": "DEU.14.8",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 8,
+    "text": "And the swine, because it divideth the hoof, yet cheweth not the cud, it {is} unclean unto you: ye shall not eat of their flesh, nor touch their dead carcase.",
+    "hash": "c26b02b6a47d437e3e391cd37c0addcbda0887e28638eb7bdccaf803c4755646"
+  },
+  {
+    "id": "DEU.14.9",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 9,
+    "text": "These ye shall eat of all that {are} in the waters: all that have fins and scales shall ye eat:",
+    "hash": "cd217fa0ecacdba44ef93f9a8bf0a815554669121bf916553a76579216b104d4"
+  },
+  {
+    "id": "DEU.14.10",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 10,
+    "text": "And whatsoever hath not fins and scales ye may not eat; it {is} unclean unto you.",
+    "hash": "52b055e97ede43f4eef188f8fc258753408d5d8caf6a110a8948158aea38938c"
+  },
+  {
+    "id": "DEU.14.11",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 11,
+    "text": "{Of} all clean birds ye shall eat.",
+    "hash": "a57fc59f78454d2f7996ee38da76405df1ddfa1f65bc70770d4564ded59dd151"
+  },
+  {
+    "id": "DEU.14.12",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 12,
+    "text": "But these {are they} of which ye shall not eat: the eagle, and the ossifrage, and the ospray,",
+    "hash": "36236fb1cc2fc0822f640c3efa5a248f60ecc5d02c51cb0adbdcc6ce0737cd29"
+  },
+  {
+    "id": "DEU.14.13",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 13,
+    "text": "And the glede, and the kite, and the vulture after his kind,",
+    "hash": "26e57809e41240534c5efd5478a994fd870520574693c1de965ac480daabe421"
+  },
+  {
+    "id": "DEU.14.14",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 14,
+    "text": "And every raven after his kind,",
+    "hash": "7547a184bea02224f2f6624fc5ee85f717b58cb05e17fafa21963f8a60dadd9c"
+  },
+  {
+    "id": "DEU.14.15",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 15,
+    "text": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,",
+    "hash": "8549e446892e63429ae54e762cd07f8c3df2fe37a3f3d756c6f02d567ecd5a14"
+  },
+  {
+    "id": "DEU.14.16",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 16,
+    "text": "The little owl, and the great owl, and the swan,",
+    "hash": "fd8f605da18a37e8b884dd3dd639531fecc20292b144e63941bc67c09f9e7b13"
+  },
+  {
+    "id": "DEU.14.17",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 17,
+    "text": "And the pelican, and the gier eagle, and the cormorant,",
+    "hash": "e485bb6714a4d2dc22f8201240812b5fefb4a3e4d9e95229a17eb176e80cfd6f"
+  },
+  {
+    "id": "DEU.14.18",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 18,
+    "text": "And the stork, and the heron after her kind, and the lapwing, and the bat.",
+    "hash": "935102b0efb8a318145fcdbf93fa8734a4ac40b1ea7ab780057c5b6711752866"
+  },
+  {
+    "id": "DEU.14.19",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 19,
+    "text": "And every creeping thing that flieth {is} unclean unto you: they shall not be eaten.",
+    "hash": "c16050b54d11eb52a8efbdfff1d5b3b1f7f9be7f2d922e8e591ae9057230b399"
+  },
+  {
+    "id": "DEU.14.20",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 20,
+    "text": "{But of} all clean fowls ye may eat.",
+    "hash": "b64db339be6f542104a1b3343def9d153b7ecc12ffb403f31d2913d7afd6a5a8"
+  },
+  {
+    "id": "DEU.14.21",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 21,
+    "text": "Ye shall not eat {of} any thing that dieth of itself: thou shalt give it unto the stranger that {is} in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou {art} an holy people unto the LORD thy God. Thou shalt not seethe a kid in his mother's milk.",
+    "hash": "1120d37caf5d5600dcdf4001b081880e410fc640f49869754536d4f2cdf30f96"
+  },
+  {
+    "id": "DEU.14.22",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 22,
+    "text": "Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year.",
+    "hash": "2ae4c2c37f8dd7a6c317a4523666563209d10ec1e4bee282890c3212a4dba747"
+  },
+  {
+    "id": "DEU.14.23",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 23,
+    "text": "And thou shalt eat before the LORD thy God, in the place which he shall choose to place his name there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the LORD thy God always.",
+    "hash": "b7ba2fb3466f37b0dcbce422fe8205dd796d5ac4faf9e7ba77ce8270e8e1d1e1"
+  },
+  {
+    "id": "DEU.14.24",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 24,
+    "text": "And if the way be too long for thee, so that thou art not able to carry it; {or} if the place be too far from thee, which the LORD thy God shall choose to set his name there, when the LORD thy God hath blessed thee:",
+    "hash": "0396c1fe0b0fd4c75d956b672a1bc133e4113895de59182501b29f5f6a953799"
+  },
+  {
+    "id": "DEU.14.25",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 25,
+    "text": "Then shalt thou turn {it} into money, and bind up the money in thine hand, and shalt go unto the place which the LORD thy God shall choose:",
+    "hash": "ec210547b5e6ed72133a801078256515a6fb53e513f924bf92e88ef486fb179f"
+  },
+  {
+    "id": "DEU.14.26",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 26,
+    "text": "And thou shalt bestow that money for whatsoever thy soul lusteth after, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever thy soul desireth: and thou shalt eat there before the LORD thy God, and thou shalt rejoice, thou, and thine household, {desireth: Heb. asketh of thee}",
+    "hash": "e8be6943afe49b5d93f0176b747a0676ff0c8898babb671028847dd4a99921b1"
+  },
+  {
+    "id": "DEU.14.27",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 27,
+    "text": "And the Levite that {is} within thy gates; thou shalt not forsake him; for he hath no part nor inheritance with thee.",
+    "hash": "1ca17e1dbb543c8e769f0b915a602da4e85cf1bb47bfb96a0e3924772ea997fe"
+  },
+  {
+    "id": "DEU.14.28",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 28,
+    "text": "At the end of three years thou shalt bring forth all the tithe of thine increase the same year, and shalt lay {it} up within thy gates:",
+    "hash": "2b08af0ad99f970a58886dc5bd4e548adf2d9b4618ceaafde63c09e7f542dcf8"
+  },
+  {
+    "id": "DEU.14.29",
+    "book": "Deuteronomy",
+    "bookNum": 5,
+    "bookAbbrev": "DEU",
+    "chapter": 14,
+    "verse": 29,
+    "text": "And the Levite, (because he hath no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which {are} within thy gates, shall come, and shall eat and be satisfied; that the LORD thy God may bless thee in all the work of thine hand which thou doest.",
+    "hash": "dd8cfde7c200939b72683048f87c22f1999f0e497581db6a949687e6bbcac515"
+  }
+]

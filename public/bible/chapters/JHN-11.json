@@ -1,0 +1,572 @@
+[
+  {
+    "id": "JHN.11.1",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 1,
+    "text": "Now a certain {man} was sick, {named} Lazarus, of Bethany, the town of Mary and her sister Martha.",
+    "hash": "3299691792fe5e7a9bdc2d371f969783712f9917414c6672d14bd4942a6c577a"
+  },
+  {
+    "id": "JHN.11.2",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 2,
+    "text": "(It was {that} Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)",
+    "hash": "19d77cb407feff0a623aca8569622b959472627e9585fcf9aeba343bfc92412b"
+  },
+  {
+    "id": "JHN.11.3",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 3,
+    "text": "Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick.",
+    "hash": "59940e44885e705fc738e4609e3bcdb0c634d738ffaab216e48d6cf35450746e"
+  },
+  {
+    "id": "JHN.11.4",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 4,
+    "text": "When Jesus heard {that}, he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.",
+    "hash": "5237ec6b32b004463526260ddf6381f5cb502f93bf52702c228d6ca55d552df7"
+  },
+  {
+    "id": "JHN.11.5",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 5,
+    "text": "Now Jesus loved Martha, and her sister, and Lazarus.",
+    "hash": "ad0151a69b1cc8089a9a3e5dc9b9da5ac4d71dc04f58a603ee05a75d12b9c57c"
+  },
+  {
+    "id": "JHN.11.6",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 6,
+    "text": "When he had heard therefore that he was sick, he abode two days still in the same place where he was.",
+    "hash": "caa84ffcc042f37583f9091a6f157624e0e16d0f4575c945ebf8556b2b8ced02"
+  },
+  {
+    "id": "JHN.11.7",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 7,
+    "text": "Then after that saith he to {his} disciples, Let us go into Judaea again.",
+    "hash": "f72431585a4cfd0521394d9ef73e300ab630e51f89ef249c60cc14e13b50f439"
+  },
+  {
+    "id": "JHN.11.8",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 8,
+    "text": "{His} disciples say unto him, Master, the Jews of late sought to stone thee; and goest thou thither again?",
+    "hash": "6070f3210dea33b3e517cce3fc76a1f0406fc8c60a98bf6d8330ebb77dfe6fb5"
+  },
+  {
+    "id": "JHN.11.9",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 9,
+    "text": "Jesus answered, Are there not twelve hours in the day? If any man walk in the day, he stumbleth not, because he seeth the light of this world.",
+    "hash": "789b3d084a360563652086a8e344c27d879a0ec214c30428330c1c12fc16b40e"
+  },
+  {
+    "id": "JHN.11.10",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 10,
+    "text": "But if a man walk in the night, he stumbleth, because there is no light in him.",
+    "hash": "ec4f4c369cb221de52dab224693612096123bc4d663c1b65576fe7136d02383c"
+  },
+  {
+    "id": "JHN.11.11",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 11,
+    "text": "These things said he: and after that he saith unto them, Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep.",
+    "hash": "162c6e991f89b9aa92ab644c590097e4b8770f96621a9f0ce87cd8ab779b425a"
+  },
+  {
+    "id": "JHN.11.12",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 12,
+    "text": "Then said his disciples, Lord, if he sleep, he shall do well.",
+    "hash": "0a042ceeb650d19cfb80ee7470076777ad99de3c0d8227d7dc3d4c99495fd84d"
+  },
+  {
+    "id": "JHN.11.13",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 13,
+    "text": "Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.",
+    "hash": "c5564d4361748a9a68bde63af79c37a9a801b1814024c32dfc21578b8464d7f0"
+  },
+  {
+    "id": "JHN.11.14",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 14,
+    "text": "Then said Jesus unto them plainly, Lazarus is dead.",
+    "hash": "c53c5288f9eba54ee3524afa6db4d44da04df51a3c99725054527be7045535c0"
+  },
+  {
+    "id": "JHN.11.15",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 15,
+    "text": "And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.",
+    "hash": "304d0259b90085811dc04dabd448ecd8489f94bb3127aaf60e1c44d94fc07850"
+  },
+  {
+    "id": "JHN.11.16",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 16,
+    "text": "Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him.",
+    "hash": "b8d76accc2a10b8d703091e81ca2ca340a1e6a8723243a3b60e07c33282553a5"
+  },
+  {
+    "id": "JHN.11.17",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 17,
+    "text": "Then when Jesus came, he found that he had {lain} in the grave four days already.",
+    "hash": "ddd70a7a1647f25080399acdfa84c3489b8bb9eb0ffec91e3a8d6a3c9ec62ec0"
+  },
+  {
+    "id": "JHN.11.18",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 18,
+    "text": "Now Bethany was nigh unto Jerusalem, about fifteen furlongs off: {about...: that is, about two miles}",
+    "hash": "5e100bac319dd6e784d59b40149f24321574a6236c1e7cef8dc856207c1cc999"
+  },
+  {
+    "id": "JHN.11.19",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 19,
+    "text": "And many of the Jews came to Martha and Mary, to comfort them concerning their brother.",
+    "hash": "a12ebc054b1882ce7c2e778b4461203b5a250e9185c231a2f6f805e2779b487c"
+  },
+  {
+    "id": "JHN.11.20",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 20,
+    "text": "Then Martha, as soon as she heard that Jesus was coming, went and met him: but Mary sat {still} in the house.",
+    "hash": "485d07ad0f858d71748a9e69d901f49a4c9b5336a892bbb4a72b70cdd80efcb4"
+  },
+  {
+    "id": "JHN.11.21",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 21,
+    "text": "Then said Martha unto Jesus, Lord, if thou hadst been here, my brother had not died.",
+    "hash": "ced223d665ee6dba1f378a5acf63df22ce3a4783d896d2bae89a42b8dd35cca2"
+  },
+  {
+    "id": "JHN.11.22",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 22,
+    "text": "But I know, that even now, whatsoever thou wilt ask of God, God will give {it} thee.",
+    "hash": "1384ed15772536988fe09471ccd9d4fd9bea0a4beff1eaa3e926b31ad08a397e"
+  },
+  {
+    "id": "JHN.11.23",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 23,
+    "text": "Jesus saith unto her, Thy brother shall rise again.",
+    "hash": "ae1d155131da373fd7da3933830138fe4acff331491c9540fb0d236a7ae77668"
+  },
+  {
+    "id": "JHN.11.24",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 24,
+    "text": "Martha saith unto him, I know that he shall rise again in the resurrection at the last day.",
+    "hash": "48fa05f33a6e0cdf7b8204f14d0267553371f00e1894d8205056822d435155d5"
+  },
+  {
+    "id": "JHN.11.25",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 25,
+    "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:",
+    "hash": "645ee04bb468a6e663c228881cc27a9e4ebad306aa031e46266c4e8ccd966562"
+  },
+  {
+    "id": "JHN.11.26",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 26,
+    "text": "And whosoever liveth and believeth in me shall never die. Believest thou this?",
+    "hash": "a3ad4840b45e933f3394a7e8b11383d0b852a5ddbab6f8626cc94b272b310f79"
+  },
+  {
+    "id": "JHN.11.27",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 27,
+    "text": "She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world.",
+    "hash": "5fd636599b6932f1d586035c459935abdac056b0349795494e4840ad521bb165"
+  },
+  {
+    "id": "JHN.11.28",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 28,
+    "text": "And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calleth for thee.",
+    "hash": "436143a8056c067d44c733d6be3eeac66e60ade57c8c85d39398b4be2a812f14"
+  },
+  {
+    "id": "JHN.11.29",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 29,
+    "text": "As soon as she heard {that}, she arose quickly, and came unto him.",
+    "hash": "5865fc86d1f17a97a8be41c10a1fac601b7d5e027a57d92cc679032a321b6362"
+  },
+  {
+    "id": "JHN.11.30",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 30,
+    "text": "Now Jesus was not yet come into the town, but was in that place where Martha met him.",
+    "hash": "7a67bed31989a3e123bb92e75d53e359cb900fd652f6f39dd149a880bb428f4c"
+  },
+  {
+    "id": "JHN.11.31",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 31,
+    "text": "The Jews then which were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goeth unto the grave to weep there.",
+    "hash": "ab61b9b220d575c6174e39bf14b62d39cd0baa481f6f96b35fc999086b07315c"
+  },
+  {
+    "id": "JHN.11.32",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 32,
+    "text": "Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying unto him, Lord, if thou hadst been here, my brother had not died.",
+    "hash": "559ddd051ad7d61f72fe5c5e1dc2c20c1270981b831b4e20d183449a681eaec1"
+  },
+  {
+    "id": "JHN.11.33",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 33,
+    "text": "When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled, {was troubled: Gr. he troubled himself}",
+    "hash": "8772e591d4314a16c82d3f9ac19fb735bc58d813e92c876e8b591284ace8c297"
+  },
+  {
+    "id": "JHN.11.34",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 34,
+    "text": "And said, Where have ye laid him? They said unto him, Lord, come and see.",
+    "hash": "46ead2fcdda68c84aea916a1e33f0bc3d68ccef405eb211d1c2cedc20ca87159"
+  },
+  {
+    "id": "JHN.11.35",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 35,
+    "text": "Jesus wept.",
+    "hash": "37c0a7cae6955a79b8c7dc2663fea265e804a7e88d69ca011fa0bcc83beb521d"
+  },
+  {
+    "id": "JHN.11.36",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 36,
+    "text": "Then said the Jews, Behold how he loved him!",
+    "hash": "ef0d4783bed76c7677644e14e0fcb68854d631f53cd8c9c929e91305657e911c"
+  },
+  {
+    "id": "JHN.11.37",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 37,
+    "text": "And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?",
+    "hash": "cc3e02dd8d1c128468019c2a0b33e9b3414e91ddd7c3de3aaff3a1217326add3"
+  },
+  {
+    "id": "JHN.11.38",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 38,
+    "text": "Jesus therefore again groaning in himself cometh to the grave. It was a cave, and a stone lay upon it.",
+    "hash": "1588c129e4099022dd770685e080c942a65398b9cfc2f941560618067ac094bb"
+  },
+  {
+    "id": "JHN.11.39",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 39,
+    "text": "Jesus said, Take ye away the stone. Martha, the sister of him that was dead, saith unto him, Lord, by this time he stinketh: for he hath been {dead} four days.",
+    "hash": "582eb9b1b0515c5985d61343d59c2a7d5dc23e3a0cd72507f7ddccca102c66f1"
+  },
+  {
+    "id": "JHN.11.40",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 40,
+    "text": "Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?",
+    "hash": "efd9b0e7d7e5fec909493fa0004e5531e2d93b748509df4569ffded868efce1c"
+  },
+  {
+    "id": "JHN.11.41",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 41,
+    "text": "Then they took away the stone {from the place} where the dead was laid. And Jesus lifted up {his} eyes, and said, Father, I thank thee that thou hast heard me.",
+    "hash": "840423c60d3404e0bde59e9e5b7c5722f0c71e647ce4778ed44a9ec127467377"
+  },
+  {
+    "id": "JHN.11.42",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 42,
+    "text": "And I knew that thou hearest me always: but because of the people which stand by I said {it}, that they may believe that thou hast sent me.",
+    "hash": "ba76fe7ee979c6442ec02a7f9e4b6aa5dfc653c7c557603d3a79980f35424767"
+  },
+  {
+    "id": "JHN.11.43",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 43,
+    "text": "And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.",
+    "hash": "c2e5b28d89dd7e4a421a1980c8d383981c633c6faff97dc5b0e19029ae306caa"
+  },
+  {
+    "id": "JHN.11.44",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 44,
+    "text": "And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.",
+    "hash": "2a2617b21e669a1e6ca70bd148bc848d55a7d8693b119a8b1ea1dcfacd1b5054"
+  },
+  {
+    "id": "JHN.11.45",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 45,
+    "text": "Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.",
+    "hash": "cfe4a94bb2274e086df60d80c3bccc5471f982c8acff2e7d4d06d88498cf5c53"
+  },
+  {
+    "id": "JHN.11.46",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 46,
+    "text": "But some of them went their ways to the Pharisees, and told them what things Jesus had done.",
+    "hash": "d078fd106f196ae88c79ff53b01563ce802bf35ad0c37b056922b1306a916530"
+  },
+  {
+    "id": "JHN.11.47",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 47,
+    "text": "Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.",
+    "hash": "f1b5f99518acf157ae04891fd59afaecb6e07d32edc98de928d83a76a5729bed"
+  },
+  {
+    "id": "JHN.11.48",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 48,
+    "text": "If we let him thus alone, all {men} will believe on him: and the Romans shall come and take away both our place and nation.",
+    "hash": "b911b92bb50576973f3ff5d99f2fe53025c9d44b93840de50be745fed340ebb3"
+  },
+  {
+    "id": "JHN.11.49",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 49,
+    "text": "And one of them, {named} Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,",
+    "hash": "3d5ee5d21bc18dac8d236d29809aca7e51cdd104d0954e788c66115d1ad362a2"
+  },
+  {
+    "id": "JHN.11.50",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 50,
+    "text": "Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.",
+    "hash": "9d5bcfd56fa714b75203ff72f8fd2daf0fbf7701f201d03d68c9423a729ac1d3"
+  },
+  {
+    "id": "JHN.11.51",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 51,
+    "text": "And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;",
+    "hash": "4dc343eebd02e47baa9f3cac43cb7d725170f6ac2ddef5a7051f75f37d4e8b72"
+  },
+  {
+    "id": "JHN.11.52",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 52,
+    "text": "And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.",
+    "hash": "2ffcc6938e6f8082aaa7a482d68a9933593ad6c5a476f2bc78bbf7c6dac17805"
+  },
+  {
+    "id": "JHN.11.53",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 53,
+    "text": "Then from that day forth they took counsel together for to put him to death.",
+    "hash": "4d87a1fa74992895e9cdfccff8e953258458719e97dcc876dd2a5b6d9c3e4632"
+  },
+  {
+    "id": "JHN.11.54",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 54,
+    "text": "Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.",
+    "hash": "f04194b9ef73c34c71d995f7d6ed74f82abe0f8d85942fc35fb5af82b124b055"
+  },
+  {
+    "id": "JHN.11.55",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 55,
+    "text": "And the Jews' passover was nigh at hand: and many went out of the country up to Jerusalem before the passover, to purify themselves.",
+    "hash": "e0f2859a2faaeed1046e3728a427a562c35a2b611d7c17e914aaf5ce0a16dea5"
+  },
+  {
+    "id": "JHN.11.56",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 56,
+    "text": "Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?",
+    "hash": "6260d02721211f3a169b9dffc8a93051974ad6ccb4b268810b7dff71c86e23f0"
+  },
+  {
+    "id": "JHN.11.57",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 11,
+    "verse": 57,
+    "text": "Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew {it}, that they might take him.",
+    "hash": "4e12ea8dc130fcdde69601a819e28989a627ea10004532ce4bba5786c498eae4"
+  }
+]
