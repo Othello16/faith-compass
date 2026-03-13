@@ -214,13 +214,6 @@ export default function TopicsPage() {
               disabled={listening}
               className="flex-1 bg-transparent text-white placeholder-white/30 outline-none text-sm"
             />
-            <button
-              onClick={() => handleSearch()}
-              disabled={(!topic.trim() && !listening) || loading}
-              className="shrink-0 bg-[#1E40AF] text-white px-4 py-2 rounded-xl text-sm font-medium hover:bg-blue-700 transition disabled:opacity-40"
-            >
-              {loading ? '...' : 'Search'}
-            </button>
           </div>
           {listening && (
             <div className="mt-3 flex items-center gap-2 text-red-400 text-xs">
@@ -228,6 +221,13 @@ export default function TopicsPage() {
               Listening... say a Bible topic
             </div>
           )}
+          <button
+            onClick={() => handleSearch()}
+            disabled={(!topic.trim() && !listening) || loading}
+            className="mt-3 w-full bg-[#1E40AF] text-white py-3 rounded-xl text-sm font-semibold hover:bg-blue-700 transition disabled:opacity-40"
+          >
+            {loading ? 'Searching...' : 'Search Scriptures'}
+          </button>
         </div>
 
         {/* Ask the Compass button — always visible below input */}
