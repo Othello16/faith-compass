@@ -1,5 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 
+export const dynamic = 'force-dynamic'
+
 // Free tier: Nominatim (OpenStreetMap) for geocoding + Overpass API for church search
 // No API key, no billing required. Both are completely free and open.
 
