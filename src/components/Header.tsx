@@ -14,6 +14,7 @@ export default function Header() {
         {/* Nav — hidden on very small screens, shown as icons/short labels */}
         <div className="flex items-center gap-3">
           <Link href="/compass" className="text-xs text-white/60 hover:text-white transition px-2 py-1">Compass</Link>
+          <Link href="/topics" className="text-xs text-white/60 hover:text-white transition px-2 py-1 hidden sm:block">Topics</Link>
           <Link href="/churches" className="text-xs text-white/60 hover:text-white transition px-2 py-1 hidden sm:block">Churches</Link>
           <Link href="/pricing" className="text-xs text-white/60 hover:text-white transition px-2 py-1 hidden sm:block">Pricing</Link>
           <Link

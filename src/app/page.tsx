@@ -43,6 +43,11 @@ export default function Home() {
             desc: 'Locate verified congregations near you with service times that fit your schedule. Real churches. Real community. Real accountability.',
           },
           {
+            icon: '🎙️',
+            title: 'Voice Topical Bible',
+            desc: 'Speak or type any topic — prayer, forgiveness, grief, hope — and instantly see every Scripture that speaks to it. Powered by OpenBible.info. Try "What does the Bible say about anxiety?"',
+          },
+          {
             icon: '🔍',
             title: 'Faith Integrity Check',
             desc: 'Paste any sermon, article, or devotional. AI cross-references it with Scripture and flags contradictions, missing citations, or AI-generated content.',
