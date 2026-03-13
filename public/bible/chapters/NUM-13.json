@@ -1,0 +1,332 @@
+[
+  {
+    "id": "NUM.13.1",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 1,
+    "text": "And the LORD spake unto Moses, saying,",
+    "hash": "29615d17124775fa5339ffa2cd24e057ac808e6d460d778ac4e7434756684a52"
+  },
+  {
+    "id": "NUM.13.2",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 2,
+    "text": "Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them.",
+    "hash": "2bd4f242831ba2c7d90e94f35d760639359faf25171b421e460a062b2e665fba"
+  },
+  {
+    "id": "NUM.13.3",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 3,
+    "text": "And Moses by the commandment of the LORD sent them from the wilderness of Paran: all those men {were} heads of the children of Israel.",
+    "hash": "0ad9dd5cb0d39ea554d61d082f6b380913731e0d4bbacb708730e02ef4e67ece"
+  },
+  {
+    "id": "NUM.13.4",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 4,
+    "text": "And these {were} their names: of the tribe of Reuben, Shammua the son of Zaccur.",
+    "hash": "f6b7e6ce5b2ed5827358a4f8eae7b58773e79925aa9841c7ad622c0d784ceb32"
+  },
+  {
+    "id": "NUM.13.5",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 5,
+    "text": "Of the tribe of Simeon, Shaphat the son of Hori.",
+    "hash": "befe97281d58fb769e351f3d777b8ca44adae143e2d0d6f4a4e01cfb76383548"
+  },
+  {
+    "id": "NUM.13.6",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 6,
+    "text": "Of the tribe of Judah, Caleb the son of Jephunneh.",
+    "hash": "1460087df1e65f7d97c4508b44f0fd099703f0843a711a818d9fcbe0c82d925c"
+  },
+  {
+    "id": "NUM.13.7",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 7,
+    "text": "Of the tribe of Issachar, Igal the son of Joseph.",
+    "hash": "bedc1b3e2fc4fcaa5a3d853868880d21748cb2723129d5fa3fea5bd44723d2b8"
+  },
+  {
+    "id": "NUM.13.8",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 8,
+    "text": "Of the tribe of Ephraim, Oshea the son of Nun. {Oshea: also called, Joshua}",
+    "hash": "7a8f17659478ff0ed4e586611b24491ca5dd390aa9f8d536a4dffb2ec59d6569"
+  },
+  {
+    "id": "NUM.13.9",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 9,
+    "text": "Of the tribe of Benjamin, Palti the son of Raphu.",
+    "hash": "0d398fdbd34e9db0396cc90f1f9501caa18d128d79771012f7c4418dcd608060"
+  },
+  {
+    "id": "NUM.13.10",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 10,
+    "text": "Of the tribe of Zebulun, Gaddiel the son of Sodi.",
+    "hash": "bc20b3923005691881925afb407645156a12f26b6372d44dfa5c6e13e962d149"
+  },
+  {
+    "id": "NUM.13.11",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 11,
+    "text": "Of the tribe of Joseph, {namely}, of the tribe of Manasseh, Gaddi the son of Susi.",
+    "hash": "a81a41121c8bc146e06708b0a26cfe159f91138b99d317c8cae143fa5414695a"
+  },
+  {
+    "id": "NUM.13.12",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 12,
+    "text": "Of the tribe of Dan, Ammiel the son of Gemalli.",
+    "hash": "bc0186c65421463e6880accb6f5954a4a0f2ad687a3bd66d7ebf8c505fa81fff"
+  },
+  {
+    "id": "NUM.13.13",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 13,
+    "text": "Of the tribe of Asher, Sethur the son of Michael.",
+    "hash": "ac31ab963943eed58624121e01f8b38712adcb2f3a1e91c9d0269d08c30a56d0"
+  },
+  {
+    "id": "NUM.13.14",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 14,
+    "text": "Of the tribe of Naphtali, Nahbi the son of Vophsi.",
+    "hash": "33cf234a6ba48140685992f0750d66d9acd879d690e24ba511a71c952528eddd"
+  },
+  {
+    "id": "NUM.13.15",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 15,
+    "text": "Of the tribe of Gad, Geuel the son of Machi.",
+    "hash": "3691a4656253972f5e66f82ff79ce08c4e1fb4497187a2d15fb6704ce557248e"
+  },
+  {
+    "id": "NUM.13.16",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 16,
+    "text": "These {are} the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua. {Oshea: also called Joshua} {Jehoshua: or, Joshua}",
+    "hash": "15402160ce103ea70e592c8c7c025616d678c9d7c974e53229402a2a2354baf2"
+  },
+  {
+    "id": "NUM.13.17",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 17,
+    "text": "And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this {way} southward, and go up into the mountain:",
+    "hash": "1a38a518bab578c227a3654481f0a3d631e47eca312183678da71b6d7be15c43"
+  },
+  {
+    "id": "NUM.13.18",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 18,
+    "text": "And see the land, what it {is}; and the people that dwelleth therein, whether they {be} strong or weak, few or many;",
+    "hash": "303df374b2d8a9fb2709e7fc8ce52ae7e2911c9c1a6e2ffe1e120224f8ee04e7"
+  },
+  {
+    "id": "NUM.13.19",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 19,
+    "text": "And what the land {is} that they dwell in, whether it {be} good or bad; and what cities {they be} that they dwell in, whether in tents, or in strong holds;",
+    "hash": "bac7bcacb320378e5a5318190620ff09ec0f1661e477656ebc9ec0924719d4d7"
+  },
+  {
+    "id": "NUM.13.20",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 20,
+    "text": "And what the land {is}, whether it {be} fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time {was} the time of the firstripe grapes.",
+    "hash": "5f1b1966c207b372e78dd00916e6017fec287db01d1e6f1765e97c130a3ea012"
+  },
+  {
+    "id": "NUM.13.21",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 21,
+    "text": "So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath.",
+    "hash": "7d550c4dc2a7c4a41b62b192e757252dea925f4cca1e4dd55e892a6f5a504d30"
+  },
+  {
+    "id": "NUM.13.22",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 22,
+    "text": "And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, {were}. (Now Hebron was built seven years before Zoan in Egypt.)",
+    "hash": "acfeea9aa476e89d194770f58055c9c4f9b7bdae0ef9b98ef68ed7a1b4cbe227"
+  },
+  {
+    "id": "NUM.13.23",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 23,
+    "text": "And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and {they brought} of the pomegranates, and of the figs. {brook: or, valley}",
+    "hash": "0aee74d028c29573ea732d4811fd53681cc7b63b7a767536ac6ebf25adcac88f"
+  },
+  {
+    "id": "NUM.13.24",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 24,
+    "text": "The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence. {brook: or, valley} {Eshcol: that is, A cluster of grapes}",
+    "hash": "065ba6fc5a30f2c161e6607935ca4025374c3f8c23683d197c82919ff7549106"
+  },
+  {
+    "id": "NUM.13.25",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 25,
+    "text": "And they returned from searching of the land after forty days.",
+    "hash": "9a84aedb2373bb03cf264c421adbd124c40fe4514b835d897d7ac7cef6d21c87"
+  },
+  {
+    "id": "NUM.13.26",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 26,
+    "text": "And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land.",
+    "hash": "cd3e29dc5b498cea471f0a4f271585365fb666cf1c385c9d691dac1e94771f06"
+  },
+  {
+    "id": "NUM.13.27",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 27,
+    "text": "And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this {is} the fruit of it.",
+    "hash": "2a2742980c813b9ae3cce825cf52102130748131658977e94aa35fc478d6e93f"
+  },
+  {
+    "id": "NUM.13.28",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 28,
+    "text": "Nevertheless the people {be} strong that dwell in the land, and the cities {are} walled, {and} very great: and moreover we saw the children of Anak there.",
+    "hash": "35c0efdb92e005d38d8673793845d59f2f165d439c632d212d8eb744ccd63117"
+  },
+  {
+    "id": "NUM.13.29",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 29,
+    "text": "The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan.",
+    "hash": "3beceb6891f9c243e141ceb4384d6ae7b6c3a9e60f320d3b7e425b47026a2f7a"
+  },
+  {
+    "id": "NUM.13.30",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 30,
+    "text": "And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.",
+    "hash": "6119b5588b8ef4fd7bfa69e9c474e6b522f121b02fa3d2575432b5b80de49495"
+  },
+  {
+    "id": "NUM.13.31",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 31,
+    "text": "But the men that went up with him said, We be not able to go up against the people; for they {are} stronger than we.",
+    "hash": "48d5ee64b84c3578291f1db15dd3e3477ed820067212ef503b6aa9ae866e46e9"
+  },
+  {
+    "id": "NUM.13.32",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 32,
+    "text": "And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, {is} a land that eateth up the inhabitants thereof; and all the people that we saw in it {are} men of a great stature. {men...: Heb. men of statures}",
+    "hash": "1433b2d83ff705f0b70cb4266b3ff651c85e1a196d1f8a1c370fed17b59905e5"
+  },
+  {
+    "id": "NUM.13.33",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 13,
+    "verse": 33,
+    "text": "And there we saw the giants, the sons of Anak, {which come} of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.",
+    "hash": "ff05a6b26d7126c949231d91e9088034a6c3f597381890a1550d471f237c1b15"
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "id": "JHN.5.1",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 1,
+    "text": "After this there was a feast of the Jews; and Jesus went up to Jerusalem.",
+    "hash": "66a65901124b59a765d7a262344d8afbead27f509412492cb0acb9b95b760d11"
+  },
+  {
+    "id": "JHN.5.2",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 2,
+    "text": "Now there is at Jerusalem by the sheep {market} a pool, which is called in the Hebrew tongue Bethesda, having five porches. {market: or, gate}",
+    "hash": "a78ab382fdaddfe3261e5004f09f10ecc20352cd49cc699e716d7bb4cb45c06e"
+  },
+  {
+    "id": "JHN.5.3",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 3,
+    "text": "In these lay a great multitude of impotent folk, of blind, halt, withered, waiting for the moving of the water.",
+    "hash": "d10bb76e527e4db76ab25f09506d3f575ec6c3b0880a0d8144ab35fc242fe5c2"
+  },
+  {
+    "id": "JHN.5.4",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 4,
+    "text": "For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had.",
+    "hash": "6e95c90e5f83b34d6d75f23eb34278d02b866d978ee2c0c43dfc7c65251b36d6"
+  },
+  {
+    "id": "JHN.5.5",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 5,
+    "text": "And a certain man was there, which had an infirmity thirty and eight years.",
+    "hash": "75b7437feb84614ecf70099dde638bc922194cc7e8456c50eb2a70d2bd3af415"
+  },
+  {
+    "id": "JHN.5.6",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 6,
+    "text": "When Jesus saw him lie, and knew that he had been now a long time {in that case}, he saith unto him, Wilt thou be made whole?",
+    "hash": "8e160190b50cc0cd82c32604a8216de1cc75643df3ad3faf60d70ade41a1fbc0"
+  },
+  {
+    "id": "JHN.5.7",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 7,
+    "text": "The impotent man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another steppeth down before me.",
+    "hash": "91a384db80e9aed691a3f079b185ee1f0d89a702a0a2da5fa8249d2dea6a685a"
+  },
+  {
+    "id": "JHN.5.8",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 8,
+    "text": "Jesus saith unto him, Rise, take up thy bed, and walk.",
+    "hash": "6eca9caa44c2401fb6dedb5c12cbeb43bc00819c52f9a368e73d92c74b332947"
+  },
+  {
+    "id": "JHN.5.9",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 9,
+    "text": "And immediately the man was made whole, and took up his bed, and walked: and on the same day was the sabbath.",
+    "hash": "2f1fbda5610e63c657ede3b6298881bb47469210e6735735af32a1e51f845c76"
+  },
+  {
+    "id": "JHN.5.10",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 10,
+    "text": "The Jews therefore said unto him that was cured, It is the sabbath day: it is not lawful for thee to carry {thy} bed.",
+    "hash": "a3ac999ec37a615f22470f84bc04e44f1f90f1c997905024658561f286073212"
+  },
+  {
+    "id": "JHN.5.11",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 11,
+    "text": "He answered them, He that made me whole, the same said unto me, Take up thy bed, and walk.",
+    "hash": "aa7bb0dd2b327b8b83da2681a9f514a01d3334694b4481d54e8102f65445a8c3"
+  },
+  {
+    "id": "JHN.5.12",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 12,
+    "text": "Then asked they him, What man is that which said unto thee, Take up thy bed, and walk?",
+    "hash": "f53c393d8b9bff03fb286fe210ea554dba4e49d46cb14c836ca8fe532d19cbb1"
+  },
+  {
+    "id": "JHN.5.13",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 13,
+    "text": "And he that was healed wist not who it was: for Jesus had conveyed himself away, a multitude being in {that} place. {a multitude...: or, from the multitude that was}",
+    "hash": "5824b9ebffa3095bc9d57194e624bc7ba2e3462bf808e21deadbb0e7b174e371"
+  },
+  {
+    "id": "JHN.5.14",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 14,
+    "text": "Afterward Jesus findeth him in the temple, and said unto him, Behold, thou art made whole: sin no more, lest a worse thing come unto thee.",
+    "hash": "70134a58019d415c9a8774527dbee0059e6257437d5b09d4f4768eee06992d61"
+  },
+  {
+    "id": "JHN.5.15",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 15,
+    "text": "The man departed, and told the Jews that it was Jesus, which had made him whole.",
+    "hash": "b1e72d9c3533da7feaae014d241f1b98e29400c09edaf9a52c022b548a0aac1a"
+  },
+  {
+    "id": "JHN.5.16",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 16,
+    "text": "And therefore did the Jews persecute Jesus, and sought to slay him, because he had done these things on the sabbath day.",
+    "hash": "5f17193c4983f7ed43e838cf5a80d588d5235589b579496a5e6bf9948e065c57"
+  },
+  {
+    "id": "JHN.5.17",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 17,
+    "text": "But Jesus answered them, My Father worketh hitherto, and I work.",
+    "hash": "7aa8beb0ef48526ab2af96e8c3d16d9f04ca4f2fd2fe78c50b6a73515adae7f3"
+  },
+  {
+    "id": "JHN.5.18",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 18,
+    "text": "Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God.",
+    "hash": "7d394c70fbc6a25245a06834961f34c6f9706a2d9fa7c6770032a3de6c08471e"
+  },
+  {
+    "id": "JHN.5.19",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 19,
+    "text": "Then answered Jesus and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise.",
+    "hash": "c8390e6e17d48836b37bdbce601773a473b8401ca094d67a0921b2da1573b6ec"
+  },
+  {
+    "id": "JHN.5.20",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 20,
+    "text": "For the Father loveth the Son, and sheweth him all things that himself doeth: and he will shew him greater works than these, that ye may marvel.",
+    "hash": "3f28218de1188521a931fd848d48434e82fd303ce262dbfc17d37d29719e4413"
+  },
+  {
+    "id": "JHN.5.21",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 21,
+    "text": "For as the Father raiseth up the dead, and quickeneth {them}; even so the Son quickeneth whom he will.",
+    "hash": "f40bc4734a9965a33542316da1dc1e0140b2d910c8e49242929674860c39eb1f"
+  },
+  {
+    "id": "JHN.5.22",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 22,
+    "text": "For the Father judgeth no man, but hath committed all judgment unto the Son:",
+    "hash": "fc7f66f17e57d4ad2e22eef336dd6a62baa4151a9cdc7e22a35f614f6422e13d"
+  },
+  {
+    "id": "JHN.5.23",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 23,
+    "text": "That all {men} should honour the Son, even as they honour the Father. He that honoureth not the Son honoureth not the Father which hath sent him.",
+    "hash": "084ca04183d58d68335d643ad5b4751a222c20aca23c9797df29f96cf0599dad"
+  },
+  {
+    "id": "JHN.5.24",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 24,
+    "text": "Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life.",
+    "hash": "348f89156622644670c80766e6a5d0e586d9cc11f0b8ffef2962f05b9e5cdef0"
+  },
+  {
+    "id": "JHN.5.25",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 25,
+    "text": "Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live.",
+    "hash": "b35126294a4d30d84181470ff5df9104cd71fcc47843aa8538c63c620f7cedfb"
+  },
+  {
+    "id": "JHN.5.26",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 26,
+    "text": "For as the Father hath life in himself; so hath he given to the Son to have life in himself;",
+    "hash": "9e38fec1d3542352a490801532eaeb651e135d6b2ad869a002ac6957d5420cfd"
+  },
+  {
+    "id": "JHN.5.27",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 27,
+    "text": "And hath given him authority to execute judgment also, because he is the Son of man.",
+    "hash": "624f7d2ed2f18d3dca8b6a13d444579a5e98472a441fc6579f040e460f66e228"
+  },
+  {
+    "id": "JHN.5.28",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 28,
+    "text": "Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice,",
+    "hash": "1fd5393f4eeabc76f54a20c7e2376c097dab4434f66ff1e8cf615d32a53fb1c3"
+  },
+  {
+    "id": "JHN.5.29",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 29,
+    "text": "And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.",
+    "hash": "8d5dadd4347cc0ffb435324cbebae1875747cb82ee5bcccf98bb68f2689f608d"
+  },
+  {
+    "id": "JHN.5.30",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 30,
+    "text": "I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me.",
+    "hash": "4934471d4373457e641b51a370c219e359b68d276d4588338bdd37114e590421"
+  },
+  {
+    "id": "JHN.5.31",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 31,
+    "text": "If I bear witness of myself, my witness is not true.",
+    "hash": "de2e3cc5b7c23c5476553784884de03c893232249a60e7c2c3cdf037b4c59381"
+  },
+  {
+    "id": "JHN.5.32",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 32,
+    "text": "There is another that beareth witness of me; and I know that the witness which he witnesseth of me is true.",
+    "hash": "4af6ce9ab4839cd0d619e5f0f5da94c20402261a8dcff177dff7ea1ba0b93100"
+  },
+  {
+    "id": "JHN.5.33",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 33,
+    "text": "Ye sent unto John, and he bare witness unto the truth.",
+    "hash": "9605337459b070cd39b86c510123e4afdfbb0a58f7bed8265aee0d7ea3e142d1"
+  },
+  {
+    "id": "JHN.5.34",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 34,
+    "text": "But I receive not testimony from man: but these things I say, that ye might be saved.",
+    "hash": "7ee040b971894097b54f97ba2c8b987902014d97c04571ea0c59ece8f3c36d0a"
+  },
+  {
+    "id": "JHN.5.35",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 35,
+    "text": "He was a burning and a shining light: and ye were willing for a season to rejoice in his light.",
+    "hash": "0e4e798232f462e5efaf249f3e8f639d1c7a16f2849d6d23654a9bcbbb6d3c4f"
+  },
+  {
+    "id": "JHN.5.36",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 36,
+    "text": "But I have greater witness than {that} of John: for the works which the Father hath given me to finish, the same works that I do, bear witness of me, that the Father hath sent me.",
+    "hash": "7c5bbf5b4a5ab7874bb5227079d5107ff0829762ee651ec02ebca2f4b58cb114"
+  },
+  {
+    "id": "JHN.5.37",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 37,
+    "text": "And the Father himself, which hath sent me, hath borne witness of me. Ye have neither heard his voice at any time, nor seen his shape.",
+    "hash": "26e8070774f3d5f9c83df60ec3c5b8057c0aa98f6a46630469f819d2347df4f1"
+  },
+  {
+    "id": "JHN.5.38",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 38,
+    "text": "And ye have not his word abiding in you: for whom he hath sent, him ye believe not.",
+    "hash": "38eb3eb61d3580433ed7bd2abac72c03890fd1a63b27e037fb4f9e5fc485087e"
+  },
+  {
+    "id": "JHN.5.39",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 39,
+    "text": "Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.",
+    "hash": "24844fb38388406190797270c539ccfc1ac1ffab258db7d1b2ef4e543e70d45a"
+  },
+  {
+    "id": "JHN.5.40",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 40,
+    "text": "And ye will not come to me, that ye might have life.",
+    "hash": "73ffc1d4c1613238e35e470cd2c08b8d56c14e767098a1afa32ed72538ca7bf1"
+  },
+  {
+    "id": "JHN.5.41",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 41,
+    "text": "I receive not honour from men.",
+    "hash": "9ff9f4bffd25c83dc0b35239ab93f845a546079b7e54a15b5bbe4bc074c17b15"
+  },
+  {
+    "id": "JHN.5.42",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 42,
+    "text": "But I know you, that ye have not the love of God in you.",
+    "hash": "483e7ecf50d3ce3fb45b544d38c2ad8a96fdf60e5f0bd5cc79073787d47c7c12"
+  },
+  {
+    "id": "JHN.5.43",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 43,
+    "text": "I am come in my Father's name, and ye receive me not: if another shall come in his own name, him ye will receive.",
+    "hash": "b9730c9296dcc739093fec976ad3eb7dda4e4d1628f0d3713cd72d8a56f0fa9c"
+  },
+  {
+    "id": "JHN.5.44",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 44,
+    "text": "How can ye believe, which receive honour one of another, and seek not the honour that {cometh} from God only?",
+    "hash": "71f2376d1bd5f3f429a4646f26dc01700ffeda4524cf5416e55c4b8f368009fe"
+  },
+  {
+    "id": "JHN.5.45",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 45,
+    "text": "Do not think that I will accuse you to the Father: there is {one} that accuseth you, {even} Moses, in whom ye trust.",
+    "hash": "076afb73535dc459571bea6a4255a7ffe65af0615b8f7fd4b33a088d2b013df9"
+  },
+  {
+    "id": "JHN.5.46",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 46,
+    "text": "For had ye believed Moses, ye would have believed me: for he wrote of me.",
+    "hash": "928864a4fd45fc2d72aabf5d07cbd0e15dcaa2e1435414036bed18b8ed30095e"
+  },
+  {
+    "id": "JHN.5.47",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 5,
+    "verse": 47,
+    "text": "But if ye believe not his writings, how shall ye believe my words?",
+    "hash": "e54508dc6cd7838e7af5b81de32024052c134952cc36fcc901ea2b99c394cf56"
+  }
+]

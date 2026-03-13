@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PSA.138.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 138,
+    "verse": 1,
+    "text": "[{A Psalm} of David.] I will praise thee with my whole heart: before the gods will I sing praise unto thee.",
+    "hash": "788ee11bf006382dd772b632afa2d49b2cb3e8f67915bfd4347ed421087edf3e"
+  },
+  {
+    "id": "PSA.138.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 138,
+    "verse": 2,
+    "text": "I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name.",
+    "hash": "68115d44c09ef8e91af6cadd6576a555af2de41802e03d724584a0643cfde6eb"
+  },
+  {
+    "id": "PSA.138.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 138,
+    "verse": 3,
+    "text": "In the day when I cried thou answeredst me, {and} strengthenedst me {with} strength in my soul.",
+    "hash": "e92245e6f7a817dabb83ae25413ad3e0495e1ffb897a49d5370fdea149e6f685"
+  },
+  {
+    "id": "PSA.138.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 138,
+    "verse": 4,
+    "text": "All the kings of the earth shall praise thee, O LORD, when they hear the words of thy mouth.",
+    "hash": "a0c59dd0c9f76a14e35b32c86397bbc12380f7cc6752a3924a6ed91331d59579"
+  },
+  {
+    "id": "PSA.138.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 138,
+    "verse": 5,
+    "text": "Yea, they shall sing in the ways of the LORD: for great {is} the glory of the LORD.",
+    "hash": "12997bce0e2522849fc9cb89a8198c2020b89cf2f6329d9be2e30903f0336da9"
+  },
+  {
+    "id": "PSA.138.6",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 138,
+    "verse": 6,
+    "text": "Though the LORD {be} high, yet hath he respect unto the lowly: but the proud he knoweth afar off.",
+    "hash": "cc9c0f6d5f80c94657449f907b61b1f5813bbd575a46e1f15e00a0e212f85307"
+  },
+  {
+    "id": "PSA.138.7",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 138,
+    "verse": 7,
+    "text": "Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me.",
+    "hash": "967988d7f0ac7623cd240da7bad256c28a226afb855cd549f138d1046fa9f96a"
+  },
+  {
+    "id": "PSA.138.8",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 138,
+    "verse": 8,
+    "text": "The LORD will perfect {that which} concerneth me: thy mercy, O LORD, {endureth} for ever: forsake not the works of thine own hands.",
+    "hash": "14b6cce602d733f15d562d9dfa4a54a2251df8b4aac03b111abd8941a404d14b"
+  }
+]

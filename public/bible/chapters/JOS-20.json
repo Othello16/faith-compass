@@ -1,0 +1,92 @@
+[
+  {
+    "id": "JOS.20.1",
+    "book": "Joshua",
+    "bookNum": 6,
+    "bookAbbrev": "JOS",
+    "chapter": 20,
+    "verse": 1,
+    "text": "The LORD also spake unto Joshua, saying,",
+    "hash": "eb37ea44e2787d2a0fc4ea33ac8300621210877145917235159b0f66d62a02c5"
+  },
+  {
+    "id": "JOS.20.2",
+    "book": "Joshua",
+    "bookNum": 6,
+    "bookAbbrev": "JOS",
+    "chapter": 20,
+    "verse": 2,
+    "text": "Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spake unto you by the hand of Moses:",
+    "hash": "e4c1010ebb6a2a6695405e222dcd1bad494e3947e8b00d5f10edbac3fa2b1c03"
+  },
+  {
+    "id": "JOS.20.3",
+    "book": "Joshua",
+    "bookNum": 6,
+    "bookAbbrev": "JOS",
+    "chapter": 20,
+    "verse": 3,
+    "text": "That the slayer that killeth {any} person unawares {and} unwittingly may flee thither: and they shall be your refuge from the avenger of blood.",
+    "hash": "7ba5fd0702a3d04e5eb1e7c411f059e60d0007cec5fef4eaae1f7e31280c69f6"
+  },
+  {
+    "id": "JOS.20.4",
+    "book": "Joshua",
+    "bookNum": 6,
+    "bookAbbrev": "JOS",
+    "chapter": 20,
+    "verse": 4,
+    "text": "And when he that doth flee unto one of those cities shall stand at the entering of the gate of the city, and shall declare his cause in the ears of the elders of that city, they shall take him into the city unto them, and give him a place, that he may dwell among them.",
+    "hash": "d261e24cef0de60478c57428ad689dc7b75c17a7c21dbcba3ad7d09893136b96"
+  },
+  {
+    "id": "JOS.20.5",
+    "book": "Joshua",
+    "bookNum": 6,
+    "bookAbbrev": "JOS",
+    "chapter": 20,
+    "verse": 5,
+    "text": "And if the avenger of blood pursue after him, then they shall not deliver the slayer up into his hand; because he smote his neighbour unwittingly, and hated him not beforetime.",
+    "hash": "0c5ea8f021ca365b3c0b3836df697f32589d1043c3ac0b48cca23a318ae7f5dd"
+  },
+  {
+    "id": "JOS.20.6",
+    "book": "Joshua",
+    "bookNum": 6,
+    "bookAbbrev": "JOS",
+    "chapter": 20,
+    "verse": 6,
+    "text": "And he shall dwell in that city, until he stand before the congregation for judgment, {and} until the death of the high priest that shall be in those days: then shall the slayer return, and come unto his own city, and unto his own house, unto the city from whence he fled.",
+    "hash": "358a0bab64c891952868d13aeff97ab67847b2d868a257009d8a45fdb0b3aa39"
+  },
+  {
+    "id": "JOS.20.7",
+    "book": "Joshua",
+    "bookNum": 6,
+    "bookAbbrev": "JOS",
+    "chapter": 20,
+    "verse": 7,
+    "text": "And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjatharba, which {is} Hebron, in the mountain of Judah. {appointed: Heb. sanctified}",
+    "hash": "be1dc0df8442c095e1fb340d0fbb5ce64e75fba85b411bc9d63ccf6225d3ab5a"
+  },
+  {
+    "id": "JOS.20.8",
+    "book": "Joshua",
+    "bookNum": 6,
+    "bookAbbrev": "JOS",
+    "chapter": 20,
+    "verse": 8,
+    "text": "And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.",
+    "hash": "96fde6bde6da0322b482e34be096d55eb6efe3eaa219c30f2698395bde3bb00a"
+  },
+  {
+    "id": "JOS.20.9",
+    "book": "Joshua",
+    "bookNum": 6,
+    "bookAbbrev": "JOS",
+    "chapter": 20,
+    "verse": 9,
+    "text": "These were the cities appointed for all the children of Israel, and for the stranger that sojourneth among them, that whosoever killeth {any} person at unawares might flee thither, and not die by the hand of the avenger of blood, until he stood before the congregation.",
+    "hash": "0e51ca1c2f91031c351c72b3bb1a97d2be0fbb964ca01fe79e939b53d06371c1"
+  }
+]

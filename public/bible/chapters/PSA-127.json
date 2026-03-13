@@ -1,0 +1,52 @@
+[
+  {
+    "id": "PSA.127.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 127,
+    "verse": 1,
+    "text": "[A Song of degrees for Solomon.] Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh {but} in vain. {for...: or, of Solomon} {that...: Heb. that are builders of it in it}",
+    "hash": "f24d27452321ee0d38b75b62df7ebc26fcb3375a40413dbf30a2d145deb39f1b"
+  },
+  {
+    "id": "PSA.127.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 127,
+    "verse": 2,
+    "text": "{It is} vain for you to rise up early, to sit up late, to eat the bread of sorrows: {for} so he giveth his beloved sleep.",
+    "hash": "9f168999d54e74aad0c1b1753b83c1e3dd0d6dfe5f37233388d1e7adfb96099b"
+  },
+  {
+    "id": "PSA.127.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 127,
+    "verse": 3,
+    "text": "Lo, children {are} an heritage of the LORD: {and} the fruit of the womb {is his} reward.",
+    "hash": "48c823dd938faa067e9275a6f560b536a9e5f9692b855c004f23e6d6aab0d759"
+  },
+  {
+    "id": "PSA.127.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 127,
+    "verse": 4,
+    "text": "As arrows {are} in the hand of a mighty man; so {are} children of the youth.",
+    "hash": "541f2f089d05108445947fa8254091997978ddb03fff8d256baaacd128c72cb9"
+  },
+  {
+    "id": "PSA.127.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 127,
+    "verse": 5,
+    "text": "Happy {is} the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate. {his...: Heb. filled his quiver with them} {speak...: or, subdue, or, destroy}",
+    "hash": "acaff7c72c52fe2c013b3b687735202635556025a083be1bedb98494beee3a2f"
+  }
+]

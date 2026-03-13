@@ -1,0 +1,472 @@
+[
+  {
+    "id": "LUK.20.1",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 1,
+    "text": "And it came to pass, {that} on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon {him} with the elders,",
+    "hash": "c5788364e464ed0777a22e034bfae0e376aceb0dceca914652a290db57a5810a"
+  },
+  {
+    "id": "LUK.20.2",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 2,
+    "text": "And spake unto him, saying, Tell us, by what authority doest thou these things? or who is he that gave thee this authority?",
+    "hash": "b84872a7060be9709ebb6c60ad1e2647c2e3ee909022aaf64d289e8abde5f816"
+  },
+  {
+    "id": "LUK.20.3",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 3,
+    "text": "And he answered and said unto them, I will also ask you one thing; and answer me:",
+    "hash": "4263d48679e0c06be5e2f41e2188ebee454d7c234c2186e86ec19de78cc3b3f1"
+  },
+  {
+    "id": "LUK.20.4",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 4,
+    "text": "The baptism of John, was it from heaven, or of men?",
+    "hash": "029339b2be3bde201d31b8bf66eeaca42f057ee54e40c4a3cc58840175da6b06"
+  },
+  {
+    "id": "LUK.20.5",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 5,
+    "text": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not?",
+    "hash": "b4af4debc87f2c0082cc04aa3dc801bf2650ea9e58521015acf1fecd20331459"
+  },
+  {
+    "id": "LUK.20.6",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 6,
+    "text": "But and if we say, Of men; all the people will stone us: for they be persuaded that John was a prophet.",
+    "hash": "35f10ad90b5a91af40582a26620e9b988ac1cee2c0488216a1d5eae4aba09b16"
+  },
+  {
+    "id": "LUK.20.7",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 7,
+    "text": "And they answered, that they could not tell whence {it was}.",
+    "hash": "e45c8409ccef4f9f6b894d9ba5b6fe086c5d9bb624dc3adbcfd87ee1158e1e63"
+  },
+  {
+    "id": "LUK.20.8",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 8,
+    "text": "And Jesus said unto them, Neither tell I you by what authority I do these things.",
+    "hash": "91e23ead4f9cbd062e70c75a3c155e9b730d22699fc9f72779cb3e442a182960"
+  },
+  {
+    "id": "LUK.20.9",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 9,
+    "text": "Then began he to speak to the people this parable; A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time.",
+    "hash": "54895f1d7349fe0add8fe5bc95b75eaefd06c35dd9a6a7025e96212ec461e573"
+  },
+  {
+    "id": "LUK.20.10",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 10,
+    "text": "And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent {him} away empty.",
+    "hash": "2aaf60fc6bf66aafabe6a453a1592df21259d1d0807cc795020e21a69c5fb4b6"
+  },
+  {
+    "id": "LUK.20.11",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 11,
+    "text": "And again he sent another servant: and they beat him also, and entreated {him} shamefully, and sent {him} away empty.",
+    "hash": "af45d9355b8360dd4db418625ee58638b7cdfc03e37afcc2132f469cb8033e49"
+  },
+  {
+    "id": "LUK.20.12",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 12,
+    "text": "And again he sent a third: and they wounded him also, and cast {him} out.",
+    "hash": "d62b77367391a0b7cf2c6ae14b7d7bbf9ddf076326bbca8679d359af60cb07a9"
+  },
+  {
+    "id": "LUK.20.13",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 13,
+    "text": "Then said the lord of the vineyard, What shall I do? I will send my beloved son: it may be they will reverence {him} when they see him.",
+    "hash": "7897f6027646bd4a1855dc9aa44e4940e80beedfc786d02474c8c521c63a5bfe"
+  },
+  {
+    "id": "LUK.20.14",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 14,
+    "text": "But when the husbandmen saw him, they reasoned among themselves, saying, This is the heir: come, let us kill him, that the inheritance may be ours.",
+    "hash": "d8edefd8e40f5aeac5716e84db03c4ae67af428afbf1386ff4983cd7de63bdfb"
+  },
+  {
+    "id": "LUK.20.15",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 15,
+    "text": "So they cast him out of the vineyard, and killed {him}. What therefore shall the lord of the vineyard do unto them?",
+    "hash": "28226f85507ed617dbf354d5db6bf3fa2d0641b1b3b8de8c5af0856ec6b08a6e"
+  },
+  {
+    "id": "LUK.20.16",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 16,
+    "text": "He shall come and destroy these husbandmen, and shall give the vineyard to others. And when they heard {it}, they said, God forbid.",
+    "hash": "1cbcff5781c797bea9e58d1622657083741f6fb39048159eab87deae7cec1738"
+  },
+  {
+    "id": "LUK.20.17",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 17,
+    "text": "And he beheld them, and said, What is this then that is written, The stone which the builders rejected, the same is become the head of the corner?",
+    "hash": "56310121b3efabd2dd7d7322347dc71ae2827400953019d29e84ed372c23ec51"
+  },
+  {
+    "id": "LUK.20.18",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 18,
+    "text": "Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder.",
+    "hash": "b5cb11c1e2c21d77a636f7d22c99e0540884afc9251b3a3b8653e61b056b20f6"
+  },
+  {
+    "id": "LUK.20.19",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 19,
+    "text": "And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.",
+    "hash": "87353ea297f69628e2344d95150b4015c696176bf77cbff34823d2a5a75a7977"
+  },
+  {
+    "id": "LUK.20.20",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 20,
+    "text": "And they watched {him}, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.",
+    "hash": "373307461762e02b2b187f91b4d64ecd75dbab29281e831b218aba5d4f7033b8"
+  },
+  {
+    "id": "LUK.20.21",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 21,
+    "text": "And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person {of any}, but teachest the way of God truly: {truly: or, of a truth}",
+    "hash": "0ef0407c3352c0925024519b4b781a8181fb598b81e113c10e6d7075cc09f103"
+  },
+  {
+    "id": "LUK.20.22",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 22,
+    "text": "Is it lawful for us to give tribute unto Caesar, or no?",
+    "hash": "5b9179ca1f80d1d3392055651990672b6ee4d2cbd4c73e001656221d0750e785"
+  },
+  {
+    "id": "LUK.20.23",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 23,
+    "text": "But he perceived their craftiness, and said unto them, Why tempt ye me?",
+    "hash": "6550cae488bfdb6da6bb9cea7a96d9b02e592580afb90a1b2a6327567a9b3545"
+  },
+  {
+    "id": "LUK.20.24",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 24,
+    "text": "Shew me a penny. Whose image and superscription hath it? They answered and said, Caesar's.",
+    "hash": "b1fdb1a05702390e332fce7d32f756e23fcd1b31f41c38e78416d7b8382fc7e9"
+  },
+  {
+    "id": "LUK.20.25",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 25,
+    "text": "And he said unto them, Render therefore unto Caesar the things which be Caesar's, and unto God the things which be God's.",
+    "hash": "bb7f3594a8c6f2e50586bd634bdbdcbe056beb3bc199d9c60453b6ba5b80d939"
+  },
+  {
+    "id": "LUK.20.26",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 26,
+    "text": "And they could not take hold of his words before the people: and they marvelled at his answer, and held their peace.",
+    "hash": "c91c6844a7e25eb03873234a42ad8969892edd90af0662c7c214d1f735421724"
+  },
+  {
+    "id": "LUK.20.27",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 27,
+    "text": "Then came to {him} certain of the Sadducees, which deny that there is any resurrection; and they asked him,",
+    "hash": "dcd9ee66f526651e988791d42330bcdc4cd08e96b113a83815508f9045fea267"
+  },
+  {
+    "id": "LUK.20.28",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 28,
+    "text": "Saying, Master, Moses wrote unto us, If any man's brother die, having a wife, and he die without children, that his brother should take his wife, and raise up seed unto his brother.",
+    "hash": "a1900aa5b7aa8de642445d61a5f756355ca79a3707c75fdad8dfc2692de33bdf"
+  },
+  {
+    "id": "LUK.20.29",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 29,
+    "text": "There were therefore seven brethren: and the first took a wife, and died without children.",
+    "hash": "1f6aaba57c002c8517292fe2523268f4c83eb68042c6e78330da0a8d8601de96"
+  },
+  {
+    "id": "LUK.20.30",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 30,
+    "text": "And the second took her to wife, and he died childless.",
+    "hash": "2e921ba8fd57b49fa57ede34cdbd3b69f070a7d8e0dc716b24244754559028d2"
+  },
+  {
+    "id": "LUK.20.31",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 31,
+    "text": "And the third took her; and in like manner the seven also: and they left no children, and died.",
+    "hash": "7b51793f8276183a6d2b8c849ea96ae7e86ba509f37fc5d67ff83f10007910b5"
+  },
+  {
+    "id": "LUK.20.32",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 32,
+    "text": "Last of all the woman died also.",
+    "hash": "9d6ff43d77625e81b3d4d8af62b044619c97bb5a29a5ff70076e115bcdf0abe0"
+  },
+  {
+    "id": "LUK.20.33",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 33,
+    "text": "Therefore in the resurrection whose wife of them is she? for seven had her to wife.",
+    "hash": "ec7e4607f2981c76c2373c9cd6c90c4f948ce6f27fe9df95feff48331e29ef6d"
+  },
+  {
+    "id": "LUK.20.34",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 34,
+    "text": "And Jesus answering said unto them, The children of this world marry, and are given in marriage:",
+    "hash": "e98f771a8685add9983edec771ccd91a0ff8260dd9df82283d001c900a5b9c66"
+  },
+  {
+    "id": "LUK.20.35",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 35,
+    "text": "But they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:",
+    "hash": "b56d057f9abde24546139178ea509c90d0fcef6b09e0485df2ea7739d23a853c"
+  },
+  {
+    "id": "LUK.20.36",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 36,
+    "text": "Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection.",
+    "hash": "49c439f45811c7b334c8fd3292ac28b8b6b5c729cc8afca4970c423f388f191d"
+  },
+  {
+    "id": "LUK.20.37",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 37,
+    "text": "Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.",
+    "hash": "11e0fd1669d9a1d408f153cc58d642e999a57ccb3f2a9c5f468bcec2e0f1ad37"
+  },
+  {
+    "id": "LUK.20.38",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 38,
+    "text": "For he is not a God of the dead, but of the living: for all live unto him.",
+    "hash": "dc78670feece331cb108b16aa4002bed6b3b61ea4b7a6ab0786965d1eb880836"
+  },
+  {
+    "id": "LUK.20.39",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 39,
+    "text": "Then certain of the scribes answering said, Master, thou hast well said.",
+    "hash": "c1ef535716c65d42abb99282cf5d53ba2a69179cd9494554c4e1c866f0eb652c"
+  },
+  {
+    "id": "LUK.20.40",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 40,
+    "text": "And after that they durst not ask him any {question at all}.",
+    "hash": "517d213d5e740626a565d498c217d4b4008bb40c1d4de8df46e210a443112b20"
+  },
+  {
+    "id": "LUK.20.41",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 41,
+    "text": "And he said unto them, How say they that Christ is David's son?",
+    "hash": "e54978266b7f405278abc66a7b41a1eb2d2a3eddbda454e9c1930c3adfbcebbb"
+  },
+  {
+    "id": "LUK.20.42",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 42,
+    "text": "And David himself saith in the book of Psalms, The LORD said unto my Lord, Sit thou on my right hand,",
+    "hash": "258897ebfe63bc63c12677aa9d362b5d1329b7ce180a00f00580f02753e9963b"
+  },
+  {
+    "id": "LUK.20.43",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 43,
+    "text": "Till I make thine enemies thy footstool.",
+    "hash": "3b8a6d647a16bffb1747c9e537d571fa74a7c56baddf384e59097ba0fbc49b9b"
+  },
+  {
+    "id": "LUK.20.44",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 44,
+    "text": "David therefore calleth him Lord, how is he then his son?",
+    "hash": "e914415043f0a00e05e163e622d5e7ff056f452bbcd6118693c830c22c79b555"
+  },
+  {
+    "id": "LUK.20.45",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 45,
+    "text": "Then in the audience of all the people he said unto his disciples,",
+    "hash": "14b53198d1f456413dee0969c13521bf9e7c36f726c4b04c467da488394403e4"
+  },
+  {
+    "id": "LUK.20.46",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 46,
+    "text": "Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;",
+    "hash": "abf0f8a2260257af849e116513c73ece0784b0a4a97c617997a799b36f152115"
+  },
+  {
+    "id": "LUK.20.47",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 20,
+    "verse": 47,
+    "text": "Which devour widows' houses, and for a shew make long prayers: the same shall receive greater damnation.",
+    "hash": "c620a1c034d2b9d6470feef9205d06ea5e1a5d0d3569e2198d11e215967df6af"
+  }
+]

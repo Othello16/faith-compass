@@ -1,0 +1,372 @@
+[
+  {
+    "id": "LEV.19.1",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 1,
+    "text": "And the LORD spake unto Moses, saying,",
+    "hash": "29615d17124775fa5339ffa2cd24e057ac808e6d460d778ac4e7434756684a52"
+  },
+  {
+    "id": "LEV.19.2",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 2,
+    "text": "Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the LORD your God {am} holy.",
+    "hash": "218294c324afa9f1a7bb0dcad1e6bd32aee1dee743a5cfa2ebb920411ca0c3b5"
+  },
+  {
+    "id": "LEV.19.3",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 3,
+    "text": "Ye shall fear every man his mother, and his father, and keep my sabbaths: I {am} the LORD your God.",
+    "hash": "b2fb7133f1c017787b35513a9d877f5378732b1439ebed45e185f43da25469b8"
+  },
+  {
+    "id": "LEV.19.4",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 4,
+    "text": "Turn ye not unto idols, nor make to yourselves molten gods: I {am} the LORD your God.",
+    "hash": "f40184861322e3936fc2ecf1d02a328d900ef5cadc2779b41e622ed332d5237f"
+  },
+  {
+    "id": "LEV.19.5",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 5,
+    "text": "And if ye offer a sacrifice of peace offerings unto the LORD, ye shall offer it at your own will.",
+    "hash": "6ef0e117e4e1a659ead19078c8bb7e6913e6d01d93333942c253f0f65069c24f"
+  },
+  {
+    "id": "LEV.19.6",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 6,
+    "text": "It shall be eaten the same day ye offer it, and on the morrow: and if ought remain until the third day, it shall be burnt in the fire.",
+    "hash": "d7ded586ea014b4fa8fb5b01a6d4cfdc4d948e3a778a4b8aef88a90c14c2be93"
+  },
+  {
+    "id": "LEV.19.7",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 7,
+    "text": "And if it be eaten at all on the third day, it {is} abominable; it shall not be accepted.",
+    "hash": "8bf66ef337d2966504ad05251d65b4d4cec7a59efb7bf2be16107129d457e703"
+  },
+  {
+    "id": "LEV.19.8",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 8,
+    "text": "Therefore {every one} that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the LORD: and that soul shall be cut off from among his people.",
+    "hash": "9ddb9df6468ce2e6ca2345343bd427a4ff3acef997ae56baa5c1953dd6271483"
+  },
+  {
+    "id": "LEV.19.9",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 9,
+    "text": "And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest.",
+    "hash": "63f5c7e7d9d02662474f5d927f0dc78aaff18ec361cca63df938600d9536244e"
+  },
+  {
+    "id": "LEV.19.10",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 10,
+    "text": "And thou shalt not glean thy vineyard, neither shalt thou gather {every} grape of thy vineyard; thou shalt leave them for the poor and stranger: I {am} the LORD your God.",
+    "hash": "5e107320d0ce4f0b229e0420a49f4b65412083fb95605ed3efa139ab867c478c"
+  },
+  {
+    "id": "LEV.19.11",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 11,
+    "text": "Ye shall not steal, neither deal falsely, neither lie one to another.",
+    "hash": "f5dc06fff8590d4b03c91cd2135d800904b12875a85b05720146094f5718dabd"
+  },
+  {
+    "id": "LEV.19.12",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 12,
+    "text": "And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I {am} the LORD.",
+    "hash": "7e478a0dd9354c21bd10e25c864246fa4c1bc388242191d1fd1f51e6d0db0a15"
+  },
+  {
+    "id": "LEV.19.13",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 13,
+    "text": "Thou shalt not defraud thy neighbour, neither rob {him}: the wages of him that is hired shall not abide with thee all night until the morning.",
+    "hash": "fa3d682c19c5218ff2af8d939b7ccae3d7f1d2abfa376f4768a6ea33331e7aed"
+  },
+  {
+    "id": "LEV.19.14",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 14,
+    "text": "Thou shalt not curse the deaf, nor put a stumblingblock before the blind, but shalt fear thy God: I {am} the LORD.",
+    "hash": "9abd77821747b4be817ded6d5cfbea83a1f060009fb0e501b7e59e11f5acbb8d"
+  },
+  {
+    "id": "LEV.19.15",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 15,
+    "text": "Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: {but} in righteousness shalt thou judge thy neighbour.",
+    "hash": "f7c42393af380a744e4f018b09f3b97ee30de5651db9ae59f25130f20a09f5ba"
+  },
+  {
+    "id": "LEV.19.16",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 16,
+    "text": "Thou shalt not go up and down {as} a talebearer among thy people: neither shalt thou stand against the blood of thy neighbour: I {am} the LORD.",
+    "hash": "df2d157119f0ac1fa9a44eda824b333e09e21a12942341191a40a3ecf5fad62d"
+  },
+  {
+    "id": "LEV.19.17",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 17,
+    "text": "Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him. {and...: or, that thou bear not sin for him}",
+    "hash": "b39ca3fda0c4f9d4c31d3295d4c32b065906d1b14f0495e78eaceac7bcc15d8b"
+  },
+  {
+    "id": "LEV.19.18",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 18,
+    "text": "Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I {am} the LORD.",
+    "hash": "17f469dfe9b414595852c40506507bec9cae489f80b3f540f4a75839b954e484"
+  },
+  {
+    "id": "LEV.19.19",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 19,
+    "text": "Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee.",
+    "hash": "4567aebdf808ac8831df5d5f3f27da6871f001f2fac179493c88f61c91213bb0"
+  },
+  {
+    "id": "LEV.19.20",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 20,
+    "text": "And whosoever lieth carnally with a woman, that {is} a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free. {betrothed...: or, abused by any: Heb. reproached by (or, for) man} {she shall...: or, they, etc: Heb. there shall be a scourging}",
+    "hash": "c176e271190ba6ccb1e7aa2dfbb10cd97b5420ad65e2e56ff35b91aaed1d9b4c"
+  },
+  {
+    "id": "LEV.19.21",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 21,
+    "text": "And he shall bring his trespass offering unto the LORD, unto the door of the tabernacle of the congregation, {even} a ram for a trespass offering.",
+    "hash": "cf1682ef20b96b290f88a592f1bdcdb804385181e20d2c7b74ff353f5c151ae2"
+  },
+  {
+    "id": "LEV.19.22",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 22,
+    "text": "And the priest shall make an atonement for him with the ram of the trespass offering before the LORD for his sin which he hath done: and the sin which he hath done shall be forgiven him.",
+    "hash": "8eafd3a3179c088ca2313ef3e3032cde89048c44403162b29ea5d215a5fee74e"
+  },
+  {
+    "id": "LEV.19.23",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 23,
+    "text": "And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as uncircumcised: three years shall it be as uncircumcised unto you: it shall not be eaten of.",
+    "hash": "f16a5eff2251bb625046eadbb5bab01357cab1b9b019f0e6355b5cd9f347533a"
+  },
+  {
+    "id": "LEV.19.24",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 24,
+    "text": "But in the fourth year all the fruit thereof shall be holy to praise the LORD {withal}. {holy...: Heb. holiness of praises to the LORD}",
+    "hash": "4bcebe4b66e2ae807158bea28085b4b8ba348a2cbe5dfefc5cbfa9c05e14335f"
+  },
+  {
+    "id": "LEV.19.25",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 25,
+    "text": "And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I {am} the LORD your God.",
+    "hash": "c7a5ce4185cd050f1562eebc29958f824f058ef1e22890c597c73e34305c1e62"
+  },
+  {
+    "id": "LEV.19.26",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 26,
+    "text": "Ye shall not eat {any thing} with the blood: neither shall ye use enchantment, nor observe times.",
+    "hash": "a76a16c9568e08a9c808163458db8bf74371378ffb649a8a0979a81bf70342bc"
+  },
+  {
+    "id": "LEV.19.27",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 27,
+    "text": "Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard.",
+    "hash": "31d8e85a3071c07fdbaf136d38922d883feb7efdee3096ab8cc15588b73a1a68"
+  },
+  {
+    "id": "LEV.19.28",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 28,
+    "text": "Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I {am} the LORD.",
+    "hash": "f8de007f4703f021d1a41f20712a47d32bfef44cc1e416237484252c1a8dbcb2"
+  },
+  {
+    "id": "LEV.19.29",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 29,
+    "text": "Do not prostitute thy daughter, to cause her to be a whore; lest the land fall to whoredom, and the land become full of wickedness. {prostitute: Heb. profane}",
+    "hash": "c3406fb71f9f92e0ea2a76cf7bcf3144fb613c0715b8734d2971d608e476e1ef"
+  },
+  {
+    "id": "LEV.19.30",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 30,
+    "text": "Ye shall keep my sabbaths, and reverence my sanctuary: I {am} the LORD.",
+    "hash": "ea725f22d46ffc4d7d83ad048bbd624543fa133ce4b7093df121510a05a3c643"
+  },
+  {
+    "id": "LEV.19.31",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 31,
+    "text": "Regard not them that have familiar spirits, neither seek after wizards, to be defiled by them: I {am} the LORD your God.",
+    "hash": "e73d4a4ab8773a0ddc61b0c4d5fc9a9c4a302e42e91be39310643d3cf3f741a8"
+  },
+  {
+    "id": "LEV.19.32",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 32,
+    "text": "Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I {am} the LORD.",
+    "hash": "fae7f4ade6de729025b5563b1b60c88106952f1e8128275e185a259691a81c5a"
+  },
+  {
+    "id": "LEV.19.33",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 33,
+    "text": "And if a stranger sojourn with thee in your land, ye shall not vex him. {vex: or, oppress}",
+    "hash": "178389332c58b55806a4e67a3cc7d11c72005f0eb269a250b56ac2ced0a456a2"
+  },
+  {
+    "id": "LEV.19.34",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 34,
+    "text": "{But} the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I {am} the LORD your God.",
+    "hash": "2fc45ec7b0f8808dfe4fa8cdbf9850a86e2f7595742026dd077005cf4f888755"
+  },
+  {
+    "id": "LEV.19.35",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 35,
+    "text": "Ye shall do no unrighteousness in judgment, in meteyard, in weight, or in measure.",
+    "hash": "03222e0385302064a188b9b4fec913ce49348161065bc3683b6efc76b1eec02c"
+  },
+  {
+    "id": "LEV.19.36",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 36,
+    "text": "Just balances, just weights, a just ephah, and a just hin, shall ye have: I {am} the LORD your God, which brought you out of the land of Egypt. {weights: Heb. stones}",
+    "hash": "f0309abdb40165a192834a85a708a368b395624b18f249a4a7d3a24a95b0f749"
+  },
+  {
+    "id": "LEV.19.37",
+    "book": "Leviticus",
+    "bookNum": 3,
+    "bookAbbrev": "LEV",
+    "chapter": 19,
+    "verse": 37,
+    "text": "Therefore shall ye observe all my statutes, and all my judgments, and do them: I {am} the LORD.",
+    "hash": "1522af2e9d341eae1bb76bca83184dfd83aed2fc94171cce54b9471596a92fa0"
+  }
+]

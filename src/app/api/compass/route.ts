@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import OpenAI from 'openai'
-
-
+import { getSession } from '@/lib/auth'
+import { checkUsageLimit, recordUsage, getUserIdFromRequest } from '@/lib/usage-limit'
 
 const SYSTEM_PROMPT = `You are a Scripture reference tool for Faith Compass. You do not have opinions, feelings, or personal beliefs. You only surface what the Bible says.
 
@@ -22,6 +22,22 @@ Rules:
 export async function POST(req: NextRequest) {
   const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
   try {
+    const session = await getSession()
+    const ip = req.headers.get('x-forwarded-for')?.split(',')[0]?.trim() || req.headers.get('x-real-ip')
+    const userId = getUserIdFromRequest(session as { user?: { id?: string; email?: string } } | null, ip)
+
+    // Check usage limit
+    const usage = await checkUsageLimit(userId)
+    if (!usage.allowed) {
+      return NextResponse.json({
+        error: 'limit_reached',
+        nextAvailable: usage.nextAvailable,
+        used: usage.used,
+        limit: usage.limit,
+        remaining: 0,
+      }, { status: 429 })
+    }
+
     const { question } = await req.json()
     if (!question?.trim()) {
       return NextResponse.json({ error: 'Question is required' }, { status: 400 })
@@ -37,8 +53,17 @@ export async function POST(req: NextRequest) {
       temperature: 0.3,
     })
 
+    // Record usage after successful call
+    await recordUsage(userId)
+
     const answer = completion.choices[0]?.message?.content || 'No response generated.'
-    return NextResponse.json({ answer })
+    return NextResponse.json({
+      answer,
+      used: usage.used + 1,
+      limit: usage.limit,
+      remaining: usage.remaining - 1,
+      nextAvailable: usage.nextAvailable,
+    })
   } catch (err) {
     console.error('Compass API error:', err)
     return NextResponse.json({ error: 'Failed to get response' }, { status: 500 })

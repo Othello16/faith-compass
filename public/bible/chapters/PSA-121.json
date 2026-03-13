@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PSA.121.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 121,
+    "verse": 1,
+    "text": "[A Song of degrees.] I will lift up mine eyes unto the hills, from whence cometh my help. {I will...: or, Shall I lift up mine eyes to the hills? whence should my help come?}",
+    "hash": "43d996b509377a3a90f8ceef4a04b4011a4703707490f2a23f0ab3303f9ed221"
+  },
+  {
+    "id": "PSA.121.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 121,
+    "verse": 2,
+    "text": "My help {cometh} from the LORD, which made heaven and earth.",
+    "hash": "57ba24f88fffcd4d35839c756d84809ca4b30cb3bde0906f72aaa6bbf8a2c284"
+  },
+  {
+    "id": "PSA.121.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 121,
+    "verse": 3,
+    "text": "He will not suffer thy foot to be moved: he that keepeth thee will not slumber.",
+    "hash": "0b745c6564ae471f645bd30746bcf47a936048e490cd7db3108df1f567ba347e"
+  },
+  {
+    "id": "PSA.121.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 121,
+    "verse": 4,
+    "text": "Behold, he that keepeth Israel shall neither slumber nor sleep.",
+    "hash": "b87d81af09fdf4c6a594e3d974da267c09584545a33305c0dc58f18b31330796"
+  },
+  {
+    "id": "PSA.121.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 121,
+    "verse": 5,
+    "text": "The LORD {is} thy keeper: the LORD {is} thy shade upon thy right hand.",
+    "hash": "b65528f5e25d128fb75b035f93d059053e7ed09a51e8cb6439054fcc6e71a7c6"
+  },
+  {
+    "id": "PSA.121.6",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 121,
+    "verse": 6,
+    "text": "The sun shall not smite thee by day, nor the moon by night.",
+    "hash": "bd2de50a7ac2165ce1ddfb2fb1f97e5f50c36a1d2909050c2c1f6e9c5580f8c4"
+  },
+  {
+    "id": "PSA.121.7",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 121,
+    "verse": 7,
+    "text": "The LORD shall preserve thee from all evil: he shall preserve thy soul.",
+    "hash": "49b3ecf15e404d4fe077ae4e8e7999c32412e8985e62dd75915640dd9d2f4289"
+  },
+  {
+    "id": "PSA.121.8",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 121,
+    "verse": 8,
+    "text": "The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.",
+    "hash": "1bcc6daf4ee97a9cae6e0ea52585251cccded45aaa3b5c8acee7b1d15f1af35c"
+  }
+]

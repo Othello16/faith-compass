@@ -1,0 +1,422 @@
+[
+  {
+    "id": "JHN.10.1",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 1,
+    "text": "Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.",
+    "hash": "95a237bbfdb9da5956e2efbd3f3e74166d7185bd77d8cc57956146de97bc51f4"
+  },
+  {
+    "id": "JHN.10.2",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 2,
+    "text": "But he that entereth in by the door is the shepherd of the sheep.",
+    "hash": "a203f7ff76587d023b310ec90368211e6e0d3cade28949c64c5d4951ddcf9333"
+  },
+  {
+    "id": "JHN.10.3",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 3,
+    "text": "To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out.",
+    "hash": "fc27c3862318f8370fa6117d33fae93c82f6a64b6a3ab2fa8229467b248571eb"
+  },
+  {
+    "id": "JHN.10.4",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 4,
+    "text": "And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice.",
+    "hash": "e20f95f83a89e59fc5e5670e46c8bda8b484f23b07f2d044df9d00c6e8360803"
+  },
+  {
+    "id": "JHN.10.5",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 5,
+    "text": "And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.",
+    "hash": "5181283cda786366e1bd7ddfdcaf81e7ec4b71c7bd075f34b56f2d1f21ca4899"
+  },
+  {
+    "id": "JHN.10.6",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 6,
+    "text": "This parable spake Jesus unto them: but they understood not what things they were which he spake unto them.",
+    "hash": "bd6ee0c086c90192c5964e5a8a0b77abf4fc50f1065894bf7bfd3c968c6ac7c2"
+  },
+  {
+    "id": "JHN.10.7",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 7,
+    "text": "Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep.",
+    "hash": "3097c577a6e83a54c14a0c9ca0e8e23457434f49858a715f8cc64ef970163989"
+  },
+  {
+    "id": "JHN.10.8",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 8,
+    "text": "All that ever came before me are thieves and robbers: but the sheep did not hear them.",
+    "hash": "580fe2b7467789d3d1ed03404f29e4066d9ad6bd8f941b33bdd5869feb29d05a"
+  },
+  {
+    "id": "JHN.10.9",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 9,
+    "text": "I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.",
+    "hash": "bc4dbf544434132b39612cee049375143301ea875efba047e3395cfdb0b24fc9"
+  },
+  {
+    "id": "JHN.10.10",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 10,
+    "text": "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have {it} more abundantly.",
+    "hash": "15fbc31e6970b2623f2e3728dfe1f9dd55db71690e6af087806b07a206b3c4c7"
+  },
+  {
+    "id": "JHN.10.11",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 11,
+    "text": "I am the good shepherd: the good shepherd giveth his life for the sheep.",
+    "hash": "1075cf35d87b53082d11332ff88ea1e17d3485e38c44952fb095b3120cf59ff0"
+  },
+  {
+    "id": "JHN.10.12",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 12,
+    "text": "But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep.",
+    "hash": "31051370b79f9f4c32cf859c6737aecd11b399f095ca3cc91ffe5948919f2cc8"
+  },
+  {
+    "id": "JHN.10.13",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 13,
+    "text": "The hireling fleeth, because he is an hireling, and careth not for the sheep.",
+    "hash": "2d4cbe4247a604252b12a6226c8686c8e09fca26ec8fe66a2124ab93f09b466e"
+  },
+  {
+    "id": "JHN.10.14",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 14,
+    "text": "I am the good shepherd, and know my {sheep}, and am known of mine.",
+    "hash": "c66836577f51ad451ad0222c80eb830adb622faa809ea992b55e182e4bab4400"
+  },
+  {
+    "id": "JHN.10.15",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 15,
+    "text": "As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.",
+    "hash": "c265cc6ba2f62ecef3196466180fb45930f1af9f246fd72629f3cfad92db9399"
+  },
+  {
+    "id": "JHN.10.16",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 16,
+    "text": "And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, {and} one shepherd.",
+    "hash": "d7ed6d7e8be00fbcd65f58681bbbd857dd78049758eecab79fe974fbd6571f41"
+  },
+  {
+    "id": "JHN.10.17",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 17,
+    "text": "Therefore doth my Father love me, because I lay down my life, that I might take it again.",
+    "hash": "d678b9aafafaf2c0aaf1ef5efb15ba878d626aa9c79e6f3fc206140e9a1a6eed"
+  },
+  {
+    "id": "JHN.10.18",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 18,
+    "text": "No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.",
+    "hash": "36d62eec6d7f1370cfb48255d352e2a95ae6b65a15dab5e23a5c16485b02d9f4"
+  },
+  {
+    "id": "JHN.10.19",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 19,
+    "text": "There was a division therefore again among the Jews for these sayings.",
+    "hash": "cc922bb922c668f7e0790c5960f81fb794f3e8d60e5795311d1500fdae4a9c82"
+  },
+  {
+    "id": "JHN.10.20",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 20,
+    "text": "And many of them said, He hath a devil, and is mad; why hear ye him?",
+    "hash": "7b0896893ec3611cb52bfeaa5c8a2cd04b3d3f6652ad23be40856e22cf45e7ad"
+  },
+  {
+    "id": "JHN.10.21",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 21,
+    "text": "Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?",
+    "hash": "053c1c228422e19c3db849c17580c509c402d256739ac1c718f85031c6e6a76c"
+  },
+  {
+    "id": "JHN.10.22",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 22,
+    "text": "And it was at Jerusalem the feast of the dedication, and it was winter.",
+    "hash": "57f501467d0fc94b0f4ba70606038f916286c5a5e0d9c8ef056237b28f8f0e18"
+  },
+  {
+    "id": "JHN.10.23",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 23,
+    "text": "And Jesus walked in the temple in Solomon's porch.",
+    "hash": "4cf1aee70bdc9d825726c96c86ddd66cc9ac54e5dea8a5261f115642c9344fa1"
+  },
+  {
+    "id": "JHN.10.24",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 24,
+    "text": "Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly. {make...: or, hold us in suspense}",
+    "hash": "02e0a2d0dc41984bb7a80fac00384c7fbb744d0e277107c57014505cda015350"
+  },
+  {
+    "id": "JHN.10.25",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 25,
+    "text": "Jesus answered them, I told you, and ye believed not: the works that I do in my Father's name, they bear witness of me.",
+    "hash": "9fce312d5814cc16770f4a4b4b719682f161a2d9ce324279e8b493f64567b9c1"
+  },
+  {
+    "id": "JHN.10.26",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 26,
+    "text": "But ye believe not, because ye are not of my sheep, as I said unto you.",
+    "hash": "49f1a63a6a1589d84decf6955625806592e004607ed57419fbb44a73a53256ae"
+  },
+  {
+    "id": "JHN.10.27",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 27,
+    "text": "My sheep hear my voice, and I know them, and they follow me:",
+    "hash": "73f7f8e5d8dd545a019e32eb6d356b13bea4b470718128f77bf53217a58c3c38"
+  },
+  {
+    "id": "JHN.10.28",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 28,
+    "text": "And I give unto them eternal life; and they shall never perish, neither shall any {man} pluck them out of my hand.",
+    "hash": "bcb6f58905d48dd3d4580566778a1c41c9f032427b2cd73f5f50cd9ad25ce513"
+  },
+  {
+    "id": "JHN.10.29",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 29,
+    "text": "My Father, which gave {them} me, is greater than all; and no {man} is able to pluck {them} out of my Father's hand.",
+    "hash": "85e73d3c67b2ed544203e33d70c88bc67fc2bd293cb4d45fc3fef56a2c11cf02"
+  },
+  {
+    "id": "JHN.10.30",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 30,
+    "text": "I and {my} Father are one.",
+    "hash": "5e31c3b33aa8690804c28dbd6da8a2b9bb277d4d3c954e0af39bff5a45c65ea8"
+  },
+  {
+    "id": "JHN.10.31",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 31,
+    "text": "Then the Jews took up stones again to stone him.",
+    "hash": "a1940bc115150941c3cc841a989a1b1f976d8e22406c3c50d355932bcfb17fcc"
+  },
+  {
+    "id": "JHN.10.32",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 32,
+    "text": "Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me?",
+    "hash": "acb200030f386ac7b70175a2fee899db71d9ba506869cb54ae168b32d2790626"
+  },
+  {
+    "id": "JHN.10.33",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 33,
+    "text": "The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.",
+    "hash": "587748928b2b2d88e03928191c39ee44c54d38675293cad45660980cfdd4926d"
+  },
+  {
+    "id": "JHN.10.34",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 34,
+    "text": "Jesus answered them, Is it not written in your law, I said, Ye are gods?",
+    "hash": "ecd233a3bed80212438f16e951301cf64e637ab009352aca7d9e4fb0e236d4a2"
+  },
+  {
+    "id": "JHN.10.35",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 35,
+    "text": "If he called them gods, unto whom the word of God came, and the scripture cannot be broken;",
+    "hash": "ef90d81e4c9e9b3e240114de2ab78e8688a4dea870e586b979e3070aa1f62e59"
+  },
+  {
+    "id": "JHN.10.36",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 36,
+    "text": "Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?",
+    "hash": "24cea7f58245d57c6927111dee7729c09b8696bd862c49caf6dd5935ae15ab8b"
+  },
+  {
+    "id": "JHN.10.37",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 37,
+    "text": "If I do not the works of my Father, believe me not.",
+    "hash": "a58f7ceb330527a23ac3524e10b6c1b532cb33129dffcdf1f24194b676e63a19"
+  },
+  {
+    "id": "JHN.10.38",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 38,
+    "text": "But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father {is} in me, and I in him.",
+    "hash": "2eb0b5d965c44c4d37078cae32e98cc3de373ebeabfdb58d12af0a66a6dcb15c"
+  },
+  {
+    "id": "JHN.10.39",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 39,
+    "text": "Therefore they sought again to take him: but he escaped out of their hand,",
+    "hash": "d58520ce4ef3bf1284364616b79964c4d8042ea2a41d5405207926f459fd6f84"
+  },
+  {
+    "id": "JHN.10.40",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 40,
+    "text": "And went away again beyond Jordan into the place where John at first baptized; and there he abode.",
+    "hash": "d0d3967f27af8ee424070e1a168a1e8e272ddb8ebaec520f239fd3bd739e13de"
+  },
+  {
+    "id": "JHN.10.41",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 41,
+    "text": "And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true.",
+    "hash": "e921f22c339e94874a735e540b65be5f2cc12fdc07553eefdb4f9eecdf9c5f54"
+  },
+  {
+    "id": "JHN.10.42",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 10,
+    "verse": 42,
+    "text": "And many believed on him there.",
+    "hash": "455783ce5534c33844047202e6c6b37c2fd4a5792462c11fe645e1b196c91cec"
+  }
+]

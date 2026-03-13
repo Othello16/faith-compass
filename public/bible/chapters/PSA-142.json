@@ -1,0 +1,72 @@
+[
+  {
+    "id": "PSA.142.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 142,
+    "verse": 1,
+    "text": "[Maschil of David; A Prayer when he was in the cave.] I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication. {Maschil...: or, A Psalm of David, giving instruction}",
+    "hash": "e8b6a6fd28de16b89de44f24aafec51f75672fcb87166e93010d13b03326b913"
+  },
+  {
+    "id": "PSA.142.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 142,
+    "verse": 2,
+    "text": "I poured out my complaint before him; I shewed before him my trouble.",
+    "hash": "f8add96721ea036750a8611f6f00f1eb3f18e7b2b0ba2311e69f029b9c50dc11"
+  },
+  {
+    "id": "PSA.142.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 142,
+    "verse": 3,
+    "text": "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me.",
+    "hash": "e74194dfd3c4f5b77d577f1a1f2a7cc92ad728834a24ff2c96e68ebfa04562b8"
+  },
+  {
+    "id": "PSA.142.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 142,
+    "verse": 4,
+    "text": "I looked on {my} right hand, and beheld, but {there was} no man that would know me: refuge failed me; no man cared for my soul. {I looked...: or, Look on the right hand, and see} {failed...: Heb. perished from me} {cared...: Heb. sought after}",
+    "hash": "38a128503efceb60862c249130c73ab08a076a852ee44217844787206b5c473e"
+  },
+  {
+    "id": "PSA.142.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 142,
+    "verse": 5,
+    "text": "I cried unto thee, O LORD: I said, Thou {art} my refuge {and} my portion in the land of the living.",
+    "hash": "c5c16d1f73aca913172cfe169b0f2980e82d083f44b000b50a18e09c578ccc9e"
+  },
+  {
+    "id": "PSA.142.6",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 142,
+    "verse": 6,
+    "text": "Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.",
+    "hash": "b3cfb156e72f982b3e4d7eed26ba4226b8db2cd6988b484100f3c28ec05b722c"
+  },
+  {
+    "id": "PSA.142.7",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 142,
+    "verse": 7,
+    "text": "Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me.",
+    "hash": "063e058b42b704b76af237ba9f63e7ceebc18b967a33427ac7a1638c54390bdd"
+  }
+]

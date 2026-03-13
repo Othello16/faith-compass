@@ -1,0 +1,702 @@
+[
+  {
+    "id": "EZR.2.1",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 1,
+    "text": "Now these {are} the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;",
+    "hash": "173395d666f8d07c504a1f6c28be5e68f52bb47ab7dcda41f0ab91624c93fef8"
+  },
+  {
+    "id": "EZR.2.2",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 2,
+    "text": "Which came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel: {Seraiah: also called, Azariah} {Reelaiah: or, Raamiah} {Mispar: or, Mispereth} {Rehum: or, Nehum}",
+    "hash": "2025704ef37e33ab9771fe62479aa48ae5ce51f8d56786f0f4e2c5d2878391e4"
+  },
+  {
+    "id": "EZR.2.3",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 3,
+    "text": "The children of Parosh, two thousand an hundred seventy and two.",
+    "hash": "477a0e02d3229de42e216bd04aa7bbd4771d8114a6828a89dbc459e86cc1f0d5"
+  },
+  {
+    "id": "EZR.2.4",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 4,
+    "text": "The children of Shephatiah, three hundred seventy and two.",
+    "hash": "934d564685e1fc683a2b1332b4cc4bee7e334b76db852c88a925b4f412dc77e3"
+  },
+  {
+    "id": "EZR.2.5",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 5,
+    "text": "The children of Arah, seven hundred seventy and five.",
+    "hash": "d51f516c77dfee2700ac91e9d621e243f416aa016a626d4ec819756d5b5f489a"
+  },
+  {
+    "id": "EZR.2.6",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 6,
+    "text": "The children of Pahathmoab, of the children of Jeshua {and} Joab, two thousand eight hundred and twelve.",
+    "hash": "46c08a827bbc3bb4ba02aff8f39175547a3e2a94a0c9375899ef66e41c33529b"
+  },
+  {
+    "id": "EZR.2.7",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 7,
+    "text": "The children of Elam, a thousand two hundred fifty and four.",
+    "hash": "1341eeee42f1ae521fd6c5ad9c0c61d1187c8c67d9fae19c5e0aead562a26b17"
+  },
+  {
+    "id": "EZR.2.8",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 8,
+    "text": "The children of Zattu, nine hundred forty and five.",
+    "hash": "93a9e310c06bb3912bf06bdeb08120ae9d258985df6d24edc589a7a41b28f1a3"
+  },
+  {
+    "id": "EZR.2.9",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 9,
+    "text": "The children of Zaccai, seven hundred and threescore.",
+    "hash": "2d1d49c39f4a237a64651c162d4b791cab4a4b9b3b27c72a4d3ca9a14c485a34"
+  },
+  {
+    "id": "EZR.2.10",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 10,
+    "text": "The children of Bani, six hundred forty and two. {Bani: also called, Binnui}",
+    "hash": "ac91925dbb34ff2dd3c70011b7de1eec5a25d2cf8aad37dd6e9c6e86fcbae754"
+  },
+  {
+    "id": "EZR.2.11",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 11,
+    "text": "The children of Bebai, six hundred twenty and three.",
+    "hash": "950561c71722a4e1a8a76aeddb442e1c5dcb8355f6e4ca21f45a921f4e60c7ec"
+  },
+  {
+    "id": "EZR.2.12",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 12,
+    "text": "The children of Azgad, a thousand two hundred twenty and two.",
+    "hash": "4ec3fca467038987b7523093e967e93ea3099cc1ed5734c5c073c65c9af29768"
+  },
+  {
+    "id": "EZR.2.13",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 13,
+    "text": "The children of Adonikam, six hundred sixty and six.",
+    "hash": "451eb6cbee6733a1a09a1df07c3aad0394aaa4f99ae38aa81744ada58f615a1e"
+  },
+  {
+    "id": "EZR.2.14",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 14,
+    "text": "The children of Bigvai, two thousand fifty and six.",
+    "hash": "17113e80eb3980d370532132de8688004a971387aa77995dfe59a0eeb3905cfa"
+  },
+  {
+    "id": "EZR.2.15",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 15,
+    "text": "The children of Adin, four hundred fifty and four.",
+    "hash": "1d41cb64f2c7411656bb30bbba75b4f902cf612283c8b0f816fea956af868d1e"
+  },
+  {
+    "id": "EZR.2.16",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 16,
+    "text": "The children of Ater of Hezekiah, ninety and eight.",
+    "hash": "1fd415f0029ce1e68ae80c1bcf95be4e66448d54e6aa2e26f9dfdd4d06948414"
+  },
+  {
+    "id": "EZR.2.17",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 17,
+    "text": "The children of Bezai, three hundred twenty and three.",
+    "hash": "7ba281ddf96b710d9d72b17a18610dd91a3a13bd17c0617a297b3f4855d80750"
+  },
+  {
+    "id": "EZR.2.18",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 18,
+    "text": "The children of Jorah, an hundred and twelve. {Jorah: also called, Hariph}",
+    "hash": "8b45db88405231c67ad25ee766b062db99243a16059d245ef7873bfe3831e694"
+  },
+  {
+    "id": "EZR.2.19",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 19,
+    "text": "The children of Hashum, two hundred twenty and three.",
+    "hash": "0fab69f08c7e70a26ddd93eef29b6cb6c9fc314c35182b5a405881582c15531c"
+  },
+  {
+    "id": "EZR.2.20",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 20,
+    "text": "The children of Gibbar, ninety and five. {Gibbar: also called, Gibeon}",
+    "hash": "7a65b07cf9dc24728fa07320cfeeeebae190879065492527e5f3ee5b2c05a063"
+  },
+  {
+    "id": "EZR.2.21",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 21,
+    "text": "The children of Bethlehem, an hundred twenty and three.",
+    "hash": "d55b6ad450fd2b92b0d142f65894d99fc3ee189956670f5e94cb7ef91afef285"
+  },
+  {
+    "id": "EZR.2.22",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 22,
+    "text": "The men of Netophah, fifty and six.",
+    "hash": "d4d04ebccaa45093a654ebf19458b791045bd06ea3ab770c2b3dcd4d229bcf71"
+  },
+  {
+    "id": "EZR.2.23",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 23,
+    "text": "The men of Anathoth, an hundred twenty and eight.",
+    "hash": "a3a225cd7062426bc3f79f58f5b97cae7118c663f49a9203bdc2cbb157ece852"
+  },
+  {
+    "id": "EZR.2.24",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 24,
+    "text": "The children of Azmaveth, forty and two. {Azmaveth: also called, Bethazmaveth}",
+    "hash": "fb55aa968e58448419eefb879f69f6bf58f6eba572aff975d41fafc0f9280e90"
+  },
+  {
+    "id": "EZR.2.25",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 25,
+    "text": "The children of Kirjatharim, Chephirah, and Beeroth, seven hundred and forty and three.",
+    "hash": "e89a5e49e991920374460ba74345e5aeefe694bee73a5ce04cd4fbf97742b71e"
+  },
+  {
+    "id": "EZR.2.26",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 26,
+    "text": "The children of Ramah and Gaba, six hundred twenty and one.",
+    "hash": "d8a993f592e1af1e68769cb1c24ce81447dd2460c9ae310fb3547f03fcbc2bcd"
+  },
+  {
+    "id": "EZR.2.27",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 27,
+    "text": "The men of Michmas, an hundred twenty and two.",
+    "hash": "282e80ff84521f4f75471637d58ef26a47f15d1e9c88bb81fdc5a9c57d81e318"
+  },
+  {
+    "id": "EZR.2.28",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 28,
+    "text": "The men of Bethel and Ai, two hundred twenty and three.",
+    "hash": "77e4549338051a83f771ed7d89ee3b92d986d047af40441487b6df9043bd822d"
+  },
+  {
+    "id": "EZR.2.29",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 29,
+    "text": "The children of Nebo, fifty and two.",
+    "hash": "c6fade87b876acd33f623015944bc54025a80101567e51bffb0c74fec70ea8b7"
+  },
+  {
+    "id": "EZR.2.30",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 30,
+    "text": "The children of Magbish, an hundred fifty and six.",
+    "hash": "f534993d87b9bc4a84908fbbf638a208183a88da0c84ae34bf7ad5cac732dcbc"
+  },
+  {
+    "id": "EZR.2.31",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 31,
+    "text": "The children of the other Elam, a thousand two hundred fifty and four.",
+    "hash": "68724925a065bc6a0aa3a3c7860a71e3569fa4a6a17a1d86955dca492a25e5ca"
+  },
+  {
+    "id": "EZR.2.32",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 32,
+    "text": "The children of Harim, three hundred and twenty.",
+    "hash": "2a295ee166c0168aa292f0e7b61a15b895a3a77e32bd1a8a142acc6dacaa12db"
+  },
+  {
+    "id": "EZR.2.33",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 33,
+    "text": "The children of Lod, Hadid, and Ono, seven hundred twenty and five. {Hadid: or, Harid, as it is in some copies}",
+    "hash": "fcdfd5b10bebb3c7c887a56d7d5b07f6f826597ad1cdeb8e107e18c901e364aa"
+  },
+  {
+    "id": "EZR.2.34",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 34,
+    "text": "The children of Jericho, three hundred forty and five.",
+    "hash": "5196b8d0c65571cf127fd4f9992210694da075936ff6d3aa3a7216f5e478d8e4"
+  },
+  {
+    "id": "EZR.2.35",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 35,
+    "text": "The children of Senaah, three thousand and six hundred and thirty.",
+    "hash": "264d787bd9e9ed81e36b1119d9380fa41146fe256c1dbf8add7176d5fcbb8941"
+  },
+  {
+    "id": "EZR.2.36",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 36,
+    "text": "The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.",
+    "hash": "4ab89bf78deed07d79c8dbf25a9e05b5b69c7d58a84eb4c6943cf298030fac27"
+  },
+  {
+    "id": "EZR.2.37",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 37,
+    "text": "The children of Immer, a thousand fifty and two.",
+    "hash": "17a19de95b73c075d7d5b23e58c5b9c55372415222f4cc0951b9b3f454d39b59"
+  },
+  {
+    "id": "EZR.2.38",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 38,
+    "text": "The children of Pashur, a thousand two hundred forty and seven.",
+    "hash": "0727b3abe3e005bc284d94054a2f858733779ab08bb03d02c7bec1bd7b058797"
+  },
+  {
+    "id": "EZR.2.39",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 39,
+    "text": "The children of Harim, a thousand and seventeen.",
+    "hash": "139088f75442ffb4e2f8955f699efa2bc3931ab561ccc933e48b123587f005cb"
+  },
+  {
+    "id": "EZR.2.40",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 40,
+    "text": "The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four. {Hodaviah: also called, Judah or Hodevah}",
+    "hash": "a14a21d7002422cab7894f20f2547644fe6fae3b7bd3fe751b416db7ccf39e97"
+  },
+  {
+    "id": "EZR.2.41",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 41,
+    "text": "The singers: the children of Asaph, an hundred twenty and eight.",
+    "hash": "25c361eb27cccf8fbc6859d437b29410b6ecf64cad3a38c684317a6b552a6efc"
+  },
+  {
+    "id": "EZR.2.42",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 42,
+    "text": "The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, {in} all an hundred thirty and nine.",
+    "hash": "e5c229608face95d1c2976c3cab2afc482ea3c01003905a4cb11e577031a115c"
+  },
+  {
+    "id": "EZR.2.43",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 43,
+    "text": "The Nethinims: the children of Ziha, the children of Hasupha, the children of Tabbaoth,",
+    "hash": "3827919cd331158fdb34e6b4e1702a04a6fb11a97a955084b9843ebba3ffe9e5"
+  },
+  {
+    "id": "EZR.2.44",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 44,
+    "text": "The children of Keros, the children of Siaha, the children of Padon, {Siaha: also called, Sia}",
+    "hash": "00fe17c6f1b79fcd9cc208dde63b986a9f1b2f132b6178b44d2da1013354335c"
+  },
+  {
+    "id": "EZR.2.45",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 45,
+    "text": "The children of Lebanah, the children of Hagabah, the children of Akkub,",
+    "hash": "55f576a87c588dcc15e6a22e152b8ffeebffee4c47ead0f87bce11da6b9099d9"
+  },
+  {
+    "id": "EZR.2.46",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 46,
+    "text": "The children of Hagab, the children of Shalmai, the children of Hanan, {Shalmai: also called, Shamlai}",
+    "hash": "9c9f94fd0a55ca79863793f954f619207c427a788318e3be65efab25660c8549"
+  },
+  {
+    "id": "EZR.2.47",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 47,
+    "text": "The children of Giddel, the children of Gahar, the children of Reaiah,",
+    "hash": "220e79d7eb2c4716e6288d7438debe4f0f62f4bd13e3165468ef3235b166f512"
+  },
+  {
+    "id": "EZR.2.48",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 48,
+    "text": "The children of Rezin, the children of Nekoda, the children of Gazzam,",
+    "hash": "35f68c0f7988645ef4ba66b96b2f7057ed1919138a442a19517016b143d7ff32"
+  },
+  {
+    "id": "EZR.2.49",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 49,
+    "text": "The children of Uzza, the children of Paseah, the children of Besai,",
+    "hash": "b3542f0a38c44a95282bdbb05aa609d53b43a3a658f6c03e10c4eb5e84c25bbf"
+  },
+  {
+    "id": "EZR.2.50",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 50,
+    "text": "The children of Asnah, the children of Mehunim, the children of Nephusim, {Nephusim: also called, Nephishesim}",
+    "hash": "6e2c3d0e48f7061d7b9d09a0ae0200044db60f6e4c98623eef7fd4555c65e00f"
+  },
+  {
+    "id": "EZR.2.51",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 51,
+    "text": "The children of Bakbuk, the children of Hakupha, the children of Harhur,",
+    "hash": "652b57b4c1839cf31413f4a56f8932010bd4dd245e629f3d4a1fcc0c83e06239"
+  },
+  {
+    "id": "EZR.2.52",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 52,
+    "text": "The children of Bazluth, the children of Mehida, the children of Harsha, {Bazluth: also called, Bazlith}",
+    "hash": "30bd2fac243620bcc9d351a50de7c4d0516dc85e40b46a01ed806b866954c4ae"
+  },
+  {
+    "id": "EZR.2.53",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 53,
+    "text": "The children of Barkos, the children of Sisera, the children of Thamah,",
+    "hash": "466c7e4ebf000ca106619bc1bc66e6ba7a93bbf9ec66f5fcb403d99565636855"
+  },
+  {
+    "id": "EZR.2.54",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 54,
+    "text": "The children of Neziah, the children of Hatipha.",
+    "hash": "154ddfaa50dff1386c09897724bb4a5bc33e727666ce454698bbf0e015848377"
+  },
+  {
+    "id": "EZR.2.55",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 55,
+    "text": "The children of Solomon's servants: the children of Sotai, the children of Sophereth, the children of Peruda, {Peruda: also called, Perida}",
+    "hash": "f29ddffdd9fb54297c6398ca6b8a17964e2f1ffc132b93a1ea01439f9bdb59cd"
+  },
+  {
+    "id": "EZR.2.56",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 56,
+    "text": "The children of Jaalah, the children of Darkon, the children of Giddel,",
+    "hash": "a141d5006e740a892395f80c92ff3cb5cd5404b7844b9ff659cd3833f4f25ee9"
+  },
+  {
+    "id": "EZR.2.57",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 57,
+    "text": "The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Ami. {Ami: also called, Amon}",
+    "hash": "70fece71bb5a3e2351db69cab7e5a793c679bf9e87d4fd2a950f5c1e0aed2012"
+  },
+  {
+    "id": "EZR.2.58",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 58,
+    "text": "All the Nethinims, and the children of Solomon's servants, {were} three hundred ninety and two.",
+    "hash": "4d2f78ca06ae979c3f381fb655c5df2fe80b4d985fe9fe42ada38ab0f714cbe4"
+  },
+  {
+    "id": "EZR.2.59",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 59,
+    "text": "And these {were} they which went up from Telmelah, Telharsa, Cherub, Addan, {and} Immer: but they could not shew their father's house, and their seed, whether they {were} of Israel: {Addan: also called, Addon} {seed: or, pedigree}",
+    "hash": "399a2c344f4459032ee31930c22c05c0f1d9738f84513583de77ec5096e1c107"
+  },
+  {
+    "id": "EZR.2.60",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 60,
+    "text": "The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty and two.",
+    "hash": "bd0eb43d18293071975120613e4c5843d93aad99f2a6523cb38656461cdcf709"
+  },
+  {
+    "id": "EZR.2.61",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 61,
+    "text": "And of the children of the priests: the children of Habaiah, the children of Koz, the children of Barzillai; which took a wife of the daughters of Barzillai the Gileadite, and was called after their name:",
+    "hash": "0f62ec9858f9bc9805cee2532a781d0f0bb5088c2414c70e7dd7a2e99eac9307"
+  },
+  {
+    "id": "EZR.2.62",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 62,
+    "text": "These sought their register {among} those that were reckoned by genealogy, but they were not found: therefore were they, as polluted, put from the priesthood. {were they...: Heb. they were polluted from the priesthood}",
+    "hash": "1887b0a963ae80b07889d345f612935443e2bf91f7b86c2fa9d10cd1a639c079"
+  },
+  {
+    "id": "EZR.2.63",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 63,
+    "text": "And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and with Thummim. {Tirshatha: or, governor}",
+    "hash": "0324b43b4dc004115203d7a51e88f340b3c3e4487ddce243c3a1bb272a219bf1"
+  },
+  {
+    "id": "EZR.2.64",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 64,
+    "text": "The whole congregation together {was} forty and two thousand three hundred {and} threescore,",
+    "hash": "8971501f381d9784ed1b24b5fa4d0d5429128aff9848b4ec92f1725fc25f9edc"
+  },
+  {
+    "id": "EZR.2.65",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 65,
+    "text": "Beside their servants and their maids, of whom {there were} seven thousand three hundred thirty and seven: and {there were} among them two hundred singing men and singing women.",
+    "hash": "3a71c7479836feddfb4942e14f7504884324b91f8e2873505e1051649f9c159d"
+  },
+  {
+    "id": "EZR.2.66",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 66,
+    "text": "Their horses {were} seven hundred thirty and six; their mules, two hundred forty and five;",
+    "hash": "ae6934a38c5fa1fd17c7b0eb461c5a92050379210275e5d7af942d90b1cccd59"
+  },
+  {
+    "id": "EZR.2.67",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 67,
+    "text": "Their camels, four hundred thirty and five; {their} asses, six thousand seven hundred and twenty.",
+    "hash": "dd9e0b8255694dfafd257eb6c310a1928108df8f911a001d1df4a98cdd51b5d2"
+  },
+  {
+    "id": "EZR.2.68",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 68,
+    "text": "And {some} of the chief of the fathers, when they came to the house of the LORD which {is} at Jerusalem, offered freely for the house of God to set it up in his place:",
+    "hash": "5889c00c67fdc0649ec926f4169d0cfc826cbef58e2e3f1b770db4db6580f1eb"
+  },
+  {
+    "id": "EZR.2.69",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 69,
+    "text": "They gave after their ability unto the treasure of the work threescore and one thousand drams of gold, and five thousand pound of silver, and one hundred priests' garments.",
+    "hash": "9feb5d69fd85d1618165a4025dd9e6ed7d37027d39da497afee8cbb2a2b76402"
+  },
+  {
+    "id": "EZR.2.70",
+    "book": "Ezra",
+    "bookNum": 15,
+    "bookAbbrev": "EZR",
+    "chapter": 2,
+    "verse": 70,
+    "text": "So the priests, and the Levites, and {some} of the people, and the singers, and the porters, and the Nethinims, dwelt in their cities, and all Israel in their cities.",
+    "hash": "75bce89ffdcdb195563e9e910ba29e3bcecd03663f097a6a72052f03450f3e47"
+  }
+]

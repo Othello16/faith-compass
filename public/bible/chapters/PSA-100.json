@@ -1,0 +1,52 @@
+[
+  {
+    "id": "PSA.100.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 100,
+    "verse": 1,
+    "text": "[A Psalm of praise.] Make a joyful noise unto the LORD, all ye lands. {praise: or, thanksgiving} {all...: Heb. all the earth}",
+    "hash": "9e4341bfb9048dc2c2d849240602843cccd8961a8153e76e616aec8f78800cc0"
+  },
+  {
+    "id": "PSA.100.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 100,
+    "verse": 2,
+    "text": "Serve the LORD with gladness: come before his presence with singing.",
+    "hash": "462b9e1def229642438555c2c59f753d9a4a2be5deb8862ac3cdf4dd335639ff"
+  },
+  {
+    "id": "PSA.100.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 100,
+    "verse": 3,
+    "text": "Know ye that the LORD he {is} God: {it is} he {that} hath made us, and not we ourselves; {we are} his people, and the sheep of his pasture. {and not...: or, and his we are}",
+    "hash": "224fe0601a5977eef504458f272646b204cf9132e62bab0b8d0d7fb1ba93dc6e"
+  },
+  {
+    "id": "PSA.100.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 100,
+    "verse": 4,
+    "text": "Enter into his gates with thanksgiving, {and} into his courts with praise: be thankful unto him, {and} bless his name.",
+    "hash": "859c8e11e1b950eb540425d7860868f4e3b137ce3155f3247ec25e09f78f2eae"
+  },
+  {
+    "id": "PSA.100.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 100,
+    "verse": 5,
+    "text": "For the LORD {is} good; his mercy {is} everlasting; and his truth {endureth} to all generations. {to all...: Heb. to generation and generation}",
+    "hash": "0d0f7303e514c5a0ece4d36af56dde7425bfbb05e14713065b6f62aaf6564396"
+  }
+]

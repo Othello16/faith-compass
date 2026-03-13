@@ -1,0 +1,462 @@
+[
+  {
+    "id": "MAT.25.1",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 1,
+    "text": "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.",
+    "hash": "73694be390da4708e607d46f0bd55fb4db538b3097cfc66fcf2b28ea58b09a07"
+  },
+  {
+    "id": "MAT.25.2",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 2,
+    "text": "And five of them were wise, and five {were} foolish.",
+    "hash": "da1168e7e131bec73fd63d749c273639bc3c13bca117356ea0ea5a1df0aa1cf6"
+  },
+  {
+    "id": "MAT.25.3",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 3,
+    "text": "They that {were} foolish took their lamps, and took no oil with them:",
+    "hash": "70c9e1dd3c8aab8f428545637ea53e74cc1eaba4cc2e3b8e8cacd194d4c3b54b"
+  },
+  {
+    "id": "MAT.25.4",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 4,
+    "text": "But the wise took oil in their vessels with their lamps.",
+    "hash": "4a5a50b437fb0e9dae7d30c0a054d408142cb69e74a72ce337757ac4243e4cac"
+  },
+  {
+    "id": "MAT.25.5",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 5,
+    "text": "While the bridegroom tarried, they all slumbered and slept.",
+    "hash": "03eeea58274c5d6b2fc84c3eb108949a73429d35afd5b60a35edda801a58ede0"
+  },
+  {
+    "id": "MAT.25.6",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 6,
+    "text": "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him.",
+    "hash": "5d8d508bc8695360ace63e2232c88712fc87b927b75303f142b4e58f14cae5a4"
+  },
+  {
+    "id": "MAT.25.7",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 7,
+    "text": "Then all those virgins arose, and trimmed their lamps.",
+    "hash": "68eb39f28fe0263152ba7f7e85736bb906b84cdf7a2d65d57da3746847b069fc"
+  },
+  {
+    "id": "MAT.25.8",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 8,
+    "text": "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out. {gone out: or, going out}",
+    "hash": "8e8c757d18276c7069024fc64108f49a8af65620679f77107080c20334d3b50f"
+  },
+  {
+    "id": "MAT.25.9",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 9,
+    "text": "But the wise answered, saying, {Not so}; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves.",
+    "hash": "9ff6da2f8bc97a9e64cde4771aec3bc14065445ca59579b8c17387c13f6358df"
+  },
+  {
+    "id": "MAT.25.10",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 10,
+    "text": "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.",
+    "hash": "a02de2ece7be2c1eb3799e24f4c2f279fbd655177c4cde8974f8fbb630f00a6c"
+  },
+  {
+    "id": "MAT.25.11",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 11,
+    "text": "Afterward came also the other virgins, saying, Lord, Lord, open to us.",
+    "hash": "4fe467fd2953cb71ee3b3cdbea06770895cead072da42b916517d08701857eee"
+  },
+  {
+    "id": "MAT.25.12",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 12,
+    "text": "But he answered and said, Verily I say unto you, I know you not.",
+    "hash": "292cf9b36dcd2b6137c332d33922e3f34ad404f1e9b98a20880f71dc8c58a94e"
+  },
+  {
+    "id": "MAT.25.13",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 13,
+    "text": "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.",
+    "hash": "2dbcd15fa2836b7af73b08ab2d9845b9590151aa42b8eff18cbd5b7be48e3b55"
+  },
+  {
+    "id": "MAT.25.14",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 14,
+    "text": "For {the kingdom of heaven is} as a man travelling into a far country, {who} called his own servants, and delivered unto them his goods.",
+    "hash": "65ce23b622a144e93adc3d4d4b314b49507ca46051dda5dda2b535cd8e0d2e6b"
+  },
+  {
+    "id": "MAT.25.15",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 15,
+    "text": "And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey. {talents: a talent is one hundred and eighty seven pounds ten shillings}",
+    "hash": "7b0109f73bcd47a940590c4d16f28221f80c1a74ecd32051af0d2f55951362e1"
+  },
+  {
+    "id": "MAT.25.16",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 16,
+    "text": "Then he that had received the five talents went and traded with the same, and made {them} other five talents.",
+    "hash": "4b9ca1e37734020ae0433b30e1fd37fa3351de8a6f7cccbbdfc4d4e11c696202"
+  },
+  {
+    "id": "MAT.25.17",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 17,
+    "text": "And likewise he that {had received} two, he also gained other two.",
+    "hash": "b18308137ca18eaad80f60b493399d200c7ad6673ae9cb1635bb04ae9d2557a9"
+  },
+  {
+    "id": "MAT.25.18",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 18,
+    "text": "But he that had received one went and digged in the earth, and hid his lord's money.",
+    "hash": "f049a83e4be450d3a00ff1dd98bd456601969545cefc94c4f495725875908fbc"
+  },
+  {
+    "id": "MAT.25.19",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 19,
+    "text": "After a long time the lord of those servants cometh, and reckoneth with them.",
+    "hash": "8fa4b6c1afbc4a5624b8e85ac7891a2059fc9ddbad3efcc491846d226dde4a28"
+  },
+  {
+    "id": "MAT.25.20",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 20,
+    "text": "And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more.",
+    "hash": "6c8d237d81d49d965c5ef346d1885a49b000c2249808ef2daac84a4b396e5c7b"
+  },
+  {
+    "id": "MAT.25.21",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 21,
+    "text": "His lord said unto him, Well done, {thou} good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.",
+    "hash": "34415a3831bb3896e2289bba2ad1e109846d8cd803cbf477a8545d5a00bab5bb"
+  },
+  {
+    "id": "MAT.25.22",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 22,
+    "text": "He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them.",
+    "hash": "5cec34fd64981900a00c469f54534a3fdb46a859eb8fb1a2b95b39ab4a250dd1"
+  },
+  {
+    "id": "MAT.25.23",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 23,
+    "text": "His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.",
+    "hash": "0f7219853e651ed8e4de3687144fde4be747134891339d3f199b024807ffa101"
+  },
+  {
+    "id": "MAT.25.24",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 24,
+    "text": "Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:",
+    "hash": "3ad56ad79d74bc3e440086b867cfef9133c3704b8a5fe04278768555e203857a"
+  },
+  {
+    "id": "MAT.25.25",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 25,
+    "text": "And I was afraid, and went and hid thy talent in the earth: lo, {there} thou hast {that is} thine.",
+    "hash": "deae4a6d9b2076dea90215e7b7fc1dede137300386df58c36f074b3949e5f93a"
+  },
+  {
+    "id": "MAT.25.26",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 26,
+    "text": "His lord answered and said unto him, {Thou} wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:",
+    "hash": "a7c3b07e69dac502c47bcfe2ca90f775fd28e91406591428679f3563de1d307f"
+  },
+  {
+    "id": "MAT.25.27",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 27,
+    "text": "Thou oughtest therefore to have put my money to the exchangers, and {then} at my coming I should have received mine own with usury.",
+    "hash": "7e2ee2fb72338a30de7dbb190891d887e04d16337254229521d25cbe506ff32d"
+  },
+  {
+    "id": "MAT.25.28",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 28,
+    "text": "Take therefore the talent from him, and give {it} unto him which hath ten talents.",
+    "hash": "7f4e8b5d3c734a11f5fc950cc104be1c9be2202767c1e9818872359d6a54b2c9"
+  },
+  {
+    "id": "MAT.25.29",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 29,
+    "text": "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath.",
+    "hash": "78fe6878c9d354bf35fa064e46588cdc451653ff76b352e5f8c6ce28629f3f67"
+  },
+  {
+    "id": "MAT.25.30",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 30,
+    "text": "And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth.",
+    "hash": "c23f98e6eb363b21b506bedda21e69eba48a57c80575721c68a97f504fedcaf4"
+  },
+  {
+    "id": "MAT.25.31",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 31,
+    "text": "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:",
+    "hash": "3372e518c492b1dfea58866bf156e1ce258de025300b6cf2c1f12f2946658362"
+  },
+  {
+    "id": "MAT.25.32",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 32,
+    "text": "And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth {his} sheep from the goats:",
+    "hash": "b85dae43b94e77d6bf5df19ccc326eae393a380e3368cedfdaa5e5fdc8f72544"
+  },
+  {
+    "id": "MAT.25.33",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 33,
+    "text": "And he shall set the sheep on his right hand, but the goats on the left.",
+    "hash": "48016505a0b1deaa5eb79c3a9243c5343aa3f0b5b6429d91f838c378a83adeec"
+  },
+  {
+    "id": "MAT.25.34",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 34,
+    "text": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:",
+    "hash": "c32f6cb2bde76b6014d62ba2d1d4c0e60d3e4dc113d6751c380fb6af165d54aa"
+  },
+  {
+    "id": "MAT.25.35",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 35,
+    "text": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:",
+    "hash": "fb775d45a86583e7e67ddf983825ccb2abaef53b4ec63409222b386c34f620cb"
+  },
+  {
+    "id": "MAT.25.36",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 36,
+    "text": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
+    "hash": "37d7c1e87b0014dec09b46a237ffa1a083221e3171008f1395c0fa6c6ed1e924"
+  },
+  {
+    "id": "MAT.25.37",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 37,
+    "text": "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed {thee}? or thirsty, and gave {thee} drink?",
+    "hash": "aff32449d720c95066dba487eb854dbe9fff2c01b06a1619142656e59bd61785"
+  },
+  {
+    "id": "MAT.25.38",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 38,
+    "text": "When saw we thee a stranger, and took {thee} in? or naked, and clothed {thee}?",
+    "hash": "e3f29364592e40c59ddbada4d9f0f0c8bdd2a5d4037a838f7d847e68049b3803"
+  },
+  {
+    "id": "MAT.25.39",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 39,
+    "text": "Or when saw we thee sick, or in prison, and came unto thee?",
+    "hash": "2127e972d8ca1abdf25eed2ab1819c256f6857bafaaea1cb060ef2c0f1f264a2"
+  },
+  {
+    "id": "MAT.25.40",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 40,
+    "text": "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done {it} unto one of the least of these my brethren, ye have done {it} unto me.",
+    "hash": "399d1f546d83c1f51ddafe8729d012a14eeac7e93623578a9040c9e9f275ff01"
+  },
+  {
+    "id": "MAT.25.41",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 41,
+    "text": "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:",
+    "hash": "9d7a9ee9f17834d9daafbe58efaf8a2efa721b589b67d58644d530cfbe9780b4"
+  },
+  {
+    "id": "MAT.25.42",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 42,
+    "text": "For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:",
+    "hash": "23d3d831ddc21ebe7bcdb2d373d18d7de89c0f96294285083c6bfe9309a2b2e3"
+  },
+  {
+    "id": "MAT.25.43",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 43,
+    "text": "I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not.",
+    "hash": "75609af8b1bdf770ab95e40dff64c1dd032a86fe6add7efc0ccb8ea8b3bec4af"
+  },
+  {
+    "id": "MAT.25.44",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 44,
+    "text": "Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?",
+    "hash": "0c3e153ead55632d011d65baeccea111af1ec069b8c20b6e09fadf48adacf970"
+  },
+  {
+    "id": "MAT.25.45",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 45,
+    "text": "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did {it} not to one of the least of these, ye did {it} not to me.",
+    "hash": "d71eab732b1dd16857390b48e5154158528a1a1f788ee4f31cf6b6b43c0a10ec"
+  },
+  {
+    "id": "MAT.25.46",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 25,
+    "verse": 46,
+    "text": "And these shall go away into everlasting punishment: but the righteous into life eternal.",
+    "hash": "facd07494205c920a8d67cc6cd292d8bf4b0d55f90a0641874dc7e3f38cc8c69"
+  }
+]

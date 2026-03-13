@@ -1,0 +1,322 @@
+[
+  {
+    "id": "GEN.5.1",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 1,
+    "text": "This {is} the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;",
+    "hash": "41778fb166eb9bdf1553be5938ed1657cc5191f791ee81a4c3480f264e406bac"
+  },
+  {
+    "id": "GEN.5.2",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 2,
+    "text": "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created.",
+    "hash": "9aaf05f6fd3ba84f3b5512b95bbf10b869471bdc1740e7dc6e14464678e848bf"
+  },
+  {
+    "id": "GEN.5.3",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 3,
+    "text": "And Adam lived an hundred and thirty years, and begat {a son} in his own likeness, after his image; and called his name Seth:",
+    "hash": "b2de23d044adb1b93ba358263b461681de75480fb6b69a1c96c688ba453eb081"
+  },
+  {
+    "id": "GEN.5.4",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 4,
+    "text": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:",
+    "hash": "39f0df5f1b500e2555444bc3a64ab879fa7d1749ff41034ac41ca7dbf3639b3d"
+  },
+  {
+    "id": "GEN.5.5",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 5,
+    "text": "And all the days that Adam lived were nine hundred and thirty years: and he died.",
+    "hash": "cf46d3a75314b4eebe2bb0d07a39f5e2ad7dd41a47f8f073e593ce29756705dd"
+  },
+  {
+    "id": "GEN.5.6",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 6,
+    "text": "And Seth lived an hundred and five years, and begat Enos: {Enos: Heb. Enosh}",
+    "hash": "c07ef49d5b8fab390f7c7fb5fd3a213f5c6fc6619801fd230dd6e0484667c624"
+  },
+  {
+    "id": "GEN.5.7",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 7,
+    "text": "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:",
+    "hash": "6a0fc8496ef189135f0b173084546a076cdf2d830d9378637425896cc27b4102"
+  },
+  {
+    "id": "GEN.5.8",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 8,
+    "text": "And all the days of Seth were nine hundred and twelve years: and he died.",
+    "hash": "5047eb229424ee4049575502e54f0b81e7452fb8d12aca9386a093b76d516980"
+  },
+  {
+    "id": "GEN.5.9",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 9,
+    "text": "And Enos lived ninety years, and begat Cainan: {Cainan: Heb. Kenan}",
+    "hash": "daafbb5189250e0e838d61ea8e4f49b68938b5007ec3248660cc3b6d9371074c"
+  },
+  {
+    "id": "GEN.5.10",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 10,
+    "text": "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:",
+    "hash": "8a19f853054579eef0d13e7184a6560d2b4f2a5bab662c0a423e6ef615bbf42b"
+  },
+  {
+    "id": "GEN.5.11",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 11,
+    "text": "And all the days of Enos were nine hundred and five years: and he died.",
+    "hash": "e67329d2cb2b1c29877e0c1d471cf52d97c4d2682effbdbfc84588fbb7e22630"
+  },
+  {
+    "id": "GEN.5.12",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 12,
+    "text": "And Cainan lived seventy years, and begat Mahalaleel: {Mahalaleel: Gr. Maleleel}",
+    "hash": "29252e76e5085f79fbe57a2477f401a377cf310a2300aeed770523d84feab2ed"
+  },
+  {
+    "id": "GEN.5.13",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 13,
+    "text": "And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:",
+    "hash": "78cce6d5c84222a6528ded9902e73c3ebd13528c2e41ada4dc96652fc28caefd"
+  },
+  {
+    "id": "GEN.5.14",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 14,
+    "text": "And all the days of Cainan were nine hundred and ten years: and he died.",
+    "hash": "6b56c22d249a2d7a81ffd2449caf4d2ecc78bbe3e03bcd584643ef777bc6a2bb"
+  },
+  {
+    "id": "GEN.5.15",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 15,
+    "text": "And Mahalaleel lived sixty and five years, and begat Jared: {Jared: Heb. Jered}",
+    "hash": "3df039a9e4d939310cffcba8d801bf00789cd9a8cf0f0c5867f5f4bce8273ddc"
+  },
+  {
+    "id": "GEN.5.16",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 16,
+    "text": "And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:",
+    "hash": "955b5508fe2366aa7fb6200f8a616fb9fa018f8eb589e42d2d013e285704a06f"
+  },
+  {
+    "id": "GEN.5.17",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 17,
+    "text": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died.",
+    "hash": "a297dcc76baf24f3aafb1ae28c70402f26d178735c6016764f51340ce08991c6"
+  },
+  {
+    "id": "GEN.5.18",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 18,
+    "text": "And Jared lived an hundred sixty and two years, and he begat Enoch:",
+    "hash": "ddaffeba317cc0b28f61b9885d53b8715a143815bb54c186b6af7b4c1b383439"
+  },
+  {
+    "id": "GEN.5.19",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 19,
+    "text": "And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:",
+    "hash": "86e13e64a8a9b3c9221bdd6914eb937b7458e0c3566656ef9099e975d9275c9d"
+  },
+  {
+    "id": "GEN.5.20",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 20,
+    "text": "And all the days of Jared were nine hundred sixty and two years: and he died.",
+    "hash": "ef28d10cbed4f4e5d10905ff510ab442c30787ae4157c5f3f83c2cef84c35760"
+  },
+  {
+    "id": "GEN.5.21",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 21,
+    "text": "And Enoch lived sixty and five years, and begat Methuselah: {Methuselah: Gr. Mathusala}",
+    "hash": "5e731906a9ae8129ffd6ba48511c8151c77ff703289137d7ea782c53a00ef1c8"
+  },
+  {
+    "id": "GEN.5.22",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 22,
+    "text": "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:",
+    "hash": "363b63f7227a66f57f3137ad9a9582f9dee054c1334000613f06a5c03c73caff"
+  },
+  {
+    "id": "GEN.5.23",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 23,
+    "text": "And all the days of Enoch were three hundred sixty and five years:",
+    "hash": "10ad6059c3a3df98a286450111cbfd65b5192d8f04cb96a86da5b878a40888f8"
+  },
+  {
+    "id": "GEN.5.24",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 24,
+    "text": "And Enoch walked with God: and he {was} not; for God took him.",
+    "hash": "6a32c6a17fb6c426dff3a4cb4641698a6dd9e62980dfa1dd655654022d649f6c"
+  },
+  {
+    "id": "GEN.5.25",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 25,
+    "text": "And Methuselah lived an hundred eighty and seven years, and begat Lamech:",
+    "hash": "99e6c3fce8ffb61dd41eb84ba6021e1ed36f3571f956bf39df5f26c4fec6fa0d"
+  },
+  {
+    "id": "GEN.5.26",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 26,
+    "text": "And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters: {Lamech: Heb. Lemech}",
+    "hash": "54f64f7246e485557ba008d8bc042027d06c55aab30baeb9ad86d49f0a21dba4"
+  },
+  {
+    "id": "GEN.5.27",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 27,
+    "text": "And all the days of Methuselah were nine hundred sixty and nine years: and he died.",
+    "hash": "b69cf6babd501a6706b980a29104a54392e2667182ec5559d6e4da34a82150ad"
+  },
+  {
+    "id": "GEN.5.28",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 28,
+    "text": "And Lamech lived an hundred eighty and two years, and begat a son:",
+    "hash": "9ced257a4bb59d71b398e9c7d196d275f6a09f0d81e2fa71af53b7ac1002ad88"
+  },
+  {
+    "id": "GEN.5.29",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 29,
+    "text": "And he called his name Noah, saying, This {same} shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed. {Noah: Gr. Noe: that is Rest, or, Comfort}",
+    "hash": "483d16716eb88a9dd075d43b044fce010413af8d7ab2ef91f56884689d1b139e"
+  },
+  {
+    "id": "GEN.5.30",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 30,
+    "text": "And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:",
+    "hash": "c754d3f95e991152cb7c80854e005acda54226ad4d2394eb37b8075c6dd32365"
+  },
+  {
+    "id": "GEN.5.31",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 31,
+    "text": "And all the days of Lamech were seven hundred seventy and seven years: and he died.",
+    "hash": "6b7a4fbdd767b011cbd2bdbb630cdbc0797f9ec8a37902bbe1cbd6b7e0008813"
+  },
+  {
+    "id": "GEN.5.32",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 5,
+    "verse": 32,
+    "text": "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.",
+    "hash": "ae2bad70e81631ec335c53dc91f0046e25b5de6e3e18f43d46641f56bec7f0dc"
+  }
+]

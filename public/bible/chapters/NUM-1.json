@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NUM.1.1",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 1,
+    "text": "And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first {day} of the second month, in the second year after they were come out of the land of Egypt, saying,",
+    "hash": "1f1074df340f10f04bb353c9346a64cacdc244f63fe8407cf2d0015b7e285e1b"
+  },
+  {
+    "id": "NUM.1.2",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 2,
+    "text": "Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of {their} names, every male by their polls;",
+    "hash": "dc75f61324b8df4785ba99607adc54d60e7f2df65db928d39d01c6d303e8b169"
+  },
+  {
+    "id": "NUM.1.3",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 3,
+    "text": "From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies.",
+    "hash": "26542dc2f4eaf3cac8934a5ce6bdefa312367c6bb5a63d5dfdfd3995e3902260"
+  },
+  {
+    "id": "NUM.1.4",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 4,
+    "text": "And with you there shall be a man of every tribe; every one head of the house of his fathers.",
+    "hash": "3dca3d9b40e95b627f1952b49b8d9331d2b1f8439ec4eb138075561b5f3ae5c8"
+  },
+  {
+    "id": "NUM.1.5",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 5,
+    "text": "And these {are} the names of the men that shall stand with you: of {the tribe of} Reuben; Elizur the son of Shedeur.",
+    "hash": "86b98e6594032458334611375acbe237d3a48340ee57e86fdb2d1a320156c13e"
+  },
+  {
+    "id": "NUM.1.6",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 6,
+    "text": "Of Simeon; Shelumiel the son of Zurishaddai.",
+    "hash": "8bd09fd9d0f7e5eb2599182032e8f854633069645f82236bd153912755262a23"
+  },
+  {
+    "id": "NUM.1.7",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 7,
+    "text": "Of Judah; Nahshon the son of Amminadab.",
+    "hash": "f30f75e465d32cc00923a7a1f3741e657ca257dd12149ea060892ab46657b44b"
+  },
+  {
+    "id": "NUM.1.8",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 8,
+    "text": "Of Issachar; Nethaneel the son of Zuar.",
+    "hash": "f1eb906d13f825b600229a7802b370f60c4321e5c3ff64ea60796828d6541fe7"
+  },
+  {
+    "id": "NUM.1.9",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 9,
+    "text": "Of Zebulun; Eliab the son of Helon.",
+    "hash": "df7ccb8c15db930a1ca83cf10bb0e8098351000177304c8372f91f3f8e1a6f2f"
+  },
+  {
+    "id": "NUM.1.10",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 10,
+    "text": "Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur.",
+    "hash": "65f83fa15790e77d5046b11593ea4136cbe3dbf27ca027f26251303f945d3eb4"
+  },
+  {
+    "id": "NUM.1.11",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 11,
+    "text": "Of Benjamin; Abidan the son of Gideoni.",
+    "hash": "90a3835ac4826bbf3bddf953e3f9c935133ed80ab137911128be39e6d36d63c8"
+  },
+  {
+    "id": "NUM.1.12",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 12,
+    "text": "Of Dan; Ahiezer the son of Ammishaddai.",
+    "hash": "fed4eab0561dee4729516a571e36f38cd2987fedfcea8982fd132a800dafea20"
+  },
+  {
+    "id": "NUM.1.13",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 13,
+    "text": "Of Asher; Pagiel the son of Ocran.",
+    "hash": "bb0b26cfbb824aaad88643f00e3a808c699758a6919a4f636dfec258db0f6b41"
+  },
+  {
+    "id": "NUM.1.14",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 14,
+    "text": "Of Gad; Eliasaph the son of Deuel. {Deuel: also called, Reuel}",
+    "hash": "6cd6684ba9a0bbb7ea0df15760b97a244a07f3a1a129e0df009d8efbdb93b018"
+  },
+  {
+    "id": "NUM.1.15",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 15,
+    "text": "Of Naphtali; Ahira the son of Enan.",
+    "hash": "02af779a3efe7086cd3d70bbb7bbdbf7d390b70d50b27e6f9603305154315b88"
+  },
+  {
+    "id": "NUM.1.16",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 16,
+    "text": "These {were} the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel.",
+    "hash": "3664abb022aac0e4542cd76ab0f58c7630f6459c85173493288d1143774661f2"
+  },
+  {
+    "id": "NUM.1.17",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 17,
+    "text": "And Moses and Aaron took these men which are expressed by {their} names:",
+    "hash": "84c1acc8c7a4f74d6bc8b8c63a2d0cf5636f99b6a84bc910e69a32ca195c871b"
+  },
+  {
+    "id": "NUM.1.18",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 18,
+    "text": "And they assembled all the congregation together on the first {day} of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls.",
+    "hash": "1d7557ccbab0e2624d83df6efab9eed7cee737f64518be5229df308a52ec5c31"
+  },
+  {
+    "id": "NUM.1.19",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 19,
+    "text": "As the LORD commanded Moses, so he numbered them in the wilderness of Sinai.",
+    "hash": "59152d634f5c6751a67a4e03f320d684e34ebb58643cdbd2f72c10d934b5cf11"
+  },
+  {
+    "id": "NUM.1.20",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 20,
+    "text": "And the children of Reuben, Israel's eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;",
+    "hash": "1351839f29025ba2ce34a65a421a4874c5725b1ba2bb8415dc578be5cfddc9d9"
+  },
+  {
+    "id": "NUM.1.21",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 21,
+    "text": "Those that were numbered of them, {even} of the tribe of Reuben, {were} forty and six thousand and five hundred.",
+    "hash": "fa68c2e7ba844fa350e82e79b3dbfd2f2b9a2f98cbbcbddcb105348e9ccc5385"
+  },
+  {
+    "id": "NUM.1.22",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 22,
+    "text": "Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;",
+    "hash": "c57efe19e12d41e31b28392929c159c0be692ea90a2acc100e50d5ab1178e408"
+  },
+  {
+    "id": "NUM.1.23",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 23,
+    "text": "Those that were numbered of them, {even} of the tribe of Simeon, {were} fifty and nine thousand and three hundred.",
+    "hash": "291e7dbac7e0da3b165814ca4b7afe6aa4f202ba0d53cc07d703adba294afdbf"
+  },
+  {
+    "id": "NUM.1.24",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 24,
+    "text": "Of the children of Gad, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "hash": "37e83b6d373dbd0445670b13d480a0bc832825f2d3fcf59af8a332373ebdf844"
+  },
+  {
+    "id": "NUM.1.25",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 25,
+    "text": "Those that were numbered of them, {even} of the tribe of Gad, {were} forty and five thousand six hundred and fifty.",
+    "hash": "5fbe9caf4ed41e477100262f45b7fc8682bd4978939ed0e064b6b65acbfdda40"
+  },
+  {
+    "id": "NUM.1.26",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 26,
+    "text": "Of the children of Judah, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "hash": "562fb08af2c7ac1d066ccc3de35e33c60ff51633d1f80bcec9c0a0cbb39cdb76"
+  },
+  {
+    "id": "NUM.1.27",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 27,
+    "text": "Those that were numbered of them, {even} of the tribe of Judah, {were} threescore and fourteen thousand and six hundred.",
+    "hash": "23ebd054beb465f6068012a0703b8378614280c3bbf360310a3fc2b1d532d15a"
+  },
+  {
+    "id": "NUM.1.28",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 28,
+    "text": "Of the children of Issachar, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "hash": "e1a3755b37f49251a0edbb842064984114a29344370f401f0e811c1ae8e5ca6e"
+  },
+  {
+    "id": "NUM.1.29",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 29,
+    "text": "Those that were numbered of them, {even} of the tribe of Issachar, {were} fifty and four thousand and four hundred.",
+    "hash": "77319e6552642980562e1a55d6d06e07eaf159a64cb77da6d98a6ffbd04cb46e"
+  },
+  {
+    "id": "NUM.1.30",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 30,
+    "text": "Of the children of Zebulun, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "hash": "a3838de82a1abc3d97ad5614e622492b2d35a201926f4f2d80badb0d2fbefc90"
+  },
+  {
+    "id": "NUM.1.31",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 31,
+    "text": "Those that were numbered of them, {even} of the tribe of Zebulun, {were} fifty and seven thousand and four hundred.",
+    "hash": "fd813b45daa9338b014412ce196881a997cc0e76ac50a43aa7070bca74a5ce76"
+  },
+  {
+    "id": "NUM.1.32",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 32,
+    "text": "Of the children of Joseph, {namely}, of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "hash": "e622e63dc585929eba62697e2687516bac74e7d0097e9cbac2a1cc0b002f729d"
+  },
+  {
+    "id": "NUM.1.33",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 33,
+    "text": "Those that were numbered of them, {even} of the tribe of Ephraim, {were} forty thousand and five hundred.",
+    "hash": "7321b2ac554b64e8c20de17a347989da6c3dde024c89bdd93be79e74d7812fb8"
+  },
+  {
+    "id": "NUM.1.34",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 34,
+    "text": "Of the children of Manasseh, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "hash": "c125e1fc9230e30f93c2da6278e587a692fa502aa86cf16be67d683674bd9c9b"
+  },
+  {
+    "id": "NUM.1.35",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 35,
+    "text": "Those that were numbered of them, {even} of the tribe of Manasseh, {were} thirty and two thousand and two hundred.",
+    "hash": "5966ebf41adf937a2e8d6aed49f503094d307bf62f45f772f399b9ffa24bcfdc"
+  },
+  {
+    "id": "NUM.1.36",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 36,
+    "text": "Of the children of Benjamin, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "hash": "4e6ff3f68c3af0b8e4ab7fa5ca4f67408a0b2ca1276101d4679940ae844a9f57"
+  },
+  {
+    "id": "NUM.1.37",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 37,
+    "text": "Those that were numbered of them, {even} of the tribe of Benjamin, {were} thirty and five thousand and four hundred.",
+    "hash": "5c153a61e548d86cc61da9e324f655409f402a652927438cf6e6fbc8b6ae1558"
+  },
+  {
+    "id": "NUM.1.38",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 38,
+    "text": "Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "hash": "55e8377d57622615d449004727832dfa60468af48d94f036d9345cf7f54fc9cc"
+  },
+  {
+    "id": "NUM.1.39",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 39,
+    "text": "Those that were numbered of them, {even} of the tribe of Dan, {were} threescore and two thousand and seven hundred.",
+    "hash": "93388455f052c3d1e82d7063bb91f6ee47d065c9fdbddb846a5f60831e1df9e4"
+  },
+  {
+    "id": "NUM.1.40",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 40,
+    "text": "Of the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "hash": "58a3865573a444f0d34829854eb7474f28defefbfd8ec2f25f3ed173a2f02112"
+  },
+  {
+    "id": "NUM.1.41",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 41,
+    "text": "Those that were numbered of them, {even} of the tribe of Asher, {were} forty and one thousand and five hundred.",
+    "hash": "21a253706f3685479cccea6fcd9af282b61c09c491e14a04422d256954c74169"
+  },
+  {
+    "id": "NUM.1.42",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 42,
+    "text": "Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "hash": "963234da6505a9db766470de19ff0a8f5a318d4c17b4e48f9a127275bf2cf71e"
+  },
+  {
+    "id": "NUM.1.43",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 43,
+    "text": "Those that were numbered of them, {even} of the tribe of Naphtali, {were} fifty and three thousand and four hundred.",
+    "hash": "a4753bfd0c637952d56ff0b670123ecdda578751aacaaecf0d736a72fc871a26"
+  },
+  {
+    "id": "NUM.1.44",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 44,
+    "text": "These {are} those that were numbered, which Moses and Aaron numbered, and the princes of Israel, {being} twelve men: each one was for the house of his fathers.",
+    "hash": "7b1069944177f3ded605e8ea9750d594fb395d524a894444bb9d75ce61104517"
+  },
+  {
+    "id": "NUM.1.45",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 45,
+    "text": "So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;",
+    "hash": "fcf4deade81a04504e112e73d920dbb928661c5050e24e1b87fa5833827f7b03"
+  },
+  {
+    "id": "NUM.1.46",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 46,
+    "text": "Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty.",
+    "hash": "e71fed8b9732d1bd5f620142a967559d2401c1e39ff59b5d02a5d1b272077b41"
+  },
+  {
+    "id": "NUM.1.47",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 47,
+    "text": "But the Levites after the tribe of their fathers were not numbered among them.",
+    "hash": "d4a51baa3a1c550f0209117a7422037fd3ccb6d2dc9fd3d9c5a050d1c51d48d8"
+  },
+  {
+    "id": "NUM.1.48",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 48,
+    "text": "For the LORD had spoken unto Moses, saying,",
+    "hash": "ecb6d7ff733fb5cda2293202a27de481afa2b4347dc1975ed43ff2086575a7ad"
+  },
+  {
+    "id": "NUM.1.49",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 49,
+    "text": "Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel:",
+    "hash": "3ee0d527ad779ea6e60d973d36dae3209b18eadb05c38f5a0cedb4640d5664e0"
+  },
+  {
+    "id": "NUM.1.50",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 50,
+    "text": "But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that {belong} to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle.",
+    "hash": "132d638fe9e0dac6f6da751415c22054f785e0681fb033e3a88dc534458121c2"
+  },
+  {
+    "id": "NUM.1.51",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 51,
+    "text": "And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death.",
+    "hash": "c0976d3a26ea67fbbe094346562d39ed0d8781cb41317c8f3113806d0b171197"
+  },
+  {
+    "id": "NUM.1.52",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 52,
+    "text": "And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts.",
+    "hash": "0485fb6a79f3a688216fd669e3be020e572e8d8119d002cb1a1bd5c0d52acf9c"
+  },
+  {
+    "id": "NUM.1.53",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 53,
+    "text": "But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony.",
+    "hash": "67a08f4126b826f88489962fef6042e7fe7825135e3bae5dc16cd16f1e1eecdc"
+  },
+  {
+    "id": "NUM.1.54",
+    "book": "Numbers",
+    "bookNum": 4,
+    "bookAbbrev": "NUM",
+    "chapter": 1,
+    "verse": 54,
+    "text": "And the children of Israel did according to all that the LORD commanded Moses, so did they.",
+    "hash": "f4886631e9557f5027b7ea14e73a2d4948ea96a82d73d2e384f1603760c459cb"
+  }
+]

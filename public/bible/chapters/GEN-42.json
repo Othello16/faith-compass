@@ -1,0 +1,382 @@
+[
+  {
+    "id": "GEN.42.1",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 1,
+    "text": "Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?",
+    "hash": "b7e17b31f3fe3731f8b600fd4786c836db1c61652a28dadf59622101183b1b07"
+  },
+  {
+    "id": "GEN.42.2",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 2,
+    "text": "And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die.",
+    "hash": "c373060d26fd9bb8df89db16698f4bfbda429c56698d7ee2fa46d671983cb725"
+  },
+  {
+    "id": "GEN.42.3",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 3,
+    "text": "And Joseph's ten brethren went down to buy corn in Egypt.",
+    "hash": "8a7f22c8afbc46ff66dd1035c218d68a3bb1bf51a0b967d0a60d62e810f10ca5"
+  },
+  {
+    "id": "GEN.42.4",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 4,
+    "text": "But Benjamin, Joseph's brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him.",
+    "hash": "69065e40706e3abc4ad4a5f3b737295f87659577b5bb07be23218f42f28a8935"
+  },
+  {
+    "id": "GEN.42.5",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 5,
+    "text": "And the sons of Israel came to buy {corn} among those that came: for the famine was in the land of Canaan.",
+    "hash": "27c1787e4083d945e74dd7710bb6eac9a2932412e02e4863ee0214491546e582"
+  },
+  {
+    "id": "GEN.42.6",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 6,
+    "text": "And Joseph {was} the governor over the land, {and} he {it was} that sold to all the people of the land: and Joseph's brethren came, and bowed down themselves before him {with} their faces to the earth.",
+    "hash": "f5ab9b246732ab8838a5027d870fdfbb657e5da35c1dfdf8ffc34deef4457420"
+  },
+  {
+    "id": "GEN.42.7",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 7,
+    "text": "And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food. {roughly...: Heb. hard things with them}",
+    "hash": "d1d2515d97c1dfb9ee90b32921022e75a613e3f2264ef486d07f4e334227e03d"
+  },
+  {
+    "id": "GEN.42.8",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 8,
+    "text": "And Joseph knew his brethren, but they knew not him.",
+    "hash": "ecb5789dba6ff53977b3e5e9e43d81208288d067408ad0b651b5bfc29c0191f3"
+  },
+  {
+    "id": "GEN.42.9",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 9,
+    "text": "And Joseph remembered the dreams which he dreamed of them, and said unto them, Ye {are} spies; to see the nakedness of the land ye are come.",
+    "hash": "3f7c4a712ba16326186a265996368a0161a8eb264376d24170ca647d2fcdda3d"
+  },
+  {
+    "id": "GEN.42.10",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 10,
+    "text": "And they said unto him, Nay, my lord, but to buy food are thy servants come.",
+    "hash": "59a619372d65a7081adc9fd933aaa41273ed537ca926f275db4d41f2893fc289"
+  },
+  {
+    "id": "GEN.42.11",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 11,
+    "text": "We {are} all one man's sons; we {are} true {men}, thy servants are no spies.",
+    "hash": "1686d4f1e56f504ef71712a2624c492c166b78af24dc1dc8bee54878d8af7709"
+  },
+  {
+    "id": "GEN.42.12",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 12,
+    "text": "And he said unto them, Nay, but to see the nakedness of the land ye are come.",
+    "hash": "494c76e8f0696fa9c13beda44fd543c48b4bdf39137dd98b5015c37f1b799be3"
+  },
+  {
+    "id": "GEN.42.13",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 13,
+    "text": "And they said, Thy servants {are} twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest {is} this day with our father, and one {is} not.",
+    "hash": "f136c88a112426a2af7a1d81baed4cb3137b960a49104532cd4c3fde0ca4ee9d"
+  },
+  {
+    "id": "GEN.42.14",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 14,
+    "text": "And Joseph said unto them, That {is it} that I spake unto you, saying, Ye {are} spies:",
+    "hash": "9b9958ab04aafe0f72f5c16e12e9d332a43a96ec91cc207c3d8c38ee7a07bd04"
+  },
+  {
+    "id": "GEN.42.15",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 15,
+    "text": "Hereby ye shall be proved: By the life of Pharaoh ye shall not go forth hence, except your youngest brother come hither.",
+    "hash": "21326e9a395e1b7d262bb258515bc37835e85db4e9ab59d9dfbe6addf915f8b6"
+  },
+  {
+    "id": "GEN.42.16",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 16,
+    "text": "Send one of you, and let him fetch your brother, and ye shall be kept in prison, that your words may be proved, whether {there be any} truth in you: or else by the life of Pharaoh surely ye {are} spies. {kept...: Heb. bound}",
+    "hash": "216c161a7109791cbfa17b6fd0d1f70b5fc8d2e950a1c144d371e37fe0a60f7e"
+  },
+  {
+    "id": "GEN.42.17",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 17,
+    "text": "And he put them all together into ward three days. {put: Heb. gathered}",
+    "hash": "050d66bff8e6c7664db8bc41542e946baf7f9cf57751eca0cf38794edb7ac659"
+  },
+  {
+    "id": "GEN.42.18",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 18,
+    "text": "And Joseph said unto them the third day, This do, and live; {for} I fear God:",
+    "hash": "eeb8aa1477ba6705567ce595a0a265f70a096757c9a50f183975b08fabb9c437"
+  },
+  {
+    "id": "GEN.42.19",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 19,
+    "text": "If ye {be} true {men}, let one of your brethren be bound in the house of your prison: go ye, carry corn for the famine of your houses:",
+    "hash": "ce118db21ddb53123db4ab84d4c34a1ccbf56835bc928ec6919aa7337f5b0f9d"
+  },
+  {
+    "id": "GEN.42.20",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 20,
+    "text": "But bring your youngest brother unto me; so shall your words be verified, and ye shall not die. And they did so.",
+    "hash": "9034304f9275bdc755b757498c8c4a13cd943b6d561e3031a4c80688987928d0"
+  },
+  {
+    "id": "GEN.42.21",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 21,
+    "text": "And they said one to another, We {are} verily guilty concerning our brother, in that we saw the anguish of his soul, when he besought us, and we would not hear; therefore is this distress come upon us.",
+    "hash": "e2b85c2f43abe0cf692da9f643d77db8a48a09600f2c47b7cd7332bc8b21ca7b"
+  },
+  {
+    "id": "GEN.42.22",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 22,
+    "text": "And Reuben answered them, saying, Spake I not unto you, saying, Do not sin against the child; and ye would not hear? therefore, behold, also his blood is required.",
+    "hash": "e52aee860e171f8c4cc0b1e6d2f949a5aeb99ca0cc8756dd1de632e9be909f4c"
+  },
+  {
+    "id": "GEN.42.23",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 23,
+    "text": "And they knew not that Joseph understood {them}; for he spake unto them by an interpreter. {he spake...: Heb. an interpreter was between them}",
+    "hash": "8667ee432053fedd901ed1a6d5326ab57b6ca1e80ff392d04e415d128828aac4"
+  },
+  {
+    "id": "GEN.42.24",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 24,
+    "text": "And he turned himself about from them, and wept; and returned to them again, and communed with them, and took from them Simeon, and bound him before their eyes.",
+    "hash": "922d9af4b1faf8e9fd42f976fdc45f288c5e4d4f67926f0e01555a0a0a47f820"
+  },
+  {
+    "id": "GEN.42.25",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 25,
+    "text": "Then Joseph commanded to fill their sacks with corn, and to restore every man's money into his sack, and to give them provision for the way: and thus did he unto them.",
+    "hash": "7edeaa460354d54ac3f6605f5ba6f9b495441cce6a2b3c5da08cf590b560e919"
+  },
+  {
+    "id": "GEN.42.26",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 26,
+    "text": "And they laded their asses with the corn, and departed thence.",
+    "hash": "556351e3bc531ae43aa1716cd3eef86d7155d8ef8c285d657e4109b51ba20572"
+  },
+  {
+    "id": "GEN.42.27",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 27,
+    "text": "And as one of them opened his sack to give his ass provender in the inn, he espied his money; for, behold, it {was} in his sack's mouth.",
+    "hash": "6ec7e95a6c7e63f8fb3999be175ba33996abbcdcc75fd34f8175bbf06c17ff21"
+  },
+  {
+    "id": "GEN.42.28",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 28,
+    "text": "And he said unto his brethren, My money is restored; and, lo, {it is} even in my sack: and their heart failed {them}, and they were afraid, saying one to another, What {is} this {that} God hath done unto us? {failed...: Heb. went forth}",
+    "hash": "940c93608ba5ff40125f3235918d354f53eedaea814115a6f9f208567697b777"
+  },
+  {
+    "id": "GEN.42.29",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 29,
+    "text": "And they came unto Jacob their father unto the land of Canaan, and told him all that befell unto them; saying,",
+    "hash": "8132bd128e24b4dd0aa2bf24cced05a82806d93751a006c3d5112251f0db4a57"
+  },
+  {
+    "id": "GEN.42.30",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 30,
+    "text": "The man, {who is} the lord of the land, spake roughly to us, and took us for spies of the country. {roughly...: Heb. with us hard things}",
+    "hash": "2cf8e415e1c6418ca7c1d49c9847eafab650aa5e63dad356de8e330caae33dce"
+  },
+  {
+    "id": "GEN.42.31",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 31,
+    "text": "And we said unto him, We {are} true {men}; we are no spies:",
+    "hash": "4dbf0848625791c975cf978588b21b4474b6f830ddf1308d668e97904a7d75e1"
+  },
+  {
+    "id": "GEN.42.32",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 32,
+    "text": "We {be} twelve brethren, sons of our father; one {is} not, and the youngest {is} this day with our father in the land of Canaan.",
+    "hash": "a6614adbf038f96efb0124bf68445e2cf8dbc462a261163e657634335ff16521"
+  },
+  {
+    "id": "GEN.42.33",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 33,
+    "text": "And the man, the lord of the country, said unto us, Hereby shall I know that ye {are} true {men}; leave one of your brethren {here} with me, and take {food for} the famine of your households, and be gone:",
+    "hash": "93f81835474e578b7947fec4602cea3a71602de8d19b1eeed716267bf3218937"
+  },
+  {
+    "id": "GEN.42.34",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 34,
+    "text": "And bring your youngest brother unto me: then shall I know that ye {are} no spies, but {that} ye {are} true {men: so} will I deliver you your brother, and ye shall traffick in the land.",
+    "hash": "c57444eed79c607e3ac226e1e61c1d0ff43fc3271f8c44a83f36e7d032ce9ad5"
+  },
+  {
+    "id": "GEN.42.35",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 35,
+    "text": "And it came to pass as they emptied their sacks, that, behold, every man's bundle of money {was} in his sack: and when {both} they and their father saw the bundles of money, they were afraid.",
+    "hash": "644eff906443d5103335f746db25d3176d3a3022687a418ca62512422fc905e1"
+  },
+  {
+    "id": "GEN.42.36",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 36,
+    "text": "And Jacob their father said unto them, Me have ye bereaved {of my children}: Joseph {is} not, and Simeon {is} not, and ye will take Benjamin {away}: all these things are against me.",
+    "hash": "cd6a6d982cf53ece2fa024bf1606a697a79ff23e76e0df2d50aae6a941af637e"
+  },
+  {
+    "id": "GEN.42.37",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 37,
+    "text": "And Reuben spake unto his father, saying, Slay my two sons, if I bring him not to thee: deliver him into my hand, and I will bring him to thee again.",
+    "hash": "205effb4e0fc537e6b173dce13b3344f41235ff96c6fc6d0bb0bf0c28a731e9d"
+  },
+  {
+    "id": "GEN.42.38",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 42,
+    "verse": 38,
+    "text": "And he said, My son shall not go down with you; for his brother is dead, and he is left alone: if mischief befall him by the way in the which ye go, then shall ye bring down my gray hairs with sorrow to the grave.",
+    "hash": "265a14ab6a7c7729495e8b98ff7a24fa4701b5dd5ffb2061109ca7b40e5e54f5"
+  }
+]

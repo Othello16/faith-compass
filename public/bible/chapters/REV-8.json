@@ -1,0 +1,132 @@
+[
+  {
+    "id": "REV.8.1",
+    "book": "Revelation",
+    "bookNum": 66,
+    "bookAbbrev": "REV",
+    "chapter": 8,
+    "verse": 1,
+    "text": "And when he had opened the seventh seal, there was silence in heaven about the space of half an hour.",
+    "hash": "9ec77340d7037b5eb0c6a1719c5d2eb141c750ca4e60386d83cff8ecd14c7a06"
+  },
+  {
+    "id": "REV.8.2",
+    "book": "Revelation",
+    "bookNum": 66,
+    "bookAbbrev": "REV",
+    "chapter": 8,
+    "verse": 2,
+    "text": "And I saw the seven angels which stood before God; and to them were given seven trumpets.",
+    "hash": "211e1cc4320ab57e1552fa47c05b1bb4cb5508249b8ca05d25fa0f37b8d71ee2"
+  },
+  {
+    "id": "REV.8.3",
+    "book": "Revelation",
+    "bookNum": 66,
+    "bookAbbrev": "REV",
+    "chapter": 8,
+    "verse": 3,
+    "text": "And another angel came and stood at the altar, having a golden censer; and there was given unto him much incense, that he should offer {it} with the prayers of all saints upon the golden altar which was before the throne. {offer...: or, add it to the prayers}",
+    "hash": "f5dc4dd2681c7b7adef250230ca9d16cb77d0a8cbc18d17a255b8c5fc449ae29"
+  },
+  {
+    "id": "REV.8.4",
+    "book": "Revelation",
+    "bookNum": 66,
+    "bookAbbrev": "REV",
+    "chapter": 8,
+    "verse": 4,
+    "text": "And the smoke of the incense, {which came} with the prayers of the saints, ascended up before God out of the angel's hand.",
+    "hash": "7e73caf97d118b68bca28a4dafaabfba864ab3d23a853eac94ab07a5c54dc8d2"
+  },
+  {
+    "id": "REV.8.5",
+    "book": "Revelation",
+    "bookNum": 66,
+    "bookAbbrev": "REV",
+    "chapter": 8,
+    "verse": 5,
+    "text": "And the angel took the censer, and filled it with fire of the altar, and cast {it} into the earth: and there were voices, and thunderings, and lightnings, and an earthquake. {into: or, upon}",
+    "hash": "a18b7447b294c082a346eadc10392fbd038e0e6f4376a6e7a239e616d8de96c3"
+  },
+  {
+    "id": "REV.8.6",
+    "book": "Revelation",
+    "bookNum": 66,
+    "bookAbbrev": "REV",
+    "chapter": 8,
+    "verse": 6,
+    "text": "And the seven angels which had the seven trumpets prepared themselves to sound.",
+    "hash": "92f4e26ca50a7ad6a093a4a83d3dbf9eb338561e45783a2b339b9aad5acc43df"
+  },
+  {
+    "id": "REV.8.7",
+    "book": "Revelation",
+    "bookNum": 66,
+    "bookAbbrev": "REV",
+    "chapter": 8,
+    "verse": 7,
+    "text": "The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth: and the third part of trees was burnt up, and all green grass was burnt up.",
+    "hash": "3d566b14c1bad7cff4983b4dfe091fd034a713710c46e74b94cd3ff918fa7cd7"
+  },
+  {
+    "id": "REV.8.8",
+    "book": "Revelation",
+    "bookNum": 66,
+    "bookAbbrev": "REV",
+    "chapter": 8,
+    "verse": 8,
+    "text": "And the second angel sounded, and as it were a great mountain burning with fire was cast into the sea: and the third part of the sea became blood;",
+    "hash": "0602827e78265a7be717b0906ba9dd999dab18879842d044c8d1b00cb837e1fe"
+  },
+  {
+    "id": "REV.8.9",
+    "book": "Revelation",
+    "bookNum": 66,
+    "bookAbbrev": "REV",
+    "chapter": 8,
+    "verse": 9,
+    "text": "And the third part of the creatures which were in the sea, and had life, died; and the third part of the ships were destroyed.",
+    "hash": "b5888b0e23474a467391319b29c9fe66afd66870a6e23477f7439cdd98f5fd2e"
+  },
+  {
+    "id": "REV.8.10",
+    "book": "Revelation",
+    "bookNum": 66,
+    "bookAbbrev": "REV",
+    "chapter": 8,
+    "verse": 10,
+    "text": "And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters;",
+    "hash": "bac25d61d531222f9ba65ce28a79e6f700dd068ca256e46c6498b2a07ec004c5"
+  },
+  {
+    "id": "REV.8.11",
+    "book": "Revelation",
+    "bookNum": 66,
+    "bookAbbrev": "REV",
+    "chapter": 8,
+    "verse": 11,
+    "text": "And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter.",
+    "hash": "0baba9d76de8b5a46694f10a96dbf0cb083b3a2350ec495c87e6a2e659dc14c6"
+  },
+  {
+    "id": "REV.8.12",
+    "book": "Revelation",
+    "bookNum": 66,
+    "bookAbbrev": "REV",
+    "chapter": 8,
+    "verse": 12,
+    "text": "And the fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so as the third part of them was darkened, and the day shone not for a third part of it, and the night likewise.",
+    "hash": "0885a58ea7ba14ff78b8b2ffff0151cc5ecf225a46d4f89a3de1144ed20fa205"
+  },
+  {
+    "id": "REV.8.13",
+    "book": "Revelation",
+    "bookNum": 66,
+    "bookAbbrev": "REV",
+    "chapter": 8,
+    "verse": 13,
+    "text": "And I beheld, and heard an angel flying through the midst of heaven, saying with a loud voice, Woe, woe, woe, to the inhabiters of the earth by reason of the other voices of the trumpet of the three angels, which are yet to sound!",
+    "hash": "aa219bc30380e0620351a00db73f78446faae270d8b135494c1af14fdff20cf7"
+  }
+]

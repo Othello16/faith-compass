@@ -1,0 +1,342 @@
+[
+  {
+    "id": "MAT.6.1",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 1,
+    "text": "Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven. {alms: or, righteousness} {of your: or, with your}",
+    "hash": "a1420e610fb63a8ce7fcbf82ccd282ca97d6c1ce56b875071d63073ef0f18d14"
+  },
+  {
+    "id": "MAT.6.2",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 2,
+    "text": "Therefore when thou doest {thine} alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward. {do not...: or, cause not a trumpet to be sounded}",
+    "hash": "582f02bdf3da80f7774d4ec98752e50fb51fbe5ee95272c376a15856a15abd4a"
+  },
+  {
+    "id": "MAT.6.3",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 3,
+    "text": "But when thou doest alms, let not thy left hand know what thy right hand doeth:",
+    "hash": "fd79d4342ec70d83c44a543d8246099cbae0bc09b693d4ba3172ee4da946d54c"
+  },
+  {
+    "id": "MAT.6.4",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 4,
+    "text": "That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.",
+    "hash": "0acf865772944de2c4fa8353255eef54a46ba7f78bd92203b4388a64cb811951"
+  },
+  {
+    "id": "MAT.6.5",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 5,
+    "text": "And when thou prayest, thou shalt not be as the hypocrites {are}: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.",
+    "hash": "d05765b5a3cf736642fab1e58e0b18fbfab9526d242dc2dd59af3d20aead356b"
+  },
+  {
+    "id": "MAT.6.6",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 6,
+    "text": "But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.",
+    "hash": "08b7b42e715cf2b81282bfc52a5d370bb590b8fe1877449715238ade68c9a086"
+  },
+  {
+    "id": "MAT.6.7",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 7,
+    "text": "But when ye pray, use not vain repetitions, as the heathen {do}: for they think that they shall be heard for their much speaking.",
+    "hash": "c99867ab89ddce1d657e78079b2c8b88de9d414ab40d23cb312cda1273e81f51"
+  },
+  {
+    "id": "MAT.6.8",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 8,
+    "text": "Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.",
+    "hash": "1832944db24b10131d0607b9e0d5a832a3f8ac22deaa62354d8e090e0dba3576"
+  },
+  {
+    "id": "MAT.6.9",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 9,
+    "text": "After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.",
+    "hash": "f4b63817a7473e7c5cdbc8bcda55fb567de0ab5af12673f9e63f1cc23c8b43e1"
+  },
+  {
+    "id": "MAT.6.10",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 10,
+    "text": "Thy kingdom come. Thy will be done in earth, as {it is} in heaven.",
+    "hash": "0968dfe9c63acc7720cfc303a55381b0928cb6e6ba48ca11882ed43c43944292"
+  },
+  {
+    "id": "MAT.6.11",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 11,
+    "text": "Give us this day our daily bread.",
+    "hash": "a948635dda51b4b48d1191ce8a904cc0e09bd3a8195a207e7ca381a28bd11f1d"
+  },
+  {
+    "id": "MAT.6.12",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 12,
+    "text": "And forgive us our debts, as we forgive our debtors.",
+    "hash": "742517920c7c1be91da1714a120b05992d05b732ce4998505fb2583df712609d"
+  },
+  {
+    "id": "MAT.6.13",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 13,
+    "text": "And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.",
+    "hash": "f3b00e76c05d9ef7ee89bcc1ab6a787984f35f802354bc9d8cea7555ea596fbf"
+  },
+  {
+    "id": "MAT.6.14",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 14,
+    "text": "For if ye forgive men their trespasses, your heavenly Father will also forgive you:",
+    "hash": "105b7288e655030eb51d5498e415b93a7283d744a6c6cd7a8b49cf7e99f22ee5"
+  },
+  {
+    "id": "MAT.6.15",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 15,
+    "text": "But if ye forgive not men their trespasses, neither will your Father forgive your trespasses.",
+    "hash": "986782e954717a63e76d1f902d61f8185debd3356aa027e429eae3cb13c3c4d4"
+  },
+  {
+    "id": "MAT.6.16",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 16,
+    "text": "Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward.",
+    "hash": "51ed8e5664625b85c15fb07e35d8617bb997f2c48f419f04b1bbaff98ee73f9b"
+  },
+  {
+    "id": "MAT.6.17",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 17,
+    "text": "But thou, when thou fastest, anoint thine head, and wash thy face;",
+    "hash": "afcfc5b7423813feffd18e6cd4c154c753bc80f0c09d9163a814015f8b4235db"
+  },
+  {
+    "id": "MAT.6.18",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 18,
+    "text": "That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly.",
+    "hash": "4374e2f9c409e22a59bf8f0bf198a83afa4c64573c67eb19041ef865e678c9a2"
+  },
+  {
+    "id": "MAT.6.19",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 19,
+    "text": "Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:",
+    "hash": "159ede944099cefc4d75138ab1a8c2525d70212ee4c0c7c4a8236e0c2d9d4dcb"
+  },
+  {
+    "id": "MAT.6.20",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 20,
+    "text": "But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:",
+    "hash": "04f67709c520c47773c7b0fa9ae276beed904eb24567140d2129d0ea2cdb5e39"
+  },
+  {
+    "id": "MAT.6.21",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 21,
+    "text": "For where your treasure is, there will your heart be also.",
+    "hash": "45e61d50f33ba50ab21e600fc046d475b9c19b605a90114d2390234d91f9d27f"
+  },
+  {
+    "id": "MAT.6.22",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 22,
+    "text": "The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light.",
+    "hash": "ca2230e1e8e4c7d45ff0afc468da395e9d85e46bebf8a0276ee6f712c075a230"
+  },
+  {
+    "id": "MAT.6.23",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 23,
+    "text": "But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great {is} that darkness!",
+    "hash": "0a97493dc5666d8630375109b8f6deef08e9010fbd448eb7cd40b7b19931659b"
+  },
+  {
+    "id": "MAT.6.24",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 24,
+    "text": "No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.",
+    "hash": "15475c6b4bc0428a347e3a3af9baee6b25b82029b6c9e78c47768f830bd6429a"
+  },
+  {
+    "id": "MAT.6.25",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 25,
+    "text": "Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?",
+    "hash": "be200b84e3b8ca2cd7df74b346a91d6dc421b257af1fea202e89587d03a6c971"
+  },
+  {
+    "id": "MAT.6.26",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 26,
+    "text": "Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?",
+    "hash": "cc1099b674af2d9dac9b7eba66ac9492aadb92daa1ad638d6fc66f5081451362"
+  },
+  {
+    "id": "MAT.6.27",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 27,
+    "text": "Which of you by taking thought can add one cubit unto his stature?",
+    "hash": "baa4554aa2d2db1cb151c41f0ad80737dd99a99659f5722197b2550a3bf51517"
+  },
+  {
+    "id": "MAT.6.28",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 28,
+    "text": "And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin:",
+    "hash": "add060b02eb532dfec5c8fe8602097c6592e0e6d830d66eaf4581ce5d3341d8c"
+  },
+  {
+    "id": "MAT.6.29",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 29,
+    "text": "And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these.",
+    "hash": "4920c59628b143ec0b0fd68b3fbca44517e03b5a376e6f23a853e9e4048894d8"
+  },
+  {
+    "id": "MAT.6.30",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 30,
+    "text": "Wherefore, if God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, {shall he} not much more {clothe} you, O ye of little faith?",
+    "hash": "4a28354ef226362bbae8e65e83e4e3ac68a36ea020c0e981023e6e829b6766c8"
+  },
+  {
+    "id": "MAT.6.31",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 31,
+    "text": "Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?",
+    "hash": "1bd45e769df17220d0c236b441da4779acb948e0b2d3b3574fb1da7b2181e37c"
+  },
+  {
+    "id": "MAT.6.32",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 32,
+    "text": "(For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things.",
+    "hash": "739d6ebc577d3ff5d5c6b2efbb91c3092b1db3e3027ad178c2741e7446292531"
+  },
+  {
+    "id": "MAT.6.33",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 33,
+    "text": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.",
+    "hash": "9ad8a634e928d8ac5883f309e14459b457fdca7f90f7ad67f4029d6fef34af21"
+  },
+  {
+    "id": "MAT.6.34",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 6,
+    "verse": 34,
+    "text": "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day {is} the evil thereof.",
+    "hash": "8852e26829cbb7429d4b8863ca7064229f39afcff05a837e40f759bbe5a1d8de"
+  }
+]

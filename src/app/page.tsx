@@ -1,28 +1,15 @@
 import Link from 'next/link'
+import Header from '@/components/Header'
 
 export default function Home() {
   return (
     <main className="min-h-screen bg-[#0F172A] text-white">
-      {/* Nav */}
-      <nav className="flex items-center justify-between px-6 py-4 border-b border-white/10">
-        <div className="flex items-center gap-2">
-          <span className="text-2xl">🧭</span>
-          <span className="text-xl font-bold text-[#D4AF37]">Faith Compass</span>
-        </div>
-        <div className="flex gap-4 items-center">
-          <Link href="/compass" className="text-sm text-white/70 hover:text-white transition">Compass</Link>
-          <Link href="/churches" className="text-sm text-white/70 hover:text-white transition">Churches</Link>
-          <Link href="/pricing" className="text-sm text-white/70 hover:text-white transition">Pricing</Link>
-          <Link href="/compass" className="bg-[#1E40AF] text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-blue-700 transition">
-            Start Free
-          </Link>
-        </div>
-      </nav>
+      <Header />
 
       {/* Hero */}
       <section className="max-w-4xl mx-auto text-center px-6 py-24">
         <div className="inline-block bg-[#D4AF37]/10 text-[#D4AF37] text-sm px-4 py-1 rounded-full mb-6 border border-[#D4AF37]/30">
-          7 Free Questions Daily • No Credit Card Required
+          3 Free Questions Daily • No Credit Card Required
         </div>
         <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
           Your Faith.<br />
@@ -98,7 +85,7 @@ export default function Home() {
         <h2 className="text-3xl font-bold text-center mb-12">Simple, Honest Pricing</h2>
         <div className="grid md:grid-cols-3 gap-6">
           {[
-            { name: 'Free', price: '$0', period: 'forever', features: ['7 questions/day', 'Scripture lookup', 'Church finder', 'No credit card'], cta: 'Get Started', highlight: false },
+            { name: 'Free', price: '$0', period: 'forever', features: ['3 questions/day', 'Scripture lookup', 'Church finder', 'No credit card'], cta: 'Get Started', highlight: false },
             { name: 'Basic', price: '$3', period: '/month', features: ['500 questions/month', 'No daily cap', 'Bookmarks', 'Question history'], cta: 'Start Basic', highlight: false },
             { name: 'Pro', price: '$7.77', period: '/month', features: ['1,500 questions/month', 'Faith Integrity Check', 'Priority AI', 'PDF exports'], cta: 'Go Pro', highlight: true },
           ].map((tier) => (

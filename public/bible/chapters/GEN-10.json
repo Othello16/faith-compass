@@ -1,0 +1,322 @@
+[
+  {
+    "id": "GEN.10.1",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 1,
+    "text": "Now these {are} the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.",
+    "hash": "89c357a09aa7cf017b4c387609ea2b20c68a2fb72ca232ceb7849aa2ec1c9b90"
+  },
+  {
+    "id": "GEN.10.2",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 2,
+    "text": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.",
+    "hash": "fa4fdff9ed1db4656702991202d6bf60dc73b3fdfe8ac7ba9785780378a908af"
+  },
+  {
+    "id": "GEN.10.3",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 3,
+    "text": "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.",
+    "hash": "20d42e23909363ac4ac9d9e9f5f0ddc5a9cd8d0860aeafb7c3086e24f9987438"
+  },
+  {
+    "id": "GEN.10.4",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 4,
+    "text": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim. {Dodanim: or, as some read it, Rodanim}",
+    "hash": "595abde0c62428d8a2c48f7acb42f962858427564e4abfff4ca07a8d9a90401e"
+  },
+  {
+    "id": "GEN.10.5",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 5,
+    "text": "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations.",
+    "hash": "a3a5ebbf887148270aa0fb050daef3ace4d56455078f526b22c18fcc6229a2a9"
+  },
+  {
+    "id": "GEN.10.6",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 6,
+    "text": "And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.",
+    "hash": "026c863ba0d06132871ef4441e3508765c5a507842bbd4d27fc1f3f92be05c76"
+  },
+  {
+    "id": "GEN.10.7",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 7,
+    "text": "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan.",
+    "hash": "26328adb71d9b8ef927ca383220443505f570e0705cb3bb8fd0394caf1455e60"
+  },
+  {
+    "id": "GEN.10.8",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 8,
+    "text": "And Cush begat Nimrod: he began to be a mighty one in the earth.",
+    "hash": "9be43d6787103175daf587fe1a55e91fcb10eb442d252970cc69db958bfb8c2c"
+  },
+  {
+    "id": "GEN.10.9",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 9,
+    "text": "He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD.",
+    "hash": "03aa9660fd5a036b18ab22ef31efbfc1ff3adae2d22a80592da27449c3c9f5f6"
+  },
+  {
+    "id": "GEN.10.10",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 10,
+    "text": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar. {Babel: Gr. Babylon}",
+    "hash": "60b3e5a7e65d1a4968c174ed14b7bcb2981a67805539c2ca5ce79d6593cca11f"
+  },
+  {
+    "id": "GEN.10.11",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 11,
+    "text": "Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah, {went...: or, he went out into Assyria} {the city...: or, the streets of the city}",
+    "hash": "07c48683c29f43ec988d60ededb11e8691755b5fc59b7d4c62e3f6f98b53e790"
+  },
+  {
+    "id": "GEN.10.12",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 12,
+    "text": "And Resen between Nineveh and Calah: the same {is} a great city.",
+    "hash": "776a9c452f099ae7fa59ed079901a091ae28279aaf8fe05938d6e49fe3846d56"
+  },
+  {
+    "id": "GEN.10.13",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 13,
+    "text": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,",
+    "hash": "1dcb9ab5c027e74a2e8b32dc906874120617bb88a704b4098d60dcbca56df0db"
+  },
+  {
+    "id": "GEN.10.14",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 14,
+    "text": "And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim.",
+    "hash": "b401cb7e1c507a53c1b0bf74c93999d40d378a07c9cb5bd55392465789850058"
+  },
+  {
+    "id": "GEN.10.15",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 15,
+    "text": "And Canaan begat Sidon his firstborn, and Heth, {Sidon: Heb. Tzidon}",
+    "hash": "8dec350266136b91b9e953fe94acf49463234e577cbb62c3b4945023bdb0eed3"
+  },
+  {
+    "id": "GEN.10.16",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 16,
+    "text": "And the Jebusite, and the Amorite, and the Girgasite,",
+    "hash": "3031379e539371ad93a8b460817ebac80fe3ed98239ffce6ef74594742f4e66d"
+  },
+  {
+    "id": "GEN.10.17",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 17,
+    "text": "And the Hivite, and the Arkite, and the Sinite,",
+    "hash": "7af4cbf3460c5ee3d9ad349593ef72b0e845016721f96cd7b4c15ca542ca20d9"
+  },
+  {
+    "id": "GEN.10.18",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 18,
+    "text": "And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad.",
+    "hash": "1e8a485660a69a16dbda44bba2516c974a175e956c53990a19a3584b4c1d2f0e"
+  },
+  {
+    "id": "GEN.10.19",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 19,
+    "text": "And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha. {Gaza: Heb. Azzah}",
+    "hash": "f7a90ed788113ce63ac790c58c03f818c2197077ce532a8b1052572cf7431ab9"
+  },
+  {
+    "id": "GEN.10.20",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 20,
+    "text": "These {are} the sons of Ham, after their families, after their tongues, in their countries, {and} in their nations.",
+    "hash": "22e1f4484e1b45cc05729556fa057b57f1b5d9ac822040376078fe9b08949d10"
+  },
+  {
+    "id": "GEN.10.21",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 21,
+    "text": "Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were {children} born.",
+    "hash": "cbd2d9ad7cb3daaae365425a34f2397615ca56123de7c8e86aa389fa406cdd3a"
+  },
+  {
+    "id": "GEN.10.22",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 22,
+    "text": "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram. {Arphaxad: Heb. Arpachshad}",
+    "hash": "b56cf4da6ba052f5ad9c4a66bdbaa4c313c6180eef20bde3d92cc94912dfb2f5"
+  },
+  {
+    "id": "GEN.10.23",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 23,
+    "text": "And the children of Aram; Uz, and Hul, and Gether, and Mash.",
+    "hash": "56abc0e1ea21690cdfb4e1ad71fbac269df32cc329555a8bbda270834910996d"
+  },
+  {
+    "id": "GEN.10.24",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 24,
+    "text": "And Arphaxad begat Salah; and Salah begat Eber. {Salah: Heb. Shelah}",
+    "hash": "3fb5ebdb0c2db9ffcbfb2a07d333e5e1c1eec6231f8d904f4ef1977b4d386d17"
+  },
+  {
+    "id": "GEN.10.25",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 25,
+    "text": "And unto Eber were born two sons: the name of one {was} Peleg; for in his days was the earth divided; and his brother's name {was} Joktan. {Peleg: that is Division}",
+    "hash": "cbdf8ccdee461fa01e65dd5da26fe1c0909a386c1e38e4712e1a8026bf2fddd3"
+  },
+  {
+    "id": "GEN.10.26",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 26,
+    "text": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,",
+    "hash": "c4d308c46b0fdd1f59b3abe0dd05429ec42f65dda31b41e75cd723e43621056c"
+  },
+  {
+    "id": "GEN.10.27",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 27,
+    "text": "And Hadoram, and Uzal, and Diklah,",
+    "hash": "7cba0cb073f613cfbc4dcec795476f31a9820a2b381f11f603be08c500db6258"
+  },
+  {
+    "id": "GEN.10.28",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 28,
+    "text": "And Obal, and Abimael, and Sheba,",
+    "hash": "26a81e36adffbc9446e8d7916504684f82fc8e6da5ecb95410f9ee487825aaac"
+  },
+  {
+    "id": "GEN.10.29",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 29,
+    "text": "And Ophir, and Havilah, and Jobab: all these {were} the sons of Joktan.",
+    "hash": "fd4dc9a32b8e1505cfc56f765b7261cf1d670b643fefc99c5179e59073a8e4b6"
+  },
+  {
+    "id": "GEN.10.30",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 30,
+    "text": "And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east.",
+    "hash": "8f423f8e4684dedd86a2f2cfdab0f43be7fc68c8ec172b16c69e414105a7d86a"
+  },
+  {
+    "id": "GEN.10.31",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 31,
+    "text": "These {are} the sons of Shem, after their families, after their tongues, in their lands, after their nations.",
+    "hash": "06983841b244497881ac111973faf560c03d0c7fe3d7378ac859adab57009bdb"
+  },
+  {
+    "id": "GEN.10.32",
+    "book": "Genesis",
+    "bookNum": 1,
+    "bookAbbrev": "GEN",
+    "chapter": 10,
+    "verse": 32,
+    "text": "These {are} the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.",
+    "hash": "5768d2f6a322e0e70b6b310eaf0bd670c0db8bfd6f056a8e602ecc08c3144ea5"
+  }
+]

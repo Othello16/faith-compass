@@ -1,0 +1,52 @@
+[
+  {
+    "id": "PSA.70.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 70,
+    "verse": 1,
+    "text": "[To the chief Musician, {A Psalm} of David, to bring to remembrance.] {Make haste}, O God, to deliver me; make haste to help me, O LORD. {to help...: Heb. to my help}",
+    "hash": "6527b3c65b3c6f30e0365e966098f64b186ddcde770bab87eb4aaada0b2218f8"
+  },
+  {
+    "id": "PSA.70.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 70,
+    "verse": 2,
+    "text": "Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt.",
+    "hash": "becae793740c8189d87e5e65827a79eea94155296468b1c8a74bd7b2bbb148c7"
+  },
+  {
+    "id": "PSA.70.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 70,
+    "verse": 3,
+    "text": "Let them be turned back for a reward of their shame that say, Aha, aha.",
+    "hash": "45dc20e8bdf919d26d2bee057c270ab48416f2aa5bf915818fcc016c61e93fda"
+  },
+  {
+    "id": "PSA.70.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 70,
+    "verse": 4,
+    "text": "Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.",
+    "hash": "5daa44f82f35f8b1a42325ffb49814f110d1b243d1fd39eb0387b20de996429d"
+  },
+  {
+    "id": "PSA.70.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 70,
+    "verse": 5,
+    "text": "But I {am} poor and needy: make haste unto me, O God: thou {art} my help and my deliverer; O LORD, make no tarrying.",
+    "hash": "31f9ae25936b388cc93179c9490fb958a4d2fc3fc4b16c3851afa417c40a71c5"
+  }
+]

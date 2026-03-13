@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PSA.128.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 128,
+    "verse": 1,
+    "text": "[A Song of degrees.] Blessed {is} every one that feareth the LORD; that walketh in his ways.",
+    "hash": "afeae0b04c92d993c249ac08ab4ad54f66d1a4367d4aa0b4bffb802dbb0327e0"
+  },
+  {
+    "id": "PSA.128.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 128,
+    "verse": 2,
+    "text": "For thou shalt eat the labour of thine hands: happy {shalt} thou {be}, and {it shall be} well with thee.",
+    "hash": "5654e69b4e86f6d576a2df288048e5d38e84172c6003b4e0ed04ea264628a920"
+  },
+  {
+    "id": "PSA.128.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 128,
+    "verse": 3,
+    "text": "Thy wife {shall be} as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.",
+    "hash": "3de63df5eca0e206b094e69e957e6728c6bd5b573103112c8b49506453899197"
+  },
+  {
+    "id": "PSA.128.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 128,
+    "verse": 4,
+    "text": "Behold, that thus shall the man be blessed that feareth the LORD.",
+    "hash": "1c72dbfb38a9eaf96674c9e1cc909cabe01cfad751816d4c837618faec397d08"
+  },
+  {
+    "id": "PSA.128.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 128,
+    "verse": 5,
+    "text": "The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.",
+    "hash": "24d65b5c8f856b3aff98c2fe1ab21d8398091d8f1c5cc15351172a48c23361e1"
+  },
+  {
+    "id": "PSA.128.6",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 128,
+    "verse": 6,
+    "text": "Yea, thou shalt see thy children's children, {and} peace upon Israel.",
+    "hash": "944443e41c1564833f90e9e6aff081997571ca0000455c2e87736b9877f862d1"
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "DAN.5.1",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 1,
+    "text": "Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.",
+    "hash": "94126eb929f1a6938450f6445eb245a2cd399e94c03eb61a23c1ca24ba2221f8"
+  },
+  {
+    "id": "DAN.5.2",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 2,
+    "text": "Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which {was} in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink therein. {father: or, grandfather} {taken: Chaldee, brought forth}",
+    "hash": "0004acc50c820e487e9b7a168f62bd46dfdf9914ba033bf0ff801d15056ee257"
+  },
+  {
+    "id": "DAN.5.3",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 3,
+    "text": "Then they brought the golden vessels that were taken out of the temple of the house of God which {was} at Jerusalem; and the king, and his princes, his wives, and his concubines, drank in them.",
+    "hash": "870d92fdf03db8b9da20462ce8ccdfcfcc5fe9f5e465aeb9e86aec5cae07bcc2"
+  },
+  {
+    "id": "DAN.5.4",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 4,
+    "text": "They drank wine, and praised the gods of gold, and of silver, of brass, of iron, of wood, and of stone.",
+    "hash": "539740c1a33d8e2440840dce979deb9d4b61b1fc1c2cfc9f68e5e2c0025ebc8c"
+  },
+  {
+    "id": "DAN.5.5",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 5,
+    "text": "In the same hour came forth fingers of a man's hand, and wrote over against the candlestick upon the plaister of the wall of the king's palace: and the king saw the part of the hand that wrote.",
+    "hash": "76099e3391c64687f0cf45eaab78f963cf7274b056152b0186d3000b2bc84ad8"
+  },
+  {
+    "id": "DAN.5.6",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 6,
+    "text": "Then the king's countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another. {countenance: Chaldee, brightnesses} {was changed: Chaldee, changed it} {joints: or, girdles: Chaldee, bindings, or, knots}",
+    "hash": "97ceced742d08258baf8c18f2f9d3e9f64a553fefa5e2ead091104a077553caf"
+  },
+  {
+    "id": "DAN.5.7",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 7,
+    "text": "The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers. {And} the king spake, and said to the wise {men} of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed with scarlet, and {have} a chain of gold about his neck, and shall be the third ruler in the kingdom. {aloud: Chaldee, with might} {scarlet: or, purple}",
+    "hash": "6ecb8735999b2485dc90127f4508d977395049333b703efa8761bdc56ae69366"
+  },
+  {
+    "id": "DAN.5.8",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 8,
+    "text": "Then came in all the king's wise {men}: but they could not read the writing, nor make known to the king the interpretation thereof.",
+    "hash": "e6360a39fd59ad637a0cdcb8b429f4611d78c3b51d1157daf44718b1fb17fbab"
+  },
+  {
+    "id": "DAN.5.9",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 9,
+    "text": "Then was king Belshazzar greatly troubled, and his countenance was changed in him, and his lords were astonied. {countenance: Chaldee, brightnesses}",
+    "hash": "2fb290914d1cb77bc48da9058a2034acaddc992fa3c02e43b5f6baa66a54d869"
+  },
+  {
+    "id": "DAN.5.10",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 10,
+    "text": "{Now} the queen, by reason of the words of the king and his lords, came into the banquet house: {and} the queen spake and said, O king, live for ever: let not thy thoughts trouble thee, nor let thy countenance be changed:",
+    "hash": "20047a1902fa5dd50dc7d24fe4e12fdcc2e8600742609f667e11bee00aa74f8f"
+  },
+  {
+    "id": "DAN.5.11",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 11,
+    "text": "There is a man in thy kingdom, in whom {is} the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, {I say}, thy father, made master of the magicians, astrologers, Chaldeans, {and} soothsayers; {father: or, grandfather}",
+    "hash": "9e1a4593585a9fda0682a506c2eea2223ccd4100de85f66b9481ebe2eeee0d58"
+  },
+  {
+    "id": "DAN.5.12",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 12,
+    "text": "Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation. {interpreting: or, of an interpreter} {dissolving: or, of a dissolver} {doubts: Chaldee, knots}",
+    "hash": "3b6a59c91c61ab5edc0eb220491f24f8d2e1aab5bc5cbf2bb5e08a62d4bc9743"
+  },
+  {
+    "id": "DAN.5.13",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 13,
+    "text": "Then was Daniel brought in before the king. {And} the king spake and said unto Daniel, {Art} thou that Daniel, which {art} of the children of the captivity of Judah, whom the king my father brought out of Jewry? {father: or, grandfather}",
+    "hash": "19f1390dd4f4ffd22ed37bace8f8df6ad0420de43bb3bd34401addb740b5de7c"
+  },
+  {
+    "id": "DAN.5.14",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 14,
+    "text": "I have even heard of thee, that the spirit of the gods {is} in thee, and {that} light and understanding and excellent wisdom is found in thee.",
+    "hash": "70750b1f2cbdcc9fc006c76a48b30c79966789d5e72a13d5d4340b4598ef3802"
+  },
+  {
+    "id": "DAN.5.15",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 15,
+    "text": "And now the wise {men}, the astrologers, have been brought in before me, that they should read this writing, and make known unto me the interpretation thereof: but they could not shew the interpretation of the thing:",
+    "hash": "401ae1ed0092c125e1cdf4874651f1634a9dcc4cc678e41adec515daf29ad2e0"
+  },
+  {
+    "id": "DAN.5.16",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 16,
+    "text": "And I have heard of thee, that thou canst make interpretations, and dissolve doubts: now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with scarlet, and {have} a chain of gold about thy neck, and shalt be the third ruler in the kingdom. {make interpretations: Chaldee, interpret, etc}",
+    "hash": "9d871428cccbc370b7917236d36124130a56adbb2f832d5bf0be7c4fdd9714df"
+  },
+  {
+    "id": "DAN.5.17",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 17,
+    "text": "Then Daniel answered and said before the king, Let thy gifts be to thyself, and give thy rewards to another; yet I will read the writing unto the king, and make known to him the interpretation. {rewards: or, fee}",
+    "hash": "a92dd2d6d41328f9c62aa8ca0c7ca32767639f3a89a024c9341b27ced68f7b3a"
+  },
+  {
+    "id": "DAN.5.18",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 18,
+    "text": "O thou king, the most high God gave Nebuchadnezzar thy father a kingdom, and majesty, and glory, and honour:",
+    "hash": "341f6e350c22964ab929f5d03e997d668ab6b2caf8ec65a520e6041655d7d3d0"
+  },
+  {
+    "id": "DAN.5.19",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 19,
+    "text": "And for the majesty that he gave him, all people, nations, and languages, trembled and feared before him: whom he would he slew; and whom he would he kept alive; and whom he would he set up; and whom he would he put down.",
+    "hash": "6192e7f3a5f7b17f81f3d06ecdd503a7420b1b5ced17583ad2dc70b676e9051b"
+  },
+  {
+    "id": "DAN.5.20",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 20,
+    "text": "But when his heart was lifted up, and his mind hardened in pride, he was deposed from his kingly throne, and they took his glory from him: {in pride: or, to deal proudly} {deposed: Chaldee, made to come down}",
+    "hash": "4a233381121ebb306960590da82c4ba53200518f9deed0b99394496aaf07a92d"
+  },
+  {
+    "id": "DAN.5.21",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 21,
+    "text": "And he was driven from the sons of men; and his heart was made like the beasts, and his dwelling {was} with the wild asses: they fed him with grass like oxen, and his body was wet with the dew of heaven; till he knew that the most high God ruled in the kingdom of men, and {that} he appointeth over it whomsoever he will. {his heart...: or, he made his heart equal, etc}",
+    "hash": "2cb5b4757515fc45a5315482d59ffc2836407dd2536030f944155929cd605af1"
+  },
+  {
+    "id": "DAN.5.22",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 22,
+    "text": "And thou his son, O Belshazzar, hast not humbled thine heart, though thou knewest all this;",
+    "hash": "f469be5c271494c68ed82f7c1bf48a04e714866ca24e7c22c6e48ffaf4acc555"
+  },
+  {
+    "id": "DAN.5.23",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 23,
+    "text": "But hast lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before thee, and thou, and thy lords, thy wives, and thy concubines, have drunk wine in them; and thou hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand thy breath {is}, and whose {are} all thy ways, hast thou not glorified:",
+    "hash": "f8418816ebc59e6ba9381b0aee45d6161c1d949e1ff32abcb3882664892dfe5a"
+  },
+  {
+    "id": "DAN.5.24",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 24,
+    "text": "Then was the part of the hand sent from him; and this writing was written.",
+    "hash": "f584b4cbe8e02cb158b674ebeb5a3e47fbf3a5afe559b0a44dc8ec98c41263bc"
+  },
+  {
+    "id": "DAN.5.25",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 25,
+    "text": "And this {is} the writing that was written, MENE, MENE, TEKEL, UPHARSIN.",
+    "hash": "ef3022612ed026823330d350d23207858239b82ff4fd98fbf0e464ef796a45b4"
+  },
+  {
+    "id": "DAN.5.26",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 26,
+    "text": "This {is} the interpretation of the thing: MENE; God hath numbered thy kingdom, and finished it.",
+    "hash": "be70025a07a6746b14bb5473c72b345eacfcff09391d955fee45c78ce6e1c4bf"
+  },
+  {
+    "id": "DAN.5.27",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 27,
+    "text": "TEKEL; Thou art weighed in the balances, and art found wanting.",
+    "hash": "2b3b08fa5cc9ea0dd4f55f2d8d3c910da96353384681d1387845e343b5c2e8b6"
+  },
+  {
+    "id": "DAN.5.28",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 28,
+    "text": "PERES; Thy kingdom is divided, and given to the Medes and Persians.",
+    "hash": "6d3f872bc553180b3827962b2ab51ffffd7f85305b141c2280cd919baa59b27c"
+  },
+  {
+    "id": "DAN.5.29",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 29,
+    "text": "Then commanded Belshazzar, and they clothed Daniel with scarlet, and {put} a chain of gold about his neck, and made a proclamation concerning him, that he should be the third ruler in the kingdom.",
+    "hash": "2858d57fa557dd0d26c48b6369281ea87983f9b2564638fc814636991c98373e"
+  },
+  {
+    "id": "DAN.5.30",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 30,
+    "text": "In that night was Belshazzar the king of the Chaldeans slain.",
+    "hash": "6a16ad02e3c862b178968a7660e83fb23c96e0f39c7c287ea5bcd17d6cdcea52"
+  },
+  {
+    "id": "DAN.5.31",
+    "book": "Daniel",
+    "bookNum": 27,
+    "bookAbbrev": "DAN",
+    "chapter": 5,
+    "verse": 31,
+    "text": "And Darius the Median took the kingdom, {being} about threescore and two years old. {being...: Chaldee, he as the son of, etc} {about: or, now}",
+    "hash": "f41e8b4639024a632de6550aafaad195d7e230856f0b09c0e6855f1893c52ea9"
+  }
+]

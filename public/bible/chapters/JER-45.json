@@ -1,0 +1,52 @@
+[
+  {
+    "id": "JER.45.1",
+    "book": "Jeremiah",
+    "bookNum": 24,
+    "bookAbbrev": "JER",
+    "chapter": 45,
+    "verse": 1,
+    "text": "The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,",
+    "hash": "869b22151fc1d995b19c89dd6cb4f56bd22f2dfbb82c88afdba71373e6f5b8e2"
+  },
+  {
+    "id": "JER.45.2",
+    "book": "Jeremiah",
+    "bookNum": 24,
+    "bookAbbrev": "JER",
+    "chapter": 45,
+    "verse": 2,
+    "text": "Thus saith the LORD, the God of Israel, unto thee, O Baruch;",
+    "hash": "1ee9b99bedd12d5ee5725aa35dfecb8a24671a620a5aa1206a13e30eb67a63a2"
+  },
+  {
+    "id": "JER.45.3",
+    "book": "Jeremiah",
+    "bookNum": 24,
+    "bookAbbrev": "JER",
+    "chapter": 45,
+    "verse": 3,
+    "text": "Thou didst say, Woe is me now! for the LORD hath added grief to my sorrow; I fainted in my sighing, and I find no rest.",
+    "hash": "554e30abe44a1098e5485d924b6574f54e9cb7a2dcea6ee940a6f8ba9ae1b648"
+  },
+  {
+    "id": "JER.45.4",
+    "book": "Jeremiah",
+    "bookNum": 24,
+    "bookAbbrev": "JER",
+    "chapter": 45,
+    "verse": 4,
+    "text": "Thus shalt thou say unto him, The LORD saith thus; Behold, {that} which I have built will I break down, and that which I have planted I will pluck up, even this whole land.",
+    "hash": "07b4150b5ac377d59e50fd867460bb43e4091e5aef5dd735f6e09e52123ae7d0"
+  },
+  {
+    "id": "JER.45.5",
+    "book": "Jeremiah",
+    "bookNum": 24,
+    "bookAbbrev": "JER",
+    "chapter": 45,
+    "verse": 5,
+    "text": "And seekest thou great things for thyself? seek {them} not: for, behold, I will bring evil upon all flesh, saith the LORD: but thy life will I give unto thee for a prey in all places whither thou goest.",
+    "hash": "98f2af83c129cf5d8acf6c2924d1ed36b0cf7b69a5cf2864bad41a3b5e797065"
+  }
+]

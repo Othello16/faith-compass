@@ -1,0 +1,452 @@
+[
+  {
+    "id": "PSA.105.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 1,
+    "text": "O give thanks unto the LORD; call upon his name: make known his deeds among the people.",
+    "hash": "4b91d8d038f0364106eb26047667d2f38d2f7409e2613d96b0ca6ecfdb9eca61"
+  },
+  {
+    "id": "PSA.105.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 2,
+    "text": "Sing unto him, sing psalms unto him: talk ye of all his wondrous works.",
+    "hash": "dc1d20e61be1ce304b3b2cfd163e21a48b5a7aad9d87a1ddf918391cdaf0949d"
+  },
+  {
+    "id": "PSA.105.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 3,
+    "text": "Glory ye in his holy name: let the heart of them rejoice that seek the LORD.",
+    "hash": "c212875cf985b34b64bd2c3fc904073729fb57178ba3ce1126aae1af760c0bd0"
+  },
+  {
+    "id": "PSA.105.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 4,
+    "text": "Seek the LORD, and his strength: seek his face evermore.",
+    "hash": "ec39c21312bc9f450760015b5124209e480a7a9c16a80eea61ce371148edb75c"
+  },
+  {
+    "id": "PSA.105.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 5,
+    "text": "Remember his marvellous works that he hath done; his wonders, and the judgments of his mouth;",
+    "hash": "789277e9b5d4abeb613b6a7922278891cd720a3eba0e9e08c4c45a82d2521e8d"
+  },
+  {
+    "id": "PSA.105.6",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 6,
+    "text": "O ye seed of Abraham his servant, ye children of Jacob his chosen.",
+    "hash": "33262a25455edce57b39fdca3d90dda09a4eb0aec6b5445bb0a534aaa26e9793"
+  },
+  {
+    "id": "PSA.105.7",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 7,
+    "text": "He {is} the LORD our God: his judgments {are} in all the earth.",
+    "hash": "d60f82f923800fad5fedf6727b88b5d3c2f4bce50f8fe31d5bdeae93e8420d27"
+  },
+  {
+    "id": "PSA.105.8",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 8,
+    "text": "He hath remembered his covenant for ever, the word {which} he commanded to a thousand generations.",
+    "hash": "2b7ee515bf440f6b84862dddd3d3e906b42e741d650a4ad8b52e2179b62386f3"
+  },
+  {
+    "id": "PSA.105.9",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 9,
+    "text": "Which {covenant} he made with Abraham, and his oath unto Isaac;",
+    "hash": "f47f181f9501537b70bdc92336ebe9e7e79fd6ba1d0ec2e430837972379e8a41"
+  },
+  {
+    "id": "PSA.105.10",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 10,
+    "text": "And confirmed the same unto Jacob for a law, {and} to Israel {for} an everlasting covenant:",
+    "hash": "04d228e8417926356cdf6464c21b891020647e6dd76104941009fe6e82d5c1fd"
+  },
+  {
+    "id": "PSA.105.11",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 11,
+    "text": "Saying, Unto thee will I give the land of Canaan, the lot of your inheritance: {lot: Heb. cord}",
+    "hash": "5006bb4e00c8e0f6d68ee26ae3f0425b17ab846863768789fbd7bd1fdeb5d890"
+  },
+  {
+    "id": "PSA.105.12",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 12,
+    "text": "When they were {but} a few men in number; yea, very few, and strangers in it.",
+    "hash": "c71aebfede5b2da8ac97a0b866e95da76baf03caf4a3497be617c82ef6e1c25d"
+  },
+  {
+    "id": "PSA.105.13",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 13,
+    "text": "When they went from one nation to another, from {one} kingdom to another people;",
+    "hash": "956ca7d78f795aafdbedffa6dd1af13653ee2a2688316edb210501fdf6ddf34b"
+  },
+  {
+    "id": "PSA.105.14",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 14,
+    "text": "He suffered no man to do them wrong: yea, he reproved kings for their sakes;",
+    "hash": "7593b4c727913098d3595b6986b972da2b2ddf1455b4f7d48af6513cc10f6c76"
+  },
+  {
+    "id": "PSA.105.15",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 15,
+    "text": "{Saying}, Touch not mine anointed, and do my prophets no harm.",
+    "hash": "aae672f47ee5dcb0c11fe652230a0f91b5c64d88004792813fd113ec8092882f"
+  },
+  {
+    "id": "PSA.105.16",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 16,
+    "text": "Moreover he called for a famine upon the land: he brake the whole staff of bread.",
+    "hash": "0511ac40a3e8d71dd93cb132f6feaf2d0f33e48948830a0605812bc5e2f1a9a2"
+  },
+  {
+    "id": "PSA.105.17",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 17,
+    "text": "He sent a man before them, {even} Joseph, {who} was sold for a servant:",
+    "hash": "cec4f6003a943a70d4ff5224063c23a7151716478327d5b42f8316cbf4af3bfd"
+  },
+  {
+    "id": "PSA.105.18",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 18,
+    "text": "Whose feet they hurt with fetters: he was laid in iron: {he...: Heb. his soul came into iron}",
+    "hash": "628af7493ccdee8a6df74283089810866e284e6ceea3c0fd4bc2e0f34c63ce33"
+  },
+  {
+    "id": "PSA.105.19",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 19,
+    "text": "Until the time that his word came: the word of the LORD tried him.",
+    "hash": "4a6ba4a7d38d944f5ed75bab117ddc030652c19e21ed06468d3ae0ac02b54bca"
+  },
+  {
+    "id": "PSA.105.20",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 20,
+    "text": "The king sent and loosed him; {even} the ruler of the people, and let him go free.",
+    "hash": "731bbee31aa9695a2f47529578e5742c1866f57d003926fcb98c87c77361386c"
+  },
+  {
+    "id": "PSA.105.21",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 21,
+    "text": "He made him lord of his house, and ruler of all his substance: {substance: Heb. possession}",
+    "hash": "78a2527b046186ac28680adef1bb8fcd97b64821e2433ff890002d291fcea4a9"
+  },
+  {
+    "id": "PSA.105.22",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 22,
+    "text": "To bind his princes at his pleasure; and teach his senators wisdom.",
+    "hash": "48a205f1635b69bd8b6a389352f9cc56bccd792f7036712305763eed16ce46d4"
+  },
+  {
+    "id": "PSA.105.23",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 23,
+    "text": "Israel also came into Egypt; and Jacob sojourned in the land of Ham.",
+    "hash": "702c0830d42f7ed722d9c6d9d426913397ad8844df136287d7edc1571c3b8677"
+  },
+  {
+    "id": "PSA.105.24",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 24,
+    "text": "And he increased his people greatly; and made them stronger than their enemies.",
+    "hash": "1ad1746dd1d91cf0e6405f7b87048657809f77307570f694622982e2af19c3c7"
+  },
+  {
+    "id": "PSA.105.25",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 25,
+    "text": "He turned their heart to hate his people, to deal subtilly with his servants.",
+    "hash": "60681effa1a0b9b3a24b830f8a5fc482faa899612e4a66e3334b7f26aa4a4528"
+  },
+  {
+    "id": "PSA.105.26",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 26,
+    "text": "He sent Moses his servant; {and} Aaron whom he had chosen.",
+    "hash": "20c57e7809a411f08c7cb8a4f8a0d9bacb6fec14ea0784c190bc6e4e1dbcccae"
+  },
+  {
+    "id": "PSA.105.27",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 27,
+    "text": "They shewed his signs among them, and wonders in the land of Ham. {his...: Heb. words of his signs}",
+    "hash": "395ee40eec8a9a4bb30dc92b350a607b35887230bc89fad344d3eaf9f65ac414"
+  },
+  {
+    "id": "PSA.105.28",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 28,
+    "text": "He sent darkness, and made it dark; and they rebelled not against his word.",
+    "hash": "026782f548307b23845cb7e361210a313cec73b054d0c81ec5510a7f8d08735d"
+  },
+  {
+    "id": "PSA.105.29",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 29,
+    "text": "He turned their waters into blood, and slew their fish.",
+    "hash": "d84e53af3cb19ede6725d0ea9f0a3e261da780e393a83c0b3e89040037964eda"
+  },
+  {
+    "id": "PSA.105.30",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 30,
+    "text": "Their land brought forth frogs in abundance, in the chambers of their kings.",
+    "hash": "eb5a0962bda4c2d152ef2a18e92467371668ecdfe1a78088fef947b36cb8db42"
+  },
+  {
+    "id": "PSA.105.31",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 31,
+    "text": "He spake, and there came divers sorts of flies, {and} lice in all their coasts.",
+    "hash": "c23c4734ab73708598773172aa9759f94ea232ed0481b9bd47fd1473a2c83b41"
+  },
+  {
+    "id": "PSA.105.32",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 32,
+    "text": "He gave them hail for rain, {and} flaming fire in their land. {them...: Heb. their rain hail}",
+    "hash": "fd2c9c990c8a0fbe27bc006ce889da839950ec88abab837d63519efa78743997"
+  },
+  {
+    "id": "PSA.105.33",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 33,
+    "text": "He smote their vines also and their fig trees; and brake the trees of their coasts.",
+    "hash": "38869253442e53653a3628a36116792f5c5c713ded515b551670132eca573265"
+  },
+  {
+    "id": "PSA.105.34",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 34,
+    "text": "He spake, and the locusts came, and caterpillers, and that without number,",
+    "hash": "4f8db4e15d0e96f2eb8c8a701dcd9bda79711af9731d8cdac1419a269f219b4c"
+  },
+  {
+    "id": "PSA.105.35",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 35,
+    "text": "And did eat up all the herbs in their land, and devoured the fruit of their ground.",
+    "hash": "f1162296374ebd17cdde04ef15063c5896019404e69676c0706c4d420217274a"
+  },
+  {
+    "id": "PSA.105.36",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 36,
+    "text": "He smote also all the firstborn in their land, the chief of all their strength.",
+    "hash": "c8eed8a0b807164186c6066e7f758b6d544ba3df79608741ae13cb7f0716b3fa"
+  },
+  {
+    "id": "PSA.105.37",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 37,
+    "text": "He brought them forth also with silver and gold: and {there was} not one feeble {person} among their tribes.",
+    "hash": "a7e1504aeb43e16879e5520fa1534667fcc9a7c4c57c42c5b198cd87eabfc12c"
+  },
+  {
+    "id": "PSA.105.38",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 38,
+    "text": "Egypt was glad when they departed: for the fear of them fell upon them.",
+    "hash": "f5c398d9d334f25a68fbd678e7e5cc19de70e2745a8cdeca0c45dfbb2f869c13"
+  },
+  {
+    "id": "PSA.105.39",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 39,
+    "text": "He spread a cloud for a covering; and fire to give light in the night.",
+    "hash": "5f36f3b3642801f391fd6f9946cb66e03e91b29bbaa1f3ec45d129f214c64d4a"
+  },
+  {
+    "id": "PSA.105.40",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 40,
+    "text": "{The people} asked, and he brought quails, and satisfied them with the bread of heaven.",
+    "hash": "9f5dec694c75b16e0b0fbcb3c4a50d9e8590d217bbf029e416b46569168823d1"
+  },
+  {
+    "id": "PSA.105.41",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 41,
+    "text": "He opened the rock, and the waters gushed out; they ran in the dry places {like} a river.",
+    "hash": "97a478d146264657abc989ac645c214a5b8d54830104f77f2911949fc7269ae6"
+  },
+  {
+    "id": "PSA.105.42",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 42,
+    "text": "For he remembered his holy promise, {and} Abraham his servant.",
+    "hash": "6f8488140ac54025d1cc21aa8fe64f8ed412a94af3ce1aae6f4d110c3c06209a"
+  },
+  {
+    "id": "PSA.105.43",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 43,
+    "text": "And he brought forth his people with joy, {and} his chosen with gladness: {gladness: Heb. singing}",
+    "hash": "728dcadd2153c6a939791e51034036812a47e4717e4b7fc788a7a7e34e60cdbf"
+  },
+  {
+    "id": "PSA.105.44",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 44,
+    "text": "And gave them the lands of the heathen: and they inherited the labour of the people;",
+    "hash": "5f8c99af1b1b5b55899940107478fdc7447383a539af49ae2293484c275b8022"
+  },
+  {
+    "id": "PSA.105.45",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 105,
+    "verse": 45,
+    "text": "That they might observe his statutes, and keep his laws. Praise ye the LORD. {Praise...: Heb. Hallelujah}",
+    "hash": "1ab298757af8e87f29ceac5286d39ab92f7521c40059467bb31e09f3821c4701"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PSA.82.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 82,
+    "verse": 1,
+    "text": "[A Psalm of Asaph.] God standeth in the congregation of the mighty; he judgeth among the gods. {of Asaph: or, for Asaph}",
+    "hash": "0d167054898c17bb8afc6e4cbbb2803de59ab54e58b8577b45b82e316ec88e7c"
+  },
+  {
+    "id": "PSA.82.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 82,
+    "verse": 2,
+    "text": "How long will ye judge unjustly, and accept the persons of the wicked? Selah.",
+    "hash": "47239415467cdd33d99a6cc8ba90919e3bdd0834469677a1395f70262c731bf9"
+  },
+  {
+    "id": "PSA.82.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 82,
+    "verse": 3,
+    "text": "Defend the poor and fatherless: do justice to the afflicted and needy. {Defend: Heb. Judge}",
+    "hash": "661a9262b60e28735d8a71bbb51cd17d587b694f51012b594560872a90906155"
+  },
+  {
+    "id": "PSA.82.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 82,
+    "verse": 4,
+    "text": "Deliver the poor and needy: rid {them} out of the hand of the wicked.",
+    "hash": "9112309368df3f8c9656bbdfab77fa05e5ff3e390a1c9e42b9c7d98cc26ae166"
+  },
+  {
+    "id": "PSA.82.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 82,
+    "verse": 5,
+    "text": "They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course. {out...: Heb. moved}",
+    "hash": "759f09ed6c16b708047295fa005e2a51ebb77bcb3e6f945961dd9db0e53cc02b"
+  },
+  {
+    "id": "PSA.82.6",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 82,
+    "verse": 6,
+    "text": "I have said, Ye {are} gods; and all of you {are} children of the most High.",
+    "hash": "8a7db29ef21f26df2ccb7b07dfd6ba50d3af74dd73072c2372f0b7554ac86412"
+  },
+  {
+    "id": "PSA.82.7",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 82,
+    "verse": 7,
+    "text": "But ye shall die like men, and fall like one of the princes.",
+    "hash": "2c54f08a63a85c5beb393aca8edcf7cc1461bd028d7a6d3c35a91db15afd0fd9"
+  },
+  {
+    "id": "PSA.82.8",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 82,
+    "verse": 8,
+    "text": "Arise, O God, judge the earth: for thou shalt inherit all nations.",
+    "hash": "ba19179f6538cdca1a9913ce987751892a8afe9096e6e68e26cb5cd7bc1ac687"
+  }
+]

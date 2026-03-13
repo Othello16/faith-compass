@@ -1,0 +1,32 @@
+[
+  {
+    "id": "PSA.133.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 133,
+    "verse": 1,
+    "text": "[A Song of degrees of David.] Behold, how good and how pleasant {it is} for brethren to dwell together in unity! {together...: Heb. even together}",
+    "hash": "b0961f9fbf7dd852a20360395d593573867467978f7ccd1bd2565dbbdc70a16f"
+  },
+  {
+    "id": "PSA.133.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 133,
+    "verse": 2,
+    "text": "{It is} like the precious ointment upon the head, that ran down upon the beard, {even} Aaron's beard: that went down to the skirts of his garments;",
+    "hash": "ac47bd5d962875ce680417e4978e96d57f23712b1d561b5b2e8627c65d1b0570"
+  },
+  {
+    "id": "PSA.133.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 133,
+    "verse": 3,
+    "text": "As the dew of Hermon, {and as the dew} that descended upon the mountains of Zion: for there the LORD commanded the blessing, {even} life for evermore.",
+    "hash": "12fcdd193920506a50daf336aef605327071f4bb0c19d72a279b5cb48ad7b05d"
+  }
+]

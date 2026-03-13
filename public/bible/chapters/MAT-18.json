@@ -1,0 +1,352 @@
+[
+  {
+    "id": "MAT.18.1",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 1,
+    "text": "At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?",
+    "hash": "b1b52a1e7c2287d73235f5713b242567391bb1c4ce11cb820b2e68c3471eaa94"
+  },
+  {
+    "id": "MAT.18.2",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 2,
+    "text": "And Jesus called a little child unto him, and set him in the midst of them,",
+    "hash": "20533e83e5a6c8d942ab59adeaff4e45633926748dfffecd9e9ead73cdf4f41c"
+  },
+  {
+    "id": "MAT.18.3",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 3,
+    "text": "And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.",
+    "hash": "e16b95c073c2d73ed40760304dbfa9d7e19991fbd2ccb8ec4a2da8740cc5c2b6"
+  },
+  {
+    "id": "MAT.18.4",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 4,
+    "text": "Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.",
+    "hash": "c3a024344229a2572c43c454ab32faa2095d6a13cdd757b5c907494c43b12f83"
+  },
+  {
+    "id": "MAT.18.5",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 5,
+    "text": "And whoso shall receive one such little child in my name receiveth me.",
+    "hash": "347c83a2313e037174ed6ea1344cd308690a9d965cb53907a0bf0c1d9dc1c624"
+  },
+  {
+    "id": "MAT.18.6",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 6,
+    "text": "But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and {that} he were drowned in the depth of the sea.",
+    "hash": "e87f257d8c57ed7de15ea52f91734d7e357194d50bcf6427dd2403bc6c5cd10e"
+  },
+  {
+    "id": "MAT.18.7",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 7,
+    "text": "Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!",
+    "hash": "29967ca65852fcad554f55fb1fab2059d4dfdc7dc021758680c3a571bb90c0ef"
+  },
+  {
+    "id": "MAT.18.8",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 8,
+    "text": "Wherefore if thy hand or thy foot offend thee, cut them off, and cast {them} from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire.",
+    "hash": "19cf5722791351d689c9a79718a0c673b728a49e41a04238b6bcea965365c0e7"
+  },
+  {
+    "id": "MAT.18.9",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 9,
+    "text": "And if thine eye offend thee, pluck it out, and cast {it} from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire.",
+    "hash": "436466b7b0c20d20769cf869377a201f3f4b0b6db2bfbd58cb5da089e1a10416"
+  },
+  {
+    "id": "MAT.18.10",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 10,
+    "text": "Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven.",
+    "hash": "3b1791127bd70137125e165052d2a5131c817605a42dcfe833191a2657df544d"
+  },
+  {
+    "id": "MAT.18.11",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 11,
+    "text": "For the Son of man is come to save that which was lost.",
+    "hash": "780246d877b2c4136c3d719da5ebd63511a861bd9a60875bf55da8f1e192ae03"
+  },
+  {
+    "id": "MAT.18.12",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 12,
+    "text": "How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray?",
+    "hash": "d4ba5a8fc3a417e31ef07ebb5722885c6f80bca1c607bd6e28d1ca880939036d"
+  },
+  {
+    "id": "MAT.18.13",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 13,
+    "text": "And if so be that he find it, verily I say unto you, he rejoiceth more of that {sheep}, than of the ninety and nine which went not astray.",
+    "hash": "ea2177b4912c681f2c24741e0131ec7cd72ea96cdb42aa0df752df71a8069b3a"
+  },
+  {
+    "id": "MAT.18.14",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 14,
+    "text": "Even so it is not the will of your Father which is in heaven, that one of these little ones should perish.",
+    "hash": "96025aebadd4dcc479b9848e00f742f13f8dc2f6336900692a21d0ad3511a463"
+  },
+  {
+    "id": "MAT.18.15",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 15,
+    "text": "Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother.",
+    "hash": "2015d4e02b41afcf9c53f4a5c2d5b2f390d1d9aaf63883977bf89e115673abe9"
+  },
+  {
+    "id": "MAT.18.16",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 16,
+    "text": "But if he will not hear {thee, then} take with thee one or two more, that in the mouth of two or three witnesses every word may be established.",
+    "hash": "b83ba85549dd33654091fd28d1bfb13ff12279761c5260e1e3b901c4db43435c"
+  },
+  {
+    "id": "MAT.18.17",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 17,
+    "text": "And if he shall neglect to hear them, tell {it} unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.",
+    "hash": "2cb5047559c475b9013158c65445062c7824e9581d6e5b76df8544af6df00976"
+  },
+  {
+    "id": "MAT.18.18",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 18,
+    "text": "Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.",
+    "hash": "0eedcce79fe064cfc3ebad643d2b95c4199977e9125466bac3801e6584c3e701"
+  },
+  {
+    "id": "MAT.18.19",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 19,
+    "text": "Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.",
+    "hash": "7c3c6284cccb96d46c9d288a4d0fcfd6a31d2472c79c63cb7274862d4b365db1"
+  },
+  {
+    "id": "MAT.18.20",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 20,
+    "text": "For where two or three are gathered together in my name, there am I in the midst of them.",
+    "hash": "6e3b874a3f83421776697af0a7014dca41cf304a86f44dbe7460d043612f6060"
+  },
+  {
+    "id": "MAT.18.21",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 21,
+    "text": "Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?",
+    "hash": "a0809217041e4cae8163dd2fdf741efebbb6442c1dc182f430b22d50d6a3f8d1"
+  },
+  {
+    "id": "MAT.18.22",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 22,
+    "text": "Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.",
+    "hash": "81478e96672960e1e2b958c4fa91091ec4cb4d6b120b69a45b9ce5811a4a4280"
+  },
+  {
+    "id": "MAT.18.23",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 23,
+    "text": "Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants.",
+    "hash": "790803ea7d2f5987dce2a46e2f88e0a6d213bfb617ffcbc7f15581c67987beef"
+  },
+  {
+    "id": "MAT.18.24",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 24,
+    "text": "And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents. {talents: a talent is seven hundred and fifty ounces of silver, which after five shillings the ounce is pounds shillings}",
+    "hash": "a9ba3fc003e86d20f5ba7457c0b2a8b3c6da61c913772265f2d9e109650c9783"
+  },
+  {
+    "id": "MAT.18.25",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 25,
+    "text": "But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made.",
+    "hash": "fff0a28f18617e7a18755bee12f444e6970943d6ad02676bffb4cf3e956c6176"
+  },
+  {
+    "id": "MAT.18.26",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 26,
+    "text": "The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all. {worshipped him: or, besought him}",
+    "hash": "0b9d8e21fec18c00b37741734a3444596aa472610afecabecdb635da571cc6b0"
+  },
+  {
+    "id": "MAT.18.27",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 27,
+    "text": "Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt.",
+    "hash": "1b91373746525620a47ae20397b55374d5dcdbd559da9787226c07cd53138052"
+  },
+  {
+    "id": "MAT.18.28",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 28,
+    "text": "But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took {him} by the throat, saying, Pay me that thou owest. {pence: the Roman penny is the eighth part of an ounce, which after five shillings the ounce is seven pence halfpenny; about fourteen cents}",
+    "hash": "73305bbdcae72de032c694dc4071cf052611b23ab5652a89918ed62b1ef3f683"
+  },
+  {
+    "id": "MAT.18.29",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 29,
+    "text": "And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all.",
+    "hash": "bc018e235afda7efbed03a882f682cdb7bba1c1f50fc07c9442f21f0391c5a3a"
+  },
+  {
+    "id": "MAT.18.30",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 30,
+    "text": "And he would not: but went and cast him into prison, till he should pay the debt.",
+    "hash": "26dadbba46a6e0e7a67a4576d0056b1a94c4fa86ea2596135171a5db7a9b05b7"
+  },
+  {
+    "id": "MAT.18.31",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 31,
+    "text": "So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done.",
+    "hash": "b4191cd878458dbef1f91531ab1c2cb035da19979347d6aeb9c4758867d781ae"
+  },
+  {
+    "id": "MAT.18.32",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 32,
+    "text": "Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:",
+    "hash": "41e094e3e876b4de9de18768f08b667bac814f71512851812ae8b3b5d010c01c"
+  },
+  {
+    "id": "MAT.18.33",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 33,
+    "text": "Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee?",
+    "hash": "f9f116523b0e74d239a229fa34a2fcfd20a8c061a56f12829383f3d612bbf792"
+  },
+  {
+    "id": "MAT.18.34",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 34,
+    "text": "And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him.",
+    "hash": "871dc9d1cee5114505818348e5aad0546043b845a6a9a8f4de0bd8bf1c25273b"
+  },
+  {
+    "id": "MAT.18.35",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 18,
+    "verse": 35,
+    "text": "So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses.",
+    "hash": "9b203f09e2c0d5c10c171f2d55522ae0890b37d0fef7bc77965865263800a8d5"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "id": "MAT.20.1",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 1,
+    "text": "For the kingdom of heaven is like unto a man {that is} an householder, which went out early in the morning to hire labourers into his vineyard.",
+    "hash": "0a552741702d56fdf0b7b8eeb5ef1dc928e8f0873e67524eef8fe191ded8bd73"
+  },
+  {
+    "id": "MAT.20.2",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 2,
+    "text": "And when he had agreed with the labourers for a penny a day, he sent them into his vineyard. {penny: the Roman penny is the eighth part of an ounce, which after five shillings the ounce is seven pence halfpenny; about fourteen cents}",
+    "hash": "99083389711ad5728bcf865a8d7d0f0d73644aa17925116101f58cc03d0206fa"
+  },
+  {
+    "id": "MAT.20.3",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 3,
+    "text": "And he went out about the third hour, and saw others standing idle in the marketplace,",
+    "hash": "f041654a125340a4207d0a50dccc0b268c6876b2bece1f869e5cf4c71cbc9b69"
+  },
+  {
+    "id": "MAT.20.4",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 4,
+    "text": "And said unto them; Go ye also into the vineyard, and whatsoever is right I will give you. And they went their way.",
+    "hash": "3b2b10e97030d7db5a320419fbbd96eeb9368a3a8f9b26325ef0975138fdf833"
+  },
+  {
+    "id": "MAT.20.5",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 5,
+    "text": "Again he went out about the sixth and ninth hour, and did likewise.",
+    "hash": "565ea2da05b731ea05d4c0eb895c5ca1884cdd52cb5da9f7db6bbd6d26aa42f9"
+  },
+  {
+    "id": "MAT.20.6",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 6,
+    "text": "And about the eleventh hour he went out, and found others standing idle, and saith unto them, Why stand ye here all the day idle?",
+    "hash": "4c1ceb19697bd0b3d01db4cef42d84e3f73a83a8011bd136206b981a6208cbb2"
+  },
+  {
+    "id": "MAT.20.7",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 7,
+    "text": "They say unto him, Because no man hath hired us. He saith unto them, Go ye also into the vineyard; and whatsoever is right, {that} shall ye receive.",
+    "hash": "8e9eb69f9eaa06bbaa744c323e3e329f9966f4509d2120c2c3e4f0279c3ba202"
+  },
+  {
+    "id": "MAT.20.8",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 8,
+    "text": "So when even was come, the lord of the vineyard saith unto his steward, Call the labourers, and give them {their} hire, beginning from the last unto the first.",
+    "hash": "ae04668dcbaca34d201dcfe57db500a2966b9d1a45eed764faae02bf6b5db856"
+  },
+  {
+    "id": "MAT.20.9",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 9,
+    "text": "And when they came that {were hired} about the eleventh hour, they received every man a penny.",
+    "hash": "126b04dde42f6969108586f61e40de13e8dada42d4b3d060542cbe28e7348738"
+  },
+  {
+    "id": "MAT.20.10",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 10,
+    "text": "But when the first came, they supposed that they should have received more; and they likewise received every man a penny.",
+    "hash": "3a6056fad7ceae70bc0697547e70f547d25451b3088f89af427492bec408537b"
+  },
+  {
+    "id": "MAT.20.11",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 11,
+    "text": "And when they had received {it}, they murmured against the goodman of the house,",
+    "hash": "5ee2425d73f58747e10d56445c0d1ff349f651cd479dcdc14f0253cffb3f2b00"
+  },
+  {
+    "id": "MAT.20.12",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 12,
+    "text": "Saying, These last have wrought {but} one hour, and thou hast made them equal unto us, which have borne the burden and heat of the day. {have wrought...: or, have continued one hour only}",
+    "hash": "7da0590fa9b5c3ac3e5e245e94708aff12fd8c9b67b26c578b10fc081922e8d2"
+  },
+  {
+    "id": "MAT.20.13",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 13,
+    "text": "But he answered one of them, and said, Friend, I do thee no wrong: didst not thou agree with me for a penny?",
+    "hash": "65c8cd979e12d23b4196b076c1a14e02b0ed2fb87377c6f2f4f8a5a56d445278"
+  },
+  {
+    "id": "MAT.20.14",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 14,
+    "text": "Take {that} thine {is}, and go thy way: I will give unto this last, even as unto thee.",
+    "hash": "15cfd24f7b301e92f4f2d4ffc5c98d0b8ef0353870de9160f16030c697cf0b74"
+  },
+  {
+    "id": "MAT.20.15",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 15,
+    "text": "Is it not lawful for me to do what I will with mine own? Is thine eye evil, because I am good?",
+    "hash": "7a6aab68b9b85345057d3eeb21a2aaf7a93d888daddaf8324fc814230d638d82"
+  },
+  {
+    "id": "MAT.20.16",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 16,
+    "text": "So the last shall be first, and the first last: for many be called, but few chosen.",
+    "hash": "ff251b58e47217056adc111ab50cc00a053d828451cc7390ad2d8bb37580078c"
+  },
+  {
+    "id": "MAT.20.17",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 17,
+    "text": "And Jesus going up to Jerusalem took the twelve disciples apart in the way, and said unto them,",
+    "hash": "f7b558ed6dff395e48929a13a14f1a1781c96587ed95c1f0bde685a3e78cc700"
+  },
+  {
+    "id": "MAT.20.18",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 18,
+    "text": "Behold, we go up to Jerusalem; and the Son of man shall be betrayed unto the chief priests and unto the scribes, and they shall condemn him to death,",
+    "hash": "6b63d49ebb8213af0fae6fdec36869bd398aeb1b5d74da652e3c05e0d4785646"
+  },
+  {
+    "id": "MAT.20.19",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 19,
+    "text": "And shall deliver him to the Gentiles to mock, and to scourge, and to crucify {him}: and the third day he shall rise again.",
+    "hash": "969a6827331b643d7abc2edd29d0e58238b07009e3b5e6b626544b9b53552400"
+  },
+  {
+    "id": "MAT.20.20",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 20,
+    "text": "Then came to him the mother of Zebedee's children with her sons, worshipping {him}, and desiring a certain thing of him.",
+    "hash": "c67837cd0553818606dfac8fbf77753d2170f1ebd20cbbdebd9bf508d5a9fa5f"
+  },
+  {
+    "id": "MAT.20.21",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 21,
+    "text": "And he said unto her, What wilt thou? She saith unto him, Grant that these my two sons may sit, the one on thy right hand, and the other on the left, in thy kingdom.",
+    "hash": "3b54bf6abf6a194c02f5211c49df6763e0c7f0dbe2607877159c9ee9cb8065aa"
+  },
+  {
+    "id": "MAT.20.22",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 22,
+    "text": "But Jesus answered and said, Ye know not what ye ask. Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with? They say unto him, We are able.",
+    "hash": "e72cce3bea4f3ae3878ca3d18e73fdd085110757f364443ea34b2dd2bf7f02a9"
+  },
+  {
+    "id": "MAT.20.23",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 23,
+    "text": "And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but {it shall be given to them} for whom it is prepared of my Father.",
+    "hash": "3641135dcc49e635177cd3179fe051d1152368dbaf8c17a1f387648f9cfcfe3d"
+  },
+  {
+    "id": "MAT.20.24",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 24,
+    "text": "And when the ten heard {it}, they were moved with indignation against the two brethren.",
+    "hash": "63022b03a6583ae28f43ff5ce23eb0b0578a281b8b531731a4e6e217c717f65c"
+  },
+  {
+    "id": "MAT.20.25",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 25,
+    "text": "But Jesus called them {unto him}, and said, Ye know that the princes of the Gentiles exercise dominion over them, and they that are great exercise authority upon them.",
+    "hash": "9d719de9058e3d3e0b718ee592b8e91f9c0311adf19093034d1a357ff7ca686b"
+  },
+  {
+    "id": "MAT.20.26",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 26,
+    "text": "But it shall not be so among you: but whosoever will be great among you, let him be your minister;",
+    "hash": "7f76fd06548900dd6fd7be73b5a73e9724dcafab36ae209ff60e7896dab22019"
+  },
+  {
+    "id": "MAT.20.27",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 27,
+    "text": "And whosoever will be chief among you, let him be your servant:",
+    "hash": "1eb1603519860e31fbbf00d5cd34f4d9a05c3dc8e196a3b1a0421e250b0fb8cb"
+  },
+  {
+    "id": "MAT.20.28",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 28,
+    "text": "Even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.",
+    "hash": "1ce6e164af842eecb2bea7b582de3412bfa457c39807745090f7814347215974"
+  },
+  {
+    "id": "MAT.20.29",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 29,
+    "text": "And as they departed from Jericho, a great multitude followed him.",
+    "hash": "f477f861fc07f021af7024279745f7b2f1d402b1bc5adb6956cb116791972263"
+  },
+  {
+    "id": "MAT.20.30",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 30,
+    "text": "And, behold, two blind men sitting by the way side, when they heard that Jesus passed by, cried out, saying, Have mercy on us, O Lord, {thou} Son of David.",
+    "hash": "a140286bd0042aca24c74ca7594252c77f651734c3ef83ede3bde319c41608c7"
+  },
+  {
+    "id": "MAT.20.31",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 31,
+    "text": "And the multitude rebuked them, because they should hold their peace: but they cried the more, saying, Have mercy on us, O Lord, {thou} Son of David.",
+    "hash": "18caf7dd539b3d3730a92dc700df861b2651a21c2f849abc5bf8472ca84c13f1"
+  },
+  {
+    "id": "MAT.20.32",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 32,
+    "text": "And Jesus stood still, and called them, and said, What will ye that I shall do unto you?",
+    "hash": "8a461eb8cf16913e4c286bb6b7ff8fe9c41740c28627c2ac1406d5a7d7f282a3"
+  },
+  {
+    "id": "MAT.20.33",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 33,
+    "text": "They say unto him, Lord, that our eyes may be opened.",
+    "hash": "813ed588beaa1bc82464c358d1e523565eaedc6d88a1cdd0ac69fd11625be72c"
+  },
+  {
+    "id": "MAT.20.34",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 20,
+    "verse": 34,
+    "text": "So Jesus had compassion {on them}, and touched their eyes: and immediately their eyes received sight, and they followed him.",
+    "hash": "89a11ad106527cd25ef4b6e6dff672e96d1b91503ff08647705c5428ce25cc7f"
+  }
+]

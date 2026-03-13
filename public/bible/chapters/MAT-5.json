@@ -1,0 +1,482 @@
+[
+  {
+    "id": "MAT.5.1",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 1,
+    "text": "And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:",
+    "hash": "becb0799bf8e24fa9cbe98f71c1bfadd679ca464f1af4c372f5c20528db0de83"
+  },
+  {
+    "id": "MAT.5.2",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 2,
+    "text": "And he opened his mouth, and taught them, saying,",
+    "hash": "fce35c5e1f1ded2ede36754e6d4c059fdedff15eb0c3cb85c619cf95c996da06"
+  },
+  {
+    "id": "MAT.5.3",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 3,
+    "text": "Blessed {are} the poor in spirit: for theirs is the kingdom of heaven.",
+    "hash": "92158a800065160f184d2bbad7e98bd0fd65ec748320ab7be65004bc65264dba"
+  },
+  {
+    "id": "MAT.5.4",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 4,
+    "text": "Blessed {are} they that mourn: for they shall be comforted.",
+    "hash": "fba90cd905e02ab3359e2db860064129a7656eb9f3917428e0bc848e2f4ba44a"
+  },
+  {
+    "id": "MAT.5.5",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 5,
+    "text": "Blessed {are} the meek: for they shall inherit the earth.",
+    "hash": "8ce541f0a3de946bfd44e35ee1a5b088f955d083d955c87c3763fcbd9409314b"
+  },
+  {
+    "id": "MAT.5.6",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 6,
+    "text": "Blessed {are} they which do hunger and thirst after righteousness: for they shall be filled.",
+    "hash": "ad90306a994541e453ebe0bbc4705e04e5e11719309dfcb6f770583479ce1e0a"
+  },
+  {
+    "id": "MAT.5.7",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 7,
+    "text": "Blessed {are} the merciful: for they shall obtain mercy.",
+    "hash": "ade5d9949e709a0377f80fd5b7b8a5045dd2cc298a10cee48f643346d186a19a"
+  },
+  {
+    "id": "MAT.5.8",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 8,
+    "text": "Blessed {are} the pure in heart: for they shall see God.",
+    "hash": "a8628e3d092ca8590c6e9917f85cd2a0cf4651e64d46f67db0444b20e2b5a134"
+  },
+  {
+    "id": "MAT.5.9",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 9,
+    "text": "Blessed {are} the peacemakers: for they shall be called the children of God.",
+    "hash": "663a1d1ddf97dfa89362caeabd00b4563970051256f26f23c11e88a215ebe406"
+  },
+  {
+    "id": "MAT.5.10",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 10,
+    "text": "Blessed {are} they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven.",
+    "hash": "db77a22da9fc84cb6dc7130f670a77505d2da40fe9583b755416390c246aa164"
+  },
+  {
+    "id": "MAT.5.11",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 11,
+    "text": "Blessed are ye, when {men} shall revile you, and persecute {you}, and shall say all manner of evil against you falsely, for my sake. {falsely: Gr. lying}",
+    "hash": "6ac434d8acd5d7d72d4e388613023479163799a1915ddb416432a15e45770033"
+  },
+  {
+    "id": "MAT.5.12",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 12,
+    "text": "Rejoice, and be exceeding glad: for great {is} your reward in heaven: for so persecuted they the prophets which were before you.",
+    "hash": "81d364504872b789f608b1d8ddd0d20e719f0a3e8714d538bb804f2072f3d94b"
+  },
+  {
+    "id": "MAT.5.13",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 13,
+    "text": "Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.",
+    "hash": "c4bfa4d9cf8f2571b20c61d44de607563da630d1b3549d7c297ec29f7d685328"
+  },
+  {
+    "id": "MAT.5.14",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 14,
+    "text": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
+    "hash": "b16516f86d46d00292871141aeeb8ba95b2bf475df982ecf275d7f0649d44899"
+  },
+  {
+    "id": "MAT.5.15",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 15,
+    "text": "Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house. {a bushel: the word in the original signifieth a measure containing about a pint less than a peck}",
+    "hash": "206c201374b229cba06441b953396e6e7118a03e942c79ee988e0cfb20f888e7"
+  },
+  {
+    "id": "MAT.5.16",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 16,
+    "text": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.",
+    "hash": "c40e08a44a1c22f4ee2e7fa4b93ca4f66fc410e4f3b04832bc855d51056a797b"
+  },
+  {
+    "id": "MAT.5.17",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 17,
+    "text": "Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.",
+    "hash": "2b0da8cc6dace9e7fe25e2a91d730298aa7b50e0ef9ce726aad1efa11495d1fb"
+  },
+  {
+    "id": "MAT.5.18",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 18,
+    "text": "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.",
+    "hash": "73c7606bd90b3511e0fd1049dd66696c77497797afd1741780279c14d447575d"
+  },
+  {
+    "id": "MAT.5.19",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 19,
+    "text": "Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach {them}, the same shall be called great in the kingdom of heaven.",
+    "hash": "56c3830810db7d1d3eec96011d3ba98781a55eecf3067474e8c6ab5ae9876995"
+  },
+  {
+    "id": "MAT.5.20",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 20,
+    "text": "For I say unto you, That except your righteousness shall exceed {the righteousness} of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven.",
+    "hash": "b8ef0dad36c56616fcb93a9e00d6d9fb62409a9d214af4771ea9014e5f308e2b"
+  },
+  {
+    "id": "MAT.5.21",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 21,
+    "text": "Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment: {by: or, to}",
+    "hash": "184bc1793955d07ac4c8fa69afe80e9e772f1c1f294264fd164efde54c0da858"
+  },
+  {
+    "id": "MAT.5.22",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 22,
+    "text": "But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire. {Raca: that is, Vain fellow}",
+    "hash": "0b21fffea7903ad714047f3969892847928832fb0ea911d19a0caf2b13155594"
+  },
+  {
+    "id": "MAT.5.23",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 23,
+    "text": "Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;",
+    "hash": "ae4f9bbe7ae24497177946ed1ffcd42e06a985f5a7907b0b89dc299633b1eea2"
+  },
+  {
+    "id": "MAT.5.24",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 24,
+    "text": "Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.",
+    "hash": "d7c3ff2f2916a9b942048bf819c0bb92cebdafaaec84b3d9d4e005387b882b22"
+  },
+  {
+    "id": "MAT.5.25",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 25,
+    "text": "Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.",
+    "hash": "965d5c8039ba9da0ac0a23ca7476c2d7154a6c66f76dcffd168a7d6c882cc628"
+  },
+  {
+    "id": "MAT.5.26",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 26,
+    "text": "Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing.",
+    "hash": "f437773d467208a6c390ebf0a72f4fe66cf7df6d1bba43087131f3d90af3bbc1"
+  },
+  {
+    "id": "MAT.5.27",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 27,
+    "text": "Ye have heard that it was said by them of old time, Thou shalt not commit adultery:",
+    "hash": "572757d7061cc16672b3a408a4437efdd62e7ae183acb1d355ad2678b43b070d"
+  },
+  {
+    "id": "MAT.5.28",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 28,
+    "text": "But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.",
+    "hash": "46c076d2265519e47b293ba25fe7492b7ac1772241cd4ec3a73f1d84fb1c53ef"
+  },
+  {
+    "id": "MAT.5.29",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 29,
+    "text": "And if thy right eye offend thee, pluck it out, and cast {it} from thee: for it is profitable for thee that one of thy members should perish, and not {that} thy whole body should be cast into hell. {offend...: or, do cause thee to offend}",
+    "hash": "60257e7e8acc705402fd23f5e0820d8702abace7d5505a1e1535f43ba6a19858"
+  },
+  {
+    "id": "MAT.5.30",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 30,
+    "text": "And if thy right hand offend thee, cut it off, and cast {it} from thee: for it is profitable for thee that one of thy members should perish, and not {that} thy whole body should be cast into hell.",
+    "hash": "22f0156cb2c91ee8effa251000dde17dbd244c930553e4beaf338aa3e7d2d97b"
+  },
+  {
+    "id": "MAT.5.31",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 31,
+    "text": "It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement:",
+    "hash": "d4a6d084f59475a08aec923139a92f188b557a6396710df3071b5c25bb57e47a"
+  },
+  {
+    "id": "MAT.5.32",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 32,
+    "text": "But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery.",
+    "hash": "cc6bd2de591dde85b639b8c03597d98637cad5bde843f3442e78c551e420cac9"
+  },
+  {
+    "id": "MAT.5.33",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 33,
+    "text": "Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:",
+    "hash": "4788126f52b2b256aa47407b83e669f54a4d63c1c4eefe11797d4cf9d1b03627"
+  },
+  {
+    "id": "MAT.5.34",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 34,
+    "text": "But I say unto you, Swear not at all; neither by heaven; for it is God's throne:",
+    "hash": "bdaa6348c33a6b86d6abfd92e46c831d919746a2a63d1d5d7b7d24854f90e5a8"
+  },
+  {
+    "id": "MAT.5.35",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 35,
+    "text": "Nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King.",
+    "hash": "2b116c7e052057c3fb1f6b639ae1ebe5bf9c920b4a9062a1d2d55b49c70159bc"
+  },
+  {
+    "id": "MAT.5.36",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 36,
+    "text": "Neither shalt thou swear by thy head, because thou canst not make one hair white or black.",
+    "hash": "aaf9389789d7af5b1bce4d16978ff365d2e8e60aeac39f20349ceb9ecb72e3e2"
+  },
+  {
+    "id": "MAT.5.37",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 37,
+    "text": "But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil.",
+    "hash": "85c83a0a8de028c2f33edffa57cdb54b022d724566380ab80b00fafe33531544"
+  },
+  {
+    "id": "MAT.5.38",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 38,
+    "text": "Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:",
+    "hash": "04a349aa23569d2d949f26e935921112d7e345ab31e65807bc1697332dc55e7e"
+  },
+  {
+    "id": "MAT.5.39",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 39,
+    "text": "But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.",
+    "hash": "6f5809c59e1acdf8ee24aa550f34e943dd71ad5218bb5be9ce26b03c55979db5"
+  },
+  {
+    "id": "MAT.5.40",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 40,
+    "text": "And if any man will sue thee at the law, and take away thy coat, let him have {thy} cloke also.",
+    "hash": "9d39fd737075eec91b53774af0c059221db4870434e7d3aec0a835911c218d41"
+  },
+  {
+    "id": "MAT.5.41",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 41,
+    "text": "And whosoever shall compel thee to go a mile, go with him twain.",
+    "hash": "3f499b2b06c873d72e5b27744cee999a35e7be5bdfb4909aaeaefcac0c7414e6"
+  },
+  {
+    "id": "MAT.5.42",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 42,
+    "text": "Give to him that asketh thee, and from him that would borrow of thee turn not thou away.",
+    "hash": "2a221aeb33eb87ebf51e5ed86c233b9b08be955530c3bf24bb66a23701c38569"
+  },
+  {
+    "id": "MAT.5.43",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 43,
+    "text": "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.",
+    "hash": "80b227bc018b71ebbd75b3827be80dea00fcfbfaf68e6f51bf11faa0ddd4b240"
+  },
+  {
+    "id": "MAT.5.44",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 44,
+    "text": "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;",
+    "hash": "96c24d55aefbdf33407ca217cc4c0d31f138ec6b9143ce872052f23ffe741161"
+  },
+  {
+    "id": "MAT.5.45",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 45,
+    "text": "That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.",
+    "hash": "64d1e2ef8801e2c47805e850c4065ea18a8d9f7b76f60d47316dafc2fa798156"
+  },
+  {
+    "id": "MAT.5.46",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 46,
+    "text": "For if ye love them which love you, what reward have ye? do not even the publicans the same?",
+    "hash": "17f5d4ccb39565f911d1412add10858b11b7f40eb2af996b03fd034b67bd7990"
+  },
+  {
+    "id": "MAT.5.47",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 47,
+    "text": "And if ye salute your brethren only, what do ye more {than others}? do not even the publicans so?",
+    "hash": "8fd781743c73e7dfcf10a8081aebae0057d20e1eb3f7b105b173c789c83e51f7"
+  },
+  {
+    "id": "MAT.5.48",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 5,
+    "verse": 48,
+    "text": "Be ye therefore perfect, even as your Father which is in heaven is perfect.",
+    "hash": "f0e13d50d81a0f64027d44d9ebfba7e0bb5f4970efe31b01a6adbdcb15edb404"
+  }
+]

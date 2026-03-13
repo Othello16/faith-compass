@@ -1,0 +1,502 @@
+[
+  {
+    "id": "LUK.7.1",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 1,
+    "text": "Now when he had ended all his sayings in the audience of the people, he entered into Capernaum.",
+    "hash": "0ae63bcffb451d6cdccc31907a570963561de6295911b875f5050774c33a0bce"
+  },
+  {
+    "id": "LUK.7.2",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 2,
+    "text": "And a certain centurion's servant, who was dear unto him, was sick, and ready to die.",
+    "hash": "ada10cc944a740d56078767963cba207770bc0e81ffe3265dc2b384eff24efd2"
+  },
+  {
+    "id": "LUK.7.3",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 3,
+    "text": "And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant.",
+    "hash": "9df4f2624d1a611e68ee15c712e2d34e49269160607921fc655c595cdad4d90f"
+  },
+  {
+    "id": "LUK.7.4",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 4,
+    "text": "And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:",
+    "hash": "cc9c99d20c1534d4ef23033b1d8cfdaf1ba61680241b89b84e1b80e2247638f2"
+  },
+  {
+    "id": "LUK.7.5",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 5,
+    "text": "For he loveth our nation, and he hath built us a synagogue.",
+    "hash": "10897cdc2a27aee3ee066da8decab3f2f2b5822bc06d7038cbf52375c92d373e"
+  },
+  {
+    "id": "LUK.7.6",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 6,
+    "text": "Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:",
+    "hash": "13eb9c4f7af57323b1d6e1e063539f58c98f20867163cdf47028e120aec283cb"
+  },
+  {
+    "id": "LUK.7.7",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 7,
+    "text": "Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed.",
+    "hash": "3b6c2d4d684bd41dfcbdcf84915e46d90e93eb3a61099d0107c8e88a10dd59e9"
+  },
+  {
+    "id": "LUK.7.8",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 8,
+    "text": "For I also am a man set under authority, having under me soldiers, and I say unto one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth {it}. {one: Gr. this man}",
+    "hash": "57c17267feb4e4b971b02463abcae90f11ab63a06b8319ceca876f439e34b6c4"
+  },
+  {
+    "id": "LUK.7.9",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 9,
+    "text": "When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, I say unto you, I have not found so great faith, no, not in Israel.",
+    "hash": "26e2dd8b18e0796abec2dbbf8e6693ab122d73450ae8cb7911f86de1f945b6da"
+  },
+  {
+    "id": "LUK.7.10",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 10,
+    "text": "And they that were sent, returning to the house, found the servant whole that had been sick.",
+    "hash": "7f358d2a0752ba6e949f85aaaf06219351e6d2ad9c21ae69a62d497fa01eb119"
+  },
+  {
+    "id": "LUK.7.11",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 11,
+    "text": "And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people.",
+    "hash": "8d963dda1f2b4aea07d060fa4dfb8ace75bc379078778e892eb4a005f84a1132"
+  },
+  {
+    "id": "LUK.7.12",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 12,
+    "text": "Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her.",
+    "hash": "75b1412310c62adf5fd71698c5fa6dd97826603f8786a76ad6fc31237335f4e3"
+  },
+  {
+    "id": "LUK.7.13",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 13,
+    "text": "And when the Lord saw her, he had compassion on her, and said unto her, Weep not.",
+    "hash": "d4b2bb15f9aa2ff05d8206720505e320e59c5db5ec71ce570a4169fd9d8984fb"
+  },
+  {
+    "id": "LUK.7.14",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 14,
+    "text": "And he came and touched the bier: and they that bare {him} stood still. And he said, Young man, I say unto thee, Arise. {bier: or, coffin}",
+    "hash": "82b77edcb89330ca1c3fb31c94558d9479e17de3d39066afa5743f6f7f0f928f"
+  },
+  {
+    "id": "LUK.7.15",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 15,
+    "text": "And he that was dead sat up, and began to speak. And he delivered him to his mother.",
+    "hash": "6fdd9cc8b44a5d3b82a493a30396c6ccd61eff861dd26f0a779d7d2b71fd1419"
+  },
+  {
+    "id": "LUK.7.16",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 16,
+    "text": "And there came a fear on all: and they glorified God, saying, That a great prophet is risen up among us; and, That God hath visited his people.",
+    "hash": "d7ef9bb0af3426ad8aad40de54ac08b45b5c823d1c670f72f5c7248505c0f46c"
+  },
+  {
+    "id": "LUK.7.17",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 17,
+    "text": "And this rumour of him went forth throughout all Judaea, and throughout all the region round about.",
+    "hash": "fc612e4beb6567af49d5b7d816aa7cec229b42febb76b7109e881a2c9fbe2efb"
+  },
+  {
+    "id": "LUK.7.18",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 18,
+    "text": "And the disciples of John shewed him of all these things.",
+    "hash": "bcaff50a7aaa3234e35f99beea63028566769a60e3508a8d348f4ff54091497b"
+  },
+  {
+    "id": "LUK.7.19",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 19,
+    "text": "And John calling {unto him} two of his disciples sent {them} to Jesus, saying, Art thou he that should come? or look we for another?",
+    "hash": "788241e21a67427d961e1b1131c28f33f1ca87931c10e7dd75a3a7610446a2dd"
+  },
+  {
+    "id": "LUK.7.20",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 20,
+    "text": "When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?",
+    "hash": "f05124d698da0c39fea4b2eb3e2122947ad66181f41031e726b9de0dd54ea945"
+  },
+  {
+    "id": "LUK.7.21",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 21,
+    "text": "And in that same hour he cured many of {their} infirmities and plagues, and of evil spirits; and unto many {that were} blind he gave sight.",
+    "hash": "b342757949ad06fa200e2894ce3b9435cf61bea16ef64a8344cefc5cdff46b04"
+  },
+  {
+    "id": "LUK.7.22",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 22,
+    "text": "Then Jesus answering said unto them, Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached.",
+    "hash": "476b2049859b01d17b4bf1198565fe18e14f017b65e0059b0c68767ebdd6eaf3"
+  },
+  {
+    "id": "LUK.7.23",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 23,
+    "text": "And blessed is {he}, whosoever shall not be offended in me.",
+    "hash": "883eed484670f55fe9667320f9b2af1eaf7fe6f0c75eb1c3fa21a1cba03e738c"
+  },
+  {
+    "id": "LUK.7.24",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 24,
+    "text": "And when the messengers of John were departed, he began to speak unto the people concerning John, What went ye out into the wilderness for to see? A reed shaken with the wind?",
+    "hash": "6b1238b86e49e2855c0f4c8af3f2e20fb5c75427fa5a3cb5075bca4c427bb6b5"
+  },
+  {
+    "id": "LUK.7.25",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 25,
+    "text": "But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gorgeously apparelled, and live delicately, are in kings' courts.",
+    "hash": "684d21b5dfc385c2705908fc069f8131129a22b4d09af18634d18a8e908b9f78"
+  },
+  {
+    "id": "LUK.7.26",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 26,
+    "text": "But what went ye out for to see? A prophet? Yea, I say unto you, and much more than a prophet.",
+    "hash": "72c49bcd547f9c94778f84bbc42919189ef2a53e4acad0db10e64194abbd6ddd"
+  },
+  {
+    "id": "LUK.7.27",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 27,
+    "text": "This is {he}, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.",
+    "hash": "19b6c05c414957eff85ad1afe3224b8d55994be44868ff14dcebba68ce8e271c"
+  },
+  {
+    "id": "LUK.7.28",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 28,
+    "text": "For I say unto you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he.",
+    "hash": "ef107368deb2da3e0bb1dd1f95e3f19c1ac063f67f00e2bc9fdcc6ff22b09af5"
+  },
+  {
+    "id": "LUK.7.29",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 29,
+    "text": "And all the people that heard {him}, and the publicans, justified God, being baptized with the baptism of John.",
+    "hash": "723ae637eca1df41a71af320db505a790e3079d851594684dd5da9cd921c83d4"
+  },
+  {
+    "id": "LUK.7.30",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 30,
+    "text": "But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him. {rejected: or, frustrated} {against...: or, within themselves}",
+    "hash": "2ac67b54c6090b1237ac515e0cab9bfe2187a6e4bc1e67adbe4c5eb4e1858db9"
+  },
+  {
+    "id": "LUK.7.31",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 31,
+    "text": "And the Lord said, Whereunto then shall I liken the men of this generation? and to what are they like?",
+    "hash": "70da8a19aefebb9c5e9f4285e89de2bbb079442adc513d82dda36601d95701c3"
+  },
+  {
+    "id": "LUK.7.32",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 32,
+    "text": "They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept.",
+    "hash": "c775369bd143b712e4faf1c4128cf2fee27a7168d79f4527495d61cd4a09c529"
+  },
+  {
+    "id": "LUK.7.33",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 33,
+    "text": "For John the Baptist came neither eating bread nor drinking wine; and ye say, He hath a devil.",
+    "hash": "b202e29aa24b6eca45cade76d499402f4e2584a52f61dbb518804c7368280b50"
+  },
+  {
+    "id": "LUK.7.34",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 34,
+    "text": "The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!",
+    "hash": "ec257c2b417547e340d9ec0bf7ef3aef113c11e27b8b5ee97acbf4e564cb774d"
+  },
+  {
+    "id": "LUK.7.35",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 35,
+    "text": "But wisdom is justified of all her children.",
+    "hash": "3dae5150854995c5e8bc7bae0d8a11169e2d882a980be6a0b206a51ac801a1b0"
+  },
+  {
+    "id": "LUK.7.36",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 36,
+    "text": "And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee's house, and sat down to meat.",
+    "hash": "c397df43a3654e533fffe5b2bac4c405b88f7c2351013d2568bab79f6967a531"
+  },
+  {
+    "id": "LUK.7.37",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 37,
+    "text": "And, behold, a woman in the city, which was a sinner, when she knew that {Jesus} sat at meat in the Pharisee's house, brought an alabaster box of ointment,",
+    "hash": "9bec951134d7f3f8a46b70decd672f449fc07adaf2d1535eb5833d79939cb429"
+  },
+  {
+    "id": "LUK.7.38",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 38,
+    "text": "And stood at his feet behind {him} weeping, and began to wash his feet with tears, and did wipe {them} with the hairs of her head, and kissed his feet, and anointed {them} with the ointment.",
+    "hash": "2d0560e40d60e568718314eb4ccd7323ae4ae70d21669a53c5fe7657278def0a"
+  },
+  {
+    "id": "LUK.7.39",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 39,
+    "text": "Now when the Pharisee which had bidden him saw {it}, he spake within himself, saying, This man, if he were a prophet, would have known who and what manner of woman {this is} that toucheth him: for she is a sinner.",
+    "hash": "93598939ee1b3ea14171e17508854edf9e154932d7fc32b847e50555bcf34ab2"
+  },
+  {
+    "id": "LUK.7.40",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 40,
+    "text": "And Jesus answering said unto him, Simon, I have somewhat to say unto thee. And he saith, Master, say on.",
+    "hash": "ba22077c95b6ae58649834881e79e00699c2adf471ca637e42abb8f7787e8ab3"
+  },
+  {
+    "id": "LUK.7.41",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 41,
+    "text": "There was a certain creditor which had two debtors: the one owed five hundred pence, and the other fifty.",
+    "hash": "901b6fa7d32a70d55e43d71561b59b63506a8869a371810127a2ea68d6fa973c"
+  },
+  {
+    "id": "LUK.7.42",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 42,
+    "text": "And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?",
+    "hash": "40355ecf4d2810e19f322d4a1f70b67e70970d2d841cbbdd82b31a3591f89385"
+  },
+  {
+    "id": "LUK.7.43",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 43,
+    "text": "Simon answered and said, I suppose that {he}, to whom he forgave most. And he said unto him, Thou hast rightly judged.",
+    "hash": "5020076e1d3be5f2b282562e3b31025f18dc7b6d2fab39b0fc08648bf5f97f22"
+  },
+  {
+    "id": "LUK.7.44",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 44,
+    "text": "And he turned to the woman, and said unto Simon, Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped {them} with the hairs of her head.",
+    "hash": "642af3515858734e94f6391a27969cd6470c09a94dd1a71274c0c0e4b6a3fbdb"
+  },
+  {
+    "id": "LUK.7.45",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 45,
+    "text": "Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet.",
+    "hash": "87d439c660f3165ca33ab3b9947a86074c1e69aea2b6ff424ccc121b99eb2cfa"
+  },
+  {
+    "id": "LUK.7.46",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 46,
+    "text": "My head with oil thou didst not anoint: but this woman hath anointed my feet with ointment.",
+    "hash": "2e092a15174cd8940dc410dd790a76adfcd89e2320a82cbbde1face5ee5519b0"
+  },
+  {
+    "id": "LUK.7.47",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 47,
+    "text": "Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, {the same} loveth little.",
+    "hash": "954c1b1f9ae73559e95a60e322899188d8b247131c3ff354d487d01c4ca6326d"
+  },
+  {
+    "id": "LUK.7.48",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 48,
+    "text": "And he said unto her, Thy sins are forgiven.",
+    "hash": "96d53baa25d1900f3e14012772fbfe4e109cfabdbbf2e2eed94a8d27b0244d1a"
+  },
+  {
+    "id": "LUK.7.49",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 49,
+    "text": "And they that sat at meat with him began to say within themselves, Who is this that forgiveth sins also?",
+    "hash": "bc0bc586ef34e72d337272df2f27cb7d3e0e6e9239b9567d9427d6b594a30bbd"
+  },
+  {
+    "id": "LUK.7.50",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 7,
+    "verse": 50,
+    "text": "And he said to the woman, Thy faith hath saved thee; go in peace.",
+    "hash": "153aff594c5af9728a08f43846992a2697ff3fcb734ef0936c5895d405f33ec1"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "PSA.125.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 125,
+    "verse": 1,
+    "text": "[A Song of degrees.] They that trust in the LORD {shall be} as mount Zion, {which} cannot be removed, {but} abideth for ever.",
+    "hash": "767e34a196b249912f28f78f6e1ea57bb5153471086b779b2e080a14bdcd2c93"
+  },
+  {
+    "id": "PSA.125.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 125,
+    "verse": 2,
+    "text": "As the mountains {are} round about Jerusalem, so the LORD {is} round about his people from henceforth even for ever.",
+    "hash": "4cf9830b327b2af3e0a86e5eb6c42a85fb4e21c905a76410db2302af40b48ee1"
+  },
+  {
+    "id": "PSA.125.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 125,
+    "verse": 3,
+    "text": "For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity. {the wicked: Heb. wickedness}",
+    "hash": "6825b5a10a74a0f63aca044b0a80c00dbca97c29e6b3a809ca9e667db764c25b"
+  },
+  {
+    "id": "PSA.125.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 125,
+    "verse": 4,
+    "text": "Do good, O LORD, unto {those that be} good, and {to them that are} upright in their hearts.",
+    "hash": "982c2812f718a9549f4a9a65f506eeb060c2d8aac188759683d8ccf94f36085d"
+  },
+  {
+    "id": "PSA.125.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 125,
+    "verse": 5,
+    "text": "As for such as turn aside unto their crooked ways, the LORD shall lead them forth with the workers of iniquity: {but} peace {shall be} upon Israel.",
+    "hash": "47b1d0279b4568b65855b3bb3f78b0e614f25be4fab84edac9baa1020f09d1b5"
+  }
+]

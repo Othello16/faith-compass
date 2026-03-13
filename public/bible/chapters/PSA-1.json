@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PSA.1.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 1,
+    "verse": 1,
+    "text": "Blessed {is} the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. {ungodly: or, wicked}",
+    "hash": "4a5e1e45415bb603e605f95f4baa401e772798ca19912a4b24172ee6425e5c08"
+  },
+  {
+    "id": "PSA.1.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 1,
+    "verse": 2,
+    "text": "But his delight {is} in the law of the LORD; and in his law doth he meditate day and night.",
+    "hash": "afccb54bfe3690ce7fbe544585bda06ae32dc025f65aa0a82b290f8fac446cbc"
+  },
+  {
+    "id": "PSA.1.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 1,
+    "verse": 3,
+    "text": "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper. {wither: Heb. fade}",
+    "hash": "ee900b43977724843e0efbfcf362378f00321012fa697e93faff5d197481bc03"
+  },
+  {
+    "id": "PSA.1.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 1,
+    "verse": 4,
+    "text": "The ungodly {are} not so: but {are} like the chaff which the wind driveth away.",
+    "hash": "2439f071e8a0ff148b3d74219388298c6419e1168d51603565258fa4a577169d"
+  },
+  {
+    "id": "PSA.1.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 1,
+    "verse": 5,
+    "text": "Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.",
+    "hash": "031c91df06563aa27b51fb46e1ad1499bab71dba703461967a393b5d2b3296d9"
+  },
+  {
+    "id": "PSA.1.6",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 1,
+    "verse": 6,
+    "text": "For the LORD knoweth the way of the righteous: but the way of the ungodly shall perish.",
+    "hash": "a720109cc5e5a3eea0fc138547bb1775de7220c38760a483ee1f81e79651c155"
+  }
+]

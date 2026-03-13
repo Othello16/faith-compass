@@ -1,0 +1,252 @@
+[
+  {
+    "id": "MAT.1.1",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 1,
+    "text": "The book of the generation of Jesus Christ, the son of David, the son of Abraham.",
+    "hash": "91e02045144df3aa9bdfe3c0ba93ddbbb90954b13d11fda348fbe536d5d91556"
+  },
+  {
+    "id": "MAT.1.2",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 2,
+    "text": "Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;",
+    "hash": "2cb868b9c24d690c425af2db505b2d8e925cb548241923b1b1c2ead660567dcf"
+  },
+  {
+    "id": "MAT.1.3",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 3,
+    "text": "And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;",
+    "hash": "af7f9c9e51547b0ea59a2c089b7e25c5dd6a74cd7ff52b5a6277bf51ff9a7a53"
+  },
+  {
+    "id": "MAT.1.4",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 4,
+    "text": "And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;",
+    "hash": "f5d09b734af00d03cc73b17f246825b6b8972b7148784d9e467f5add8d304287"
+  },
+  {
+    "id": "MAT.1.5",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 5,
+    "text": "And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;",
+    "hash": "c8728801c3010ff557e774fbffe20e1d59843cc9bdabdc80d1aeb1ebafd906df"
+  },
+  {
+    "id": "MAT.1.6",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 6,
+    "text": "And Jesse begat David the king; and David the king begat Solomon of her {that had been the wife} of Urias;",
+    "hash": "f3570eda67ab8a6278bcdd584cbf6045bce0322d694284dd70f3d08c69446943"
+  },
+  {
+    "id": "MAT.1.7",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 7,
+    "text": "And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;",
+    "hash": "79ca272f9614308ffd6955978da964509337e76ba607e8154436c40997b8deb6"
+  },
+  {
+    "id": "MAT.1.8",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 8,
+    "text": "And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;",
+    "hash": "befc7d2ea14f78d8345187b92a1119162793e2cee040d5bff8dcd9f90bd886c5"
+  },
+  {
+    "id": "MAT.1.9",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 9,
+    "text": "And Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias;",
+    "hash": "c7c3f473cfd9bacbfaadf44bf46474e3004395aac3feeaf1ea336ab2274ca0c5"
+  },
+  {
+    "id": "MAT.1.10",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 10,
+    "text": "And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;",
+    "hash": "83f01a053246f1e404e184b07927a246f242f095aedb11e6c6710180dafca664"
+  },
+  {
+    "id": "MAT.1.11",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 11,
+    "text": "And Josias begat Jechonias and his brethren, about the time they were carried away to Babylon: {Josias...: some read, Josias begat Jakim, and Jakim begat Jechonias}",
+    "hash": "e58682674a6da5549030b8ce1469268ba92a3242fddd74083f360bb148f13f4e"
+  },
+  {
+    "id": "MAT.1.12",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 12,
+    "text": "And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel;",
+    "hash": "f12eeab988f2a29836f6c60242866b279e7a9d70f4caede36317a8024dd55c0a"
+  },
+  {
+    "id": "MAT.1.13",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 13,
+    "text": "And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;",
+    "hash": "5d905b77eb2bac7be0467ced270a74d91653f4e5627a4eae802da92b1d4fcbd1"
+  },
+  {
+    "id": "MAT.1.14",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 14,
+    "text": "And Azor begat Sadoc; and Sadoc begat Achim; and Achim begat Eliud;",
+    "hash": "cfc56fc5648572128b94406d3aec5edfc1a5273ebc2502b30210ad998b82992b"
+  },
+  {
+    "id": "MAT.1.15",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 15,
+    "text": "And Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob;",
+    "hash": "3a83e29b432cbe4879982f237cd6190d43532bbcfe4233387c53251dfc9408ac"
+  },
+  {
+    "id": "MAT.1.16",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 16,
+    "text": "And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ.",
+    "hash": "f8afb3764c7604f266060d8e737f18e6dcecd80621733a9fb9ccbff009b3503f"
+  },
+  {
+    "id": "MAT.1.17",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 17,
+    "text": "So all the generations from Abraham to David {are} fourteen generations; and from David until the carrying away into Babylon {are} fourteen generations; and from the carrying away into Babylon unto Christ {are} fourteen generations.",
+    "hash": "7854a7ac42f0950d26c295970668e74aa50d079ff3e196a201bbad8a4734da3e"
+  },
+  {
+    "id": "MAT.1.18",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 18,
+    "text": "Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.",
+    "hash": "dcc88af54b526ba921a34c80e4131eb3ffdedd41bcab8597efc4658e231c3f9e"
+  },
+  {
+    "id": "MAT.1.19",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 19,
+    "text": "Then Joseph her husband, being a just {man}, and not willing to make her a publick example, was minded to put her away privily.",
+    "hash": "b9a6895770693f162889198a7877c72ac82c0e3a27281c813164ab3ab2313efd"
+  },
+  {
+    "id": "MAT.1.20",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 20,
+    "text": "But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost. {conceived: Gr. begotten}",
+    "hash": "a40eeed561e50c9ecbf33bd19c307816b1284c4dfcb5ceadb53cdf2bd4f9f81e"
+  },
+  {
+    "id": "MAT.1.21",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 21,
+    "text": "And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins. {JESUS: that is, Saviour, Heb}",
+    "hash": "8424e849e8533a3dc2eaa3f48009e9dd1e1b0d966afaf2b40290addc79e6c156"
+  },
+  {
+    "id": "MAT.1.22",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 22,
+    "text": "Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,",
+    "hash": "74aa2ea05b2c5e87d1b23fb157f38e85257b240fb9361d58e475a3b39f3fa200"
+  },
+  {
+    "id": "MAT.1.23",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 23,
+    "text": "Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us. {they...: or, his name shall be called}",
+    "hash": "78dc6f2e6556b94dfa45088f6bf960ea7b59fc7c0fc8200f4ce5143a440c684a"
+  },
+  {
+    "id": "MAT.1.24",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 24,
+    "text": "Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took unto him his wife:",
+    "hash": "7e78cadc383742b98764bc64aab15d0c25f558c9dce18ddecc93707847e656cb"
+  },
+  {
+    "id": "MAT.1.25",
+    "book": "Matthew",
+    "bookNum": 40,
+    "bookAbbrev": "MAT",
+    "chapter": 1,
+    "verse": 25,
+    "text": "And knew her not till she had brought forth her firstborn son: and he called his name JESUS.",
+    "hash": "d00a85354956ed75583ea2798c01e70988739a9dc3fd8fa9e0a9ff1855252058"
+  }
+]

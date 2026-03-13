@@ -1,0 +1,382 @@
+[
+  {
+    "id": "LUK.21.1",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 1,
+    "text": "And he looked up, and saw the rich men casting their gifts into the treasury.",
+    "hash": "ad09b5b709d58c2037079d263a7e0e38f07ef157f2630187410709f793b0d436"
+  },
+  {
+    "id": "LUK.21.2",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 2,
+    "text": "And he saw also a certain poor widow casting in thither two mites.",
+    "hash": "8d5ceb3d362cef2832267b4288d6c1af5ae08ad153f8e7eec3d326ff65873da1"
+  },
+  {
+    "id": "LUK.21.3",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 3,
+    "text": "And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all:",
+    "hash": "7ad5812d189b53505bc5ebcee67ce787997495c08c13b0ebf879204df69a02ab"
+  },
+  {
+    "id": "LUK.21.4",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 4,
+    "text": "For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had.",
+    "hash": "511f7d4e55cbe6ab17ac98d5fb4859a8ad15278b1dc36821f4371ee574a6ed95"
+  },
+  {
+    "id": "LUK.21.5",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 5,
+    "text": "And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,",
+    "hash": "ed3243f253ea93390cc709e66d1d0f2df40da42adb329d553403e40efefca322"
+  },
+  {
+    "id": "LUK.21.6",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 6,
+    "text": "{As for} these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down.",
+    "hash": "4ffd5d79467adbd4b24e45086d9341ce669068bae36e1d06b3b9ded0ce717fdd"
+  },
+  {
+    "id": "LUK.21.7",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 7,
+    "text": "And they asked him, saying, Master, but when shall these things be? and what sign {will there be} when these things shall come to pass?",
+    "hash": "e499bc8a2a1016c2df380f5efe03cb20297b60d59b2e69910656fe216676ab92"
+  },
+  {
+    "id": "LUK.21.8",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 8,
+    "text": "And he said, Take heed that ye be not deceived: for many shall come in my name, saying, I am {Christ}; and the time draweth near: go ye not therefore after them. {and the time: or, and, The time}",
+    "hash": "a1a7a495276fe93c96d5d2c8b24643422552b64eb58637eebac3881d56eb084d"
+  },
+  {
+    "id": "LUK.21.9",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 9,
+    "text": "But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end {is} not by and by.",
+    "hash": "1e5440325db18ba739a6374ef456062e2d4ffe42fe4f1cbcfbadc8385d9c0dd0"
+  },
+  {
+    "id": "LUK.21.10",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 10,
+    "text": "Then said he unto them, Nation shall rise against nation, and kingdom against kingdom:",
+    "hash": "32fb32614334284b58ed17f4870bd4de51cbcb5e6235fab730a8910dbb0b55ef"
+  },
+  {
+    "id": "LUK.21.11",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 11,
+    "text": "And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.",
+    "hash": "5748d44ef336a2a352ded296f55b7157c80e182adde35d97f702a4178a3c5a61"
+  },
+  {
+    "id": "LUK.21.12",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 12,
+    "text": "But before all these, they shall lay their hands on you, and persecute {you}, delivering {you} up to the synagogues, and into prisons, being brought before kings and rulers for my name's sake.",
+    "hash": "6700fe54d78d6c6edcb6ae0f8c067f1b412ab0cd6b161925a796b0f0c7f859e3"
+  },
+  {
+    "id": "LUK.21.13",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 13,
+    "text": "And it shall turn to you for a testimony.",
+    "hash": "eee0a366511ba0f06f8318479478f10068b3160e52316628d5f020b9fa0a302b"
+  },
+  {
+    "id": "LUK.21.14",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 14,
+    "text": "Settle {it} therefore in your hearts, not to meditate before what ye shall answer:",
+    "hash": "25421589140f2de184d6552169af836cdb69f73e3dd314beea3e1bc981bc55c9"
+  },
+  {
+    "id": "LUK.21.15",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 15,
+    "text": "For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.",
+    "hash": "e7a2573a98aaf27dce26f976598570cb00126d07dcc29d897aa82f5e98e04057"
+  },
+  {
+    "id": "LUK.21.16",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 16,
+    "text": "And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and {some} of you shall they cause to be put to death.",
+    "hash": "384db357b679d7d1e19f6ef0af435c3b1dc508bbd1b8d3915dc45c582235b6fd"
+  },
+  {
+    "id": "LUK.21.17",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 17,
+    "text": "And ye shall be hated of all {men} for my name's sake.",
+    "hash": "8dcd13f878e4eee57dfb735c51590f9c3c6fe6b914c07b383cb54c8eb8253bc2"
+  },
+  {
+    "id": "LUK.21.18",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 18,
+    "text": "But there shall not an hair of your head perish.",
+    "hash": "431b1246d4be2460ef86827437eeb043fc02a1507d26cb4d5d745c0dcb095819"
+  },
+  {
+    "id": "LUK.21.19",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 19,
+    "text": "In your patience possess ye your souls.",
+    "hash": "220505505e11974c4892a69bd82a617a5b36e1d1bd5037330994c53ad3be962e"
+  },
+  {
+    "id": "LUK.21.20",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 20,
+    "text": "And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.",
+    "hash": "159a3e962f113be1c427ba522d4411c800a3a70a60af6755973f57b24c7e3ae8"
+  },
+  {
+    "id": "LUK.21.21",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 21,
+    "text": "Then let them which are in Judaea flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto.",
+    "hash": "c0374f1ce1e9ea7a1ad215bb7542d233643efc5b44e2c0f380ce12d4f0682123"
+  },
+  {
+    "id": "LUK.21.22",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 22,
+    "text": "For these be the days of vengeance, that all things which are written may be fulfilled.",
+    "hash": "0b89b4341abecdadc87694680d1120b6bd0d9e2508099c80e4c1f028511474a3"
+  },
+  {
+    "id": "LUK.21.23",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 23,
+    "text": "But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people.",
+    "hash": "c8673038f46585aa1ef1b80a98f09bf78e13fb95caa9d62b021f06d9e19586e9"
+  },
+  {
+    "id": "LUK.21.24",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 24,
+    "text": "And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.",
+    "hash": "9f90c1c83b1e39a2316de35d589b47118f66d9c3fb07b0fc036d28596e39c706"
+  },
+  {
+    "id": "LUK.21.25",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 25,
+    "text": "And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;",
+    "hash": "30640a74acd500451d4fcbf204452f6a7451d7f757acf7cb53c8c25aa1dfcb37"
+  },
+  {
+    "id": "LUK.21.26",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 26,
+    "text": "Men's hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.",
+    "hash": "00951a225b99f586b0f3ffe709a10a1b41d71d73994d2dab8bfab80a073a308a"
+  },
+  {
+    "id": "LUK.21.27",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 27,
+    "text": "And then shall they see the Son of man coming in a cloud with power and great glory.",
+    "hash": "3afdee91e8fb6bab22a9a20c8809a4b9a46c00a1bf41f168cc2a27e39dd9e156"
+  },
+  {
+    "id": "LUK.21.28",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 28,
+    "text": "And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh.",
+    "hash": "38b83ce780160eb6d025bd31feea7503710f1857ec37b76551aa9541b977d6e1"
+  },
+  {
+    "id": "LUK.21.29",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 29,
+    "text": "And he spake to them a parable; Behold the fig tree, and all the trees;",
+    "hash": "6faccd93ad7efd1b4f392bc3b50991675fec38151782f20132689fb15a9684cb"
+  },
+  {
+    "id": "LUK.21.30",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 30,
+    "text": "When they now shoot forth, ye see and know of your own selves that summer is now nigh at hand.",
+    "hash": "5ed7aff3d6dbb693683bc1070c0e3d6f66996a2f60303470ecf724d384f4973f"
+  },
+  {
+    "id": "LUK.21.31",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 31,
+    "text": "So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is nigh at hand.",
+    "hash": "832ba983224431925227b6d6891878ac54c965f04eaf91d73bafbfb3ecdc0489"
+  },
+  {
+    "id": "LUK.21.32",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 32,
+    "text": "Verily I say unto you, This generation shall not pass away, till all be fulfilled.",
+    "hash": "1c30adea2ac2a635cdd10189bb2434be012aa11ce25cc2a8550613c3b3f3a034"
+  },
+  {
+    "id": "LUK.21.33",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 33,
+    "text": "Heaven and earth shall pass away: but my words shall not pass away.",
+    "hash": "7969223aa0e94b08bfae28c71cd5d0473c62f07390fd5dadb71d25d150da2206"
+  },
+  {
+    "id": "LUK.21.34",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 34,
+    "text": "And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and {so} that day come upon you unawares.",
+    "hash": "fe47f1b0e2c6fdd58365017088b46925c4e8380b3c2457ed605055c3cf5c1a86"
+  },
+  {
+    "id": "LUK.21.35",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 35,
+    "text": "For as a snare shall it come on all them that dwell on the face of the whole earth.",
+    "hash": "5e007ee18fc42a0858eb104544017b72f62b093d7b6027e638b7fdeb3f150bd2"
+  },
+  {
+    "id": "LUK.21.36",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 36,
+    "text": "Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.",
+    "hash": "48a3914a4a89e438ceca82c2085384e667f68ac5605a6ae0bfb346826a3a9540"
+  },
+  {
+    "id": "LUK.21.37",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 37,
+    "text": "And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called {the mount} of Olives.",
+    "hash": "57c7e580b1fd4f37af32c9eecf35ccfb9b7123ae0396236fa13b9e4401a510d6"
+  },
+  {
+    "id": "LUK.21.38",
+    "book": "Luke",
+    "bookNum": 42,
+    "bookAbbrev": "LUK",
+    "chapter": 21,
+    "verse": 38,
+    "text": "And all the people came early in the morning to him in the temple, for to hear him.",
+    "hash": "223f027ea5bb97cab6efc2c71658890d40d3b2dd972f92a73c08045e760422e7"
+  }
+]

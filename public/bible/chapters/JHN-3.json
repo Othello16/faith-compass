@@ -1,0 +1,362 @@
+[
+  {
+    "id": "JHN.3.1",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 1,
+    "text": "There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:",
+    "hash": "ab28f706c214ac231c9d5ce73939a3832060350fa33345e55b5245a3a05b757f"
+  },
+  {
+    "id": "JHN.3.2",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 2,
+    "text": "The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.",
+    "hash": "cf5ea331054f6d02f5d953e980a1e9c9f4b7be37a4aaca4b393aa42c2d0e325d"
+  },
+  {
+    "id": "JHN.3.3",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 3,
+    "text": "Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God. {again: or, from above}",
+    "hash": "03884a290d3925a2e4482bae9543bfe5b265acfd418653d8febf4c4c1e1f5586"
+  },
+  {
+    "id": "JHN.3.4",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 4,
+    "text": "Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother's womb, and be born?",
+    "hash": "4bc0489a9e5eb90880331b91aa5c921ba24b1383632b116137336176b97828dd"
+  },
+  {
+    "id": "JHN.3.5",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 5,
+    "text": "Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and {of} the Spirit, he cannot enter into the kingdom of God.",
+    "hash": "2ef5df53f1025945e5f03fa5eaaeb0c8d1970e384e8bb0d020a6fcc18630a9dc"
+  },
+  {
+    "id": "JHN.3.6",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 6,
+    "text": "That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.",
+    "hash": "a473413f2d34a30b647e28f8daaff7d3cb78f2aa4a98a62bd86c9239fa179f4f"
+  },
+  {
+    "id": "JHN.3.7",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 7,
+    "text": "Marvel not that I said unto thee, Ye must be born again. {again: or, from above}",
+    "hash": "3f8bd74f009c025c722df52c233cce9d65bb75f9253e927debb7cac53634f2e2"
+  },
+  {
+    "id": "JHN.3.8",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 8,
+    "text": "The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.",
+    "hash": "3e8fcd6e8b8b681d3b456f98172fc1382e08840e8cface9326089f727194d839"
+  },
+  {
+    "id": "JHN.3.9",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 9,
+    "text": "Nicodemus answered and said unto him, How can these things be?",
+    "hash": "b83fae99c7df7195005ff6ba485660c8db745ab6efd798dc9cd17cddc76b6a46"
+  },
+  {
+    "id": "JHN.3.10",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 10,
+    "text": "Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things?",
+    "hash": "b48371ccd6af8e7592028993267b2ab3c0aa1f1b5ccfbe343f314f029cd5f8f5"
+  },
+  {
+    "id": "JHN.3.11",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 11,
+    "text": "Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.",
+    "hash": "e760a03e380215b653f987e1094d4c90a83fbc0a1d4bd3f20473db59dbcc51f0"
+  },
+  {
+    "id": "JHN.3.12",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 12,
+    "text": "If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you {of} heavenly things?",
+    "hash": "31d8b99e7f55a58844f8ed9269cbfdde248961b6b9104d388749cc07918390ad"
+  },
+  {
+    "id": "JHN.3.13",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 13,
+    "text": "And no man hath ascended up to heaven, but he that came down from heaven, {even} the Son of man which is in heaven.",
+    "hash": "4049520145953cc7f186250f28698c435d382ea6648c9b16f3be80554f2e319b"
+  },
+  {
+    "id": "JHN.3.14",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 14,
+    "text": "And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:",
+    "hash": "0f407e892c7778c3110e3d57c6d176ab8bceb05aef10553e1dd41ca6ebd9363a"
+  },
+  {
+    "id": "JHN.3.15",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 15,
+    "text": "That whosoever believeth in him should not perish, but have eternal life.",
+    "hash": "f92ca8a451801be210e45fd7b14f99ad8c94924b9e4230473727ad0214bec592"
+  },
+  {
+    "id": "JHN.3.16",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 16,
+    "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+    "hash": "8473c0b1c7664945528317faf77351258eb79f8b11ba821ef76d7e916cde711a"
+  },
+  {
+    "id": "JHN.3.17",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 17,
+    "text": "For God sent not his Son into the world to condemn the world; but that the world through him might be saved.",
+    "hash": "03bf838e1342b34142860379d66eed2902f2b886f293caa966d187fefd4ea689"
+  },
+  {
+    "id": "JHN.3.18",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 18,
+    "text": "He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.",
+    "hash": "c0dfd9b8cb7906d5516d25503d329bbd81137c04032f70ca7ed2e96409245287"
+  },
+  {
+    "id": "JHN.3.19",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 19,
+    "text": "And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.",
+    "hash": "adabd0a23ac6b99c1876ad60098027acf9248e23c9b899a96ed6144dbf4c1ce6"
+  },
+  {
+    "id": "JHN.3.20",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 20,
+    "text": "For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved. {reproved: or, discovered}",
+    "hash": "e9e6d417244e0ecdf96b8d2885b87839072aa7489cfaabb00f246161fc970742"
+  },
+  {
+    "id": "JHN.3.21",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 21,
+    "text": "But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.",
+    "hash": "bf6d6738dc64ef391fe3b3942bb530c64eef2675b7ecc2ac41cffb1f68e41093"
+  },
+  {
+    "id": "JHN.3.22",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 22,
+    "text": "After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.",
+    "hash": "7b592036b0acca2e3611a3f3ef32b0c344d5d31c060b6fdbfd2609e635dd469b"
+  },
+  {
+    "id": "JHN.3.23",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 23,
+    "text": "And John also was baptizing in Aenon near to Salim, because there was much water there: and they came, and were baptized.",
+    "hash": "0c7d62d8e7a3f36b17f349dd0a6872b9ea97f2e4e61ca748fb6833b85831009f"
+  },
+  {
+    "id": "JHN.3.24",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 24,
+    "text": "For John was not yet cast into prison.",
+    "hash": "1216b71e6e4e06c5d0b8b606d27cce4d84f90b3f1cabee95c4912e554a019b39"
+  },
+  {
+    "id": "JHN.3.25",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 25,
+    "text": "Then there arose a question between {some} of John's disciples and the Jews about purifying.",
+    "hash": "8c0e5c0f6cdaec52ddc0398622816b5c7693b71f3b143fa30ff3052fad0fac74"
+  },
+  {
+    "id": "JHN.3.26",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 26,
+    "text": "And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all {men} come to him.",
+    "hash": "59553edb24fc4c95b84130846e1640553743b2ef3f22387665ba702307ca7339"
+  },
+  {
+    "id": "JHN.3.27",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 27,
+    "text": "John answered and said, A man can receive nothing, except it be given him from heaven. {receive: or, take unto himself}",
+    "hash": "e7a8dcd711ca3e6e9e5950537632ec18cbfc53afbaa5c61e500c71fa7ceb8a1e"
+  },
+  {
+    "id": "JHN.3.28",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 28,
+    "text": "Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.",
+    "hash": "2eb7c9038718ae94d887ddfee3e59d29953158152ade21400a2e8d7f71b3628e"
+  },
+  {
+    "id": "JHN.3.29",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 29,
+    "text": "He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom's voice: this my joy therefore is fulfilled.",
+    "hash": "c1c4612834cc6d09d86538810d8aa6847f1cfd1d2d85cb24d3b9599fadc7c2b6"
+  },
+  {
+    "id": "JHN.3.30",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 30,
+    "text": "He must increase, but I {must} decrease.",
+    "hash": "a6613b003974be7f109434b3431b5b50586b30f9b2bd613c2021cfc6fb04abc1"
+  },
+  {
+    "id": "JHN.3.31",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 31,
+    "text": "He that cometh from above is above all: he that is of the earth is earthly, and speaketh of the earth: he that cometh from heaven is above all.",
+    "hash": "4c991cbb85c30f7cc0bedfff47ab6a49e804f9f803e3c8a1773531259b24ae47"
+  },
+  {
+    "id": "JHN.3.32",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 32,
+    "text": "And what he hath seen and heard, that he testifieth; and no man receiveth his testimony.",
+    "hash": "951f08730282e163643e2d3a606b83860a9cf93fc4800a1ff8ca8946756f68ab"
+  },
+  {
+    "id": "JHN.3.33",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 33,
+    "text": "He that hath received his testimony hath set to his seal that God is true.",
+    "hash": "b744939c8d775816e9842942bf211a32ade7ab68f835bd472e0b5524ab75723b"
+  },
+  {
+    "id": "JHN.3.34",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 34,
+    "text": "For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure {unto him}.",
+    "hash": "102b03a45adce8fdd5820b2a61145b721bb363dd9bdd7c2af1107d6ea87b3257"
+  },
+  {
+    "id": "JHN.3.35",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 35,
+    "text": "The Father loveth the Son, and hath given all things into his hand.",
+    "hash": "d4f678aa700c0df238dc4735142e29f748890c9ec4a00818bb35a6b9013fd673"
+  },
+  {
+    "id": "JHN.3.36",
+    "book": "John",
+    "bookNum": 43,
+    "bookAbbrev": "JHN",
+    "chapter": 3,
+    "verse": 36,
+    "text": "He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.",
+    "hash": "421d67bfdb990773e1c4624569cac937890d152880f5ecb17fac3eb03e1728d1"
+  }
+]

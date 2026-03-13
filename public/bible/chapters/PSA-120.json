@@ -1,0 +1,72 @@
+[
+  {
+    "id": "PSA.120.1",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 120,
+    "verse": 1,
+    "text": "[A Song of degrees.] In my distress I cried unto the LORD, and he heard me.",
+    "hash": "ceb281dfc58aaaa4b25b93638fe44daed64d67e166cb6215c01379ff0c0d5f2b"
+  },
+  {
+    "id": "PSA.120.2",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 120,
+    "verse": 2,
+    "text": "Deliver my soul, O LORD, from lying lips, {and} from a deceitful tongue.",
+    "hash": "04a20f8aad28e3ed9a7d6ec4c4ebcaefa0e2556dbed3a9fc004640e188b3e9af"
+  },
+  {
+    "id": "PSA.120.3",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 120,
+    "verse": 3,
+    "text": "What shall be given unto thee? or what shall be done unto thee, thou false tongue? {What shall be given...: or, What shall the deceitful tongue give unto thee? or, what shall it profit thee?} {done: Heb. added}",
+    "hash": "825ce82813c0b16cde437a04a4ea9e7475924cab7cd17368215f72d6ca964b63"
+  },
+  {
+    "id": "PSA.120.4",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 120,
+    "verse": 4,
+    "text": "Sharp arrows of the mighty, with coals of juniper. {Sharp...: or, It is as the sharp arrows of the mighty man, with coals of juniper}",
+    "hash": "58ef68f7c4e120dc880ed1e8098c0098ee2246942a6bea8e0c2866652bc45891"
+  },
+  {
+    "id": "PSA.120.5",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 120,
+    "verse": 5,
+    "text": "Woe is me, that I sojourn in Mesech, {that} I dwell in the tents of Kedar!",
+    "hash": "a918d912c1bbca4c900dd6d10b259d472cba13444faf3f378cbc28306723eef8"
+  },
+  {
+    "id": "PSA.120.6",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 120,
+    "verse": 6,
+    "text": "My soul hath long dwelt with him that hateth peace.",
+    "hash": "c539cc315a9be35d2f21a1a9616dcfb50cd2d9655e47446058063fdac7e9965b"
+  },
+  {
+    "id": "PSA.120.7",
+    "book": "Psalms",
+    "bookNum": 19,
+    "bookAbbrev": "PSA",
+    "chapter": 120,
+    "verse": 7,
+    "text": "I {am for} peace: but when I speak, they {are} for war. {for peace: or, a man of peace}",
+    "hash": "4174a8e4459c6f5f53930b77808e7156fc9340c0e954fa85c27d0ece3dbd5b65"
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "bookNum": 1,
+    "name": "Genesis",
+    "abbrev": "GEN",
+    "slug": "genesis",
+    "chapters": 50
+  },
+  {
+    "bookNum": 2,
+    "name": "Exodus",
+    "abbrev": "EXO",
+    "slug": "exodus",
+    "chapters": 40
+  },
+  {
+    "bookNum": 3,
+    "name": "Leviticus",
+    "abbrev": "LEV",
+    "slug": "leviticus",
+    "chapters": 27
+  },
+  {
+    "bookNum": 4,
+    "name": "Numbers",
+    "abbrev": "NUM",
+    "slug": "numbers",
+    "chapters": 36
+  },
+  {
+    "bookNum": 5,
+    "name": "Deuteronomy",
+    "abbrev": "DEU",
+    "slug": "deuteronomy",
+    "chapters": 34
+  },
+  {
+    "bookNum": 6,
+    "name": "Joshua",
+    "abbrev": "JOS",
+    "slug": "joshua",
+    "chapters": 24
+  },
+  {
+    "bookNum": 7,
+    "name": "Judges",
+    "abbrev": "JDG",
+    "slug": "judges",
+    "chapters": 21
+  },
+  {
+    "bookNum": 8,
+    "name": "Ruth",
+    "abbrev": "RUT",
+    "slug": "ruth",
+    "chapters": 4
+  },
+  {
+    "bookNum": 9,
+    "name": "1 Samuel",
+    "abbrev": "1SA",
+    "slug": "1-samuel",
+    "chapters": 31
+  },
+  {
+    "bookNum": 10,
+    "name": "2 Samuel",
+    "abbrev": "2SA",
+    "slug": "2-samuel",
+    "chapters": 24
+  },
+  {
+    "bookNum": 11,
+    "name": "1 Kings",
+    "abbrev": "1KI",
+    "slug": "1-kings",
+    "chapters": 22
+  },
+  {
+    "bookNum": 12,
+    "name": "2 Kings",
+    "abbrev": "2KI",
+    "slug": "2-kings",
+    "chapters": 25
+  },
+  {
+    "bookNum": 13,
+    "name": "1 Chronicles",
+    "abbrev": "1CH",
+    "slug": "1-chronicles",
+    "chapters": 29
+  },
+  {
+    "bookNum": 14,
+    "name": "2 Chronicles",
+    "abbrev": "2CH",
+    "slug": "2-chronicles",
+    "chapters": 36
+  },
+  {
+    "bookNum": 15,
+    "name": "Ezra",
+    "abbrev": "EZR",
+    "slug": "ezra",
+    "chapters": 10
+  },
+  {
+    "bookNum": 16,
+    "name": "Nehemiah",
+    "abbrev": "NEH",
+    "slug": "nehemiah",
+    "chapters": 13
+  },
+  {
+    "bookNum": 17,
+    "name": "Esther",
+    "abbrev": "EST",
+    "slug": "esther",
+    "chapters": 10
+  },
+  {
+    "bookNum": 18,
+    "name": "Job",
+    "abbrev": "JOB",
+    "slug": "job",
+    "chapters": 42
+  },
+  {
+    "bookNum": 19,
+    "name": "Psalms",
+    "abbrev": "PSA",
+    "slug": "psalms",
+    "chapters": 150
+  },
+  {
+    "bookNum": 20,
+    "name": "Proverbs",
+    "abbrev": "PRO",
+    "slug": "proverbs",
+    "chapters": 31
+  },
+  {
+    "bookNum": 21,
+    "name": "Ecclesiastes",
+    "abbrev": "ECC",
+    "slug": "ecclesiastes",
+    "chapters": 12
+  },
+  {
+    "bookNum": 22,
+    "name": "Song of Solomon",
+    "abbrev": "SNG",
+    "slug": "song-of-solomon",
+    "chapters": 8
+  },
+  {
+    "bookNum": 23,
+    "name": "Isaiah",
+    "abbrev": "ISA",
+    "slug": "isaiah",
+    "chapters": 66
+  },
+  {
+    "bookNum": 24,
+    "name": "Jeremiah",
+    "abbrev": "JER",
+    "slug": "jeremiah",
+    "chapters": 52
+  },
+  {
+    "bookNum": 25,
+    "name": "Lamentations",
+    "abbrev": "LAM",
+    "slug": "lamentations",
+    "chapters": 5
+  },
+  {
+    "bookNum": 26,
+    "name": "Ezekiel",
+    "abbrev": "EZK",
+    "slug": "ezekiel",
+    "chapters": 48
+  },
+  {
+    "bookNum": 27,
+    "name": "Daniel",
+    "abbrev": "DAN",
+    "slug": "daniel",
+    "chapters": 12
+  },
+  {
+    "bookNum": 28,
+    "name": "Hosea",
+    "abbrev": "HOS",
+    "slug": "hosea",
+    "chapters": 14
+  },
+  {
+    "bookNum": 29,
+    "name": "Joel",
+    "abbrev": "JOL",
+    "slug": "joel",
+    "chapters": 3
+  },
+  {
+    "bookNum": 30,
+    "name": "Amos",
+    "abbrev": "AMO",
+    "slug": "amos",
+    "chapters": 9
+  },
+  {
+    "bookNum": 31,
+    "name": "Obadiah",
+    "abbrev": "OBA",
+    "slug": "obadiah",
+    "chapters": 1
+  },
+  {
+    "bookNum": 32,
+    "name": "Jonah",
+    "abbrev": "JON",
+    "slug": "jonah",
+    "chapters": 4
+  },
+  {
+    "bookNum": 33,
+    "name": "Micah",
+    "abbrev": "MIC",
+    "slug": "micah",
+    "chapters": 7
+  },
+  {
+    "bookNum": 34,
+    "name": "Nahum",
+    "abbrev": "NAH",
+    "slug": "nahum",
+    "chapters": 3
+  },
+  {
+    "bookNum": 35,
+    "name": "Habakkuk",
+    "abbrev": "HAB",
+    "slug": "habakkuk",
+    "chapters": 3
+  },
+  {
+    "bookNum": 36,
+    "name": "Zephaniah",
+    "abbrev": "ZEP",
+    "slug": "zephaniah",
+    "chapters": 3
+  },
+  {
+    "bookNum": 37,
+    "name": "Haggai",
+    "abbrev": "HAG",
+    "slug": "haggai",
+    "chapters": 2
+  },
+  {
+    "bookNum": 38,
+    "name": "Zechariah",
+    "abbrev": "ZEC",
+    "slug": "zechariah",
+    "chapters": 14
+  },
+  {
+    "bookNum": 39,
+    "name": "Malachi",
+    "abbrev": "MAL",
+    "slug": "malachi",
+    "chapters": 4
+  },
+  {
+    "bookNum": 40,
+    "name": "Matthew",
+    "abbrev": "MAT",
+    "slug": "matthew",
+    "chapters": 28
+  },
+  {
+    "bookNum": 41,
+    "name": "Mark",
+    "abbrev": "MRK",
+    "slug": "mark",
+    "chapters": 16
+  },
+  {
+    "bookNum": 42,
+    "name": "Luke",
+    "abbrev": "LUK",
+    "slug": "luke",
+    "chapters": 24
+  },
+  {
+    "bookNum": 43,
+    "name": "John",
+    "abbrev": "JHN",
+    "slug": "john",
+    "chapters": 21
+  },
+  {
+    "bookNum": 44,
+    "name": "Acts",
+    "abbrev": "ACT",
+    "slug": "acts",
+    "chapters": 28
+  },
+  {
+    "bookNum": 45,
+    "name": "Romans",
+    "abbrev": "ROM",
+    "slug": "romans",
+    "chapters": 16
+  },
+  {
+    "bookNum": 46,
+    "name": "1 Corinthians",
+    "abbrev": "1CO",
+    "slug": "1-corinthians",
+    "chapters": 16
+  },
+  {
+    "bookNum": 47,
+    "name": "2 Corinthians",
+    "abbrev": "2CO",
+    "slug": "2-corinthians",
+    "chapters": 13
+  },
+  {
+    "bookNum": 48,
+    "name": "Galatians",
+    "abbrev": "GAL",
+    "slug": "galatians",
+    "chapters": 6
+  },
+  {
+    "bookNum": 49,
+    "name": "Ephesians",
+    "abbrev": "EPH",
+    "slug": "ephesians",
+    "chapters": 6
+  },
+  {
+    "bookNum": 50,
+    "name": "Philippians",
+    "abbrev": "PHP",
+    "slug": "philippians",
+    "chapters": 4
+  },
+  {
+    "bookNum": 51,
+    "name": "Colossians",
+    "abbrev": "COL",
+    "slug": "colossians",
+    "chapters": 4
+  },
+  {
+    "bookNum": 52,
+    "name": "1 Thessalonians",
+    "abbrev": "1TH",
+    "slug": "1-thessalonians",
+    "chapters": 5
+  },
+  {
+    "bookNum": 53,
+    "name": "2 Thessalonians",
+    "abbrev": "2TH",
+    "slug": "2-thessalonians",
+    "chapters": 3
+  },
+  {
+    "bookNum": 54,
+    "name": "1 Timothy",
+    "abbrev": "1TI",
+    "slug": "1-timothy",
+    "chapters": 6
+  },
+  {
+    "bookNum": 55,
+    "name": "2 Timothy",
+    "abbrev": "2TI",
+    "slug": "2-timothy",
+    "chapters": 4
+  },
+  {
+    "bookNum": 56,
+    "name": "Titus",
+    "abbrev": "TIT",
+    "slug": "titus",
+    "chapters": 3
+  },
+  {
+    "bookNum": 57,
+    "name": "Philemon",
+    "abbrev": "PHM",
+    "slug": "philemon",
+    "chapters": 1
+  },
+  {
+    "bookNum": 58,
+    "name": "Hebrews",
+    "abbrev": "HEB",
+    "slug": "hebrews",
+    "chapters": 13
+  },
+  {
+    "bookNum": 59,
+    "name": "James",
+    "abbrev": "JAS",
+    "slug": "james",
+    "chapters": 5
+  },
+  {
+    "bookNum": 60,
+    "name": "1 Peter",
+    "abbrev": "1PE",
+    "slug": "1-peter",
+    "chapters": 5
+  },
+  {
+    "bookNum": 61,
+    "name": "2 Peter",
+    "abbrev": "2PE",
+    "slug": "2-peter",
+    "chapters": 3
+  },
+  {
+    "bookNum": 62,
+    "name": "1 John",
+    "abbrev": "1JN",
+    "slug": "1-john",
+    "chapters": 5
+  },
+  {
+    "bookNum": 63,
+    "name": "2 John",
+    "abbrev": "2JN",
+    "slug": "2-john",
+    "chapters": 1
+  },
+  {
+    "bookNum": 64,
+    "name": "3 John",
+    "abbrev": "3JN",
+    "slug": "3-john",
+    "chapters": 1
+  },
+  {
+    "bookNum": 65,
+    "name": "Jude",
+    "abbrev": "JUD",
+    "slug": "jude",
+    "chapters": 1
+  },
+  {
+    "bookNum": 66,
+    "name": "Revelation",
+    "abbrev": "REV",
+    "slug": "revelation",
+    "chapters": 22
+  }
+]

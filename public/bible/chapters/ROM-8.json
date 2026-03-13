@@ -1,0 +1,392 @@
+[
+  {
+    "id": "ROM.8.1",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 1,
+    "text": "{There is} therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+    "hash": "e5e0ec6d9e3227d94e41d73cae84e3875475ef57034c56ee7428abae825da8c5"
+  },
+  {
+    "id": "ROM.8.2",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 2,
+    "text": "For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.",
+    "hash": "3a23431672e6758aa33427e8367f93ff3aef9c253e28de7610bbd8059f29c91e"
+  },
+  {
+    "id": "ROM.8.3",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 3,
+    "text": "For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh: {for sin: or, by a sacrifice for sin}",
+    "hash": "0a089ee2f593fd33e1ce6d2e538e5a98441c4e56cff195e93382ca54bbe068d6"
+  },
+  {
+    "id": "ROM.8.4",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 4,
+    "text": "That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.",
+    "hash": "1b85eb2decd4c3d46f0de0e9001c4d53fdf0a944c29788398ba0a30d6af3002b"
+  },
+  {
+    "id": "ROM.8.5",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 5,
+    "text": "For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.",
+    "hash": "7267c94041eb436e4f06173b697bbcf2fb7866dbd79635b93ac8b8ff3ec0b725"
+  },
+  {
+    "id": "ROM.8.6",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 6,
+    "text": "For to be carnally minded {is} death; but to be spiritually minded {is} life and peace. {to be carnally...: Gr. the minding of the flesh} {to be spiritually...: Gr. the minding of the Spirit}",
+    "hash": "3238d48cda5e477b7f1c75c07f6533a9daa1eaa4f9d5b068278ff40cef580197"
+  },
+  {
+    "id": "ROM.8.7",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 7,
+    "text": "Because the carnal mind {is} enmity against God: for it is not subject to the law of God, neither indeed can be. {the carnal...: Gr. the minding of the flesh}",
+    "hash": "d57472c05681eba31c5d6e6685787459700feacfb05b7d87bcc0dc4379e964d9"
+  },
+  {
+    "id": "ROM.8.8",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 8,
+    "text": "So then they that are in the flesh cannot please God.",
+    "hash": "8525a27912e373931786baa93fa5c54460dc8bf53dbd87b72b52a44d3681ac58"
+  },
+  {
+    "id": "ROM.8.9",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 9,
+    "text": "But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.",
+    "hash": "832e658db231d3b6b9fe672a2d6f017227d3b323b9204c98919f72f8a12757c4"
+  },
+  {
+    "id": "ROM.8.10",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 10,
+    "text": "And if Christ {be} in you, the body {is} dead because of sin; but the Spirit {is} life because of righteousness.",
+    "hash": "76ba11e590183eec567ce524276bef0559f082496b61fcc1d1756ad0c440e8cb"
+  },
+  {
+    "id": "ROM.8.11",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 11,
+    "text": "But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you. {by: or, because of}",
+    "hash": "4f983a8e5f778f9be4b47a5423e83f9a44cb3692bc716a0190f225a164c9bf4b"
+  },
+  {
+    "id": "ROM.8.12",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 12,
+    "text": "Therefore, brethren, we are debtors, not to the flesh, to live after the flesh.",
+    "hash": "1d1802d0dd1ca1c05e97e8bf2f04a31a1407fe4c1a28452dfed4c737a09736b7"
+  },
+  {
+    "id": "ROM.8.13",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 13,
+    "text": "For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live.",
+    "hash": "515019b31b6eab1918584e845191bf2ab7f3d6e64e4809c4ee900aced0369444"
+  },
+  {
+    "id": "ROM.8.14",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 14,
+    "text": "For as many as are led by the Spirit of God, they are the sons of God.",
+    "hash": "53afbb8f9368fecf40fb22e105b2e94328935547ea70555ccd1d4152aa90f142"
+  },
+  {
+    "id": "ROM.8.15",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 15,
+    "text": "For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.",
+    "hash": "c044531918ccb11c797930bbf8bc9141d9a10fe354fb59fae13052ec0fc1d186"
+  },
+  {
+    "id": "ROM.8.16",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 16,
+    "text": "The Spirit itself beareth witness with our spirit, that we are the children of God:",
+    "hash": "40f86008080b01f360b7e64fad3615260b93e705020d8bfcbc400341647b292a"
+  },
+  {
+    "id": "ROM.8.17",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 17,
+    "text": "And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with {him}, that we may be also glorified together.",
+    "hash": "25d9036c74b6edc6a46ad5055074907054cf8da78afb56e3b8517b67ce070992"
+  },
+  {
+    "id": "ROM.8.18",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 18,
+    "text": "For I reckon that the sufferings of this present time {are} not worthy {to be compared} with the glory which shall be revealed in us.",
+    "hash": "bb99b1513faaeedf07680ba2d8c36547e7419dbb5336c71016fb902ade063e05"
+  },
+  {
+    "id": "ROM.8.19",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 19,
+    "text": "For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
+    "hash": "90a6be1c594e9f5e34c254bac7fe0fd116b23b0ebfa484d4a7ac0b5047b9d537"
+  },
+  {
+    "id": "ROM.8.20",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 20,
+    "text": "For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected {the same} in hope,",
+    "hash": "687ac9856b568b15994998b3d37a99f66a2a57c9ac427de21a53eb038a596b82"
+  },
+  {
+    "id": "ROM.8.21",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 21,
+    "text": "Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God.",
+    "hash": "906ca0ce2a76a803bb71989fd77c8b9736429cc48b3c0d7cbed03e52b409a90d"
+  },
+  {
+    "id": "ROM.8.22",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 22,
+    "text": "For we know that the whole creation groaneth and travaileth in pain together until now. {the...: or, every creature}",
+    "hash": "45496499e543ff4e256b0c4e5f244edfb2547f069a188933d2e13c810a83a673"
+  },
+  {
+    "id": "ROM.8.23",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 23,
+    "text": "And not only {they}, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, {to wit}, the redemption of our body.",
+    "hash": "afb11767a3da720b95c08dc02cbded8591dd6c97d6bb56ae147fa28d228b6c0b"
+  },
+  {
+    "id": "ROM.8.24",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 24,
+    "text": "For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?",
+    "hash": "0b384fd40f6798b370f0cb3027a16eefeeddf783a2d43dcbfbc1a57c19e645b7"
+  },
+  {
+    "id": "ROM.8.25",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 25,
+    "text": "But if we hope for that we see not, {then} do we with patience wait for {it}.",
+    "hash": "e30fc2606a4e2e4e01d83e0483769961db6762aa34f25936e411bf1e7625fcff"
+  },
+  {
+    "id": "ROM.8.26",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 26,
+    "text": "Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.",
+    "hash": "df6db8ba99a8258289cfa217a81c5494263831e9d21f9bd86806526fec336009"
+  },
+  {
+    "id": "ROM.8.27",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 27,
+    "text": "And he that searcheth the hearts knoweth what {is} the mind of the Spirit, because he maketh intercession for the saints according to {the will of} God. {because: or, that}",
+    "hash": "22d2dda19f851e644be8e834cdcedb67e8ab72a2ae6cc1395f4ac0a78b4b072d"
+  },
+  {
+    "id": "ROM.8.28",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 28,
+    "text": "And we know that all things work together for good to them that love God, to them who are the called according to {his} purpose.",
+    "hash": "b2fe37151d053dd3c46fb8e381b3c27e8be0501b901fff0a72597ebab0936788"
+  },
+  {
+    "id": "ROM.8.29",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 29,
+    "text": "For whom he did foreknow, he also did predestinate {to be} conformed to the image of his Son, that he might be the firstborn among many brethren.",
+    "hash": "5826e00a50c8b80b60af32dba1021318cd10f406a2f3f10c399dcef69955fe52"
+  },
+  {
+    "id": "ROM.8.30",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 30,
+    "text": "Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.",
+    "hash": "07a9f9816341b58f862c79980eb4d7f441c3e68b5d335ce9fe3c3edfe940a5a8"
+  },
+  {
+    "id": "ROM.8.31",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 31,
+    "text": "What shall we then say to these things? If God {be} for us, who {can be} against us?",
+    "hash": "0fecbd0bf3059cb4eb919507c92237942d139ab2dc538955521fc7055ff362af"
+  },
+  {
+    "id": "ROM.8.32",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 32,
+    "text": "He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?",
+    "hash": "c346d6d2bf5f3cd48f13b6e10a8119b39420ae13597671d7e4b17c0336cca4d5"
+  },
+  {
+    "id": "ROM.8.33",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 33,
+    "text": "Who shall lay any thing to the charge of God's elect? {It is} God that justifieth.",
+    "hash": "dc396178f2cbfff2c832e0d2b33a9439727bc5cc81ceacaa8ef7e141d79d5e87"
+  },
+  {
+    "id": "ROM.8.34",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 34,
+    "text": "Who {is} he that condemneth? {It is} Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.",
+    "hash": "5f4f27d0378a58f2e7d5b15bfe8738e9578f85b8e2cbb4c2985fc36b9d22bcbe"
+  },
+  {
+    "id": "ROM.8.35",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 35,
+    "text": "Who shall separate us from the love of Christ? {shall} tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?",
+    "hash": "2893547cdc4fb2c1f33686ff62c6e30a9ecd3dbfcdc92674a546e4437438aaa1"
+  },
+  {
+    "id": "ROM.8.36",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 36,
+    "text": "As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.",
+    "hash": "a8fb4f9eeb35dd12b5d8cea346771595a7b1c62149b272fd6223c75a3fd5ac1c"
+  },
+  {
+    "id": "ROM.8.37",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 37,
+    "text": "Nay, in all these things we are more than conquerors through him that loved us.",
+    "hash": "1def17602579e85f8f958de047d55abc1e83ce66581460a89c0f54c972c6b534"
+  },
+  {
+    "id": "ROM.8.38",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 38,
+    "text": "For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,",
+    "hash": "9995749f781e73bba6986c8a710ce1b17fc34cd0fffc0d858b1df49b975f43a2"
+  },
+  {
+    "id": "ROM.8.39",
+    "book": "Romans",
+    "bookNum": 45,
+    "bookAbbrev": "ROM",
+    "chapter": 8,
+    "verse": 39,
+    "text": "Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.",
+    "hash": "e458a15e80eafe7500fb4e78ffd86cb451dbcf8db5f2eb146990cf9fb39e0abc"
+  }
+]
