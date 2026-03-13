@@ -1,6 +1,88 @@
 import { NextRequest, NextResponse } from 'next/server'
 
-const GOOGLE_PLACES_API_KEY = process.env.GOOGLE_PLACES_API_KEY
+// Free tier: Nominatim (OpenStreetMap) for geocoding + Overpass API for church search
+// No API key, no billing required. Both are completely free and open.
+
+function getDistanceMiles(lat1: number, lon1: number, lat2: number, lon2: number): number {
+  const R = 3959
+  const dLat = (lat2 - lat1) * Math.PI / 180
+  const dLon = (lon2 - lon1) * Math.PI / 180
+  const a =
+    Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+    Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+    Math.sin(dLon / 2) * Math.sin(dLon / 2)
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a))
+}
+
+async function geocodeZip(zip: string): Promise<{ lat: number; lng: number } | null> {
+  try {
+    const url = `https://nominatim.openstreetmap.org/search?postalcode=${encodeURIComponent(zip)}&country=us&format=json&limit=1`
+    const res = await fetch(url, {
+      headers: { 'User-Agent': 'FaithCompass/1.0 (faithcompass.app)' },
+      signal: AbortSignal.timeout(8000),
+    })
+    const data = await res.json()
+    if (!data.length) return null
+    return { lat: parseFloat(data[0].lat), lng: parseFloat(data[0].lon) }
+  } catch {
+    return null
+  }
+}
+
+async function geocodeCity(city: string): Promise<{ lat: number; lng: number } | null> {
+  try {
+    const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(city)}&format=json&limit=1&countrycodes=us`
+    const res = await fetch(url, {
+      headers: { 'User-Agent': 'FaithCompass/1.0 (faithcompass.app)' },
+      signal: AbortSignal.timeout(8000),
+    })
+    const data = await res.json()
+    if (!data.length) return null
+    return { lat: parseFloat(data[0].lat), lng: parseFloat(data[0].lon) }
+  } catch {
+    return null
+  }
+}
+
+interface OverpassElement {
+  id: number
+  lat?: number
+  lon?: number
+  center?: { lat: number; lon: number }
+  tags?: Record<string, string>
+}
+
+async function findChurchesNearby(
+  lat: number,
+  lng: number,
+  radiusMeters: number,
+  denomination?: string
+): Promise<OverpassElement[]> {
+  // Overpass QL query: find all amenity=place_of_worship within radius
+  let denominationFilter = ''
+  if (denomination && denomination !== 'all') {
+    denominationFilter = `["denomination"="${denomination}"]`
+  }
+
+  const query = `
+    [out:json][timeout:15];
+    (
+      node["amenity"="place_of_worship"]["religion"="christian"]${denominationFilter}(around:${radiusMeters},${lat},${lng});
+      way["amenity"="place_of_worship"]["religion"="christian"]${denominationFilter}(around:${radiusMeters},${lat},${lng});
+    );
+    out center tags;
+  `
+
+  const res = await fetch('https://overpass-api.de/api/interpreter', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body: `data=${encodeURIComponent(query)}`,
+    signal: AbortSignal.timeout(15000),
+  })
+
+  const data = await res.json()
+  return (data.elements || []) as OverpassElement[]
+}
 
 export async function GET(req: NextRequest) {
   try {
@@ -8,11 +90,8 @@ export async function GET(req: NextRequest) {
     const zip = searchParams.get('zip')
     const lat = searchParams.get('lat')
     const lng = searchParams.get('lng')
-    const denomination = searchParams.get('denomination')
-
-    if (!GOOGLE_PLACES_API_KEY) {
-      return NextResponse.json({ error: 'Google Places API key not configured' }, { status: 500 })
-    }
+    const city = searchParams.get('city')
+    const denomination = searchParams.get('denomination') || undefined
 
     let locationLat: number
     let locationLng: number
@@ -21,72 +100,65 @@ export async function GET(req: NextRequest) {
       locationLat = parseFloat(lat)
       locationLng = parseFloat(lng)
     } else if (zip?.trim()) {
-      const geocodeUrl = `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(zip)}&key=${GOOGLE_PLACES_API_KEY}`
-      const geoRes = await fetch(geocodeUrl)
-      const geoData = await geoRes.json()
-      if (!geoData.results?.length) {
-        return NextResponse.json({ error: 'Invalid zip code' }, { status: 400 })
-      }
-      locationLat = geoData.results[0].geometry.location.lat
-      locationLng = geoData.results[0].geometry.location.lng
+      const geo = await geocodeZip(zip.trim())
+      if (!geo) return NextResponse.json({ error: 'Zip code not found' }, { status: 400 })
+      locationLat = geo.lat
+      locationLng = geo.lng
+    } else if (city?.trim()) {
+      const geo = await geocodeCity(city.trim())
+      if (!geo) return NextResponse.json({ error: 'City not found' }, { status: 400 })
+      locationLat = geo.lat
+      locationLng = geo.lng
     } else {
-      return NextResponse.json({ error: 'Zip code or coordinates required' }, { status: 400 })
-    }
-
-    let keyword = 'church'
-    if (denomination) {
-      keyword = `${denomination} church`
+      return NextResponse.json({ error: 'Zip code, city, or coordinates required' }, { status: 400 })
     }
 
     // 8047m = 5 miles
-    const placesUrl = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=${locationLat},${locationLng}&radius=8047&type=church&keyword=${encodeURIComponent(keyword)}&key=${GOOGLE_PLACES_API_KEY}`
-    const placesRes = await fetch(placesUrl)
-    const placesData = await placesRes.json()
+    const elements = await findChurchesNearby(locationLat, locationLng, 8047, denomination)
 
-    const churches = (placesData.results || []).slice(0, 10).map((place: Record<string, unknown>) => {
-      const placeLocation = (place.geometry as Record<string, unknown>)?.location as { lat: number; lng: number }
-      const distance = placeLocation
-        ? getDistanceMiles(locationLat, locationLng, placeLocation.lat, placeLocation.lng)
-        : null
+    const churches = elements
+      .map((el) => {
+        const elLat = el.lat ?? el.center?.lat
+        const elLng = el.lon ?? el.center?.lon
+        const distance = elLat && elLng
+          ? Math.round(getDistanceMiles(locationLat, locationLng, elLat, elLng) * 10) / 10
+          : null
 
-      return {
-        id: place.place_id as string,
-        name: place.name as string,
-        address: place.vicinity as string,
-        rating: place.rating as number | undefined,
-        totalRatings: place.user_ratings_total as number | undefined,
-        openNow: (place.opening_hours as Record<string, unknown>)?.open_now as boolean | undefined,
-        location: placeLocation,
-        distance: distance ? Math.round(distance * 10) / 10 : null,
-        website: null,
-        photoReference: (place.photos as Array<Record<string, unknown>>)?.[0]?.photo_reference as string | undefined,
-      }
-    })
+        const tags = el.tags || {}
+        const name = tags.name || tags['name:en'] || 'Church'
+        const address = [
+          tags['addr:housenumber'],
+          tags['addr:street'],
+          tags['addr:city'],
+          tags['addr:state'],
+        ].filter(Boolean).join(' ') || tags['addr:full'] || ''
 
-    // Sort by distance
-    churches.sort((a: { distance: number | null }, b: { distance: number | null }) =>
-      (a.distance ?? 999) - (b.distance ?? 999)
-    )
+        return {
+          id: String(el.id),
+          name,
+          address,
+          denomination: tags.denomination || tags.religion || null,
+          website: tags.website || tags['contact:website'] || null,
+          phone: tags.phone || tags['contact:phone'] || null,
+          openNow: null,
+          rating: null,
+          location: elLat && elLng ? { lat: elLat, lng: elLng } : null,
+          distance,
+          source: 'openstreetmap',
+        }
+      })
+      .filter(c => c.name !== 'Church' || c.address)  // filter unnamed/no-address
+      .sort((a, b) => (a.distance ?? 999) - (b.distance ?? 999))
+      .slice(0, 15)
 
     return NextResponse.json({
       churches,
       total: churches.length,
       center: { lat: locationLat, lng: locationLng },
+      source: 'OpenStreetMap + Overpass API',
     })
   } catch (err) {
     console.error('Churches API error:', err)
     return NextResponse.json({ error: 'Failed to search churches' }, { status: 500 })
   }
-}
-
-function getDistanceMiles(lat1: number, lon1: number, lat2: number, lon2: number): number {
-  const R = 3959 // Earth radius in miles
-  const dLat = (lat2 - lat1) * Math.PI / 180
-  const dLon = (lon2 - lon1) * Math.PI / 180
-  const a =
-    Math.sin(dLat / 2) * Math.sin(dLat / 2) +
-    Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
-    Math.sin(dLon / 2) * Math.sin(dLon / 2)
-  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a))
-  return R * c
 }
