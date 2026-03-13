@@ -285,7 +285,7 @@ export default function Home() {
             ))}
           </div>
           <p className="text-center text-[#9CA3AF] text-xs mt-4">
-            The $7.77 price is intentional. 777 = divine completion. ♃
+            The $7.77 price is intentional. 777 = divine completion.
           </p>
         </div>
       </section>
