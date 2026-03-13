@@ -6,6 +6,7 @@ import { signIn, useSession } from 'next-auth/react'
 import Header from '@/components/Header'
 import LimitGate from '@/components/LimitGate'
 import ConsentModal from '@/components/ConsentModal'
+import CompassVoicePlayer from '@/components/CompassVoicePlayer'
 import { bookNameToSlug } from '@/lib/bible'
 
 interface BibleVerse {
@@ -327,11 +328,18 @@ function CompassContent() {
   const hasAutoSubmitted = useRef(false)
   const LIMIT = 3
 
-  // Voice state
+  // Voice state (speech recognition)
   const [listening, setListening] = useState(false)
   const [voiceSupported, setVoiceSupported] = useState(false)
   const [transcript, setTranscript] = useState('')
   const recognitionRef = useRef<ISpeechRecognition | null>(null)
+
+  // TTS voice preference
+  const [savedVoice, setSavedVoice] = useState(() =>
+    typeof window !== 'undefined'
+      ? localStorage.getItem('fc_voice_id') || 'onyx'
+      : 'onyx'
+  )
 
   // ── Consent check helper ──────────────────────────────────────────────────
   const checkConsentAndSubmit = useCallback(async (q: string) => {
@@ -651,6 +659,17 @@ function CompassContent() {
             </div>
             <p className="text-white/80 text-sm leading-relaxed whitespace-pre-wrap">{answer}</p>
           </div>
+        )}
+
+        {answer && (
+          <CompassVoicePlayer
+            text={answer}
+            defaultVoice={savedVoice}
+            onVoiceChange={(v) => {
+              setSavedVoice(v)
+              localStorage.setItem('fc_voice_id', v)
+            }}
+          />
         )}
 
         {verses.length > 0 && (
