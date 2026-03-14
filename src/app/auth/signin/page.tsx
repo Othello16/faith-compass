@@ -4,9 +4,21 @@ import { useSearchParams } from 'next/navigation'
 import Link from 'next/link'
 import { Suspense } from 'react'
 
+const ERROR_MESSAGES: Record<string, string> = {
+  OAuthCallback: 'Sign-in failed during Google callback. Please try again.',
+  OAuthSignin: 'Could not start Google sign-in. Please try again.',
+  OAuthCreateAccount: 'Could not create account via Google. Please try again.',
+  Callback: 'An error occurred during sign-in. Please try again.',
+  AccessDenied: 'Access was denied. Please try again.',
+  Verification: 'Verification link expired. Please sign in again.',
+  Default: 'An unexpected error occurred. Please try again.',
+}
+
 function SignInContent() {
   const searchParams = useSearchParams()
   const callbackUrl = searchParams.get('callbackUrl') || '/compass'
+  const error = searchParams.get('error')
+  const errorMessage = error ? (ERROR_MESSAGES[error] || ERROR_MESSAGES.Default) : null
 
   return (
     <main className="min-h-screen bg-white text-[#0A0A0A] flex items-center justify-center">
@@ -20,6 +32,16 @@ function SignInContent() {
           <h1 className="text-xl font-bold text-[#0A0A0A] mb-1">Welcome Back</h1>
           <p className="text-[#374151] text-sm">Sign in to continue your faith journey</p>
         </div>
+
+        {/* Error Banner */}
+        {errorMessage && (
+          <div className="mb-4 p-3 bg-red-50 border border-red-200 rounded-xl text-sm text-red-700 text-center">
+            {errorMessage}
+            {error === 'OAuthCallback' && (
+              <p className="mt-1 text-xs text-red-500">Error code: {error}</p>
+            )}
+          </div>
+        )}
 
         {/* Social Login Buttons */}
         <div className="bg-[#FAFAF8] border border-[#E5E7EB] rounded-2xl p-6 space-y-3">
